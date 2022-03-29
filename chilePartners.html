@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="./libs/d3.js"></script>
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
+    <title>Chile - Trade Partners</title>
+</head>
+
+<body>
+    <div id="header" style="width: 100%; margin: auto;">
+    <h1 style="text-align: center">Chile - Trade Partners 2019</h1>
+    </div>
+    <div id="viz" style="width: 100%; text-align: center;">
+    </div>
+
+    <script>
+        const dataFile = "../data/chile_2019_trade.json"
+
+        // load both files
+        /*
+        Promise.all([
+            d3.json(dataFile)
+        ]).then(datasets => {
+         */
+        d3.json(dataFile).then(tradeDataOrig => {
+            //let tradeDataOrig = datasets[0];
+
+            //sort bars based on value
+            tradeData = tradeDataOrig.sort(function (a, b) {
+                return d3.ascending(+a.imports, +b.imports);
+            })
+
+            //let tradeData = d3.map(tradeDataOrig, d => d)
+            const exportValues = d3.map(tradeData, d => +d.exports)
+            const importValues = d3.map(tradeData, d => +d.imports)
+            const allValues = exportValues.concat(importValues)
+            const countries = d3.map(tradeData, d => d.country)
+
+            const fullWidth = 400
+            const fullHeight = 1200
+
+            // originally based on https://bl.ocks.org/hrecht/f84012ee860cb4da66331f18d588eee3
+
+
+            //set up svg using margin conventions - we'll need plenty of room on the left for labels
+            const margins = { top: 15, right: 25, bottom: 15, left: 60 };
+
+            const width = fullWidth - margins.left - margins.right
+            const height = fullHeight - margins.top - margins.bottom
+
+            const svg = d3.select("#viz")
+                .append("svg")
+                .attr("width", fullWidth)
+                .attr("height", fullHeight)
+                .attr("viewbox", "0 0 400 1200")
+                .append("g")
+                .attr("transform", "translate(" + margins.left + "," + margins.top + ")");
+
+            const xScale = d3.scaleLinear()
+                .range([0, width])
+                //.domain([0, d3.max(tradeData, function (d) { return d.imports; })]);
+                .domain([0, d3.max(allValues)])
+
+            const yScale = d3.scaleBand()
+                .domain(countries)
+                .range([height, 0])
+
+            const yAxis = svg.append("g")
+                //.attr("transform",`translate(${margins.left},${0})`)
+                .call(d3.axisLeft().scale(yScale).tickSize(0))
+
+            let bars = svg.selectAll(".bar")
+                .data(tradeData)
+                .enter()
+                .append("g")
+
+            // Add bars to show imports
+            const importBarHeight = 10;
+            bars.append("rect")
+                .attr("y", function (d) { return yScale(d.country); })
+                .attr("height", importBarHeight)
+                .attr("x", 0)
+                .attr("width", function (d) { return xScale(d.imports); })
+                .attr("fill","lightblue")
+                .attr("stroke","steelblue")
+                .attr("stroke-width",.8)
+
+            // Add bars to show exports
+            const exportBarHeight = 4;
+            bars.append("rect")
+                .attr("y", function (d) { return yScale(d.country) + 3; })
+                .attr("height", exportBarHeight)
+                .attr("x", 0)
+                .attr("width", function (d) { return xScale(d.exports); })
+                .attr("fill","red")
+                .attr("stroke","black")
+                .attr("stroke-width",.8)
+        })
+    </script>
+</body>
+
+</html>

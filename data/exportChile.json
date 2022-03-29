@@ -1,0 +1,22 @@
+[
+{"continent": "America", "country": "Chile", "type": "exports", "year":2000, "hectolitres": 2647},
+{"continent": "America", "country": "Chile", "type": "exports", "year":2001, "hectolitres": 3089},
+{"continent": "America", "country": "Chile", "type": "exports", "year":2002, "hectolitres": 3553},
+{"continent": "America", "country": "Chile", "type": "exports", "year":2003, "hectolitres": 4029},
+{"continent": "America", "country": "Chile", "type": "exports", "year":2004, "hectolitres": 4740},
+{"continent": "America", "country": "Chile", "type": "exports", "year":2005, "hectolitres": 4209},
+{"continent": "America", "country": "Chile", "type": "exports", "year":2006, "hectolitres": 4740},
+{"continent": "America", "country": "Chile", "type": "exports", "year":2007, "hectolitres": 6100},
+{"continent": "America", "country": "Chile", "type": "exports", "year":2008, "hectolitres": 5885},
+{"continent": "America", "country": "Chile", "type": "exports", "year":2009, "hectolitres": 6931},
+{"continent": "America", "country": "Chile", "type": "exports", "year":2010, "hectolitres": 7321},
+{"continent": "America", "country": "Chile", "type": "exports", "year":2011, "hectolitres": 6600},
+{"continent": "America", "country": "Chile", "type": "exports", "year":2012, "hectolitres": 7439},
+{"continent": "America", "country": "Chile", "type": "exports", "year":2013, "hectolitres": 8789},
+{"continent": "America", "country": "Chile", "type": "exports", "year":2014, "hectolitres": 8066},
+{"continent": "America", "country": "Chile", "type": "exports", "year":2015, "hectolitres": 8768},
+{"continent": "America", "country": "Chile", "type": "exports", "year":2016, "hectolitres": 9076},
+{"continent": "America", "country": "Chile", "type": "exports", "year":2017, "hectolitres": 9412},
+{"continent": "America", "country": "Chile", "type": "exports", "year":2018, "hectolitres": 8427},
+{"continent": "America", "country": "Chile", "type": "exports", "year":2019, "hectolitres": 8690}
+]

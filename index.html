@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="./libs/d3.js"></script>
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
+    <title>Vinography</title>
+    <style>
+        #tooltip {
+            position: absolute;
+            opacity: 0;
+            top: 0;
+            left: 0;
+            width: auto;
+            padding: 10px;
+            background: white;
+            font-family: sans-serif;
+            font-size: medium;
+            border-radius: 2px;
+            line-height: 1;
+        }
+
+        #infobox {
+            position: absolute;
+            right: 20px;
+            opacity: 0;
+            width: auto;
+            padding: 10px;
+            margin: 10px;
+            background: lightgray;
+            font-family: sans-serif;
+            font-size: medium;
+            border-radius: 2px;
+            line-height: 1;
+            z-index: 10;
+        }
+        
+        path {
+            stroke-width: .5px;
+            stroke: black
+        }
+        
+        path:hover {
+            opacity: .6;
+            stroke: black;
+            stroke-width: 4px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="header" style="width: 100%; margin: auto;">
+    <h1 style="text-align: center">World Wine Production and Trade 2019</h1>
+    <!-- <h3 style="text-align: center">Thomas Briggs</h3> -->
+    </div>
+    <div style="width: 80%; margin: auto;">
+        <svg width="800" height="300"></svg>
+    </div>
+
+
+    <div id="tooltip"></div>
+    <div id="infobox"></div>
+    <script>
+        // dimension of the page
+        const window_dims = {
+            width: window.innerWidth,
+            height: window.innerHeight
+        };
+        const margin = window_dims.width * .2
+
+        const worldMap = "https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson"
+        // const popData = "https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world_population.csv"
+        const popData = "../data/wineProd.csv"
+
+        // load both files
+        Promise.all([
+            d3.json(worldMap),
+            d3.csv(popData)
+        ]).then(data => {
+            // topology data
+            const geojson = data[0];
+            // population data
+            const pop_csv = data[1];
+
+            popDict = {}
+            pop_csv.forEach(d => popDict[d.code] = d)
+
+            //const popValues = d3.map(pop_csv, d => +d.pop)
+            const popValues = d3.map(pop_csv, d => +d.hectolitres)
+
+            // var colorInterpolator = d3.interpolateRgbBasis(["blue", "steelblue", "green", "purple", "red"])
+            var color = d3.scaleSequential(d3.interpolateTurbo).domain(d3.extent(popValues))
+
+            let svg = d3.select("svg")
+            const width = +svg.attr("width")
+            const height = +svg.attr("height")
+
+            var projection = d3.geoMercator()
+                .scale(80)
+                .center([0,20])
+                .translate([width / 2, height / 2]);
+
+            const geoPath_generator = d3.geoPath()
+                // .projection(d3.geoMercator().fitSize([window_dims.width - margin, window_dims.height - margin], geojson))
+                .projection(projection)
+
+            /*
+            var colorScale = d3.scaleThreshold()
+                .domain([100000, 1000000, 10000000, 30000000, 100000000, 500000000])
+                .range(d3.schemeBlues[7]);
+             */
+
+            // if the data is scaled using linear scale
+            let linearScale = d3.scaleLinear()
+                .domain(d3.extent(popValues))
+
+            const tooltip = d3.select("#tooltip");
+            const infobox = d3.select("#infobox");
+
+            // Append a SVG element to body, then append a path for the boundaries
+            /* let svg = d3.select("body").append("svg")
+                // I think these should relate to window_dims
+                .attr("width", "1000")
+                .attr("height", "800")
+                .attr("margin", "auto")
+             */
+
+            svg.selectAll("path")
+                .data(geojson.features)
+                .enter()
+                .append("path")
+                .attr("d", d => geoPath_generator(d))
+                .attr("fill", function(d) {
+                    //thisPop = (popDict[d.id] ? popDict[d.id].pop : 0)
+                    thisPop = (popDict[d.id] ? popDict[d.id].hectolitres : 0)
+                    //return colorInterpolator(linearScale(thisPop))
+                    return color(thisPop)
+                })
+                /*
+                .on("mouseenter", (m, d) => {
+                    tooltip.transition()
+                        .duration(200)
+                        .style("opacity", .9)
+                    tooltip.html(d['properties']['TOWN'])
+                        .style("left", m.clientX + "px")
+                        .style("top", m.clientY + "px");
+
+                    let thisCountyFIPS = d['properties']['FIPS_STCO']
+
+                    let paths = d3.select("body").select("svg").selectAll("path")
+                    // Highlight all the towns in this county
+                    paths
+                        .filter(function(p) { return p['properties']['FIPS_STCO'] === d['properties']['FIPS_STCO'] })
+                        .attr('style', "stroke-width: 2px")
+                        .attr('fill', 'none')
+                    paths
+                        .filter(function(p) { return p['properties']['FIPS_STCO'] === d['properties']['FIPS_STCO'] })
+                        .attr('style', "stroke-width: 0px")
+                        .attr('fill', 'firebrick')
+
+
+                    // Make sure none of the other towns are highlighted
+                    paths
+                        .filter(function(p) { return p['properties']['FIPS_STCO'] !== d['properties']['FIPS_STCO'] })
+                        .attr('style', "stroke-width: 0.5px")
+                        .attr("fill", d => colorInterpolator(inearScale(d['properties'][datasetName])))
+
+                    let infotxt = countyNames[thisCountyFIPS] + " County";
+                    let numTowns = 0;
+                    let totalPopulation = 0;
+                    geojson.features.forEach(c => {
+                        if(c['properties']['FIPS_STCO'] === thisCountyFIPS) {
+                            numTowns++
+                            totalPopulation += c['properties']['POP2010']
+                        }
+                    })
+                    infotxt += "<br/>" + numTowns + " towns"
+                    infotxt += "<br/>" + "2010 Total population: " + totalPopulation;
+
+                    infobox.transition()
+                        .duration(200)
+                        .style("opacity", .9)
+                    infobox.html(infotxt)
+                })
+                .on("mousemove", (m, d) => {
+                    tooltip.style("opacity", .9)
+                    infobox.style("opacity", .9)
+                })
+                .on("mouseout", (m, d) => {
+                    tooltip.transition()
+                        .duration(200)
+                        .style("opacity", 0)
+                    infobox.transition()
+                        .duration(200)
+                        .style("opacity", 0)
+                })
+                 */
+        })
+    </script>
+</body>
+
+</html>

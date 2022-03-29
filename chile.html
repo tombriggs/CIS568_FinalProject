@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="./libs/d3.js"></script>
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
+    <title>Chile</title>
+    <style>
+        path:hover {
+            opacity: .6;
+            stroke: black;
+            stroke-width: 4px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="header" style="width: 100%; margin: auto;">
+    <h1 style="text-align: center">Wine Production and Trade - Chile</h1>
+    </div>
+    <div id="viz" style="width: 100%; text-align: center;">
+    </div>
+
+    <script>
+        const importDataFile = "../data/importChile.json"
+        const exportDataFile = "../data/exportChile.json"
+        const prodDataFile = "../data/chileProduction.json"
+
+        // load both files
+        Promise.all([
+            d3.json(importDataFile),
+            d3.json(exportDataFile),
+            d3.json(prodDataFile)
+        ]).then(data => {
+            const importData = data[0];
+            const exportData = data[1];
+            const prodData = data[2];
+
+            const exportValues = d3.map(exportData, d => +d.hectolitres)
+            const importValues = d3.map(importData, d => +d.hectolitres)
+            const prodValues = d3.map(prodData, d => +d.hectolitres)
+            const allValues = importValues.concat(exportValues).concat(prodValues)
+            const years = d3.map(importData, d => +d.year)
+
+            const width = 800
+            const height = 400
+
+            const margin = {top: 20, left: 50, right: 20, bottom: 20}
+            const svg = d3.select("#viz")
+                .append("svg")
+                .attr("width", width)
+                .attr("height", height)
+
+            const xScale = d3.scaleBand()
+                .domain(years)
+                .rangeRound([margin.left,width-margin.right])
+
+            const yScale = d3.scaleLinear()
+                .domain(d3.extent(allValues))
+                .range([height-margin.bottom,margin.top])
+
+            // Draw Axes
+            const xAxis = svg.append("g")
+                .attr("transform",`translate(${0},${height-margin.bottom})`)
+                .call(d3.axisBottom().scale(xScale))
+            const yAxis = svg.append("g")
+                .attr("transform",`translate(${margin.left},${0})`)
+                .call(d3.axisLeft().scale(yScale))
+
+            // Bind data, and draw rectangles
+            const barWidth = 10;
+            const importBars = svg.selectAll('.rects')
+                .data(importData)
+                .enter()
+                .append("rect")
+                .attr("x",d=>xScale(d.year) + xScale.bandwidth()/2 - barWidth)
+                .attr("y",d=>yScale(d.hectolitres))
+                .attr("width",barWidth)
+                .attr("height",d=>height-margin.bottom- yScale(d.hectolitres))
+                .attr("fill","blue")
+                .attr("stroke","steelblue")
+                .attr("stroke-width",.8)
+            const exportBars = svg.selectAll('.rects')
+                .data(exportData)
+                .enter()
+                .append("rect")
+                .attr("x",d=>xScale(d.year) + xScale.bandwidth()/2)
+                .attr("y",d=>yScale(d.hectolitres))
+                .attr("width",barWidth)
+                .attr("height",d=>height-margin.bottom- yScale(d.hectolitres))
+                .attr("fill","red")
+                .attr("stroke","#b48246")
+                .attr("stroke-width",.8)
+
+            // Use line generator to make path element attributes (d)
+            const lineGen = d3.line()
+                .x(d=>xScale(d.year))
+                .y(d=>yScale(d.hectolitres))
+
+            // Bind data, and add path element with attributes
+            const lineChart = svg.selectAll('.Line')
+                .data([prodData])
+                .enter()
+                .append("path")
+                .attr("d",d=>lineGen(d))
+                .attr("fill","none")
+                .attr("stroke","green")
+                .attr("stroke-width", 1.5)
+        })
+    </script>
+</body>
+
+</html>

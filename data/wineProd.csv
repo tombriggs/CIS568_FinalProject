@@ -1,0 +1,70 @@
+Country,Continent,hectolitres,code
+Albania,Europe,160,ALB
+Algeria,Africa,600,DZA
+Argentina,America,13019,ARG
+Armenia,Asia,127,ARM
+Australia,Oceania,11970,AUS
+Austria,Europe,2465,AUT
+Azerbaijan,Asia,157,AZE
+Belarus,Europe,320,BLR
+Belgium,Europe,15,BEL
+"Bolivia, Plurinational State",America,67,BOL
+Bosnia And Herzegovina,Europe,55,BIH
+Brazil,America,2176,BRA
+Bulgaria,Europe,918,BGR
+Canada,America,703,CAN
+Chile,America,11939,CHL
+China,Asia,7824,CHN
+Croatia,Europe,704,HRV
+Cuba,America,114,CUB
+Cyprus,Asia,100,CYP
+Czech Republic,Europe,492,CZE
+Egypt,Africa,57,EGY
+Estonia,Europe,110,EST
+Ethiopia,Africa,7,ETH
+France,Europe,42193,FRA
+Georgia,Asia,1760,GEO
+Germany,Europe,8218,DEU
+Greece,Europe,2425,GRC
+Hungary,Europe,2726,HUN
+India,Asia,180,IND
+Israel,Europe,200,ISR
+Italy,Europe,47533,ITA
+Japan,Asia,798,JPN
+Kazakhstan,Asia,436,KAZ
+Kyrgyzstan,Asia,21,KGZ
+Latvia,Europe,27,LVA
+Lebanon,Asia,100,LBN
+Lithuania,Europe,47,LTU
+Luxembourg,Europe,76,LUX
+Madagascar,Africa,80,MDG
+Malta,Europe,13,MLT
+Mexico,America,406,MEX
+"Moldova, Republic,"Europe,1460,MDA
+Montenegro,Europe,144,MNE
+Morocco,Africa,408,MAR
+New Zealand,Oceania,2974,NZL
+Panama,America,1,PAN
+Paraguay,America,19,PRY
+Peru,America,820,PER
+Portugal,Europe,6527,PRT
+Republic Of North Macedonia,Europe,525,MKD
+Romania,Europe,3808,ROU
+Russian Federation,Europe,4620,RUS
+Serbia,Europe,705,SRB
+Slovakia,Europe,319,SVK
+Slovenia,Europe,758,SVN
+South Africa,Africa,9705,ZAF
+Spain,Europe,33676,ESP
+Switzerland,Europe,979,CHE
+Syrian Arab Republic,Asia,1,SYR
+Tajikistan,Asia,2,TJK
+Tunisia,Africa,320,TUN
+Turkey,Asia,725,TUR
+Turkmenistan,Asia,387,TKM
+Ukraine,Europe,990,UKR
+United Kingdom,Europe,79,GBR
+United States,America,25562,USA
+Uruguay,America,585,URY
+Uzbekistan,Asia,236,UZB
+Zimbabwe,Africa,20,ZWE
