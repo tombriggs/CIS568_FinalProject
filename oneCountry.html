@@ -29,21 +29,34 @@
         </tr>
     </table>
     <script>
-        const importDataFile = "data/importChile.json"
         const exportDataFile = "data/exportChile.json"
         const prodDataFile = "data/chileProduction.json"
         const tradeDataFile = "data/chile_2019_trade.json"
+        const OIV_data = "data/OIV_data.csv"
 
         // load both files
         Promise.all([
-            d3.json(importDataFile),
-            d3.json(exportDataFile),
-            d3.json(prodDataFile),
-            d3.json(tradeDataFile)
+            d3.json(tradeDataFile),
+            d3.dsv(';', OIV_data)
         ]).then(data => {
-            const importData = data[0];
-            const exportData = data[1];
-            const prodData = data[2];
+            const OIVData = data[1]
+
+            const countryName = 'Chile'
+            let countryData = OIVData.filter(d => d.Country === countryName)
+            let importData2 = countryData.filter(d => d.Series === 'Wine imports')
+            let exportData2 = countryData.filter(d => d.Series === 'Wine exports')
+            let prodData2 = countryData.filter(d => d.Series === 'Wine production')
+
+            function mapOIV(d) {
+                return {
+                    year: +d.Year,
+                    hectolitres: +d.Value
+                }
+            }
+
+            let importData = d3.map(importData2, mapOIV)
+            let exportData = d3.map(exportData2, mapOIV)
+            let prodData = d3.map(prodData2, mapOIV)
 
             function annualChart() {
                 const exportValues = d3.map(exportData, d => +d.hectolitres)
@@ -138,7 +151,6 @@
                 const importBarHeight = 10;
                 const margins = { top: 15, right: 25, bottom: 15, left: 80 };
 
-                console.log(tradeData)
                 const fullWidth = 600
                 //const fullHeight = 2000
                 const fullHeight = ((tradeData.length + 2) * importBarHeight) + margins.top + margins.bottom
@@ -202,7 +214,7 @@
             }
 
             annualChart()
-            partnersChart(data[3])
+            partnersChart(data[0])
         })
     </script>
 </body>
