@@ -72,24 +72,37 @@
         const margin = window_dims.width * .2
 
         const worldMap = "https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson"
-        const prodData = "data/wineProd.csv"
+        const countryCodesFile = "data/countryCodes.json"
+        const OIV_data = "data/OIV_data.csv"
+
+        const dataYear = 2018
 
         // load both files
         Promise.all([
             d3.json(worldMap),
-            d3.csv(prodData)
+            d3.dsv(';', OIV_data),
+            d3.json(countryCodesFile)
         ]).then(data => {
             // topology data
             const geojson = data[0];
             // production data
-            const prod_csv = data[1];
+            const OIVcsv = data[1];
+            // country codes
+            const countryCodes = data[2]
 
+            const wineProductionSeries = "Wine production"
+
+            // Need to be able to find OIV data by country name in order to apply colors
+            OIVNameDict = {}
+            countryCodes.forEach(d => OIVNameDict[d.name] = d.oivname);
+
+            prodOneYear = OIVcsv.filter(d => +d.Year === dataYear && d.Series === wineProductionSeries)
             prodDict = {}
-            prod_csv.forEach(d => prodDict[d.code] = d)
+            prodOneYear.forEach(d => prodDict[d.Country] = d)
 
-            const prodValues = d3.map(prod_csv, d => +d.hectolitres).filter(d => d > 0)
+            const prodValues = d3.map(prodOneYear, d => +d.Value).filter(d => d > 0)
 
-            let colorScale = d3.scaleSequential(d3.interpolateTurbo).domain(d3.extent(prodValues))
+            let colorScale = d3.scaleSequential(d3.interpolateOrRd).domain(d3.extent(prodValues))
 
             let svg = d3.select("svg")
             const width = window_dims.width - margin
@@ -106,15 +119,28 @@
             const tooltip = d3.select("#tooltip");
             const infobox = d3.select("#infobox");
 
+            let found = {}
             svg.selectAll("path")
                 .data(geojson.features)
                 .enter()
                 .append("path")
                 .attr("d", d => geoPath_generator(d))
                 .attr("fill", function(d) {
-                    thisProd = (prodDict[d.id] ? prodDict[d.id].hectolitres : 0)
-                    return thisProd == 0 ? "white" : colorScale(thisProd)
+                    let thisProd = 0
+                    const oivName = OIVNameDict[d.properties["name"]]
+                    if (prodDict[oivName])
+                    {
+                        thisProd = +prodDict[oivName].Value
+                        found[oivName] = 1
+                    }
+
+                    return thisProd === 0 ? "white" : colorScale(thisProd)
                 })
+
+            Object.keys(prodDict).forEach(k => {
+                if (!found[k])
+                    console.log("Production data not used for " + k)
+            })
                 /*
                 .on("mouseenter", (m, d) => {
                     tooltip.transition()
@@ -174,7 +200,17 @@
                         .style("opacity", 0)
                 })
                  */
+
+            //dumpCountryCodes(geojson)
         })
+
+        function dumpCountryCodes(geojson)
+        {
+            countries = d3.map(geojson.features, d => {
+                return {code: d.id, name: d.properties["name"], oivname: d.properties["name"]}
+            })
+            console.log(countries)
+        }
     </script>
 </body>
 
