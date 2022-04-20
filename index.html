@@ -59,6 +59,7 @@
     <div>
         <svg width="1200" height="600" viewBox="0 0 1200 600"></svg>
     </div>
+    <div id="legendContainer" style="width: 100%;"></div>
 
 
     <div id="tooltip"></div>
@@ -75,7 +76,7 @@
         const countryCodesFile = "data/countryCodes.json"
         const OIV_data = "data/OIV_data.csv"
 
-        const dataYear = 2018
+        const defaultYear = 2019
 
         // load both files
         Promise.all([
@@ -96,51 +97,58 @@
             OIVNameDict = {}
             countryCodes.forEach(d => OIVNameDict[d.name] = d.oivname);
 
-            prodOneYear = OIVcsv.filter(d => +d.Year === dataYear && d.Series === wineProductionSeries)
-            prodDict = {}
-            prodOneYear.forEach(d => prodDict[d.Country] = d)
+            function getOneYearProduction(dataYear)
+            {
+                return OIVcsv.filter(d => +d.Year === dataYear && d.Series === wineProductionSeries)
+            }
 
-            const prodValues = d3.map(prodOneYear, d => +d.Value).filter(d => d > 0)
+            function drawWorldMap(dataYear) {
+                prodOneYear = getOneYearProduction(dataYear)
+                prodDict = {}
+                prodOneYear.forEach(d => prodDict[d.Country] = d)
 
-            let colorScale = d3.scaleSequential(d3.interpolateOrRd).domain(d3.extent(prodValues))
+                const prodValues = d3.map(prodOneYear, d => +d.Value).filter(d => d > 0)
 
-            let svg = d3.select("svg")
-            const width = window_dims.width - margin
-            const height = window_dims.height - margin
+                let prodExtent = d3.extent(prodValues)
+                let colorScale = d3.scaleSequential(d3.interpolateOrRd).domain(prodExtent)
 
-            let projection = d3.geoNaturalEarth1()
-                //.scale(80)
-                .center([0,20])
-                .translate([width / 2, height / 2]);
+                let svg = d3.select("svg")
+                const width = window_dims.width - margin
+                const height = window_dims.height - margin
 
-            const geoPath_generator = d3.geoPath()
-                .projection(projection)
+                let projection = d3.geoNaturalEarth1()
+                    //.scale(80)
+                    .center([0, 20])
+                    .translate([width / 2, height / 2]);
 
-            const tooltip = d3.select("#tooltip");
-            const infobox = d3.select("#infobox");
+                const geoPath_generator = d3.geoPath()
+                    .projection(projection)
 
-            let found = {}
-            svg.selectAll("path")
-                .data(geojson.features)
-                .enter()
-                .append("path")
-                .attr("d", d => geoPath_generator(d))
-                .attr("fill", function(d) {
-                    let thisProd = 0
-                    const oivName = OIVNameDict[d.properties["name"]]
-                    if (prodDict[oivName])
-                    {
-                        thisProd = +prodDict[oivName].Value
-                        found[oivName] = 1
-                    }
+                const tooltip = d3.select("#tooltip");
+                const infobox = d3.select("#infobox");
 
-                    return thisProd === 0 ? "white" : colorScale(thisProd)
+                let found = {}
+                svg.selectAll("path")
+                    .data(geojson.features)
+                    .enter()
+                    .append("path")
+                    .attr("d", d => geoPath_generator(d))
+                    .attr("fill", function (d) {
+                        let thisProd = 0
+                        const oivName = OIVNameDict[d.properties["name"]]
+                        if (prodDict[oivName]) {
+                            thisProd = +prodDict[oivName].Value
+                            found[oivName] = 1
+                        }
+
+                        return thisProd === 0 ? "white" : colorScale(thisProd)
+                    })
+
+                Object.keys(prodDict).forEach(k => {
+                    if (!found[k])
+                        console.log("Production data not used for " + k)
                 })
 
-            Object.keys(prodDict).forEach(k => {
-                if (!found[k])
-                    console.log("Production data not used for " + k)
-            })
                 /*
                 .on("mouseenter", (m, d) => {
                     tooltip.transition()
@@ -201,9 +209,72 @@
                 })
                  */
 
-            //dumpCountryCodes(geojson)
-        })
+                function drawLegend() {
+                    let padding = 20;
+                    let width = 320;
+                    let innerWidth = width - (padding * 2);
+                    let barHeight = 8;
+                    let height = 28;
 
+                    let xScale = d3.scaleSequential()
+                        .range([0, innerWidth])
+                        .domain(prodExtent)
+
+                    let sortedProdValues = prodValues.sort((a, b) => a - b)
+                    let aquarter = parseInt((prodExtent[1] - prodExtent[0]) / 4)
+
+                    /*
+                    // This seems like what we want but the bin function doesn't guarantee equal sized buckets
+                    let fbin = d3.bin().thresholds(4)
+                    let bins = fbin(sortedProdValues)
+                    let xTicks = bins.map(d => d3.min(d))
+
+                    // We could also do simply axisBottom().ticks(#) but that shows
+                    // "nice" values, which in this case I don't want
+                    */
+                    let xTicks = [prodExtent[0],
+                        prodExtent[0] + aquarter,
+                        prodExtent[0] + (2 * aquarter),
+                        prodExtent[0] + (3 * aquarter),
+                        prodExtent[1]]
+
+                    let xAxis = d3.axisBottom(xScale)
+                        .tickSize(barHeight * 2)
+                        .tickValues(xTicks);
+
+                    let oldSvg = d3.select("#legendSvg").remove()
+                    let svg = d3.select("#legendContainer")
+                        .append("svg")
+                        .attr("id", "legendSvg")
+                        .attr("width", width)
+                        .attr("height", height)
+                        .attr("style", "margin-left: " + (1200 - width)/2)
+                    let g = svg.append("g").attr("transform", "translate(" + padding + ", 0)");
+
+                    let defs = svg.append("defs");
+                    let linearGradient = defs.append("linearGradient").attr("id", "myGradient");
+                    linearGradient.selectAll("stop")
+                        .data(sortedProdValues)
+                        .enter().append("stop")
+                        .attr("offset", d => ((d - prodExtent[0]) / (prodExtent[1] - prodExtent[0]) * 100) + "%")
+                        .attr("stop-color", d => colorScale(d))
+
+                    g.append("rect")
+                        .attr("width", innerWidth)
+                        .attr("height", barHeight)
+                        .style("fill", "url(#myGradient)")
+
+                    g.append("g")
+                        .call(xAxis)
+                        .select(".domain").remove();
+                }
+
+                drawLegend()
+            }
+
+            //dumpCountryCodes(geojson)
+            drawWorldMap(defaultYear)
+        })
         function dumpCountryCodes(geojson)
         {
             countries = d3.map(geojson.features, d => {
