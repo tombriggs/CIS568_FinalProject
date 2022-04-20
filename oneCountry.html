@@ -28,19 +28,28 @@
         </tr>
     </table>
     <script>
-        const exportDataFile = "data/exportChile.json"
-        const prodDataFile = "data/chileProduction.json"
-        const tradeDataFile = "data/chile_2019_trade.json"
+        const countryParam = "country"
+        const yearParam = "year"
+
+        let countryName = 'Chile'
+        let dataYear = 2019
+
+        const urlParams = new URLSearchParams(window.location.search);
+        if (urlParams.has(countryParam))
+            countryName = urlParams.get(countryParam)
+        if (urlParams.has(yearParam))
+            dataYear = +urlParams.get(yearParam)
+
+        const tradeDataFile = "data/UNComtrade/" + countryName + ".csv"
         const OIV_data = "data/OIV_data.csv"
 
         // load both files
         Promise.all([
-            d3.json(tradeDataFile),
+            d3.csv(tradeDataFile),
             d3.dsv(';', OIV_data)
         ]).then(data => {
             const OIVData = data[1]
 
-            const countryName = 'Chile'
             let countryData = OIVData.filter(d => d.Country === countryName)
             let importData2 = countryData.filter(d => d.Series === 'Wine imports')
             let exportData2 = countryData.filter(d => d.Series === 'Wine exports')
@@ -108,7 +117,7 @@
                     .attr("y", d => yScale(d.hectolitres))
                     .attr("width", barWidth)
                     .attr("height", d => height - margin.bottom - yScale(d.hectolitres))
-                    .attr("fill", "blue")
+                    .attr("fill", "lightblue")
                     .attr("stroke", "steelblue")
                     .attr("stroke-width", .8)
                 const exportBars = svg.selectAll('.rects')
@@ -139,33 +148,69 @@
                     .attr("stroke-width", 1.5)
             }
 
-            function partnersChart(tradeDataOrig)
+            function partnersData(tradeData, dataYear)
+            {
+                // Build a dictionary of countries entries so we can
+                // quickly and easily stitch together the import and export numbers
+                tradeDataDict = {}
+                tradeData.forEach(d => {
+                    if (+d.Year === dataYear &&
+                        d.Partner !== 'World' && d.Partner !== "Areas, nes" && d.Partner !== "Other Asia, nes") {
+                        let partnerData = tradeDataDict[d.Partner]
+                        if (partnerData == null)
+                            partnerData = { imports: 0, exports: 0 }
+                        if (d["Trade Flow"] === 'Import')
+                            partnerData.imports = +d.Qty
+                        else if (d["Trade Flow"] === 'Export')
+                            partnerData.exports = +d.Qty
+
+                        tradeDataDict[d.Partner] = partnerData
+                    }
+                })
+
+                // Now construct an array of countries to make it easy to sort
+                // the entries when building the graph
+                tradeDataArr = []
+                Object.keys(tradeDataDict).forEach(k => {
+                    let n = {
+                        country: k,
+                        imports: tradeDataDict[k].imports,
+                        exports: tradeDataDict[k].exports
+                    }
+                    tradeDataArr.push(n)
+                })
+
+                return tradeDataArr
+            }
+
+            function partnersChart(tradeDataOrig, exportsMajor)
             {
                 //sort bars based on value
                 let tradeData = tradeDataOrig.sort(function (a, b) {
-                    return d3.ascending(+a.imports, +b.imports);
+                    if (exportsMajor)
+                        return d3.ascending(+a.exports, +b.exports);
+                    else
+                        return d3.ascending(+a.imports, +b.imports);
                 })
 
-                //let tradeData = d3.map(tradeDataOrig, d => d)
                 const exportValues = d3.map(tradeData, d => +d.exports)
                 const importValues = d3.map(tradeData, d => +d.imports)
                 const allValues = exportValues.concat(importValues)
                 const countries = d3.map(tradeData, d => d.country)
 
-                const importBarHeight = 10;
+                const largeBarHeight = 10;
+                const smallBarHeight = 4;
+                const smallBarOffset = (largeBarHeight - smallBarHeight) / 2
                 const margins = { top: 15, right: 25, bottom: 15, left: 80 };
 
                 const fullWidth = 600
-                //const fullHeight = 2000
-                const fullHeight = ((tradeData.length + 2) * importBarHeight) + margins.top + margins.bottom
+                const fullHeight = ((tradeData.length + 2) * largeBarHeight) + margins.top + margins.bottom
                 const svg_width = "50vw"
                 const svg_height = "80vh"
                 const viewBox = "0 0 600 " + fullHeight
 
 
                 // originally based on https://bl.ocks.org/hrecht/f84012ee860cb4da66331f18d588eee3
-
-
 
                 const width = fullWidth - margins.left - margins.right
                 const height = fullHeight - margins.top - margins.bottom
@@ -189,36 +234,40 @@
                 const yAxis = svg.append("g")
                     .call(d3.axisLeft().scale(yScale).tickSize(0))
 
-
                 let bars = svg.selectAll(".bar")
                     .data(tradeData)
                     .enter()
                     .append("g")
 
-                // Add bars to show imports
+                const exportColor = "red"
+                const exportStrokeColor = "black"
+                const importColor = "lightblue"
+                const importStrokeColor = "steelblue"
+
+                // Add large bars first
                 bars.append("rect")
                     .attr("y", function (d) { return yScale(d.country); })
-                    .attr("height", importBarHeight)
+                    .attr("height", largeBarHeight)
                     .attr("x", 0)
-                    .attr("width", function (d) { return xScale(d.imports); })
-                    .attr("fill","lightblue")
-                    .attr("stroke","steelblue")
+                    .attr("width", function (d) { return xScale(exportsMajor ? d.exports : d.imports); })
+                    .attr("fill", d => exportsMajor ? exportColor : importColor)
+                    .attr("stroke", d => exportsMajor ? exportStrokeColor : importStrokeColor)
                     .attr("stroke-width",.8)
 
-                // Add bars to show exports
-                const exportBarHeight = 4;
+                // Add small bars over the top
                 bars.append("rect")
-                    .attr("y", function (d) { return yScale(d.country) + 3; })
-                    .attr("height", exportBarHeight)
+                    .attr("y", function (d) { return yScale(d.country) + smallBarOffset; })
+                    .attr("height", smallBarHeight)
                     .attr("x", 0)
-                    .attr("width", function (d) { return xScale(d.exports); })
-                    .attr("fill","red")
-                    .attr("stroke","black")
+                    .attr("width", function (d) { return xScale(exportsMajor ? d.imports : d.exports); })
+                    .attr("fill", d => exportsMajor ? importColor : exportColor)
+                    .attr("stroke", d => exportsMajor ? importStrokeColor : exportStrokeColor)
                     .attr("stroke-width",.8)
             }
 
             annualChart()
-            partnersChart(data[0])
+
+            partnersChart(partnersData(data[0], dataYear), true)
         })
     </script>
 </body>
