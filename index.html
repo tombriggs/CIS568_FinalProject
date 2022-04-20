@@ -52,12 +52,12 @@
 </head>
 
 <body>
-    <div id="header" style="width: 100%; margin: auto;">
-    <h1 style="text-align: center">World Wine Production and Trade 2019</h1>
+    <div id="header">
+    <h1 style="text-align: center">World Wine Production and Trade</h1>
     <!-- <h3 style="text-align: center">Thomas Briggs</h3> -->
     </div>
-    <div style="width: 80%; margin: auto;">
-        <svg width="800" height="300"></svg>
+    <div>
+        <svg width="1200" height="600" viewBox="0 0 1200 600"></svg>
     </div>
 
 
@@ -72,61 +72,39 @@
         const margin = window_dims.width * .2
 
         const worldMap = "https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson"
-        // const popData = "https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world_population.csv"
-        const popData = "data/wineProd.csv"
+        const prodData = "data/wineProd.csv"
 
         // load both files
         Promise.all([
             d3.json(worldMap),
-            d3.csv(popData)
+            d3.csv(prodData)
         ]).then(data => {
             // topology data
             const geojson = data[0];
-            // population data
-            const pop_csv = data[1];
+            // production data
+            const prod_csv = data[1];
 
-            popDict = {}
-            pop_csv.forEach(d => popDict[d.code] = d)
+            prodDict = {}
+            prod_csv.forEach(d => prodDict[d.code] = d)
 
-            //const popValues = d3.map(pop_csv, d => +d.pop)
-            const popValues = d3.map(pop_csv, d => +d.hectolitres)
+            const prodValues = d3.map(prod_csv, d => +d.hectolitres).filter(d => d > 0)
 
-            // var colorInterpolator = d3.interpolateRgbBasis(["blue", "steelblue", "green", "purple", "red"])
-            var color = d3.scaleSequential(d3.interpolateTurbo).domain(d3.extent(popValues))
+            let colorScale = d3.scaleSequential(d3.interpolateTurbo).domain(d3.extent(prodValues))
 
             let svg = d3.select("svg")
-            const width = +svg.attr("width")
-            const height = +svg.attr("height")
+            const width = window_dims.width - margin
+            const height = window_dims.height - margin
 
-            var projection = d3.geoMercator()
-                .scale(80)
+            let projection = d3.geoNaturalEarth1()
+                //.scale(80)
                 .center([0,20])
                 .translate([width / 2, height / 2]);
 
             const geoPath_generator = d3.geoPath()
-                // .projection(d3.geoMercator().fitSize([window_dims.width - margin, window_dims.height - margin], geojson))
                 .projection(projection)
-
-            /*
-            var colorScale = d3.scaleThreshold()
-                .domain([100000, 1000000, 10000000, 30000000, 100000000, 500000000])
-                .range(d3.schemeBlues[7]);
-             */
-
-            // if the data is scaled using linear scale
-            let linearScale = d3.scaleLinear()
-                .domain(d3.extent(popValues))
 
             const tooltip = d3.select("#tooltip");
             const infobox = d3.select("#infobox");
-
-            // Append a SVG element to body, then append a path for the boundaries
-            /* let svg = d3.select("body").append("svg")
-                // I think these should relate to window_dims
-                .attr("width", "1000")
-                .attr("height", "800")
-                .attr("margin", "auto")
-             */
 
             svg.selectAll("path")
                 .data(geojson.features)
@@ -134,10 +112,8 @@
                 .append("path")
                 .attr("d", d => geoPath_generator(d))
                 .attr("fill", function(d) {
-                    //thisPop = (popDict[d.id] ? popDict[d.id].pop : 0)
-                    thisPop = (popDict[d.id] ? popDict[d.id].hectolitres : 0)
-                    //return colorInterpolator(linearScale(thisPop))
-                    return color(thisPop)
+                    thisProd = (prodDict[d.id] ? prodDict[d.id].hectolitres : 0)
+                    return thisProd == 0 ? "white" : colorScale(thisProd)
                 })
                 /*
                 .on("mouseenter", (m, d) => {
