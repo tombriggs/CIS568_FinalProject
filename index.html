@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="./libs/d3.js"></script>
     <script src="https://d3js.org/topojson.v1.min.js"></script>
+    <script src="https://unpkg.com/d3-simple-slider"></script>
     <title>Vinography</title>
     <style>
         #tooltip {
@@ -48,6 +49,11 @@
             stroke: black;
             stroke-width: 4px;
         }
+        datalist {
+            display: flex;
+            justify-content: space-between;
+            width: 75%;
+        }
     </style>
 </head>
 
@@ -56,9 +62,37 @@
     <h1 style="text-align: center">World Wine Production and Trade</h1>
     <!-- <h3 style="text-align: center">Thomas Briggs</h3> -->
     </div>
-    <div class="slidercontainer">
-        <label for="yearSlider">Year</label>
-        <input type="range" min="2000" max="2019" value="2019" class="slider" id="yearSlider">
+    <!-- Keeping this because I fear it's necessary to do things this way for animation
+    <div id="slidercontainer">
+        <div style="width: 50%; margin: auto;">
+        <input type="range" min="2000" max="2019" value="2019" class="slider" id="yearSlider" style="width: 400px; margin: auto;" list="tickmarks">
+        <datalist id="tickmarks">
+            <option value="2000" label="2000"></option>
+            <option value="2001"></option>
+            <option value="2002"></option>
+            <option value="2003"></option>
+            <option value="2004"></option>
+            <option value="2005"></option>
+            <option value="2006"></option>
+            <option value="2007"></option>
+            <option value="2008"></option>
+            <option value="2009"></option>
+            <option value="2010" label="2010"></option>
+            <option value="2011"></option>
+            <option value="2012"></option>
+            <option value="2013"></option>
+            <option value="2014"></option>
+            <option value="2015"></option>
+            <option value="2016"></option>
+            <option value="2017"></option>
+            <option value="2018"></option>
+            <option value="2019" label="2019"></option>
+        </datalist>
+        </div>
+    </div>
+    -->
+    <div style="width: 50%; margin: auto;">
+        <div id="yearSlider"></div>
     </div>
     <div id="map">
     </div>
@@ -68,6 +102,7 @@
     <div id="tooltip"></div>
     <div id="infobox"></div>
     <script>
+
         // dimension of the page
         const window_dims = {
             width: window.innerWidth,
@@ -79,9 +114,7 @@
         const countryCodesFile = "data/countryCodes.json"
         const OIV_data = "data/OIV_data.csv"
 
-        let geojson = null
-        let OIVcsv = null
-        let countryCounts = null
+        const defaultYear = 2019;
 
         // load both files
         Promise.all([
@@ -96,13 +129,14 @@
             // country codes
             countryCodes = data[2]
 
-            doAllTheThings()
+            addSlider(OIVcsv, defaultYear)
+            doAllTheThings(defaultYear)
         })
 
-        function doAllTheThings()
+        function doAllTheThings(dataYear)
         {
             const wineProductionSeries = "Wine production"
-            let dataYear = +d3.select("#yearSlider").node().value
+            //let dataYear = +d3.select("#yearSlider").node().value
 
             // Need to be able to find OIV data by country name in order to apply colors
             let OIVNameDict = {}
@@ -296,6 +330,43 @@
             drawWorldMap()
             d3.select("#yearSlider").on("change",sliderChange)
         }
+
+        function addSlider(OIVcsv, defaultYear)
+        {
+            const sliderWidth = 300
+
+            let yearList = new Set(d3.map(OIVcsv, d => +d.Year))
+
+            const maxVal = d3.max(yearList)
+
+            let tickList = Array.from(yearList).filter(function (d, i) { return i % 5 === 0 })
+            if (maxVal % 5 !== 0)
+                tickList.push(maxVal)
+
+            let yearSlider = d3.sliderHorizontal()
+                .min(d3.min(yearList))
+                .max(maxVal)
+                .width(sliderWidth)
+                .tickFormat(d3.format('.4'))
+                //.tickValues([2000, 2005, 2010, 2015, 2019])
+                .tickValues(tickList)
+                .ticks(yearList.size)
+                .default(defaultYear)
+                .on('onchange', val => {
+                    d3.select("#mapSVG").remove()
+                    doAllTheThings(parseInt(Math.round(val)))
+                });
+
+            var g = d3.select("div#yearSlider")
+                .append("svg")
+                .attr("width", 500)
+                .attr("height", 100)
+                .append("g")
+                .attr("transform", "translate(30,30)")
+                .attr("id", "d3slider")
+                .call(yearSlider)
+        }
+
         function dumpCountryCodes(geojson)
         {
             countries = d3.map(geojson.features, d => {
