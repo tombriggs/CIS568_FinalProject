@@ -56,8 +56,11 @@
     <h1 style="text-align: center">World Wine Production and Trade</h1>
     <!-- <h3 style="text-align: center">Thomas Briggs</h3> -->
     </div>
-    <div>
-        <svg width="1200" height="600" viewBox="0 0 1200 600"></svg>
+    <div class="slidercontainer">
+        <label for="yearSlider">Year</label>
+        <input type="range" min="2000" max="2019" value="2019" class="slider" id="yearSlider">
+    </div>
+    <div id="map">
     </div>
     <div id="legendContainer" style="width: 100%;"></div>
 
@@ -76,7 +79,9 @@
         const countryCodesFile = "data/countryCodes.json"
         const OIV_data = "data/OIV_data.csv"
 
-        const defaultYear = 2019
+        let geojson = null
+        let OIVcsv = null
+        let countryCounts = null
 
         // load both files
         Promise.all([
@@ -85,16 +90,22 @@
             d3.json(countryCodesFile)
         ]).then(data => {
             // topology data
-            const geojson = data[0];
+            geojson = data[0];
             // production data
-            const OIVcsv = data[1];
+            OIVcsv = data[1];
             // country codes
-            const countryCodes = data[2]
+            countryCodes = data[2]
 
+            doAllTheThings()
+        })
+
+        function doAllTheThings()
+        {
             const wineProductionSeries = "Wine production"
+            let dataYear = +d3.select("#yearSlider").node().value
 
             // Need to be able to find OIV data by country name in order to apply colors
-            OIVNameDict = {}
+            let OIVNameDict = {}
             countryCodes.forEach(d => OIVNameDict[d.name] = d.oivname);
 
             function getOneYearProduction(dataYear)
@@ -102,7 +113,7 @@
                 return OIVcsv.filter(d => +d.Year === dataYear && d.Series === wineProductionSeries)
             }
 
-            function drawWorldMap(dataYear) {
+            function drawWorldMap() {
                 prodOneYear = getOneYearProduction(dataYear)
                 prodDict = {}
                 prodOneYear.forEach(d => prodDict[d.Country] = d)
@@ -112,7 +123,12 @@
                 let prodExtent = d3.extent(prodValues)
                 let colorScale = d3.scaleSequential(d3.interpolateOrRd).domain(prodExtent)
 
-                let svg = d3.select("svg")
+                let svg = d3.select("#map")
+                    .append("svg")
+                    .attr("id", "mapSVG")
+                    .attr("width", 1200)
+                    .attr("height", 600)
+                    .attr("viewBox", "0 0 1200 600")
                 const width = window_dims.width - margin
                 const height = window_dims.height - margin
 
@@ -272,9 +288,14 @@
                 drawLegend()
             }
 
+            function sliderChange(d) {
+                d3.select("#mapSVG").remove()
+                doAllTheThings()
+            }
             //dumpCountryCodes(geojson)
-            drawWorldMap(defaultYear)
-        })
+            drawWorldMap()
+            d3.select("#yearSlider").on("change",sliderChange)
+        }
         function dumpCountryCodes(geojson)
         {
             countries = d3.map(geojson.features, d => {
