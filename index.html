@@ -47,41 +47,18 @@
     <h1 style="text-align: center">World Wine Production and Trade</h1>
     <!-- <h3 style="text-align: center">Thomas Briggs</h3> -->
     </div>
-    <!-- Keeping this because I fear it's necessary to do things this way for animation
-    <div id="slidercontainer">
-        <div style="width: 50%; margin: auto;">
-        <input type="range" min="2000" max="2019" value="2019" class="slider" id="yearSlider" style="width: 400px; margin: auto;" list="tickmarks">
-        <datalist id="tickmarks">
-            <option value="2000" label="2000"></option>
-            <option value="2001"></option>
-            <option value="2002"></option>
-            <option value="2003"></option>
-            <option value="2004"></option>
-            <option value="2005"></option>
-            <option value="2006"></option>
-            <option value="2007"></option>
-            <option value="2008"></option>
-            <option value="2009"></option>
-            <option value="2010" label="2010"></option>
-            <option value="2011"></option>
-            <option value="2012"></option>
-            <option value="2013"></option>
-            <option value="2014"></option>
-            <option value="2015"></option>
-            <option value="2016"></option>
-            <option value="2017"></option>
-            <option value="2018"></option>
-            <option value="2019" label="2019"></option>
-        </datalist>
-        </div>
+
+    <div id="animateButton" style="display: inline-block; vertical-align: top">
+        <button onclick="animateMap()">Animate</button>
     </div>
-    -->
-    <div style="width: 50%; margin: auto;">
+    <div style="display: inline-block;">
         <div id="yearSlider"></div>
+    </div>
+    <div id="legendContainer" style="display: inline-block; vertical-align: top; margin-top: 25px">
+        <label for="legendSVG">Legend</label>
     </div>
     <div id="map">
     </div>
-    <div id="legendContainer" style="width: 100%;"></div>
 
 
     <div id="tooltip"></div>
@@ -101,6 +78,9 @@
         const defaultYear = 2019;
         let currentYear = defaultYear;
 
+        let countryCodes = null
+        let OIVcsv = null
+
         // load both files
         Promise.all([
             d3.json(worldMap),
@@ -118,19 +98,22 @@
             doAllTheThings(defaultYear)
         })
 
+        let colorScale = null
+        let OIVNameDict = null
+
+        const wineProductionSeries = "Wine production"
+        function getOneYearProduction(dataYear)
+        {
+            return OIVcsv.filter(d => +d.Year === dataYear && d.Series === wineProductionSeries)
+        }
+
         function doAllTheThings(dataYear)
         {
-            const wineProductionSeries = "Wine production"
             //let dataYear = +d3.select("#yearSlider").node().value
 
             // Need to be able to find OIV data by country name in order to apply colors
-            let OIVNameDict = {}
+            OIVNameDict = {}
             countryCodes.forEach(d => OIVNameDict[d.name] = d.oivname);
-
-            function getOneYearProduction(dataYear)
-            {
-                return OIVcsv.filter(d => +d.Year === dataYear && d.Series === wineProductionSeries)
-            }
 
             function drawWorldMap() {
                 prodOneYear = getOneYearProduction(dataYear)
@@ -140,7 +123,7 @@
                 const prodValues = d3.map(prodOneYear, d => +d.Value).filter(d => d > 0)
 
                 let prodExtent = d3.extent(prodValues)
-                let colorScale = d3.scaleSequential(d3.interpolateOrRd).domain(prodExtent)
+                colorScale = d3.scaleSequential(d3.interpolateOrRd).domain(prodExtent)
 
                 let svg = d3.select("#map")
                     .append("svg")
@@ -300,7 +283,7 @@
                         .attr("id", "legendSvg")
                         .attr("width", width)
                         .attr("height", height)
-                        .attr("style", "margin-left: " + (1200 - width)/2)
+                        //.attr("style", "margin-left: " + (1200 - width)/2)
                     let g = svg.append("g").attr("transform", "translate(" + padding + ", 0)");
 
                     let defs = svg.append("defs");
@@ -333,9 +316,12 @@
             //d3.select("#yearSlider").on("change",sliderChange)
         }
 
+        let yearSlider = null
+
         function addSlider(OIVcsv, defaultYear)
         {
             const sliderWidth = 300
+            const sliderHeight = 80
 
             let yearList = new Set(d3.map(OIVcsv, d => +d.Year))
 
@@ -345,7 +331,7 @@
             if (maxVal % 5 !== 0)
                 tickList.push(maxVal)
 
-            let yearSlider = d3.sliderHorizontal()
+            yearSlider = d3.sliderHorizontal()
                 .min(d3.min(yearList))
                 .max(maxVal)
                 .width(sliderWidth)
@@ -362,12 +348,48 @@
 
             var g = d3.select("div#yearSlider")
                 .append("svg")
-                .attr("width", 500)
-                .attr("height", 100)
+                .attr("width", sliderWidth * 1.2)
+                .attr("height", sliderHeight)
                 .append("g")
                 .attr("transform", "translate(30,30)")
                 .attr("id", "d3slider")
                 .call(yearSlider)
+        }
+
+        function animateMap()
+        {
+            let thisYear = yearSlider.min()
+            let lastYear = yearSlider.max()
+
+            const t = d3.interval(() => {
+                let thisYearData = getOneYearProduction(thisYear)
+                let prodDict = {}
+                thisYearData.forEach(d => prodDict[d.Country] = d)
+
+                yearSlider.silentValue(thisYear)
+
+                d3.selectAll("path")
+                    .transition()
+                    .style("fill", function(d) {
+                        let thisProd = 0
+                        if (d.properties && d.properties['name'])
+                        {
+                            const oivName = OIVNameDict[d.properties["name"]]
+                            if (prodDict[oivName]) {
+                                thisProd = +prodDict[oivName].Value
+                            }
+                        }
+
+                        return thisProd === 0 ? "white" : colorScale(thisProd)
+                    })
+
+                thisYear++
+                if (thisYear > lastYear)
+                {
+                    console.log("calling stop")
+                    t.stop()
+                }
+            }, 500)
         }
 
         function dumpCountryCodes(geojson)
