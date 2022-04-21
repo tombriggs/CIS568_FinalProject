@@ -304,6 +304,7 @@
                 //.tickValues([2000, 2005, 2010, 2015, 2019])
                 .tickValues(tickList)
                 .ticks(yearList.size)
+                .marks(Array.from(yearList))
                 .default(defaultYear)
                 .on('onchange', val => {
                     dataYear = parseInt(Math.round(val))
@@ -323,14 +324,14 @@
 
         function addSortSlider()
         {
-            const sliderWidth = 100
-            const sliderPadding = 40
+            const sliderWidth = 90
+            const sliderPadding = 50
 
             let yearSlider = d3.sliderHorizontal()
                 .min(0)
                 .max(1)
                 .width(sliderWidth)
-                //.tickFormat(d3.format('.4'))
+                .tickFormat(d => d === 0 ? "Import" : "Export")
                 //.tickValues([2000, 2005, 2010, 2015, 2019])
                 .tickValues([0,1])
                 .ticks(2)
