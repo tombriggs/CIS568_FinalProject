@@ -24,21 +24,6 @@
             line-height: 1;
         }
 
-        #infobox {
-            position: absolute;
-            right: 20px;
-            opacity: 0;
-            width: auto;
-            padding: 10px;
-            margin: 10px;
-            background: lightgray;
-            font-family: sans-serif;
-            font-size: medium;
-            border-radius: 2px;
-            line-height: 1;
-            z-index: 10;
-        }
-        
         path {
             stroke-width: .5px;
             stroke: black
@@ -100,7 +85,6 @@
 
 
     <div id="tooltip"></div>
-    <div id="infobox"></div>
     <script>
 
         // dimension of the page
@@ -176,7 +160,6 @@
                     .projection(projection)
 
                 const tooltip = d3.select("#tooltip");
-                const infobox = d3.select("#infobox");
 
                 let found = {}
                 svg.selectAll("path")
@@ -199,71 +182,33 @@
                         //window.location.href = targetURL
                         window.open(targetURL, '_blank')
                     })
+                    .on("mouseenter", (m, d) => {
+                        let prodText = "None or Unknown"
+                        let tiptext = d.properties['name'] + "<br/>" + currentYear + " Production: "
+                        const oivName = OIVNameDict[d.properties["name"]]
+                        if (prodDict[oivName])
+                            prodText = +prodDict[oivName].Value + " hectolitres"
+
+                        tooltip.transition()
+                            .duration(200)
+                            .style("opacity", .9)
+                        tooltip.html(tiptext + prodText)
+                            .style("left", m.clientX + "px")
+                            .style("top", m.clientY + "px");
+                    })
+                    .on("mousemove", (m, d) => {
+                        tooltip.style("opacity", .9)
+                    })
+                    .on("mouseout", (m, d) => {
+                        tooltip.transition()
+                            .duration(200)
+                            .style("opacity", 0)
+                    })
 
                 Object.keys(prodDict).forEach(k => {
                     if (!found[k])
                         console.log("Production data not used for " + k)
                 })
-
-                /*
-                .on("mouseenter", (m, d) => {
-                    tooltip.transition()
-                        .duration(200)
-                        .style("opacity", .9)
-                    tooltip.html(d['properties']['TOWN'])
-                        .style("left", m.clientX + "px")
-                        .style("top", m.clientY + "px");
-
-                    let thisCountyFIPS = d['properties']['FIPS_STCO']
-
-                    let paths = d3.select("body").select("svg").selectAll("path")
-                    // Highlight all the towns in this county
-                    paths
-                        .filter(function(p) { return p['properties']['FIPS_STCO'] === d['properties']['FIPS_STCO'] })
-                        .attr('style', "stroke-width: 2px")
-                        .attr('fill', 'none')
-                    paths
-                        .filter(function(p) { return p['properties']['FIPS_STCO'] === d['properties']['FIPS_STCO'] })
-                        .attr('style', "stroke-width: 0px")
-                        .attr('fill', 'firebrick')
-
-
-                    // Make sure none of the other towns are highlighted
-                    paths
-                        .filter(function(p) { return p['properties']['FIPS_STCO'] !== d['properties']['FIPS_STCO'] })
-                        .attr('style', "stroke-width: 0.5px")
-                        .attr("fill", d => colorInterpolator(inearScale(d['properties'][datasetName])))
-
-                    let infotxt = countyNames[thisCountyFIPS] + " County";
-                    let numTowns = 0;
-                    let totalPopulation = 0;
-                    geojson.features.forEach(c => {
-                        if(c['properties']['FIPS_STCO'] === thisCountyFIPS) {
-                            numTowns++
-                            totalPopulation += c['properties']['POP2010']
-                        }
-                    })
-                    infotxt += "<br/>" + numTowns + " towns"
-                    infotxt += "<br/>" + "2010 Total population: " + totalPopulation;
-
-                    infobox.transition()
-                        .duration(200)
-                        .style("opacity", .9)
-                    infobox.html(infotxt)
-                })
-                .on("mousemove", (m, d) => {
-                    tooltip.style("opacity", .9)
-                    infobox.style("opacity", .9)
-                })
-                .on("mouseout", (m, d) => {
-                    tooltip.transition()
-                        .duration(200)
-                        .style("opacity", 0)
-                    infobox.transition()
-                        .duration(200)
-                        .style("opacity", 0)
-                })
-                 */
 
                 function drawLegend() {
                     let padding = 20;
