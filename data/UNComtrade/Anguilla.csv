@@ -1,0 +1,46 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,2000,2000,2000,4,0,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,76537,,,,,,237406,,,2
+H0,2000,2000,2000,4,0,1,Import,660,Anguilla,AIA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,11142,,,,,,34561,,,2
+H0,2000,2000,2000,4,0,1,Import,660,Anguilla,AIA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,30,,,,,,92,,,2
+H0,2000,2000,2000,4,0,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,7814,,,,,,24238,,,2
+H0,2000,2000,2000,4,0,1,Import,660,Anguilla,AIA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,23,,,,,,71,,,2
+H0,2000,2000,2000,4,0,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,57528,,,,,,178444,,,2
+H0,2001,2001,2001,4,0,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,45727,,,,,,142832,,,2
+H0,2001,2001,2001,4,0,1,Import,660,Anguilla,AIA,214,Dominican Rep.,DOM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,140,,,,,,204,,,2
+H0,2001,2001,2001,4,0,1,Import,660,Anguilla,AIA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,19771,,,,,,63373,,,2
+H0,2001,2001,2001,4,0,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,6867,,,,,,20455,,,2
+H0,2001,2001,2001,4,0,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,18949,,,,,,58801,,,2
+H0,2002,2002,2002,4,0,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,40562,,,,,,144096,,,2
+H0,2002,2002,2002,4,0,1,Import,660,Anguilla,AIA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,28643,,,,,,102430,,,2
+H0,2002,2002,2002,4,0,1,Import,660,Anguilla,AIA,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,9,,,,,,32,,,2
+H0,2002,2002,2002,4,0,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,4288,,,,,,14374,,,2
+H0,2002,2002,2002,4,0,1,Import,660,Anguilla,AIA,659,Saint Kitts and Nevis,KNA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,101,,,,,,360,,,2
+H0,2002,2002,2002,4,0,1,Import,660,Anguilla,AIA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,49,,,,,,176,,,2
+H0,2002,2002,2002,4,0,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,7473,,,,,,26724,,,2
+H0,2003,2003,2003,4,0,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,29476,,,,,,115289,,,2
+H0,2003,2003,2003,4,0,1,Import,660,Anguilla,AIA,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,3397,,,,,,13746,,,2
+H0,2003,2003,2003,4,0,1,Import,660,Anguilla,AIA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,16320,,,,,,66041,,,2
+H0,2003,2003,2003,4,0,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,4861,,,,,,15684,,,2
+H0,2003,2003,2003,4,0,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,4898,,,,,,19818,,,2
+H0,2004,2004,2004,4,0,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,25125,,,,,,108674,,,2
+H0,2004,2004,2004,4,0,2,Export,660,Anguilla,AIA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,240,,,,,,1090,,,2
+H0,2004,2004,2004,4,0,1,Import,660,Anguilla,AIA,214,Dominican Rep.,DOM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,4,,,,,,19,,,2
+H0,2004,2004,2004,4,0,1,Import,660,Anguilla,AIA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,7453,,,,,,34623,,,2
+H0,2004,2004,2004,4,0,1,Import,660,Anguilla,AIA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,228,,,,,,1057,,,2
+H0,2004,2004,2004,4,0,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,7038,,,,,,24650,,,2
+H0,2004,2004,2004,4,0,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,10402,,,,,,48325,,,2
+H0,2004,2004,2004,4,0,2,Export,660,Anguilla,AIA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,240,,,,,,1090,,,2
+H0,2006,2006,2006,4,0,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,20625,,,,20625,,166962,,,2
+H0,2006,2006,2006,4,0,1,Import,660,Anguilla,AIA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,14852,,,,14852,,121071,,,2
+H0,2006,2006,2006,4,0,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,873,,,,873,,19244,,,2
+H0,2006,2006,2006,4,0,1,Import,660,Anguilla,AIA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1420,,,,1420,,2503,,,2
+H0,2006,2006,2006,4,0,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,3480,,,,3480,,24144,,,2
+H0,2007,2007,2007,4,0,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,17691,,,,17691,,120163,,,2
+H0,2007,2007,2007,4,0,1,Import,660,Anguilla,AIA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,6907,,,,6907,,62501,,,2
+H0,2007,2007,2007,4,0,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,9508,,,,9508,,42934,,,2
+H0,2007,2007,2007,4,0,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1276,,,,1276,,14728,,,2
+H0,2008,2008,2008,4,0,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,26605,,,,26605,,155388,,,2
+H0,2008,2008,2008,4,0,1,Import,660,Anguilla,AIA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,7626,,,,7626,,72270,,,2
+H0,2008,2008,2008,4,0,1,Import,660,Anguilla,AIA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2663,,,,2663,,20905,,,2
+H0,2008,2008,2008,4,0,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,14325,,,,14325,,39096,,,2
+H0,2008,2008,2008,4,0,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1991,,,,1991,,23117,,,2

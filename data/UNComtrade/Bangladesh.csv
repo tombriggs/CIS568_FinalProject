@@ -1,0 +1,242 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2002,2002,2002,4,0,1,Import,50,Bangladesh,BGD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,107939,,,,107939,,469706,,,4
+H2,2002,2002,2002,4,0,1,Import,50,Bangladesh,BGD,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11475,,,,11475,,33617,,,4
+H2,2002,2002,2002,4,0,1,Import,50,Bangladesh,BGD,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2400,,,,2400,,5836,,,4
+H2,2002,2002,2002,4,0,1,Import,50,Bangladesh,BGD,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,600,,,,600,,4604,,,4
+H2,2002,2002,2002,4,0,1,Import,50,Bangladesh,BGD,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4080,,,,4080,,12357,,,4
+H2,2002,2002,2002,4,0,1,Import,50,Bangladesh,BGD,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1821,,,,1821,,2082,,,4
+H2,2002,2002,2002,4,0,1,Import,50,Bangladesh,BGD,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,48555,,,,48555,,239287,,,4
+H2,2002,2002,2002,4,0,1,Import,50,Bangladesh,BGD,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14607,,,,14607,,39435,,,4
+H2,2002,2002,2002,4,0,1,Import,50,Bangladesh,BGD,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3654,,,,3654,,13866,,,4
+H2,2002,2002,2002,4,0,1,Import,50,Bangladesh,BGD,562,Niger,NER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,675,,,,675,,4095,,,4
+H2,2002,2002,2002,4,0,1,Import,50,Bangladesh,BGD,586,Pakistan,PAK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,150,,,,150,,1311,,,4
+H2,2002,2002,2002,4,0,1,Import,50,Bangladesh,BGD,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8,,,,8,,6,,,4
+H2,2002,2002,2002,4,0,1,Import,50,Bangladesh,BGD,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3049,,,,3049,,12707,,,4
+H2,2002,2002,2002,4,0,1,Import,50,Bangladesh,BGD,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,900,,,,900,,3445,,,4
+H2,2002,2002,2002,4,0,1,Import,50,Bangladesh,BGD,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,450,,,,450,,2436,,,4
+H2,2002,2002,2002,4,0,1,Import,50,Bangladesh,BGD,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13010,,,,13010,,84811,,,4
+H2,2002,2002,2002,4,0,1,Import,50,Bangladesh,BGD,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2505,,,,2505,,9813,,,4
+H2,2003,2003,2003,4,0,1,Import,50,Bangladesh,BGD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,146441,,,,344703,,630366,,,6
+H2,2003,2003,2003,4,0,2,Export,50,Bangladesh,BGD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12,,,,53,,60,,,6
+H2,2003,2003,2003,4,0,1,Import,50,Bangladesh,BGD,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,25282,,,,34930,,82568,,,6
+H2,2003,2003,2003,4,0,1,Import,50,Bangladesh,BGD,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1944,,,,4027,,12243,,,6
+H2,2003,2003,2003,4,0,1,Import,50,Bangladesh,BGD,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,63858,,,,157603,,278875,,,6
+H2,2003,2003,2003,4,0,1,Import,50,Bangladesh,BGD,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2720,,,,5331,,14510,,,6
+H2,2003,2003,2003,4,0,1,Import,50,Bangladesh,BGD,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5209,,,,33633,,47860,,,6
+H2,2003,2003,2003,4,0,1,Import,50,Bangladesh,BGD,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4,,,,42,,46,,,6
+H2,2003,2003,2003,4,0,1,Import,50,Bangladesh,BGD,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1740,,,,2532,,7696,,,6
+H2,2003,2003,2003,4,0,1,Import,50,Bangladesh,BGD,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,810,,,,2018,,6135,,,6
+H2,2003,2003,2003,4,0,1,Import,50,Bangladesh,BGD,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4404,,,,7934,,19580,,,6
+H2,2003,2003,2003,4,0,1,Import,50,Bangladesh,BGD,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4917,,,,1516,,4610,,,6
+H2,2003,2003,2003,4,0,1,Import,50,Bangladesh,BGD,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21268,,,,67758,,100430,,,6
+H2,2003,2003,2003,4,0,1,Import,50,Bangladesh,BGD,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2610,,,,11439,,21874,,,6
+H2,2003,2003,2003,4,0,1,Import,50,Bangladesh,BGD,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2257,,,,3417,,10386,,,6
+H2,2003,2003,2003,4,0,1,Import,50,Bangladesh,BGD,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4775,,,,3591,,10843,,,6
+H2,2003,2003,2003,4,0,1,Import,50,Bangladesh,BGD,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4643,,,,8930,,12708,,,6
+H2,2003,2003,2003,4,0,2,Export,50,Bangladesh,BGD,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12,,,,53,,60,,,6
+H2,2004,2004,2004,4,0,1,Import,50,Bangladesh,BGD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,39214,,,,39214,,171765,,,4
+H2,2004,2004,2004,4,0,1,Import,50,Bangladesh,BGD,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11142,,,,11142,,43551,,,4
+H2,2004,2004,2004,4,0,1,Import,50,Bangladesh,BGD,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11035,,,,11035,,51877,,,4
+H2,2004,2004,2004,4,0,1,Import,50,Bangladesh,BGD,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,61,,,,61,,357,,,4
+H2,2004,2004,2004,4,0,1,Import,50,Bangladesh,BGD,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1705,,,,1705,,10672,,,4
+H2,2004,2004,2004,4,0,1,Import,50,Bangladesh,BGD,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4327,,,,4327,,18253,,,4
+H2,2004,2004,2004,4,0,1,Import,50,Bangladesh,BGD,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1585,,,,1585,,7359,,,4
+H2,2004,2004,2004,4,0,1,Import,50,Bangladesh,BGD,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3700,,,,3700,,17059,,,4
+H2,2004,2004,2004,4,0,1,Import,50,Bangladesh,BGD,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2178,,,,2178,,4897,,,4
+H2,2004,2004,2004,4,0,1,Import,50,Bangladesh,BGD,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3481,,,,3481,,17741,,,4
+H0,2000,2000,2000,4,0,1,Import,50,Bangladesh,BGD,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,65336,,,,65336,,329320,,,4
+H0,2000,2000,2000,4,0,1,Import,50,Bangladesh,BGD,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,7047,,,,7047,,35095,,,4
+H0,2000,2000,2000,4,0,1,Import,50,Bangladesh,BGD,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,988,,,,988,,5785,,,4
+H0,2000,2000,2000,4,0,1,Import,50,Bangladesh,BGD,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2516,,,,2516,,10069,,,4
+H0,2000,2000,2000,4,0,1,Import,50,Bangladesh,BGD,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,51,,,,51,,196,,,4
+H0,2000,2000,2000,4,0,1,Import,50,Bangladesh,BGD,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,21760,,,,21760,,108622,,,4
+H0,2000,2000,2000,4,0,1,Import,50,Bangladesh,BGD,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,8531,,,,8531,,49937,,,4
+H0,2000,2000,2000,4,0,1,Import,50,Bangladesh,BGD,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,5073,,,,5073,,20715,,,4
+H0,2000,2000,2000,4,0,1,Import,50,Bangladesh,BGD,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,7267,,,,7267,,34247,,,4
+H0,2000,2000,2000,4,0,1,Import,50,Bangladesh,BGD,643,Russian Federation,RUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1615,,,,1615,,7421,,,4
+H0,2000,2000,2000,4,0,1,Import,50,Bangladesh,BGD,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,541,,,,541,,3170,,,4
+H0,2000,2000,2000,4,0,1,Import,50,Bangladesh,BGD,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,867,,,,867,,3471,,,4
+H0,2000,2000,2000,4,0,1,Import,50,Bangladesh,BGD,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2749,,,,2749,,13534,,,4
+H0,2000,2000,2000,4,0,1,Import,50,Bangladesh,BGD,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,6331,,,,6331,,37059,,,4
+H0,2001,2001,2001,4,0,1,Import,50,Bangladesh,BGD,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,111380,,,,190962,,450649,,,6
+H0,2001,2001,2001,4,0,2,Export,50,Bangladesh,BGD,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,896,,,,98,,292,,,6
+H0,2001,2001,2001,4,0,1,Import,50,Bangladesh,BGD,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,22437,,,,23903,,52678,,,6
+H0,2001,2001,2001,4,0,1,Import,50,Bangladesh,BGD,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,222,,,,441,,1214,,,6
+H0,2001,2001,2001,4,0,1,Import,50,Bangladesh,BGD,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1612,,,,3086,,6938,,,6
+H0,2001,2001,2001,4,0,1,Import,50,Bangladesh,BGD,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,3350,,,,9353,,9756,,,6
+H0,2001,2001,2001,4,0,1,Import,50,Bangladesh,BGD,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,702,,,,1397,,3845,,,6
+H0,2001,2001,2001,4,0,1,Import,50,Bangladesh,BGD,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,27077,,,,36133,,93427,,,6
+H0,2001,2001,2001,4,0,1,Import,50,Bangladesh,BGD,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2976,,,,4561,,12557,,,6
+H0,2001,2001,2001,4,0,1,Import,50,Bangladesh,BGD,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1641,,,,6661,,10663,,,6
+H0,2001,2001,2001,4,0,1,Import,50,Bangladesh,BGD,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2788,,,,4477,,12325,,,6
+H0,2001,2001,2001,4,0,1,Import,50,Bangladesh,BGD,410,Rep. of Korea,KOR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2690,,,,5356,,14745,,,6
+H0,2001,2001,2001,4,0,1,Import,50,Bangladesh,BGD,527,"Oceania, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2620,,,,6572,,18092,,,6
+H0,2001,2001,2001,4,0,1,Import,50,Bangladesh,BGD,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,337,,,,369,,1016,,,6
+H0,2001,2001,2001,4,0,1,Import,50,Bangladesh,BGD,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,4065,,,,9082,,9472,,,6
+H0,2001,2001,2001,4,0,1,Import,50,Bangladesh,BGD,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,9201,,,,21691,,59597,,,6
+H0,2001,2001,2001,4,0,1,Import,50,Bangladesh,BGD,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,4766,,,,9572,,26351,,,6
+H0,2001,2001,2001,4,0,1,Import,50,Bangladesh,BGD,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,3331,,,,8739,,11994,,,6
+H0,2001,2001,2001,4,0,1,Import,50,Bangladesh,BGD,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,15545,,,,32167,,85603,,,6
+H0,2001,2001,2001,4,0,1,Import,50,Bangladesh,BGD,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,6020,,,,7401,,20375,,,6
+H0,2001,2001,2001,4,0,2,Export,50,Bangladesh,BGD,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,896,,,,98,,292,,,6
+H3,2008,2008,2008,4,0,1,Import,50,Bangladesh,BGD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,138216,,,,138216,,626464,,,4
+H3,2008,2008,2008,4,0,2,Export,50,Bangladesh,BGD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2628,,,,2628,,8275,,,4
+H3,2008,2008,2008,4,0,1,Import,50,Bangladesh,BGD,31,Azerbaijan,AZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,54,,,,54,,37,,,4
+H3,2008,2008,2008,4,0,1,Import,50,Bangladesh,BGD,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,113,,,,113,,399,,,4
+H3,2008,2008,2008,4,0,1,Import,50,Bangladesh,BGD,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,58088,,,,58088,,260944,,,4
+H3,2008,2008,2008,4,0,1,Import,50,Bangladesh,BGD,140,Central African Rep.,CAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5811,,,,5811,,31331,,,4
+H3,2008,2008,2008,4,0,1,Import,50,Bangladesh,BGD,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1510,,,,1510,,4960,,,4
+H3,2008,2008,2008,4,0,1,Import,50,Bangladesh,BGD,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10989,,,,10989,,45070,,,4
+H3,2008,2008,2008,4,0,1,Import,50,Bangladesh,BGD,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,16377,,,,16377,,64807,,,4
+H3,2008,2008,2008,4,0,1,Import,50,Bangladesh,BGD,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,154,,,,154,,1073,,,4
+H3,2008,2008,2008,4,0,1,Import,50,Bangladesh,BGD,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8726,,,,8726,,22427,,,4
+H3,2008,2008,2008,4,0,1,Import,50,Bangladesh,BGD,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1665,,,,1665,,6271,,,4
+H3,2008,2008,2008,4,0,1,Import,50,Bangladesh,BGD,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5595,,,,5595,,23943,,,4
+H3,2008,2008,2008,4,0,1,Import,50,Bangladesh,BGD,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,250,,,,250,,1171,,,4
+H3,2008,2008,2008,4,0,1,Import,50,Bangladesh,BGD,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4324,,,,4324,,21521,,,4
+H3,2008,2008,2008,4,0,1,Import,50,Bangladesh,BGD,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2769,,,,2769,,16705,,,4
+H3,2008,2008,2008,4,0,1,Import,50,Bangladesh,BGD,740,Suriname,SUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15,,,,15,,135,,,4
+H3,2008,2008,2008,4,0,1,Import,50,Bangladesh,BGD,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2313,,,,2313,,12875,,,4
+H3,2008,2008,2008,4,0,1,Import,50,Bangladesh,BGD,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12441,,,,12441,,69736,,,4
+H3,2008,2008,2008,4,0,1,Import,50,Bangladesh,BGD,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7022,,,,7022,,43059,,,4
+H3,2008,2008,2008,4,0,2,Export,50,Bangladesh,BGD,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2628,,,,2628,,8275,,,4
+H3,2009,2009,2009,4,0,1,Import,50,Bangladesh,BGD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,178408,,,,178408,,1009291,,,4
+H3,2009,2009,2009,4,0,2,Export,50,Bangladesh,BGD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6725,,,,6725,,19481,,,4
+H3,2009,2009,2009,4,0,1,Import,50,Bangladesh,BGD,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2238,,,,2238,,12503,,,4
+H3,2009,2009,2009,4,0,1,Import,50,Bangladesh,BGD,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,68456,,,,68456,,311294,,,4
+H3,2009,2009,2009,4,0,1,Import,50,Bangladesh,BGD,144,Sri Lanka,LKA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,38,,,,38,,131,,,4
+H3,2009,2009,2009,4,0,1,Import,50,Bangladesh,BGD,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1008,,,,1008,,7609,,,4
+H3,2009,2009,2009,4,0,1,Import,50,Bangladesh,BGD,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,52485,,,,52485,,324633,,,4
+H3,2009,2009,2009,4,0,2,Export,50,Bangladesh,BGD,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6725,,,,6725,,19481,,,4
+H3,2009,2009,2009,4,0,1,Import,50,Bangladesh,BGD,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2513,,,,2513,,21252,,,4
+H3,2009,2009,2009,4,0,1,Import,50,Bangladesh,BGD,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8174,,,,8174,,77079,,,4
+H3,2009,2009,2009,4,0,1,Import,50,Bangladesh,BGD,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2400,,,,2400,,27830,,,4
+H3,2009,2009,2009,4,0,1,Import,50,Bangladesh,BGD,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1031,,,,1031,,7548,,,4
+H3,2009,2009,2009,4,0,1,Import,50,Bangladesh,BGD,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,19759,,,,19759,,92552,,,4
+H3,2009,2009,2009,4,0,1,Import,50,Bangladesh,BGD,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1700,,,,1700,,10941,,,4
+H3,2009,2009,2009,4,0,1,Import,50,Bangladesh,BGD,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,215,,,,215,,12305,,,4
+H3,2009,2009,2009,4,0,1,Import,50,Bangladesh,BGD,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3553,,,,3553,,19036,,,4
+H3,2009,2009,2009,4,0,1,Import,50,Bangladesh,BGD,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9479,,,,9479,,56565,,,4
+H3,2009,2009,2009,4,0,1,Import,50,Bangladesh,BGD,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5359,,,,5359,,28014,,,4
+H2,2005,2005,2005,4,0,1,Import,50,Bangladesh,BGD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,97339,,,,97339,,467947,,,4
+H2,2005,2005,2005,4,0,1,Import,50,Bangladesh,BGD,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19586,,,,19586,,85613,,,4
+H2,2005,2005,2005,4,0,1,Import,50,Bangladesh,BGD,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,810,,,,810,,2968,,,4
+H2,2005,2005,2005,4,0,1,Import,50,Bangladesh,BGD,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1650,,,,1650,,2413,,,4
+H2,2005,2005,2005,4,0,1,Import,50,Bangladesh,BGD,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,37802,,,,37802,,152020,,,4
+H2,2005,2005,2005,4,0,1,Import,50,Bangladesh,BGD,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,967,,,,967,,788,,,4
+H2,2005,2005,2005,4,0,1,Import,50,Bangladesh,BGD,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3618,,,,3618,,20098,,,4
+H2,2005,2005,2005,4,0,1,Import,50,Bangladesh,BGD,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,594,,,,594,,2232,,,4
+H2,2005,2005,2005,4,0,1,Import,50,Bangladesh,BGD,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10549,,,,10549,,46310,,,4
+H2,2005,2005,2005,4,0,1,Import,50,Bangladesh,BGD,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3872,,,,3872,,12696,,,4
+H2,2005,2005,2005,4,0,1,Import,50,Bangladesh,BGD,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10205,,,,10205,,82036,,,4
+H2,2005,2005,2005,4,0,1,Import,50,Bangladesh,BGD,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1823,,,,1823,,16792,,,4
+H2,2005,2005,2005,4,0,1,Import,50,Bangladesh,BGD,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1400,,,,1400,,16973,,,4
+H2,2005,2005,2005,4,0,1,Import,50,Bangladesh,BGD,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2887,,,,2887,,12271,,,4
+H2,2005,2005,2005,4,0,1,Import,50,Bangladesh,BGD,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1576,,,,1576,,14740,,,4
+H2,2006,2006,2006,4,0,1,Import,50,Bangladesh,BGD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,124407,,,,124407,,396672,,,4
+H2,2006,2006,2006,4,0,1,Import,50,Bangladesh,BGD,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,130,,,,130,,470,,,4
+H2,2006,2006,2006,4,0,1,Import,50,Bangladesh,BGD,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36662,,,,36662,,112938,,,4
+H2,2006,2006,2006,4,0,1,Import,50,Bangladesh,BGD,51,Armenia,ARM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,720,,,,720,,848,,,4
+H2,2006,2006,2006,4,0,1,Import,50,Bangladesh,BGD,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2377,,,,2377,,5604,,,4
+H2,2006,2006,2006,4,0,1,Import,50,Bangladesh,BGD,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,54373,,,,54373,,154795,,,4
+H2,2006,2006,2006,4,0,1,Import,50,Bangladesh,BGD,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2433,,,,2433,,19081,,,4
+H2,2006,2006,2006,4,0,1,Import,50,Bangladesh,BGD,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,65,,,,65,,230,,,4
+H2,2006,2006,2006,4,0,1,Import,50,Bangladesh,BGD,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1000,,,,1000,,5769,,,4
+H2,2006,2006,2006,4,0,1,Import,50,Bangladesh,BGD,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1190,,,,1190,,2052,,,4
+H2,2006,2006,2006,4,0,1,Import,50,Bangladesh,BGD,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10357,,,,10357,,51611,,,4
+H2,2006,2006,2006,4,0,1,Import,50,Bangladesh,BGD,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,604,,,,604,,3995,,,4
+H2,2006,2006,2006,4,0,1,Import,50,Bangladesh,BGD,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1805,,,,1805,,8885,,,4
+H2,2006,2006,2006,4,0,1,Import,50,Bangladesh,BGD,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,38,,,,38,,943,,,4
+H2,2006,2006,2006,4,0,1,Import,50,Bangladesh,BGD,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12653,,,,12653,,29449,,,4
+H2,2007,2007,2007,4,0,1,Import,50,Bangladesh,BGD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,96067,,,,96067,,421654,,,4
+H2,2007,2007,2007,4,0,1,Import,50,Bangladesh,BGD,31,Azerbaijan,AZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27,,,,27,,175,,,4
+H2,2007,2007,2007,4,0,1,Import,50,Bangladesh,BGD,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,48710,,,,48710,,215912,,,4
+H2,2007,2007,2007,4,0,1,Import,50,Bangladesh,BGD,44,Bahamas,BHS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1220,,,,1220,,7283,,,4
+H2,2007,2007,2007,4,0,1,Import,50,Bangladesh,BGD,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1000,,,,1000,,1433,,,4
+H2,2007,2007,2007,4,0,1,Import,50,Bangladesh,BGD,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,30880,,,,30880,,130740,,,4
+H2,2007,2007,2007,4,0,1,Import,50,Bangladesh,BGD,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,968,,,,968,,7361,,,4
+H2,2007,2007,2007,4,0,1,Import,50,Bangladesh,BGD,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2480,,,,2480,,19812,,,4
+H2,2007,2007,2007,4,0,1,Import,50,Bangladesh,BGD,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,92,,,,92,,187,,,4
+H2,2007,2007,2007,4,0,1,Import,50,Bangladesh,BGD,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,162,,,,162,,816,,,4
+H2,2007,2007,2007,4,0,1,Import,50,Bangladesh,BGD,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,186,,,,186,,581,,,4
+H2,2007,2007,2007,4,0,1,Import,50,Bangladesh,BGD,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10342,,,,10342,,37355,,,4
+H4,2012,2012,2012,4,0,1,Import,50,Bangladesh,BGD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,115464,,,,115464,,651106,,,4
+H4,2012,2012,2012,4,0,1,Import,50,Bangladesh,BGD,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15291,,,,15291,,59733,,,4
+H4,2012,2012,2012,4,0,1,Import,50,Bangladesh,BGD,144,Sri Lanka,LKA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3100,,,,3100,,10892,,,4
+H4,2012,2012,2012,4,0,1,Import,50,Bangladesh,BGD,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1500,,,,1500,,49372,,,4
+H4,2012,2012,2012,4,0,1,Import,50,Bangladesh,BGD,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,30003,,,,30003,,176788,,,4
+H4,2012,2012,2012,4,0,1,Import,50,Bangladesh,BGD,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3879,,,,3879,,48581,,,4
+H4,2012,2012,2012,4,0,1,Import,50,Bangladesh,BGD,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6577,,,,6577,,40597,,,4
+H4,2012,2012,2012,4,0,1,Import,50,Bangladesh,BGD,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1017,,,,1017,,5978,,,4
+H4,2012,2012,2012,4,0,1,Import,50,Bangladesh,BGD,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,158,,,,158,,666,,,4
+H4,2012,2012,2012,4,0,1,Import,50,Bangladesh,BGD,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5570,,,,5570,,26912,,,4
+H4,2012,2012,2012,4,0,1,Import,50,Bangladesh,BGD,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1416,,,,1416,,12789,,,4
+H4,2012,2012,2012,4,0,1,Import,50,Bangladesh,BGD,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8322,,,,8322,,52945,,,4
+H4,2012,2012,2012,4,0,1,Import,50,Bangladesh,BGD,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12159,,,,12159,,30483,,,4
+H4,2012,2012,2012,4,0,1,Import,50,Bangladesh,BGD,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,26446,,,,26446,,135273,,,4
+H4,2012,2012,2012,4,0,1,Import,50,Bangladesh,BGD,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,26,,,,26,,96,,,4
+H4,2013,2013,2013,4,0,1,Import,50,Bangladesh,BGD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,158492,,,,158492,,745224,,,4
+H4,2013,2013,2013,4,0,2,Export,50,Bangladesh,BGD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13470,,,,13470,,12749,,,4
+H4,2013,2013,2013,4,0,1,Import,50,Bangladesh,BGD,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25666,,,,25666,,132351,,,4
+H4,2013,2013,2013,4,0,1,Import,50,Bangladesh,BGD,144,Sri Lanka,LKA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10115,,,,10115,,30921,,,4
+H4,2013,2013,2013,4,0,1,Import,50,Bangladesh,BGD,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25940,,,,25940,,136410,,,4
+H4,2013,2013,2013,4,0,1,Import,50,Bangladesh,BGD,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1268,,,,1268,,10017,,,4
+H4,2013,2013,2013,4,0,1,Import,50,Bangladesh,BGD,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,54,,,,54,,1054,,,4
+H4,2013,2013,2013,4,0,1,Import,50,Bangladesh,BGD,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14272,,,,14272,,67349,,,4
+H4,2013,2013,2013,4,0,2,Export,50,Bangladesh,BGD,462,Maldives,MDV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13470,,,,13470,,12749,,,4
+H4,2013,2013,2013,4,0,1,Import,50,Bangladesh,BGD,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18,,,,18,,696,,,4
+H4,2013,2013,2013,4,0,1,Import,50,Bangladesh,BGD,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3782,,,,3782,,7461,,,4
+H4,2013,2013,2013,4,0,1,Import,50,Bangladesh,BGD,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,31819,,,,31819,,129717,,,4
+H4,2013,2013,2013,4,0,1,Import,50,Bangladesh,BGD,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2903,,,,2903,,19214,,,4
+H4,2013,2013,2013,4,0,1,Import,50,Bangladesh,BGD,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,28441,,,,28441,,163390,,,4
+H4,2013,2013,2013,4,0,1,Import,50,Bangladesh,BGD,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8214,,,,8214,,11880,,,4
+H4,2013,2013,2013,4,0,1,Import,50,Bangladesh,BGD,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6000,,,,6000,,34764,,,4
+H3,2010,2010,2010,4,0,1,Import,50,Bangladesh,BGD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,144375,,,,144375,,800454,,,4
+H3,2010,2010,2010,4,0,2,Export,50,Bangladesh,BGD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,196,,,,196,,199,,,4
+H3,2010,2010,2010,4,0,1,Import,50,Bangladesh,BGD,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,65741,,,,65741,,260126,,,4
+H3,2010,2010,2010,4,0,1,Import,50,Bangladesh,BGD,144,Sri Lanka,LKA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1400,,,,1400,,2673,,,4
+H3,2010,2010,2010,4,0,1,Import,50,Bangladesh,BGD,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1008,,,,1008,,7536,,,4
+H3,2010,2010,2010,4,0,1,Import,50,Bangladesh,BGD,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,27490,,,,27490,,235423,,,4
+H3,2010,2010,2010,4,0,1,Import,50,Bangladesh,BGD,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1800,,,,1800,,24365,,,4
+H3,2010,2010,2010,4,0,1,Import,50,Bangladesh,BGD,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6894,,,,6894,,59020,,,4
+H3,2010,2010,2010,4,0,2,Export,50,Bangladesh,BGD,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,196,,,,196,,199,,,4
+H3,2010,2010,2010,4,0,1,Import,50,Bangladesh,BGD,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1817,,,,1817,,14238,,,4
+H3,2010,2010,2010,4,0,1,Import,50,Bangladesh,BGD,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,995,,,,995,,7262,,,4
+H3,2010,2010,2010,4,0,1,Import,50,Bangladesh,BGD,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,116,,,,116,,646,,,4
+H3,2010,2010,2010,4,0,1,Import,50,Bangladesh,BGD,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,23339,,,,23339,,111761,,,4
+H3,2010,2010,2010,4,0,1,Import,50,Bangladesh,BGD,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1400,,,,1400,,13748,,,4
+H3,2010,2010,2010,4,0,1,Import,50,Bangladesh,BGD,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,416,,,,416,,5794,,,4
+H3,2010,2010,2010,4,0,1,Import,50,Bangladesh,BGD,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10559,,,,10559,,52991,,,4
+H3,2010,2010,2010,4,0,1,Import,50,Bangladesh,BGD,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1400,,,,1400,,4871,,,4
+H3,2011,2011,2011,4,0,1,Import,50,Bangladesh,BGD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,141495,,,,141495,,744523,,,4
+H3,2011,2011,2011,4,0,1,Import,50,Bangladesh,BGD,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,38787,,,,38787,,133611,,,4
+H3,2011,2011,2011,4,0,1,Import,50,Bangladesh,BGD,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,300,,,,300,,5213,,,4
+H3,2011,2011,2011,4,0,1,Import,50,Bangladesh,BGD,144,Sri Lanka,LKA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5770,,,,5770,,13075,,,4
+H3,2011,2011,2011,4,0,1,Import,50,Bangladesh,BGD,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10,,,,10,,515,,,4
+H3,2011,2011,2011,4,0,1,Import,50,Bangladesh,BGD,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,44580,,,,44580,,249945,,,4
+H3,2011,2011,2011,4,0,1,Import,50,Bangladesh,BGD,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,264,,,,264,,4103,,,4
+H3,2011,2011,2011,4,0,1,Import,50,Bangladesh,BGD,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4302,,,,4302,,28795,,,4
+H3,2011,2011,2011,4,0,1,Import,50,Bangladesh,BGD,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1376,,,,1376,,8954,,,4
+H3,2011,2011,2011,4,0,1,Import,50,Bangladesh,BGD,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1498,,,,1498,,4982,,,4
+H3,2011,2011,2011,4,0,1,Import,50,Bangladesh,BGD,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6969,,,,6969,,45775,,,4
+H3,2011,2011,2011,4,0,1,Import,50,Bangladesh,BGD,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1350,,,,1350,,11872,,,4
+H3,2011,2011,2011,4,0,1,Import,50,Bangladesh,BGD,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1354,,,,1354,,8887,,,4
+H3,2011,2011,2011,4,0,1,Import,50,Bangladesh,BGD,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18583,,,,18583,,139256,,,4
+H3,2011,2011,2011,4,0,1,Import,50,Bangladesh,BGD,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,14850,,,,14850,,67772,,,4
+H3,2011,2011,2011,4,0,1,Import,50,Bangladesh,BGD,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1502,,,,1502,,21768,,,4
+H4,2015,2015,2015,4,0,1,Import,50,Bangladesh,BGD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,134456,,,,134456,,527385,,,4
+H4,2015,2015,2015,4,0,1,Import,50,Bangladesh,BGD,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22274,,,,22274,,91406,,,4
+H4,2015,2015,2015,4,0,1,Import,50,Bangladesh,BGD,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2417,,,,2417,,7500,,,4
+H4,2015,2015,2015,4,0,1,Import,50,Bangladesh,BGD,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,333,,,,333,,2212,,,4
+H4,2015,2015,2015,4,0,1,Import,50,Bangladesh,BGD,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,47084,,,,47084,,170099,,,4
+H4,2015,2015,2015,4,0,1,Import,50,Bangladesh,BGD,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1103,,,,1103,,6460,,,4
+H4,2015,2015,2015,4,0,1,Import,50,Bangladesh,BGD,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8640,,,,8640,,13164,,,4
+H4,2015,2015,2015,4,0,1,Import,50,Bangladesh,BGD,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8371,,,,8371,,33281,,,4
+H4,2015,2015,2015,4,0,1,Import,50,Bangladesh,BGD,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90,,,,90,,1807,,,4
+H4,2015,2015,2015,4,0,1,Import,50,Bangladesh,BGD,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4378,,,,4378,,11828,,,4
+H4,2015,2015,2015,4,0,1,Import,50,Bangladesh,BGD,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17155,,,,17155,,68052,,,4
+H4,2015,2015,2015,4,0,1,Import,50,Bangladesh,BGD,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3762,,,,3762,,19774,,,4
+H4,2015,2015,2015,4,0,1,Import,50,Bangladesh,BGD,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2244,,,,2244,,3562,,,4
+H4,2015,2015,2015,4,0,1,Import,50,Bangladesh,BGD,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15172,,,,15172,,84643,,,4
+H4,2015,2015,2015,4,0,1,Import,50,Bangladesh,BGD,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,528,,,,528,,6476,,,4
+H4,2015,2015,2015,4,0,1,Import,50,Bangladesh,BGD,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,905,,,,905,,7120,,,4

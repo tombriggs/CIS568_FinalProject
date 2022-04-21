@@ -1,0 +1,548 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,4,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,343,,,,343,,1587,,,0
+H1,2000,2000,2000,4,0,1,Import,634,Qatar,QAT,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,343,,,,343,,1587,,,0
+H1,2001,2001,2001,4,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2062,,,,2062,,11537,,,0
+H1,2001,2001,2001,4,0,1,Import,634,Qatar,QAT,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1125,,,,1125,,6635,,,0
+H1,2001,2001,2001,4,0,1,Import,634,Qatar,QAT,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,937,,,,937,,4902,,,0
+H1,2002,2002,2002,4,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,39525,,,,39525,,1717,,,0
+H1,2002,2002,2002,4,0,1,Import,634,Qatar,QAT,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,26785,,,,26785,,1002,,,0
+H1,2002,2002,2002,4,0,1,Import,634,Qatar,QAT,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12740,,,,12740,,715,,,0
+H1,2003,2003,2003,4,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,450555,,,0
+H1,2003,2003,2003,4,0,1,Import,634,Qatar,QAT,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,5860,,,0
+H1,2003,2003,2003,4,0,1,Import,634,Qatar,QAT,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,214380,,,0
+H1,2003,2003,2003,4,0,1,Import,634,Qatar,QAT,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,6544,,,0
+H1,2003,2003,2003,4,0,1,Import,634,Qatar,QAT,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,12780,,,0
+H1,2003,2003,2003,4,0,1,Import,634,Qatar,QAT,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,4567,,,0
+H1,2003,2003,2003,4,0,1,Import,634,Qatar,QAT,788,Tunisia,TUN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,100,,,0
+H1,2003,2003,2003,4,0,1,Import,634,Qatar,QAT,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,201934,,,0
+H1,2003,2003,2003,4,0,1,Import,634,Qatar,QAT,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,4386,,,0
+H1,2004,2004,2004,4,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,1427880,,,0
+H1,2004,2004,2004,4,0,1,Import,634,Qatar,QAT,12,Algeria,DZA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,879,,,0
+H1,2004,2004,2004,4,0,1,Import,634,Qatar,QAT,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,82,,,0
+H1,2004,2004,2004,4,0,1,Import,634,Qatar,QAT,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,122583,,,0
+H1,2004,2004,2004,4,0,1,Import,634,Qatar,QAT,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,6797,,,0
+H1,2004,2004,2004,4,0,1,Import,634,Qatar,QAT,192,Cuba,CUB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,329,,,0
+H1,2004,2004,2004,4,0,1,Import,634,Qatar,QAT,246,Finland,FIN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,3615,,,0
+H1,2004,2004,2004,4,0,1,Import,634,Qatar,QAT,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,620992,,,0
+H1,2004,2004,2004,4,0,1,Import,634,Qatar,QAT,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,69724,,,0
+H1,2004,2004,2004,4,0,1,Import,634,Qatar,QAT,400,Jordan,JOR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,3725,,,0
+H1,2004,2004,2004,4,0,1,Import,634,Qatar,QAT,422,Lebanon,LBN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,2057,,,0
+H1,2004,2004,2004,4,0,1,Import,634,Qatar,QAT,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,6352,,,0
+H1,2004,2004,2004,4,0,1,Import,634,Qatar,QAT,699,India,IND,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,8457,,,0
+H1,2004,2004,2004,4,0,1,Import,634,Qatar,QAT,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,4074,,,0
+H1,2004,2004,2004,4,0,1,Import,634,Qatar,QAT,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,43835,,,0
+H1,2004,2004,2004,4,0,1,Import,634,Qatar,QAT,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,520716,,,0
+H1,2004,2004,2004,4,0,1,Import,634,Qatar,QAT,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,13655,,,0
+H3,2009,2009,2009,4,0,2,Export,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,52552,,,0
+H3,2009,2009,2009,4,0,3,Re-Export,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,52552,,,0
+H3,2009,2009,2009,4,0,2,Export,634,Qatar,QAT,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,52552,,,0
+H3,2009,2009,2009,4,0,3,Re-Export,634,Qatar,QAT,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,52552,,,0
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9405949,,,,9405949,,14430202,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,58198,,,,58198,,125793,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1598510,,,,1598510,,1360205,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,132055,,,,132055,,95104,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19372,,,,19372,,20828,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,50333,,,,50333,,121384,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,174,,,,174,,867,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,377411,,,,377411,,299880,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1406,,,,1406,,8529,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1848,,,,1848,,4588,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,482953,,,,482953,,1569926,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,337982,,,,337982,,315468,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,406,,,,406,,1572,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,364,Iran,IRN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,175,,,,175,,863,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,133196,,,,133196,,146470,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,368370,,,,368370,,1244256,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,531,,,,531,,5043,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,400,Jordan,JOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2920,,,,2920,,6497,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3636,,,,3636,,18554,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,467824,,,,467824,,436199,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,865666,,,,865666,,961869,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4015,,,,4015,,22078,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,52449,,,,52449,,44443,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6755,,,,6755,,22683,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4458,,,,4458,,14119,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,786413,,,,786413,,682948,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,114562,,,,114562,,83878,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,151721,,,,151721,,224853,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,80859,,,,80859,,91691,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,748,Eswatini,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,289,,,,289,,5053,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6658,,,,6658,,20292,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,289,,,,289,,4665,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7243,,,,7243,,55463,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2824035,,,,2824035,,5888977,,,6
+H2,2005,2005,2005,4,0,1,Import,634,Qatar,QAT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,463237,,,,463237,,525168,,,6
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10544182,,,,10544182,,20290763,,,2
+H2,2006,2006,2006,4,0,2,Export,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22804,,,,22804,,42423,,,2
+H2,2006,2006,2006,4,0,3,Re-Export,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22804,,,,22804,,42423,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17042,,,,17042,,46854,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1648251,,,,1648251,,1376617,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,543739,,,,543739,,498657,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,73390,,,,73390,,56896,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6626,,,,6626,,21989,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22743,,,,22743,,40678,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5191,,,,5191,,17416,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,664341,,,,664341,,502052,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,690512,,,,690512,,3393667,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,214651,,,,214651,,207017,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,103690,,,,103690,,120826,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,600871,,,,600871,,3311051,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,434,,,,434,,5719,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,400,Jordan,JOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4889,,,,4889,,11362,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,414,Kuwait,KWT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,25160,,,,25160,,17638,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,25404,,,,25404,,42463,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,405143,,,,405143,,487184,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,672922,,,,672922,,1170192,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,103229,,,,103229,,96319,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,562,Niger,NER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,38803,,,,38803,,46888,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,128570,,,,128570,,90599,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11539,,,,11539,,86461,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,678987,,,,678987,,521209,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,135497,,,,135497,,102497,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,212385,,,,212385,,365853,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23052,,,,23052,,82250,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,46499,,,,46499,,204230,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1128,,,,1128,,18472,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10374,,,,10374,,105094,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18906,,,,18906,,11202,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2759502,,,,2759502,,6398702,,,2
+H2,2006,2006,2006,4,0,1,Import,634,Qatar,QAT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,650713,,,,650713,,832712,,,2
+H2,2006,2006,2006,4,0,2,Export,634,Qatar,QAT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22804,,,,22804,,42423,,,2
+H2,2006,2006,2006,4,0,3,Re-Export,634,Qatar,QAT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22804,,,,22804,,42423,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13083779,,,,13083779,,22882515,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,31,Azerbaijan,AZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7433,,,,7433,,10674,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,160,,,,160,,734,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2043722,,,,2043722,,1838018,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,266513,,,,266513,,216232,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1876,,,,1876,,9386,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,993,,,,993,,3459,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,92421,,,,92421,,241086,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2683,,,,2683,,12504,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,191,Croatia,HRV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,69,,,,69,,930,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,435,,,,435,,1519,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20,,,,20,,165,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,392724,,,,392724,,292702,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,979446,,,,979446,,4619191,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,164179,,,,164179,,171444,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,300659,,,,300659,,218663,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,498118,,,,498118,,3334518,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4352,,,,4352,,9291,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,400,Jordan,JOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2924,,,,2924,,6798,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10311,,,,10311,,51087,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,756893,,,,756893,,729722,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1833998,,,,1833998,,1435180,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21528,,,,21528,,122963,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,130665,,,,130665,,92236,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4040,,,,4040,,9992,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23130,,,,23130,,193591,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1107238,,,,1107238,,841932,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,115808,,,,115808,,94831,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,386155,,,,386155,,585821,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,47429,,,,47429,,129203,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45939,,,,45939,,197131,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,29457,,,,29457,,10530,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,196045,,,,196045,,131731,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3087077,,,,3087077,,6384048,,,2
+H2,2007,2007,2007,4,0,1,Import,634,Qatar,QAT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,529340,,,,529340,,885204,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13304156,,,,13304156,,22304364,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3344,,,,3344,,11394,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1728534,,,,1728534,,1903717,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,301123,,,,301123,,359071,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,129180,,,,129180,,310992,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,900,,,,900,,4141,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6859,,,,6859,,18975,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1200,,,,1200,,4197,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16873,,,,16873,,14526,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,180504,,,,180504,,127746,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1011531,,,,1011531,,5003966,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,206174,,,,206174,,462109,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,292775,,,,292775,,216106,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,598144,,,,598144,,2383255,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1699,,,,1699,,16583,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,400,Jordan,JOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7849,,,,7849,,21295,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,125285,,,,125285,,150313,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,736177,,,,736177,,710076,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1730266,,,,1730266,,1368082,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11561,,,,11561,,52177,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,562,Niger,NER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15710,,,,15710,,5847,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,326032,,,,326032,,129786,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1312,,,,1312,,22796,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3321,,,,3321,,19447,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1745714,,,,1745714,,1463760,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,154011,,,,154011,,124784,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,524516,,,,524516,,601217,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,61465,,,,61465,,172820,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,75679,,,,75679,,332071,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6293,,,,6293,,40259,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,230,,,,230,,1948,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,418,,,,418,,4598,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,567608,,,,567608,,428123,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2220188,,,,2220188,,4748757,,,2
+H2,2008,2008,2008,4,0,1,Import,634,Qatar,QAT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,511681,,,,511681,,1069431,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15721387,,,,15721387,,38128287,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90,,,,90,,1331,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,62575,,,,62575,,594729,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,110987,,,,110987,,389735,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1182235,,,,1182235,,3138379,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7868,,,,7868,,77283,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,44,Bahamas,BHS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,96,,,,96,,477,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,762964,,,,762964,,728591,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,39840,,,,39840,,115875,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,87902,,,,87902,,544903,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,366643,,,,366643,,921173,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,958,,,,958,,20651,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8093,,,,8093,,50677,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,33319,,,,33319,,30625,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,77850,,,,77850,,30627,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,106,,,,106,,506,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2188822,,,,2188822,,11601473,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,536926,,,,536926,,806966,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,56,,,,56,,135,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1950,,,,1950,,40734,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,695359,,,,695359,,560804,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,349065,,,,349065,,634659,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,527970,,,,527970,,1691232,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,241,,,,241,,1375,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2390,,,,2390,,8148,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,400,Jordan,JOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10740,,,,10740,,28226,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,68000,,,,68000,,101547,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,62004,,,,62004,,122962,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,428,Latvia,LVA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2726,,,,2726,,4277,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,29,,,,29,,312,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1101642,,,,1101642,,1250478,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1208,,,,1208,,13455,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1338433,,,,1338433,,1265414,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,105527,,,,105527,,557353,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,83946,,,,83946,,185042,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,27938,,,,27938,,87034,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,47081,,,,47081,,139998,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1482543,,,,1482543,,2190262,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,170088,,,,170088,,157651,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,704,Viet Nam,VNM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19445,,,,19445,,21801,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,685744,,,,685744,,1429396,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,431022,,,,431022,,1187998,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,152994,,,,152994,,701539,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5302,,,,5302,,150661,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1105,,,,1105,,13297,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,23464,,,,23464,,138404,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,890582,,,,890582,,796260,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1538203,,,,1538203,,4479076,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,427281,,,,427281,,1113886,,,2
+H4,2013,2013,2013,4,0,1,Import,634,Qatar,QAT,862,Venezuela,VEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,38,,,,38,,870,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12840327,,,,12840327,,23997209,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,67278,,,,67278,,199005,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,766458,,,,766458,,1028939,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,44,Bahamas,BHS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,29,,,,29,,41,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,740612,,,,740612,,679951,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,788,,,,788,,3313,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4826,,,,4826,,37789,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,262636,,,,262636,,737377,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,43948,,,,43948,,46347,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,144832,,,,144832,,57698,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1159722,,,,1159722,,5495143,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,442838,,,,442838,,503929,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1423,,,,1423,,5044,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,57,,,,57,,946,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,340928,,,,340928,,271772,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1900,,,,1900,,19259,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,354117,,,,354117,,551291,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,450336,,,,450336,,1268163,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,327,,,,327,,1454,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3189,,,,3189,,17906,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,398,Kazakhstan,KAZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,51,,,,51,,1195,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,400,Jordan,JOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15744,,,,15744,,40136,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17000,,,,17000,,13789,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,42902,,,,42902,,113462,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,428,Latvia,LVA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14400,,,,14400,,28873,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,960264,,,,960264,,1000186,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2001820,,,,2001820,,2054670,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,40148,,,,40148,,145157,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,83332,,,,83332,,143836,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,35517,,,,35517,,126023,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,40822,,,,40822,,110096,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1095877,,,,1095877,,1604162,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,94626,,,,94626,,93330,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,704,Viet Nam,VNM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,155556,,,,155556,,171368,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,563496,,,,563496,,1080538,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,204259,,,,204259,,626833,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,155373,,,,155373,,734480,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,432,,,,432,,6879,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15792,,,,15792,,25287,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,801508,,,,801508,,745987,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1376791,,,,1376791,,3427561,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,338065,,,,338065,,773820,,,2
+H4,2014,2014,2014,4,0,1,Import,634,Qatar,QAT,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,310,,,,310,,4175,,,2
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,26019479,,,0
+H3,2012,2012,2012,4,0,2,Export,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,72535,,,0
+H3,2012,2012,2012,4,0,3,Re-Export,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,72535,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,75912,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,1855963,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,2516,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,44,Bahamas,BHS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,18580,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,339115,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,4359,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,15772,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,1148310,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,20582,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,31722,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,30636,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,19640,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,212,Dominica,DMA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,1187,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,233,Estonia,EST,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,1067,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,10999995,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,651913,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,19124,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,1248,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,46171,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,348307,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,1282746,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,987,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,50462,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,398,Kazakhstan,KAZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,1146,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,400,Jordan,JOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,16884,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,33296,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,197205,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,430,Liberia,LBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,15625,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,593231,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,709100,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,531,Curaçao,CUW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,10967,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,267988,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,106202,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,90706,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,113352,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,35013,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,912801,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,51031,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,704,Viet Nam,VNM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,1104,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,833878,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,687203,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,319363,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,20714,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,1007,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,8983,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,352179,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,2703685,,,0
+H3,2012,2012,2012,4,0,2,Export,634,Qatar,QAT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,72535,,,0
+H3,2012,2012,2012,4,0,3,Re-Export,634,Qatar,QAT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,72535,,,0
+H3,2012,2012,2012,4,0,1,Import,634,Qatar,QAT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,970476,,,0
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15284705,,,,15284705,,23477669,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,148,,,,148,,1099,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7404,,,,7404,,20392,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1392557,,,,1392557,,1520248,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,383985,,,,383985,,326701,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1456,,,,1456,,4690,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,31418,,,,31418,,168809,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,173065,,,,173065,,435204,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,320,,,,320,,460,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6282,,,,6282,,35029,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1020,,,,1020,,2928,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,84185,,,,84185,,83624,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,658016,,,,658016,,522559,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1110206,,,,1110206,,3927573,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,400249,,,,400249,,487400,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,120,,,,120,,712,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,236383,,,,236383,,241909,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,436583,,,,436583,,1457867,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4474,,,,4474,,29012,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,400,Jordan,JOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6084,,,,6084,,15958,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,87400,,,,87400,,172764,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,165548,,,,165548,,311842,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,884590,,,,884590,,1024887,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2197843,,,,2197843,,2134542,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19588,,,,19588,,72309,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,562,Niger,NER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15710,,,,15710,,5847,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,251258,,,,251258,,216505,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,707,,,,707,,4126,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6017,,,,6017,,39538,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,33167,,,,33167,,81381,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,690,Seychelles,SYC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5150,,,,5150,,37248,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2309194,,,,2309194,,1935354,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,190719,,,,190719,,156268,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,495135,,,,495135,,821828,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,203979,,,,203979,,594897,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,140577,,,,140577,,620120,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10485,,,,10485,,54275,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12064,,,,12064,,76608,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,135,,,,135,,231,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,770147,,,,770147,,708760,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1953234,,,,1953234,,4017342,,,2
+H2,2010,2010,2010,4,0,1,Import,634,Qatar,QAT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,598105,,,,598105,,1108825,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9404151,,,,9404151,,17658080,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,55677,,,,55677,,184337,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,470885,,,,470885,,793879,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,916238,,,,916238,,687260,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3861,,,,3861,,30246,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,235772,,,,235772,,673416,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5810,,,,5810,,33283,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10050,,,,10050,,13937,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1219729,,,,1219729,,3834141,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,438645,,,,438645,,441074,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3330,,,,3330,,28511,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,164648,,,,164648,,128996,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,212139,,,,212139,,332982,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,429859,,,,429859,,1094294,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,33375,,,,33375,,71064,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,60254,,,,60254,,182390,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,720236,,,,720236,,871078,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1228892,,,,1228892,,1429980,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3642,,,,3642,,38317,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16150,,,,16150,,21879,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,64242,,,,64242,,108893,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,23264,,,,23264,,82600,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,52392,,,,52392,,131307,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,148541,,,,148541,,184669,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,150828,,,,150828,,141288,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,704,Viet Nam,VNM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,222718,,,,222718,,147680,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,592993,,,,592993,,1087443,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,215570,,,,215570,,649165,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,134735,,,,134735,,514067,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1239452,,,,1239452,,3017315,,,2
+H4,2015,2015,2015,4,0,1,Import,634,Qatar,QAT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,330214,,,,330214,,702573,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11174652,,,,11174652,,19044854,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,60546,,,,60546,,187320,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,384935,,,,384935,,660627,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,568659,,,,568659,,425552,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14860,,,,14860,,81695,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,220953,,,,220953,,610257,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,37303,,,,37303,,14638,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,114516,,,,114516,,37936,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,778301,,,,778301,,3849228,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,192703,,,,192703,,255032,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1311980,,,,1311980,,1006562,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,195338,,,,195338,,316664,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,369486,,,,369486,,1153178,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11424,,,,11424,,78386,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,400,Jordan,JOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9720,,,,9720,,24415,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,26000,,,,26000,,50138,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,62405,,,,62405,,188460,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,673464,,,,673464,,615836,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1891770,,,,1891770,,1875071,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19817,,,,19817,,96776,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,32300,,,,32300,,43556,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,107337,,,,107337,,193283,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,33005,,,,33005,,156458,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,441745,,,,441745,,465580,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,568869,,,,568869,,553834,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,58140,,,,58140,,56881,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,704,Viet Nam,VNM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,263718,,,,263718,,182733,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,581153,,,,581153,,1023993,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,216235,,,,216235,,622536,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,122530,,,,122530,,497598,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1069,,,,1069,,25711,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,123010,,,,123010,,156055,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1371817,,,,1371817,,2604671,,,2
+H4,2016,2016,2016,4,0,1,Import,634,Qatar,QAT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,309537,,,,309537,,934176,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6373435,,,,6373435,,13575051,,,2
+H4,2017,2017,2017,4,0,2,Export,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,33360,,,0
+H4,2017,2017,2017,4,0,3,Re-Export,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,33360,,,0
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,66616,,,,66616,,227515,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,342120,,,,342120,,567046,,,2
+H4,2017,2017,2017,4,0,2,Export,634,Qatar,QAT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,6138,,,0
+H4,2017,2017,2017,4,0,3,Re-Export,634,Qatar,QAT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,6138,,,0
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,245988,,,,245988,,207531,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7666,,,,7666,,56646,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,225067,,,,225067,,674583,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,55954,,,,55954,,22381,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,32400,,,,32400,,15437,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,94533,,,,94533,,31990,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,642713,,,,642713,,3032788,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,109521,,,,109521,,158821,,,2
+H4,2017,2017,2017,4,0,2,Export,634,Qatar,QAT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,247,,,0
+H4,2017,2017,2017,4,0,3,Re-Export,634,Qatar,QAT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,247,,,0
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,328,Guyana,GUY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11951,,,,11951,,18604,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,908798,,,,908798,,690279,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3540,,,,3540,,95372,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,119206,,,,119206,,246833,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,375378,,,,375378,,1221391,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3814,,,,3814,,24931,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,400,Jordan,JOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10914,,,,10914,,27191,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,60000,,,,60000,,75962,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36697,,,,36697,,151742,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,428,Latvia,LVA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7626,,,,7626,,13083,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,51442,,,,51442,,253565,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,523873,,,,523873,,436438,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,37361,,,,37361,,139226,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,604,Peru,PER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,600,,,,600,,5545,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16575,,,,16575,,22689,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,86387,,,,86387,,158992,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,35868,,,,35868,,128184,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,364570,,,,364570,,408186,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,232055,,,,232055,,223083,,,2
+H4,2017,2017,2017,4,0,2,Export,634,Qatar,QAT,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,26974,,,0
+H4,2017,2017,2017,4,0,3,Re-Export,634,Qatar,QAT,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,26974,,,0
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,704,Viet Nam,VNM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20916,,,,20916,,6889,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,505218,,,,505218,,969598,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,161023,,,,161023,,569830,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,748,Eswatini,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15624,,,,15624,,36822,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,96022,,,,96022,,348293,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16544,,,,16544,,59635,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,48225,,,,48225,,64482,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,610069,,,,610069,,1219520,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,189501,,,,189501,,957480,,,2
+H4,2017,2017,2017,4,0,1,Import,634,Qatar,QAT,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1052,,,,1052,,6447,,,2
+H4,2018,2018,2018,4,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1902938,,,,1902938,,6218307,,,2
+H4,2018,2018,2018,4,0,2,Export,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,549220,,,0
+H4,2018,2018,2018,4,0,1,Import,634,Qatar,QAT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,31258,,,,31258,,94221,,,2
+H4,2018,2018,2018,4,0,1,Import,634,Qatar,QAT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,247455,,,,247455,,599071,,,2
+H4,2018,2018,2018,4,0,1,Import,634,Qatar,QAT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7806,,,,7806,,18575,,,2
+H4,2018,2018,2018,4,0,1,Import,634,Qatar,QAT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,128466,,,,128466,,371486,,,2
+H4,2018,2018,2018,4,0,1,Import,634,Qatar,QAT,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5952,,,,5952,,22284,,,2
+H4,2018,2018,2018,4,0,1,Import,634,Qatar,QAT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,324478,,,,324478,,2125966,,,2
+H4,2018,2018,2018,4,0,2,Export,634,Qatar,QAT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,549220,,,0
+H4,2018,2018,2018,4,0,1,Import,634,Qatar,QAT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22972,,,,22972,,87311,,,2
+H4,2018,2018,2018,4,0,1,Import,634,Qatar,QAT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,230720,,,,230720,,671496,,,2
+H4,2018,2018,2018,4,0,1,Import,634,Qatar,QAT,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8251,,,,8251,,45792,,,2
+H4,2018,2018,2018,4,0,1,Import,634,Qatar,QAT,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17000,,,,17000,,18180,,,2
+H4,2018,2018,2018,4,0,1,Import,634,Qatar,QAT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16033,,,,16033,,96933,,,2
+H4,2018,2018,2018,4,0,1,Import,634,Qatar,QAT,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,43231,,,,43231,,188250,,,2
+H4,2018,2018,2018,4,0,1,Import,634,Qatar,QAT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,94940,,,,94940,,32126,,,2
+H4,2018,2018,2018,4,0,1,Import,634,Qatar,QAT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2639,,,,2639,,16515,,,2
+H4,2018,2018,2018,4,0,1,Import,634,Qatar,QAT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,30525,,,,30525,,106167,,,2
+H4,2018,2018,2018,4,0,1,Import,634,Qatar,QAT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,358721,,,,358721,,683327,,,2
+H4,2018,2018,2018,4,0,1,Import,634,Qatar,QAT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,129459,,,,129459,,410767,,,2
+H4,2018,2018,2018,4,0,1,Import,634,Qatar,QAT,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16775,,,,16775,,56142,,,2
+H4,2018,2018,2018,4,0,1,Import,634,Qatar,QAT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,70692,,,,70692,,228032,,,2
+H4,2018,2018,2018,4,0,1,Import,634,Qatar,QAT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,115559,,,,115559,,345658,,,2
+H4,2019,2019,2019,4,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1817484,,,,1817484,,6156578,,,2
+H4,2019,2019,2019,4,0,2,Export,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,14646,,,0
+H4,2019,2019,2019,4,0,3,Re-Export,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,14646,,,0
+H4,2019,2019,2019,4,0,1,Import,634,Qatar,QAT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,56179,,,,56179,,175052,,,2
+H4,2019,2019,2019,4,0,1,Import,634,Qatar,QAT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,200308,,,,200308,,377723,,,2
+H4,2019,2019,2019,4,0,1,Import,634,Qatar,QAT,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1140,,,,1140,,22908,,,2
+H4,2019,2019,2019,4,0,1,Import,634,Qatar,QAT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4496,,,,4496,,14277,,,2
+H4,2019,2019,2019,4,0,1,Import,634,Qatar,QAT,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8211,,,,8211,,199597,,,2
+H4,2019,2019,2019,4,0,1,Import,634,Qatar,QAT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,190304,,,,190304,,538129,,,2
+H4,2019,2019,2019,4,0,1,Import,634,Qatar,QAT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,332022,,,,332022,,1895693,,,2
+H4,2019,2019,2019,4,0,1,Import,634,Qatar,QAT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7450,,,,7450,,23796,,,2
+H4,2019,2019,2019,4,0,1,Import,634,Qatar,QAT,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10040,,,,10040,,229107,,,2
+H4,2019,2019,2019,4,0,1,Import,634,Qatar,QAT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,343012,,,,343012,,830070,,,2
+H4,2019,2019,2019,4,0,1,Import,634,Qatar,QAT,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7548,,,,7548,,26999,,,2
+H4,2019,2019,2019,4,0,1,Import,634,Qatar,QAT,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9000,,,,9000,,18990,,,2
+H4,2019,2019,2019,4,0,1,Import,634,Qatar,QAT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20290,,,,20290,,142128,,,2
+H4,2019,2019,2019,4,0,1,Import,634,Qatar,QAT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20749,,,,20749,,64347,,,2
+H4,2019,2019,2019,4,0,1,Import,634,Qatar,QAT,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,500,,,,500,,29558,,,2
+H4,2019,2019,2019,4,0,1,Import,634,Qatar,QAT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22083,,,,22083,,165949,,,2
+H4,2019,2019,2019,4,0,2,Export,634,Qatar,QAT,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,14646,,,0
+H4,2019,2019,2019,4,0,3,Re-Export,634,Qatar,QAT,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,14646,,,0
+H4,2019,2019,2019,4,0,1,Import,634,Qatar,QAT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,346905,,,,346905,,586726,,,2
+H4,2019,2019,2019,4,0,1,Import,634,Qatar,QAT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,154004,,,,154004,,441139,,,2
+H4,2019,2019,2019,4,0,1,Import,634,Qatar,QAT,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17268,,,,17268,,56592,,,2
+H4,2019,2019,2019,4,0,1,Import,634,Qatar,QAT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16589,,,,16589,,131407,,,2
+H4,2019,2019,2019,4,0,1,Import,634,Qatar,QAT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,49378,,,,49378,,186381,,,2
+H5,2020,2020,2020,4,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2111746,,,,2111746,,6865182,,,2
+H5,2020,2020,2020,4,0,2,Export,634,Qatar,QAT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,26530,,,0
+H5,2020,2020,2020,4,0,1,Import,634,Qatar,QAT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45413,,,,45413,,132206,,,2
+H5,2020,2020,2020,4,0,1,Import,634,Qatar,QAT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,345476,,,,345476,,488482,,,2
+H5,2020,2020,2020,4,0,1,Import,634,Qatar,QAT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,221040,,,,221040,,539838,,,2
+H5,2020,2020,2020,4,0,1,Import,634,Qatar,QAT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,457098,,,,457098,,3247603,,,2
+H5,2020,2020,2020,4,0,1,Import,634,Qatar,QAT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,314940,,,,314940,,866814,,,2
+H5,2020,2020,2020,4,0,1,Import,634,Qatar,QAT,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18072,,,,18072,,38133,,,2
+H5,2020,2020,2020,4,0,1,Import,634,Qatar,QAT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25000,,,,25000,,120472,,,2
+H5,2020,2020,2020,4,0,1,Import,634,Qatar,QAT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11764,,,,11764,,15373,,,2
+H5,2020,2020,2020,4,0,1,Import,634,Qatar,QAT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17436,,,,17436,,43157,,,2
+H5,2020,2020,2020,4,0,2,Export,634,Qatar,QAT,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,26530,,,0
+H5,2020,2020,2020,4,0,1,Import,634,Qatar,QAT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,344536,,,,344536,,576164,,,2
+H5,2020,2020,2020,4,0,1,Import,634,Qatar,QAT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,166952,,,,166952,,424865,,,2
+H5,2020,2020,2020,4,0,1,Import,634,Qatar,QAT,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25495,,,,25495,,87362,,,2
+H5,2020,2020,2020,4,0,1,Import,634,Qatar,QAT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5276,,,,5276,,19327,,,2
+H5,2020,2020,2020,4,0,1,Import,634,Qatar,QAT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,113243,,,,113243,,265380,,,2

@@ -1,0 +1,59 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,2000,2000,2000,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,890792,,,,,,1082925,,,2
+H0,2000,2000,2000,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,890792,,,,,,1082925,,,2
+H0,2001,2001,2001,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1683701,,,,,,2106541,,,2
+H0,2001,2001,2001,4,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,7871,,,,,,11074,,,2
+H0,2001,2001,2001,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1683701,,,,,,2106541,,,2
+H0,2001,2001,2001,4,0,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,6301,,,,,,5541,,,2
+H0,2001,2001,2001,4,0,2,Export,426,Lesotho,LSO,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1570,,,,,,5532,,,2
+H0,2002,2002,2002,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,753684,,,,,,831770,,,2
+H0,2002,2002,2002,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,753684,,,,,,831770,,,2
+H0,2003,2003,2003,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,801134,,,,,,3195150,,,2
+H0,2003,2003,2003,4,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,24,,,,,,110,,,2
+H0,2003,2003,2003,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,801134,,,,,,3195150,,,2
+H0,2003,2003,2003,4,0,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,24,,,,,,110,,,2
+H0,2004,2004,2004,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,624686,,,,,,2498499,,,2
+H0,2004,2004,2004,4,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,825,,,,,,2657,,,2
+H0,2004,2004,2004,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,624686,,,,,,2498499,,,2
+H0,2004,2004,2004,4,0,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,825,,,,,,2657,,,2
+H1,2008,2008,2008,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,,,,,,,3798325,,,0
+H1,2008,2008,2008,4,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,,,,,1,,6,,,4
+H1,2008,2008,2008,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,,,,,,,3798325,,,0
+H1,2008,2008,2008,4,0,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,,,,,1,,6,,,4
+H1,2009,2009,2009,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,,,,,,,12576026,,,0
+H1,2009,2009,2009,4,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,,,,,,,1150,,,0
+H1,2009,2009,2009,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,,,,,,,12576026,,,0
+H1,2009,2009,2009,4,0,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,,,,,,,1150,,,0
+H2,2011,2011,2011,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1189820,,,,1454308,,6371261,,,6
+H2,2011,2011,2011,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1189820,,,,1454308,,6371261,,,6
+H2,2012,2012,2012,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,1366212,,6192797,,,4
+H2,2012,2012,2012,4,0,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,2,,9,,,4
+H2,2012,2012,2012,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,1366210,,6192788,,,4
+H2,2013,2013,2013,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,598237,,,,732877,,2690348,,,6
+H2,2013,2013,2013,4,0,1,Import,426,Lesotho,LSO,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,614,,,,748,,2709,,,6
+H2,2013,2013,2013,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,597622,,,,732128,,2687639,,,6
+H2,2014,2014,2014,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,414753,,,,411664,,1508444,,,6
+H2,2014,2014,2014,4,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4,,,,4,,748,,,2
+H2,2014,2014,2014,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,414753,,,,411664,,1508444,,,6
+H2,2014,2014,2014,4,0,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4,,,,4,,748,,,2
+H1,2010,2010,2010,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,,,,,3337628,,6618093,,,4
+H1,2010,2010,2010,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,,,,,3337628,,6618093,,,4
+H5,2017,2017,2017,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1814372,,,,1774877,,2846835,,,6
+H5,2017,2017,2017,4,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5152,,,,5227,,10336,,,2
+H5,2017,2017,2017,4,0,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,315,,,,315,,5021,,,2
+H5,2017,2017,2017,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1814057,,,,1774562,,2841813,,,6
+H5,2017,2017,2017,4,0,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5152,,,,5227,,10336,,,2
+H4,2015,2015,2015,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,990632,,,,805427,,6185989,,,6
+H4,2015,2015,2015,4,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5,,,,5,,899,,,2
+H4,2015,2015,2015,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,990632,,,,805427,,6185989,,,6
+H4,2015,2015,2015,4,0,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5,,,,5,,899,,,2
+H4,2016,2016,2016,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1498083,,,,1502658,,2128117,,,6
+H4,2016,2016,2016,4,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,145,,,,145,,1189,,,2
+H4,2016,2016,2016,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1498083,,,,1502658,,2128117,,,6
+H4,2016,2016,2016,4,0,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,145,,,,145,,1189,,,2
+H4,2018,2018,2018,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,626981,,,,618303,,2399199,,,6
+H4,2018,2018,2018,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,626981,,,,618303,,2399199,,,6
+H4,2019,2019,2019,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1564730,,,,1557048,,3118863,,,6
+H4,2019,2019,2019,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1564730,,,,1557048,,3118863,,,6
+H4,2020,2020,2020,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1503520,,,,1503520,,3424799,,,2
+H4,2020,2020,2020,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1503520,,,,1503520,,3424799,,,2

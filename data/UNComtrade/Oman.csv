@@ -1,0 +1,281 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2002,2002,2002,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,116837,,,,116837,,201237,,,2
+H2,2002,2002,2002,4,0,2,Export,512,Oman,OMN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1090,,,,1090,,1821,,,2
+H2,2002,2002,2002,4,0,1,Import,512,Oman,OMN,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,41642,,,,41642,,39651,,,2
+H2,2002,2002,2002,4,0,2,Export,512,Oman,OMN,48,Bahrain,BHR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1090,,,,1090,,1821,,,2
+H2,2002,2002,2002,4,0,1,Import,512,Oman,OMN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1150,,,,1150,,2036,,,2
+H2,2002,2002,2002,4,0,1,Import,512,Oman,OMN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15644,,,,15644,,101097,,,2
+H2,2002,2002,2002,4,0,1,Import,512,Oman,OMN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12,,,,12,,36,,,2
+H2,2002,2002,2002,4,0,1,Import,512,Oman,OMN,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1113,,,,1113,,2900,,,2
+H2,2002,2002,2002,4,0,1,Import,512,Oman,OMN,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,34,,,,34,,224,,,2
+H2,2002,2002,2002,4,0,1,Import,512,Oman,OMN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,970,,,,970,,629,,,2
+H2,2002,2002,2002,4,0,1,Import,512,Oman,OMN,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15922,,,,15922,,11644,,,2
+H2,2002,2002,2002,4,0,1,Import,512,Oman,OMN,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20810,,,,20810,,20109,,,2
+H2,2002,2002,2002,4,0,1,Import,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19540,,,,19540,,22910,,,2
+H2,2004,2004,2004,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,43803,,,,43803,,48687,,,2
+H2,2004,2004,2004,4,0,1,Import,512,Oman,OMN,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,42059,,,,42059,,44757,,,2
+H2,2004,2004,2004,4,0,1,Import,512,Oman,OMN,48,Bahrain,BHR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1435,,,,1435,,3620,,,2
+H2,2004,2004,2004,4,0,1,Import,512,Oman,OMN,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10,,,,10,,21,,,2
+H2,2004,2004,2004,4,0,1,Import,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,299,,,,299,,289,,,2
+H1,2000,2000,2000,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,96665,,,,96665,,152606,,,2
+H1,2000,2000,2000,4,0,1,Import,512,Oman,OMN,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,57265,,,,57265,,64156,,,2
+H1,2000,2000,2000,4,0,1,Import,512,Oman,OMN,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5065,,,,5065,,27795,,,2
+H1,2000,2000,2000,4,0,1,Import,512,Oman,OMN,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,33783,,,,33783,,60081,,,2
+H1,2000,2000,2000,4,0,1,Import,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,552,,,,552,,575,,,2
+H1,2001,2001,2001,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,27578,,,,27578,,59657,,,2
+H1,2001,2001,2001,4,0,1,Import,512,Oman,OMN,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,710,,,,710,,723,,,2
+H1,2001,2001,2001,4,0,1,Import,512,Oman,OMN,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,21940,,,,21940,,31111,,,2
+H1,2001,2001,2001,4,0,1,Import,512,Oman,OMN,422,Lebanon,LBN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,25,,,,25,,60,,,2
+H1,2001,2001,2001,4,0,1,Import,512,Oman,OMN,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2442,,,,2442,,18036,,,2
+H1,2001,2001,2001,4,0,1,Import,512,Oman,OMN,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,74,,,,74,,190,,,2
+H1,2001,2001,2001,4,0,1,Import,512,Oman,OMN,699,India,IND,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,137,,,,137,,2510,,,2
+H1,2001,2001,2001,4,0,1,Import,512,Oman,OMN,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1679,,,,1679,,2375,,,2
+H1,2001,2001,2001,4,0,1,Import,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,571,,,,571,,4653,,,2
+H2,2005,2005,2005,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,91827,,,,91827,,204557,,,2
+H2,2005,2005,2005,4,0,1,Import,512,Oman,OMN,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19625,,,,19625,,19610,,,2
+H2,2005,2005,2005,4,0,1,Import,512,Oman,OMN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20616,,,,20616,,49912,,,2
+H2,2005,2005,2005,4,0,1,Import,512,Oman,OMN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7407,,,,7407,,26044,,,2
+H2,2005,2005,2005,4,0,1,Import,512,Oman,OMN,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,28499,,,,28499,,47337,,,2
+H2,2005,2005,2005,4,0,1,Import,512,Oman,OMN,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8865,,,,8865,,33743,,,2
+H2,2005,2005,2005,4,0,1,Import,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4025,,,,4025,,16736,,,2
+H2,2005,2005,2005,4,0,1,Import,512,Oman,OMN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2790,,,,2790,,11176,,,2
+H2,2006,2006,2006,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,85160,,,,85160,,114351,,,2
+H2,2006,2006,2006,4,0,1,Import,512,Oman,OMN,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,39517,,,,39517,,34895,,,2
+H2,2006,2006,2006,4,0,1,Import,512,Oman,OMN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,192,,,,192,,921,,,2
+H2,2006,2006,2006,4,0,1,Import,512,Oman,OMN,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,39000,,,,39000,,57404,,,2
+H2,2006,2006,2006,4,0,1,Import,512,Oman,OMN,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5722,,,,5722,,2453,,,2
+H2,2006,2006,2006,4,0,1,Import,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,729,,,,729,,18679,,,2
+H2,2007,2007,2007,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,227975,,,,227975,,243373,,,2
+H2,2007,2007,2007,4,0,1,Import,512,Oman,OMN,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20634,,,,20634,,19046,,,2
+H2,2007,2007,2007,4,0,1,Import,512,Oman,OMN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,49938,,,,49938,,103854,,,2
+H2,2007,2007,2007,4,0,1,Import,512,Oman,OMN,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20150,,,,20150,,8869,,,2
+H2,2007,2007,2007,4,0,1,Import,512,Oman,OMN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,37713,,,,37713,,15958,,,2
+H2,2007,2007,2007,4,0,1,Import,512,Oman,OMN,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,44167,,,,44167,,32715,,,2
+H2,2007,2007,2007,4,0,1,Import,512,Oman,OMN,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,171,,,,171,,8414,,,2
+H2,2007,2007,2007,4,0,1,Import,512,Oman,OMN,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3047,,,,3047,,2315,,,2
+H2,2007,2007,2007,4,0,1,Import,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,52155,,,,52155,,52203,,,2
+H2,2008,2008,2008,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,219883,,,,219883,,623641,,,2
+H2,2008,2008,2008,4,0,1,Import,512,Oman,OMN,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21136,,,,21136,,7852,,,2
+H2,2008,2008,2008,4,0,1,Import,512,Oman,OMN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1116,,,,1116,,37589,,,2
+H2,2008,2008,2008,4,0,1,Import,512,Oman,OMN,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15938,,,,15938,,15243,,,2
+H2,2008,2008,2008,4,0,1,Import,512,Oman,OMN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5877,,,,5877,,104702,,,2
+H2,2008,2008,2008,4,0,1,Import,512,Oman,OMN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,120,,,,120,,611,,,2
+H2,2008,2008,2008,4,0,1,Import,512,Oman,OMN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,225,,,,225,,1378,,,2
+H2,2008,2008,2008,4,0,1,Import,512,Oman,OMN,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,760,,,,760,,1873,,,2
+H2,2008,2008,2008,4,0,1,Import,512,Oman,OMN,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,204,,,,204,,8065,,,2
+H2,2008,2008,2008,4,0,1,Import,512,Oman,OMN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16598,,,,16598,,13563,,,2
+H2,2008,2008,2008,4,0,1,Import,512,Oman,OMN,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,155094,,,,155094,,429165,,,2
+H2,2008,2008,2008,4,0,1,Import,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2815,,,,2815,,3599,,,2
+H2,2009,2009,2009,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,233635,,,,233635,,633155,,,2
+H2,2009,2009,2009,4,0,1,Import,512,Oman,OMN,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,80094,,,,80094,,86926,,,2
+H2,2009,2009,2009,4,0,1,Import,512,Oman,OMN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,79348,,,,79348,,378013,,,2
+H2,2009,2009,2009,4,0,1,Import,512,Oman,OMN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,30,,,,30,,47,,,2
+H2,2009,2009,2009,4,0,1,Import,512,Oman,OMN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11560,,,,11560,,16767,,,2
+H2,2009,2009,2009,4,0,1,Import,512,Oman,OMN,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,361,,,,361,,24049,,,2
+H2,2009,2009,2009,4,0,1,Import,512,Oman,OMN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18140,,,,18140,,14057,,,2
+H2,2009,2009,2009,4,0,1,Import,512,Oman,OMN,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,40560,,,,40560,,105306,,,2
+H2,2009,2009,2009,4,0,1,Import,512,Oman,OMN,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,57,,,,57,,505,,,2
+H2,2009,2009,2009,4,0,1,Import,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1685,,,,1685,,2388,,,2
+H2,2009,2009,2009,4,0,1,Import,512,Oman,OMN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1800,,,,1800,,5098,,,2
+H4,2012,2012,2012,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,466255,,2034861,,,0
+H4,2012,2012,2012,4,0,2,Export,512,Oman,OMN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,79,,1860,,,0
+H4,2012,2012,2012,4,0,3,Re-Export,512,Oman,OMN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,79,,1860,,,0
+H4,2012,2012,2012,4,0,1,Import,512,Oman,OMN,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,77558,,155690,,,0
+H4,2012,2012,2012,4,0,1,Import,512,Oman,OMN,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,16259,,71233,,,0
+H4,2012,2012,2012,4,0,1,Import,512,Oman,OMN,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,13516,,65290,,,0
+H4,2012,2012,2012,4,0,1,Import,512,Oman,OMN,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,2647,,4908,,,0
+H4,2012,2012,2012,4,0,1,Import,512,Oman,OMN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,130997,,571566,,,0
+H4,2012,2012,2012,4,0,1,Import,512,Oman,OMN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,2297,,464780,,,0
+H4,2012,2012,2012,4,0,1,Import,512,Oman,OMN,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,4616,,6879,,,0
+H4,2012,2012,2012,4,0,1,Import,512,Oman,OMN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,16197,,69758,,,0
+H4,2012,2012,2012,4,0,1,Import,512,Oman,OMN,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,1340,,3576,,,0
+H4,2012,2012,2012,4,0,1,Import,512,Oman,OMN,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,1041,,2252,,,0
+H4,2012,2012,2012,4,0,1,Import,512,Oman,OMN,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,1915,,5956,,,0
+H4,2012,2012,2012,4,0,1,Import,512,Oman,OMN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,24760,,39966,,,0
+H4,2012,2012,2012,4,0,1,Import,512,Oman,OMN,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,18659,,22151,,,0
+H4,2012,2012,2012,4,0,1,Import,512,Oman,OMN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,18999,,18811,,,0
+H4,2012,2012,2012,4,0,1,Import,512,Oman,OMN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,1991,,9493,,,0
+H4,2012,2012,2012,4,0,1,Import,512,Oman,OMN,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,79514,,350481,,,0
+H4,2012,2012,2012,4,0,1,Import,512,Oman,OMN,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,28,,921,,,0
+H4,2012,2012,2012,4,0,1,Import,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,37236,,107940,,,0
+H4,2012,2012,2012,4,0,2,Export,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,79,,1860,,,0
+H4,2012,2012,2012,4,0,3,Re-Export,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,79,,1860,,,0
+H4,2012,2012,2012,4,0,1,Import,512,Oman,OMN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,16685,,63209,,,0
+H4,2013,2013,2013,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1007303,,,,1007303,,3640190,,,2
+H4,2013,2013,2013,4,0,1,Import,512,Oman,OMN,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1624,,,,1624,,14346,,,2
+H4,2013,2013,2013,4,0,1,Import,512,Oman,OMN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,32972,,,,32972,,53384,,,2
+H4,2013,2013,2013,4,0,1,Import,512,Oman,OMN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,75273,,,,75273,,436333,,,2
+H4,2013,2013,2013,4,0,1,Import,512,Oman,OMN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1924,,,,1924,,6624,,,2
+H4,2013,2013,2013,4,0,1,Import,512,Oman,OMN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13112,,,,13112,,16226,,,2
+H4,2013,2013,2013,4,0,1,Import,512,Oman,OMN,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,620,,,,620,,1810,,,2
+H4,2013,2013,2013,4,0,1,Import,512,Oman,OMN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9256,,,,9256,,41701,,,2
+H4,2013,2013,2013,4,0,1,Import,512,Oman,OMN,634,Qatar,QAT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90,,,,90,,45717,,,2
+H4,2013,2013,2013,4,0,1,Import,512,Oman,OMN,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7459,,,,7459,,6086,,,2
+H4,2013,2013,2013,4,0,1,Import,512,Oman,OMN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1120,,,,1120,,2666,,,2
+H4,2013,2013,2013,4,0,1,Import,512,Oman,OMN,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,848931,,,,848931,,2906034,,,2
+H4,2013,2013,2013,4,0,1,Import,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13722,,,,13722,,106203,,,2
+H4,2013,2013,2013,4,0,1,Import,512,Oman,OMN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1200,,,,1200,,3061,,,2
+H4,2014,2014,2014,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1130621,,,,1130621,,3858054,,,2
+H4,2014,2014,2014,4,0,1,Import,512,Oman,OMN,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,55985,,,,55985,,68221,,,2
+H4,2014,2014,2014,4,0,1,Import,512,Oman,OMN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,98421,,,,98421,,95066,,,2
+H4,2014,2014,2014,4,0,1,Import,512,Oman,OMN,144,Sri Lanka,LKA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15,,,,15,,31,,,2
+H4,2014,2014,2014,4,0,1,Import,512,Oman,OMN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,68210,,,,68210,,764676,,,2
+H4,2014,2014,2014,4,0,1,Import,512,Oman,OMN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1500,,,,1500,,3828,,,2
+H4,2014,2014,2014,4,0,1,Import,512,Oman,OMN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14340,,,,14340,,230889,,,2
+H4,2014,2014,2014,4,0,1,Import,512,Oman,OMN,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,757,,,,757,,2028,,,2
+H4,2014,2014,2014,4,0,1,Import,512,Oman,OMN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24556,,,,24556,,39053,,,2
+H4,2014,2014,2014,4,0,1,Import,512,Oman,OMN,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9,,,,9,,46,,,2
+H4,2014,2014,2014,4,0,1,Import,512,Oman,OMN,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,847266,,,,847266,,2576410,,,2
+H4,2014,2014,2014,4,0,1,Import,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19562,,,,19562,,77802,,,2
+H2,2010,2010,2010,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,384791,,,,384791,,1312700,,,2
+H2,2010,2010,2010,4,0,1,Import,512,Oman,OMN,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,106420,,,,106420,,153654,,,2
+H2,2010,2010,2010,4,0,1,Import,512,Oman,OMN,44,Bahamas,BHS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,560,,,,560,,1014,,,2
+H2,2010,2010,2010,4,0,1,Import,512,Oman,OMN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,153528,,,,153528,,467244,,,2
+H2,2010,2010,2010,4,0,1,Import,512,Oman,OMN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,30,,,,30,,65,,,2
+H2,2010,2010,2010,4,0,1,Import,512,Oman,OMN,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,55,,,,55,,1953,,,2
+H2,2010,2010,2010,4,0,1,Import,512,Oman,OMN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12977,,,,12977,,17667,,,2
+H2,2010,2010,2010,4,0,1,Import,512,Oman,OMN,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,950,,,,950,,2341,,,2
+H2,2010,2010,2010,4,0,1,Import,512,Oman,OMN,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2723,,,,2723,,3958,,,2
+H2,2010,2010,2010,4,0,1,Import,512,Oman,OMN,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,881,,,,881,,13350,,,2
+H2,2010,2010,2010,4,0,1,Import,512,Oman,OMN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1915,,,,1915,,3176,,,2
+H2,2010,2010,2010,4,0,1,Import,512,Oman,OMN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6300,,,,6300,,21610,,,2
+H2,2010,2010,2010,4,0,1,Import,512,Oman,OMN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12965,,,,12965,,17168,,,2
+H2,2010,2010,2010,4,0,1,Import,512,Oman,OMN,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2321,,,,2321,,122018,,,2
+H2,2010,2010,2010,4,0,1,Import,512,Oman,OMN,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,39694,,,,39694,,67698,,,2
+H2,2010,2010,2010,4,0,1,Import,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,40633,,,,40633,,386461,,,2
+H2,2010,2010,2010,4,0,1,Import,512,Oman,OMN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2839,,,,2839,,33321,,,2
+H2,2011,2011,2011,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,406585,,,,406585,,2119779,,,2
+H2,2011,2011,2011,4,0,1,Import,512,Oman,OMN,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,898,,,,898,,31514,,,2
+H2,2011,2011,2011,4,0,1,Import,512,Oman,OMN,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,141308,,,,141308,,611261,,,2
+H2,2011,2011,2011,4,0,1,Import,512,Oman,OMN,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,454,,,,454,,1519,,,2
+H2,2011,2011,2011,4,0,1,Import,512,Oman,OMN,44,Bahamas,BHS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,156,,,,156,,538,,,2
+H2,2011,2011,2011,4,0,1,Import,512,Oman,OMN,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13076,,,,13076,,18382,,,2
+H2,2011,2011,2011,4,0,1,Import,512,Oman,OMN,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1055,,,,1055,,9326,,,2
+H2,2011,2011,2011,4,0,1,Import,512,Oman,OMN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,96334,,,,96334,,967405,,,2
+H2,2011,2011,2011,4,0,1,Import,512,Oman,OMN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14994,,,,14994,,38265,,,2
+H2,2011,2011,2011,4,0,1,Import,512,Oman,OMN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27324,,,,27324,,126078,,,2
+H2,2011,2011,2011,4,0,1,Import,512,Oman,OMN,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4713,,,,4713,,7014,,,2
+H2,2011,2011,2011,4,0,1,Import,512,Oman,OMN,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6210,,,,6210,,32684,,,2
+H2,2011,2011,2011,4,0,1,Import,512,Oman,OMN,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1795,,,,1795,,2075,,,2
+H2,2011,2011,2011,4,0,1,Import,512,Oman,OMN,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13347,,,,13347,,19282,,,2
+H2,2011,2011,2011,4,0,1,Import,512,Oman,OMN,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1564,,,,1564,,3534,,,2
+H2,2011,2011,2011,4,0,1,Import,512,Oman,OMN,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19141,,,,19141,,25893,,,2
+H2,2011,2011,2011,4,0,1,Import,512,Oman,OMN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12864,,,,12864,,16271,,,2
+H2,2011,2011,2011,4,0,1,Import,512,Oman,OMN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6214,,,,6214,,9389,,,2
+H2,2011,2011,2011,4,0,1,Import,512,Oman,OMN,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,623,,,,623,,2320,,,2
+H2,2011,2011,2011,4,0,1,Import,512,Oman,OMN,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2085,,,,2085,,6153,,,2
+H2,2011,2011,2011,4,0,1,Import,512,Oman,OMN,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,749,,,,749,,2414,,,2
+H2,2011,2011,2011,4,0,1,Import,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19397,,,,19397,,66266,,,2
+H2,2011,2011,2011,4,0,1,Import,512,Oman,OMN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22284,,,,22284,,122193,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,1301545,,4239757,,,2
+H5,2017,2017,2017,4,0,2,Export,512,Oman,OMN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,54,,,,54,,1342,,,2
+H5,2017,2017,2017,4,0,3,Re-Export,512,Oman,OMN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,54,,,,54,,1342,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,115717,,229872,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,164,,,,164,,275,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,47484,,,,47484,,901344,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,976,,,,976,,5115,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17,,,,17,,189,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,688,,,,688,,2101,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,51,,,,51,,59,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3986,,,,3986,,13368,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16,,,,16,,98,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3025,,,,3025,,5563,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,41616,,,,41616,,54254,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,1075462,,2914197,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2040,,,,2040,,12790,,,2
+H5,2017,2017,2017,4,0,2,Export,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,54,,,,54,,1342,,,2
+H5,2017,2017,2017,4,0,3,Re-Export,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,54,,,,54,,1342,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,887,Yemen,YEM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10303,,,,10303,,100525,,,2
+H5,2018,2018,2018,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1281386,,,,1281386,,3923008,,,2
+H5,2018,2018,2018,4,0,2,Export,512,Oman,OMN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9571,,,,9571,,59105,,,2
+H5,2018,2018,2018,4,0,3,Re-Export,512,Oman,OMN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9571,,,,9571,,59105,,,2
+H5,2018,2018,2018,4,0,1,Import,512,Oman,OMN,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,52450,,,,52450,,57953,,,2
+H5,2018,2018,2018,4,0,1,Import,512,Oman,OMN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,32,,,,32,,226,,,2
+H5,2018,2018,2018,4,0,1,Import,512,Oman,OMN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,39994,,,,39994,,147700,,,2
+H5,2018,2018,2018,4,0,1,Import,512,Oman,OMN,360,Indonesia,IDN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,59,,,,59,,278,,,2
+H5,2018,2018,2018,4,0,1,Import,512,Oman,OMN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,80,,,,80,,1841,,,2
+H5,2018,2018,2018,4,0,2,Export,512,Oman,OMN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3204,,,,3204,,11258,,,2
+H5,2018,2018,2018,4,0,3,Re-Export,512,Oman,OMN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3204,,,,3204,,11258,,,2
+H5,2018,2018,2018,4,0,1,Import,512,Oman,OMN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1697,,,,1697,,6429,,,2
+H5,2018,2018,2018,4,0,1,Import,512,Oman,OMN,634,Qatar,QAT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,536,,,,536,,5318,,,2
+H5,2018,2018,2018,4,0,2,Export,512,Oman,OMN,634,Qatar,QAT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6311,,,,6311,,46470,,,2
+H5,2018,2018,2018,4,0,3,Re-Export,512,Oman,OMN,634,Qatar,QAT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6311,,,,6311,,46470,,,2
+H5,2018,2018,2018,4,0,1,Import,512,Oman,OMN,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,600,,,,600,,1053,,,2
+H5,2018,2018,2018,4,0,1,Import,512,Oman,OMN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,27546,,,,27546,,35604,,,2
+H5,2018,2018,2018,4,0,1,Import,512,Oman,OMN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18017,,,,18017,,27498,,,2
+H5,2018,2018,2018,4,0,1,Import,512,Oman,OMN,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1139369,,,,1139369,,3472621,,,2
+H5,2018,2018,2018,4,0,1,Import,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,944,,,,944,,165498,,,2
+H5,2018,2018,2018,4,0,2,Export,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,56,,,,56,,1375,,,2
+H5,2018,2018,2018,4,0,3,Re-Export,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,56,,,,56,,1375,,,2
+H5,2018,2018,2018,4,0,1,Import,512,Oman,OMN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,62,,,,62,,985,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,790834,,,,790834,,2622881,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,60226,,,,60226,,201380,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,129485,,,,129485,,222002,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,970,,,,970,,3929,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,44,Bahamas,BHS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,800,,,,800,,3266,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,323,,,,323,,2197,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14784,,,,14784,,26946,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,270,,,,270,,416,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1500,,,,1500,,3760,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14543,,,,14543,,24769,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12876,,,,12876,,18039,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5500,,,,5500,,3394,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,60,,,,60,,345,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,64,,,,64,,351,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,115215,,,,115215,,676707,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,44804,,,,44804,,135146,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3033,,,,3033,,16572,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,77541,,,,77541,,224106,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,650,,,,650,,1695,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1119,,,,1119,,3404,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1659,,,,1659,,15544,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13056,,,,13056,,38905,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,28802,,,,28802,,56119,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1200,,,,1200,,3276,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5250,,,,5250,,14972,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19413,,,,19413,,51276,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2113,,,,2113,,8361,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,97,,,,97,,11310,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,704,Viet Nam,VNM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20300,,,,20300,,37269,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,87914,,,,87914,,134819,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,52626,,,,52626,,189752,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11616,,,,11616,,34928,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,600,,,,600,,879,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,34311,,,,34311,,103846,,,2
+H4,2015,2015,2015,4,0,1,Import,512,Oman,OMN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,28114,,,,28114,,353183,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,988994,,,,,,3695612,,,6
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,34589,,,,34589,,120996,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,96427,,,,96427,,203794,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4405,,,,4405,,10959,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,44,Bahamas,BHS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7398,,,,7398,,38621,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1305,,,,1305,,11516,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,432,,,,432,,720,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,81826,,,,81826,,152990,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,26069,,,,26069,,219027,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,331,,,,331,,2036,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,96,,,,96,,457,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,276,,,,276,,1100,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,126916,,,,126916,,1366743,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3881,,,,3881,,13615,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,85,,,,85,,2265,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10764,,,,10764,,31464,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,117952,,,,117952,,382639,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4091,,,,4091,,31882,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6650,,,,6650,,23495,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2774,,,,2774,,11081,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,195,,,,195,,221,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24136,,,,24136,,97016,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15128,,,,15128,,29120,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22732,,,,22732,,59126,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1973,,,,1973,,5786,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16029,,,,16029,,37448,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4733,,,,4733,,31669,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1347,,,,1347,,7414,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,704,Viet Nam,VNM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1432,,,,,,5823,,,6
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,272361,,,,272361,,416051,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,21597,,,,21597,,66814,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5660,,,,5660,,30434,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,60,,,,60,,312,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,132,,,,132,,686,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22594,,,,22594,,132046,,,2
+H4,2016,2016,2016,4,0,1,Import,512,Oman,OMN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,52618,,,,52618,,150228,,,2

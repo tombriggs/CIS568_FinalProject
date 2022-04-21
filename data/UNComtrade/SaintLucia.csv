@@ -1,0 +1,677 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1113088,,,,1113088,,2124406,,,2
+H1,2000,2000,2000,4,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,34710,,,,34710,,82641,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,29379,,,,29379,,62901,,,2
+H1,2000,2000,2000,4,0,1,Import,662,Saint Lucia,LCA,8,Albania,ALB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9,,,,9,,133,,,2
+H1,2000,2000,2000,4,0,2,Export,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,765,,,,765,,1104,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,765,,,,765,,1104,,,2
+H1,2000,2000,2000,4,0,1,Import,662,Saint Lucia,LCA,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,150,,,,150,,1579,,,2
+H1,2000,2000,2000,4,0,1,Import,662,Saint Lucia,LCA,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2709,,,,2709,,13517,,,2
+H1,2000,2000,2000,4,0,1,Import,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1,,,,1,,4,,,2
+H1,2000,2000,2000,4,0,2,Export,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,216,,,,216,,1393,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,216,,,,216,,1393,,,2
+H1,2000,2000,2000,4,0,1,Import,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,164062,,,,164062,,267852,,,2
+H1,2000,2000,2000,4,0,2,Export,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1116,,,,1116,,2966,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1116,,,,1116,,2966,,,2
+H1,2000,2000,2000,4,0,1,Import,662,Saint Lucia,LCA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,937,,,,937,,4813,,,2
+H1,2000,2000,2000,4,0,1,Import,662,Saint Lucia,LCA,212,Dominica,DMA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1775,,,,1775,,8724,,,2
+H1,2000,2000,2000,4,0,2,Export,662,Saint Lucia,LCA,212,Dominica,DMA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,225,,,,225,,223,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,662,Saint Lucia,LCA,212,Dominica,DMA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,225,,,,225,,223,,,2
+H1,2000,2000,2000,4,0,1,Import,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,550002,,,,550002,,882193,,,2
+H1,2000,2000,2000,4,0,2,Export,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1081,,,,1081,,8740,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1081,,,,1081,,8740,,,2
+H1,2000,2000,2000,4,0,1,Import,662,Saint Lucia,LCA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,33934,,,,33934,,33389,,,2
+H1,2000,2000,2000,4,0,2,Export,662,Saint Lucia,LCA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,234,,,,234,,327,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,662,Saint Lucia,LCA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,234,,,,234,,327,,,2
+H1,2000,2000,2000,4,0,2,Export,662,Saint Lucia,LCA,308,Grenada,GRD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,27191,,,,27191,,54519,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,662,Saint Lucia,LCA,308,Grenada,GRD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,21865,,,,21865,,34794,,,2
+H1,2000,2000,2000,4,0,1,Import,662,Saint Lucia,LCA,348,Hungary,HUN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5391,,,,5391,,11269,,,2
+H1,2000,2000,2000,4,0,1,Import,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,86205,,,,86205,,156821,,,2
+H1,2000,2000,2000,4,0,2,Export,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1188,,,,1188,,1314,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1188,,,,1188,,1314,,,2
+H1,2000,2000,2000,4,0,1,Import,662,Saint Lucia,LCA,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3600,,,,3600,,9199,,,2
+H1,2000,2000,2000,4,0,1,Import,662,Saint Lucia,LCA,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,180,,,,180,,1543,,,2
+H1,2000,2000,2000,4,0,1,Import,662,Saint Lucia,LCA,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,180,,,,180,,1096,,,2
+H1,2000,2000,2000,4,0,1,Import,662,Saint Lucia,LCA,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,504,,,,504,,3473,,,2
+H1,2000,2000,2000,4,0,2,Export,662,Saint Lucia,LCA,659,Saint Kitts and Nevis,KNA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,270,,,,270,,313,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,662,Saint Lucia,LCA,659,Saint Kitts and Nevis,KNA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,270,,,,270,,313,,,2
+H1,2000,2000,2000,4,0,2,Export,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1690,,,,1690,,3177,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1690,,,,1690,,3177,,,2
+H1,2000,2000,2000,4,0,1,Import,662,Saint Lucia,LCA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11074,,,,11074,,25582,,,2
+H1,2000,2000,2000,4,0,1,Import,662,Saint Lucia,LCA,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3118,,,,3118,,14093,,,2
+H1,2000,2000,2000,4,0,1,Import,662,Saint Lucia,LCA,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18,,,,18,,95,,,2
+H1,2000,2000,2000,4,0,1,Import,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,54,,,,54,,602,,,2
+H1,2000,2000,2000,4,0,1,Import,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7615,,,,7615,,43916,,,2
+H1,2000,2000,2000,4,0,2,Export,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,72,,,,72,,3086,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,72,,,,72,,3086,,,2
+H1,2000,2000,2000,4,0,1,Import,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,241570,,,,241570,,644513,,,2
+H1,2000,2000,2000,4,0,2,Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,662,,,,662,,5477,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,657,,,,657,,5462,,,2
+H1,2001,2001,2001,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,779603,,,,779603,,1460479,,,2
+H1,2001,2001,2001,4,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6526,,,,6526,,22627,,,2
+H1,2001,2001,2001,4,0,3,Re-Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6497,,,,6497,,22498,,,2
+H1,2001,2001,2001,4,0,2,Export,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,180,,,,180,,258,,,2
+H1,2001,2001,2001,4,0,3,Re-Export,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,180,,,,180,,258,,,2
+H1,2001,2001,2001,4,0,1,Import,662,Saint Lucia,LCA,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,540,,,,540,,2011,,,2
+H1,2001,2001,2001,4,0,1,Import,662,Saint Lucia,LCA,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4806,,,,4806,,24271,,,2
+H1,2001,2001,2001,4,0,1,Import,662,Saint Lucia,LCA,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36,,,,36,,740,,,2
+H1,2001,2001,2001,4,0,2,Export,662,Saint Lucia,LCA,92,Br. Virgin Isds,VGB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,450,,,,450,,886,,,2
+H1,2001,2001,2001,4,0,3,Re-Export,662,Saint Lucia,LCA,92,Br. Virgin Isds,VGB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,450,,,,450,,886,,,2
+H1,2001,2001,2001,4,0,1,Import,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,154597,,,,154597,,252072,,,2
+H1,2001,2001,2001,4,0,2,Export,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1940,,,,1940,,6686,,,2
+H1,2001,2001,2001,4,0,3,Re-Export,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1940,,,,1940,,6686,,,2
+H1,2001,2001,2001,4,0,1,Import,662,Saint Lucia,LCA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,24135,,,,24135,,2180,,,2
+H1,2001,2001,2001,4,0,1,Import,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,382782,,,,382782,,662477,,,2
+H1,2001,2001,2001,4,0,2,Export,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1287,,,,1287,,8809,,,2
+H1,2001,2001,2001,4,0,3,Re-Export,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1287,,,,1287,,8809,,,2
+H1,2001,2001,2001,4,0,1,Import,662,Saint Lucia,LCA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,19087,,,,19087,,21401,,,2
+H1,2001,2001,2001,4,0,2,Export,662,Saint Lucia,LCA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,810,,,,810,,1023,,,2
+H1,2001,2001,2001,4,0,3,Re-Export,662,Saint Lucia,LCA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,810,,,,810,,1023,,,2
+H1,2001,2001,2001,4,0,2,Export,662,Saint Lucia,LCA,308,Grenada,GRD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,45,,,,45,,64,,,2
+H1,2001,2001,2001,4,0,3,Re-Export,662,Saint Lucia,LCA,308,Grenada,GRD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,45,,,,45,,64,,,2
+H1,2001,2001,2001,4,0,1,Import,662,Saint Lucia,LCA,328,Guyana,GUY,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,630,,,,630,,1312,,,2
+H1,2001,2001,2001,4,0,1,Import,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,58183,,,,58183,,92415,,,2
+H1,2001,2001,2001,4,0,2,Export,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,360,,,,360,,411,,,2
+H1,2001,2001,2001,4,0,3,Re-Export,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,360,,,,360,,411,,,2
+H1,2001,2001,2001,4,0,1,Import,662,Saint Lucia,LCA,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1800,,,,1800,,4574,,,2
+H1,2001,2001,2001,4,0,1,Import,662,Saint Lucia,LCA,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,23,,,,23,,180,,,2
+H1,2001,2001,2001,4,0,1,Import,662,Saint Lucia,LCA,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,270,,,,270,,2153,,,2
+H1,2001,2001,2001,4,0,2,Export,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,385,,,,385,,593,,,2
+H1,2001,2001,2001,4,0,3,Re-Export,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,385,,,,385,,593,,,2
+H1,2001,2001,2001,4,0,1,Import,662,Saint Lucia,LCA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,23157,,,,23157,,52961,,,2
+H1,2001,2001,2001,4,0,1,Import,662,Saint Lucia,LCA,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3534,,,,3534,,18083,,,2
+H1,2001,2001,2001,4,0,1,Import,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2082,,,,2082,,9380,,,2
+H1,2001,2001,2001,4,0,1,Import,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,103941,,,,103941,,314270,,,2
+H1,2001,2001,2001,4,0,2,Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1069,,,,1069,,3897,,,2
+H1,2001,2001,2001,4,0,3,Re-Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1040,,,,1040,,3767,,,2
+H1,2002,2002,2002,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,796308,,,,958124,,1843198,,,2
+H1,2002,2002,2002,4,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,25994,,,,34352,,72276,,,2
+H1,2002,2002,2002,4,0,3,Re-Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,25731,,,,33751,,71213,,,2
+H1,2002,2002,2002,4,0,1,Import,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,207,,,,138,,497,,,0
+H1,2002,2002,2002,4,0,1,Import,662,Saint Lucia,LCA,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,180,,,,742,,670,,,0
+H1,2002,2002,2002,4,0,1,Import,662,Saint Lucia,LCA,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2202,,,,2367,,14079,,,0
+H1,2002,2002,2002,4,0,2,Export,662,Saint Lucia,LCA,92,Br. Virgin Isds,VGB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10,,,,25,,185,,,0
+H1,2002,2002,2002,4,0,1,Import,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,146143,,,,148275,,247042,,,0
+H1,2002,2002,2002,4,0,2,Export,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1944,,,,4276,,8984,,,0
+H1,2002,2002,2002,4,0,3,Re-Export,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1944,,,,4276,,8984,,,0
+H1,2002,2002,2002,4,0,1,Import,662,Saint Lucia,LCA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,102,,,,404,,619,,,0
+H1,2002,2002,2002,4,0,1,Import,662,Saint Lucia,LCA,188,Costa Rica,CRI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,675,,,,750,,9395,,,0
+H1,2002,2002,2002,4,0,1,Import,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,412924,,,,498196,,826173,,,2
+H1,2002,2002,2002,4,0,2,Export,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2822,,,,4707,,10180,,,0
+H1,2002,2002,2002,4,0,3,Re-Export,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2822,,,,4707,,10180,,,0
+H1,2002,2002,2002,4,0,2,Export,662,Saint Lucia,LCA,266,Gabon,GAB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,900,,,,7700,,3057,,,0
+H1,2002,2002,2002,4,0,3,Re-Export,662,Saint Lucia,LCA,266,Gabon,GAB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,900,,,,7700,,3057,,,0
+H1,2002,2002,2002,4,0,1,Import,662,Saint Lucia,LCA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8679,,,,14255,,10640,,,0
+H1,2002,2002,2002,4,0,2,Export,662,Saint Lucia,LCA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,180,,,,192,,113,,,0
+H1,2002,2002,2002,4,0,3,Re-Export,662,Saint Lucia,LCA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,180,,,,192,,113,,,0
+H1,2002,2002,2002,4,0,1,Import,662,Saint Lucia,LCA,304,Greenland,GRL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,621,,,,414,,1978,,,0
+H1,2002,2002,2002,4,0,2,Export,662,Saint Lucia,LCA,308,Grenada,GRD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15147,,,,12615,,39934,,,0
+H1,2002,2002,2002,4,0,3,Re-Export,662,Saint Lucia,LCA,308,Grenada,GRD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15147,,,,12615,,39934,,,0
+H1,2002,2002,2002,4,0,1,Import,662,Saint Lucia,LCA,348,Hungary,HUN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,450,,,,300,,991,,,0
+H1,2002,2002,2002,4,0,1,Import,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,56987,,,,77344,,133576,,,0
+H1,2002,2002,2002,4,0,2,Export,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,360,,,,551,,465,,,0
+H1,2002,2002,2002,4,0,3,Re-Export,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,360,,,,551,,465,,,0
+H1,2002,2002,2002,4,0,1,Import,662,Saint Lucia,LCA,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2499,,,,4773,,6188,,,0
+H1,2002,2002,2002,4,0,1,Import,662,Saint Lucia,LCA,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,635,,,,566,,2783,,,0
+H1,2002,2002,2002,4,0,1,Import,662,Saint Lucia,LCA,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,720,,,,2456,,5557,,,0
+H1,2002,2002,2002,4,0,2,Export,662,Saint Lucia,LCA,659,Saint Kitts and Nevis,KNA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,225,,,,309,,415,,,0
+H1,2002,2002,2002,4,0,1,Import,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2,,,,41,,11,,,0
+H1,2002,2002,2002,4,0,2,Export,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3595,,,,2729,,4955,,,0
+H1,2002,2002,2002,4,0,3,Re-Export,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3496,,,,2540,,4724,,,0
+H1,2002,2002,2002,4,0,1,Import,662,Saint Lucia,LCA,682,Saudi Arabia,SAU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,225,,,,150,,539,,,0
+H1,2002,2002,2002,4,0,1,Import,662,Saint Lucia,LCA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,24827,,,,33887,,62144,,,0
+H1,2002,2002,2002,4,0,1,Import,662,Saint Lucia,LCA,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3618,,,,15213,,21605,,,0
+H1,2002,2002,2002,4,0,2,Export,662,Saint Lucia,LCA,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18,,,,45,,58,,,0
+H1,2002,2002,2002,4,0,3,Re-Export,662,Saint Lucia,LCA,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18,,,,45,,58,,,0
+H1,2002,2002,2002,4,0,1,Import,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,23,,,,17,,83,,,0
+H1,2002,2002,2002,4,0,2,Export,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,24,,,,27,,143,,,2
+H1,2002,2002,2002,4,0,3,Re-Export,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,163,,,,27,,143,,,2
+H1,2002,2002,2002,4,0,1,Import,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,736,,,,1356,,5145,,,0
+H1,2002,2002,2002,4,0,2,Export,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,675,,,,1050,,3351,,,0
+H1,2002,2002,2002,4,0,3,Re-Export,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,675,,,,1050,,3351,,,0
+H1,2002,2002,2002,4,0,1,Import,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,133853,,,,156480,,493481,,,0
+H1,2002,2002,2002,4,0,2,Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,94,,,,126,,436,,,0
+H1,2002,2002,2002,4,0,3,Re-Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,26,,,,48,,204,,,2
+H1,2003,2003,2003,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,975711,,,,1282493,,3179028,,,0
+H1,2003,2003,2003,4,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9177,,,,16784,,50575,,,2
+H1,2003,2003,2003,4,0,3,Re-Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8654,,,,16030,,48047,,,0
+H1,2003,2003,2003,4,0,1,Import,662,Saint Lucia,LCA,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,25991,,,,25632,,41633,,,0
+H1,2003,2003,2003,4,0,1,Import,662,Saint Lucia,LCA,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4195,,,,6368,,24054,,,0
+H1,2003,2003,2003,4,0,1,Import,662,Saint Lucia,LCA,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36,,,,40,,120,,,0
+H1,2003,2003,2003,4,0,1,Import,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,166215,,,,181579,,295395,,,0
+H1,2003,2003,2003,4,0,1,Import,662,Saint Lucia,LCA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,72,,,,72,,298,,,0
+H1,2003,2003,2003,4,0,1,Import,662,Saint Lucia,LCA,188,Costa Rica,CRI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,450,,,,450,,6227,,,0
+H1,2003,2003,2003,4,0,1,Import,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,412839,,,,547408,,1030024,,,0
+H1,2003,2003,2003,4,0,2,Export,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1071,,,,2676,,20970,,,0
+H1,2003,2003,2003,4,0,3,Re-Export,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1071,,,,2676,,20970,,,0
+H1,2003,2003,2003,4,0,1,Import,662,Saint Lucia,LCA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,17197,,,,21989,,31042,,,0
+H1,2003,2003,2003,4,0,2,Export,662,Saint Lucia,LCA,308,Grenada,GRD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,17,,,,274,,2985,,,0
+H1,2003,2003,2003,4,0,3,Re-Export,662,Saint Lucia,LCA,308,Grenada,GRD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,17,,,,274,,2985,,,0
+H1,2003,2003,2003,4,0,1,Import,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,55960,,,,85481,,139184,,,0
+H1,2003,2003,2003,4,0,1,Import,662,Saint Lucia,LCA,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,677,,,,1145,,1747,,,0
+H1,2003,2003,2003,4,0,1,Import,662,Saint Lucia,LCA,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,429,,,,914,,3209,,,0
+H1,2003,2003,2003,4,0,1,Import,662,Saint Lucia,LCA,591,Panama,PAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,584,,,,588,,850,,,0
+H1,2003,2003,2003,4,0,1,Import,662,Saint Lucia,LCA,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,492,,,,570,,4037,,,0
+H1,2003,2003,2003,4,0,2,Export,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3245,,,,4882,,8129,,,0
+H1,2003,2003,2003,4,0,3,Re-Export,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2862,,,,4244,,5892,,,0
+H1,2003,2003,2003,4,0,1,Import,662,Saint Lucia,LCA,682,Saudi Arabia,SAU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18,,,,18,,29,,,0
+H1,2003,2003,2003,4,0,1,Import,662,Saint Lucia,LCA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,27583,,,,39851,,74186,,,0
+H1,2003,2003,2003,4,0,1,Import,662,Saint Lucia,LCA,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3723,,,,4623,,19987,,,0
+H1,2003,2003,2003,4,0,1,Import,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,225,,,,210,,1020,,,0
+H1,2003,2003,2003,4,0,2,Export,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4230,,,,6348,,12181,,,0
+H1,2003,2003,2003,4,0,3,Re-Export,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4230,,,,6348,,12181,,,0
+H1,2003,2003,2003,4,0,1,Import,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13680,,,,8061,,48293,,,0
+H1,2003,2003,2003,4,0,2,Export,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,225,,,,350,,440,,,0
+H1,2003,2003,2003,4,0,3,Re-Export,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,225,,,,350,,440,,,0
+H1,2003,2003,2003,4,0,1,Import,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,245279,,,,357379,,1457190,,,0
+H1,2003,2003,2003,4,0,2,Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,144,,,,124,,315,,,2
+H1,2003,2003,2003,4,0,3,Re-Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4,,,,8,,24,,,0
+H1,2003,2003,2003,4,0,1,Import,662,Saint Lucia,LCA,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,66,,,,115,,504,,,0
+H1,2003,2003,2003,4,0,2,Export,662,Saint Lucia,LCA,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,245,,,,2130,,5556,,,0
+H1,2003,2003,2003,4,0,3,Re-Export,662,Saint Lucia,LCA,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,245,,,,2130,,5556,,,0
+H1,2004,2004,2004,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,926447,,,,1005512,,2338934,,,2
+H1,2004,2004,2004,4,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12251,,,,13944,,21949,,,2
+H1,2004,2004,2004,4,0,3,Re-Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12221,,,,13914,,21883,,,0
+H1,2004,2004,2004,4,0,1,Import,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2487,,,,2487,,4584,,,0
+H1,2004,2004,2004,4,0,1,Import,662,Saint Lucia,LCA,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,66080,,,,72322,,85334,,,0
+H1,2004,2004,2004,4,0,2,Export,662,Saint Lucia,LCA,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3570,,,,3570,,4781,,,0
+H1,2004,2004,2004,4,0,3,Re-Export,662,Saint Lucia,LCA,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3570,,,,3570,,4781,,,0
+H1,2004,2004,2004,4,0,1,Import,662,Saint Lucia,LCA,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8310,,,,40633,,62557,,,0
+H1,2004,2004,2004,4,0,1,Import,662,Saint Lucia,LCA,44,Bahamas,BHS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36,,,,36,,161,,,0
+H1,2004,2004,2004,4,0,1,Import,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,200,,,,1334,,1126,,,0
+H1,2004,2004,2004,4,0,2,Export,662,Saint Lucia,LCA,92,Br. Virgin Isds,VGB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,30,,,,30,,67,,,2
+H1,2004,2004,2004,4,0,1,Import,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,189172,,,,218593,,326995,,,0
+H1,2004,2004,2004,4,0,2,Export,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1170,,,,1289,,3056,,,0
+H1,2004,2004,2004,4,0,3,Re-Export,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1170,,,,1289,,3056,,,0
+H1,2004,2004,2004,4,0,1,Import,662,Saint Lucia,LCA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,487,,,,180,,317,,,0
+H1,2004,2004,2004,4,0,1,Import,662,Saint Lucia,LCA,184,Cook Isds,COK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,90,,,,90,,208,,,0
+H1,2004,2004,2004,4,0,1,Import,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,305426,,,,328306,,976639,,,2
+H1,2004,2004,2004,4,0,1,Import,662,Saint Lucia,LCA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2487,,,,2524,,7886,,,0
+H1,2004,2004,2004,4,0,1,Import,662,Saint Lucia,LCA,308,Grenada,GRD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,459,,,,4096,,3681,,,0
+H1,2004,2004,2004,4,0,1,Import,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,27419,,,,63532,,107059,,,0
+H1,2004,2004,2004,4,0,2,Export,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,900,,,,1809,,1408,,,0
+H1,2004,2004,2004,4,0,3,Re-Export,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,900,,,,1809,,1408,,,0
+H1,2004,2004,2004,4,0,1,Import,662,Saint Lucia,LCA,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6382,,,,10147,,15961,,,0
+H1,2004,2004,2004,4,0,1,Import,662,Saint Lucia,LCA,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,113,,,,113,,756,,,0
+H1,2004,2004,2004,4,0,1,Import,662,Saint Lucia,LCA,591,Panama,PAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,72,,,,72,,657,,,0
+H1,2004,2004,2004,4,0,1,Import,662,Saint Lucia,LCA,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,675,,,,785,,5261,,,0
+H1,2004,2004,2004,4,0,2,Export,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,241,,,,444,,1049,,,0
+H1,2004,2004,2004,4,0,3,Re-Export,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,241,,,,444,,1049,,,0
+H1,2004,2004,2004,4,0,1,Import,662,Saint Lucia,LCA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18716,,,,19838,,45616,,,0
+H1,2004,2004,2004,4,0,1,Import,662,Saint Lucia,LCA,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12235,,,,12988,,37148,,,0
+H1,2004,2004,2004,4,0,1,Import,662,Saint Lucia,LCA,752,Sweden,SWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,180,,,,180,,4473,,,0
+H1,2004,2004,2004,4,0,2,Export,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1306,,,,1606,,3391,,,0
+H1,2004,2004,2004,4,0,3,Re-Export,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1306,,,,1606,,3391,,,0
+H1,2004,2004,2004,4,0,1,Import,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,94737,,,,14034,,90204,,,0
+H1,2004,2004,2004,4,0,2,Export,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,45,,,,45,,204,,,0
+H1,2004,2004,2004,4,0,3,Re-Export,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,45,,,,45,,204,,,0
+H1,2004,2004,2004,4,0,1,Import,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,190684,,,,213222,,562309,,,0
+H1,2004,2004,2004,4,0,2,Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4989,,,,5151,,7993,,,0
+H1,2004,2004,2004,4,0,3,Re-Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4989,,,,5151,,7993,,,0
+H1,2005,2005,2005,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,875720,,,,1094875,,2608019,,,0
+H1,2005,2005,2005,4,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5060,,,,5940,,10113,,,0
+H1,2005,2005,2005,4,0,3,Re-Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5060,,,,5940,,10113,,,0
+H1,2005,2005,2005,4,0,1,Import,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3600,,,,4176,,2730,,,0
+H1,2005,2005,2005,4,0,1,Import,662,Saint Lucia,LCA,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,119170,,,,134626,,191501,,,0
+H1,2005,2005,2005,4,0,1,Import,662,Saint Lucia,LCA,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2804,,,,2590,,15110,,,0
+H1,2005,2005,2005,4,0,1,Import,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,180,,,,200,,3134,,,0
+H1,2005,2005,2005,4,0,1,Import,662,Saint Lucia,LCA,60,Bermuda,BMU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,90,,,,90,,572,,,0
+H1,2005,2005,2005,4,0,1,Import,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,180278,,,,230414,,406534,,,0
+H1,2005,2005,2005,4,0,2,Export,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,650,,,,1221,,1924,,,0
+H1,2005,2005,2005,4,0,3,Re-Export,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,650,,,,1221,,1924,,,0
+H1,2005,2005,2005,4,0,1,Import,662,Saint Lucia,LCA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,668,,,,265,,494,,,0
+H1,2005,2005,2005,4,0,1,Import,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,257054,,,,392005,,931765,,,0
+H1,2005,2005,2005,4,0,1,Import,662,Saint Lucia,LCA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,572,,,,649,,2535,,,0
+H1,2005,2005,2005,4,0,1,Import,662,Saint Lucia,LCA,328,Guyana,GUY,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,50,,,,50,,226,,,0
+H1,2005,2005,2005,4,0,1,Import,662,Saint Lucia,LCA,376,Israel,ISR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,153,,,,330,,196,,,0
+H1,2005,2005,2005,4,0,1,Import,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36584,,,,61959,,137269,,,0
+H1,2005,2005,2005,4,0,2,Export,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3150,,,,3150,,5409,,,0
+H1,2005,2005,2005,4,0,3,Re-Export,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3150,,,,3150,,5409,,,0
+H1,2005,2005,2005,4,0,1,Import,662,Saint Lucia,LCA,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1467,,,,2465,,3787,,,0
+H1,2005,2005,2005,4,0,1,Import,662,Saint Lucia,LCA,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1125,,,,1261,,8474,,,0
+H1,2005,2005,2005,4,0,1,Import,662,Saint Lucia,LCA,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,105,,,,56,,738,,,0
+H1,2005,2005,2005,4,0,1,Import,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,24,,,,100,,167,,,0
+H1,2005,2005,2005,4,0,2,Export,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,630,,,,939,,1282,,,0
+H1,2005,2005,2005,4,0,3,Re-Export,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,630,,,,939,,1282,,,0
+H1,2005,2005,2005,4,0,1,Import,662,Saint Lucia,LCA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,26554,,,,28383,,80528,,,0
+H1,2005,2005,2005,4,0,1,Import,662,Saint Lucia,LCA,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1714,,,,3876,,13407,,,0
+H1,2005,2005,2005,4,0,1,Import,662,Saint Lucia,LCA,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2700,,,,2760,,5062,,,0
+H1,2005,2005,2005,4,0,1,Import,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,482,,,,823,,879,,,0
+H1,2005,2005,2005,4,0,1,Import,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4353,,,,5147,,56940,,,0
+H1,2005,2005,2005,4,0,1,Import,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,235993,,,,222650,,745974,,,0
+H1,2005,2005,2005,4,0,2,Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,630,,,,630,,1498,,,0
+H1,2005,2005,2005,4,0,3,Re-Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,630,,,,630,,1498,,,0
+H1,2006,2006,2006,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1008909,,,,1441768,,3062390,,,0
+H1,2006,2006,2006,4,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,38,,,,83,,974,,,0
+H1,2006,2006,2006,4,0,3,Re-Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,38,,,,83,,974,,,0
+H1,2006,2006,2006,4,0,4,Re-Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1,,,,36,,41,,,0
+H1,2006,2006,2006,4,0,1,Import,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6000,,,,7500,,3995,,,0
+H1,2006,2006,2006,4,0,1,Import,662,Saint Lucia,LCA,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,134305,,,,166408,,177521,,,0
+H1,2006,2006,2006,4,0,1,Import,662,Saint Lucia,LCA,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2731,,,,3633,,22503,,,0
+H1,2006,2006,2006,4,0,1,Import,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,957,,,,2843,,23961,,,0
+H1,2006,2006,2006,4,0,2,Export,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36,,,,74,,881,,,0
+H1,2006,2006,2006,4,0,3,Re-Export,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36,,,,74,,881,,,0
+H1,2006,2006,2006,4,0,1,Import,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,205670,,,,307290,,471264,,,0
+H1,2006,2006,2006,4,0,1,Import,662,Saint Lucia,LCA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,35,,,,73,,201,,,0
+H1,2006,2006,2006,4,0,1,Import,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,332757,,,,539632,,1022131,,,0
+H1,2006,2006,2006,4,0,1,Import,662,Saint Lucia,LCA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,158,,,,130,,672,,,0
+H1,2006,2006,2006,4,0,1,Import,662,Saint Lucia,LCA,328,Guyana,GUY,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1684,,,,2064,,2124,,,0
+H1,2006,2006,2006,4,0,1,Import,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,52491,,,,92755,,236134,,,0
+H1,2006,2006,2006,4,0,1,Import,662,Saint Lucia,LCA,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2925,,,,5219,,7630,,,0
+H1,2006,2006,2006,4,0,1,Import,662,Saint Lucia,LCA,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2187,,,,3243,,19021,,,0
+H1,2006,2006,2006,4,0,1,Import,662,Saint Lucia,LCA,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,198,,,,485,,3522,,,0
+H1,2006,2006,2006,4,0,1,Import,662,Saint Lucia,LCA,662,Saint Lucia,LCA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1,,,,36,,41,,,0
+H1,2006,2006,2006,4,0,4,Re-Import,662,Saint Lucia,LCA,662,Saint Lucia,LCA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1,,,,36,,41,,,0
+H1,2006,2006,2006,4,0,1,Import,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,17,,,,4,,62,,,0
+H1,2006,2006,2006,4,0,1,Import,662,Saint Lucia,LCA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1747,,,,1695,,7962,,,0
+H1,2006,2006,2006,4,0,1,Import,662,Saint Lucia,LCA,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1025,,,,647,,6545,,,0
+H1,2006,2006,2006,4,0,1,Import,662,Saint Lucia,LCA,752,Sweden,SWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,90,,,,140,,2700,,,0
+H1,2006,2006,2006,4,0,1,Import,662,Saint Lucia,LCA,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18,,,,23,,257,,,0
+H1,2006,2006,2006,4,0,1,Import,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1599,,,,4631,,57904,,,0
+H1,2006,2006,2006,4,0,2,Export,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2,,,,9,,93,,,0
+H1,2006,2006,2006,4,0,3,Re-Export,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2,,,,9,,93,,,0
+H1,2006,2006,2006,4,0,1,Import,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,262275,,,,303290,,995593,,,0
+H1,2006,2006,2006,4,0,1,Import,662,Saint Lucia,LCA,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,39,,,,27,,646,,,0
+H1,2007,2007,2007,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1184641,,,,1573359,,4215967,,,2
+H1,2007,2007,2007,4,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3,,,,46,,103,,,0
+H1,2007,2007,2007,4,0,1,Import,662,Saint Lucia,LCA,20,Andorra,AND,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9000,,,,13560,,16527,,,0
+H1,2007,2007,2007,4,0,1,Import,662,Saint Lucia,LCA,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,107102,,,,99029,,176633,,,2
+H1,2007,2007,2007,4,0,1,Import,662,Saint Lucia,LCA,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,45,,,,48,,224,,,0
+H1,2007,2007,2007,4,0,1,Import,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3690,,,,11106,,81165,,,0
+H1,2007,2007,2007,4,0,2,Export,662,Saint Lucia,LCA,92,Br. Virgin Isds,VGB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1,,,,6,,6,,,0
+H1,2007,2007,2007,4,0,1,Import,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,144315,,,,221306,,422882,,,0
+H1,2007,2007,2007,4,0,1,Import,662,Saint Lucia,LCA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,262,,,,173,,349,,,2
+H1,2007,2007,2007,4,0,1,Import,662,Saint Lucia,LCA,212,Dominica,DMA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1,,,,120,,220,,,0
+H1,2007,2007,2007,4,0,1,Import,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,354648,,,,650859,,1481851,,,2
+H1,2007,2007,2007,4,0,1,Import,662,Saint Lucia,LCA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,936,,,,1441,,4594,,,0
+H1,2007,2007,2007,4,0,1,Import,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,48216,,,,83070,,218208,,,0
+H1,2007,2007,2007,4,0,1,Import,662,Saint Lucia,LCA,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6300,,,,11231,,16039,,,0
+H1,2007,2007,2007,4,0,1,Import,662,Saint Lucia,LCA,484,Mexico,MEX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,100,,,,100,,6476,,,0
+H1,2007,2007,2007,4,0,1,Import,662,Saint Lucia,LCA,591,Panama,PAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,44,,,,20,,61,,,2
+H1,2007,2007,2007,4,0,1,Import,662,Saint Lucia,LCA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3870,,,,7738,,16360,,,0
+H1,2007,2007,2007,4,0,1,Import,662,Saint Lucia,LCA,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,645,,,,950,,4942,,,0
+H1,2007,2007,2007,4,0,1,Import,662,Saint Lucia,LCA,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,63,,,,18,,276,,,0
+H1,2007,2007,2007,4,0,1,Import,662,Saint Lucia,LCA,764,Thailand,THA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,100,,,,100,,1081,,,0
+H1,2007,2007,2007,4,0,1,Import,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,145895,,,,23220,,248258,,,2
+H1,2007,2007,2007,4,0,2,Export,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2,,,,40,,97,,,0
+H1,2007,2007,2007,4,0,1,Import,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,359409,,,,449270,,1519821,,,2
+H1,2008,2008,2008,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1377723,,,,1820348,,4923641,,,2
+H1,2008,2008,2008,4,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,734040,,,,746709,,916524,,,0
+H1,2008,2008,2008,4,0,3,Re-Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,733011,,,,728605,,905625,,,0
+H1,2008,2008,2008,4,0,1,Import,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8016,,,,13101,,15290,,,0
+H1,2008,2008,2008,4,0,1,Import,662,Saint Lucia,LCA,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,153575,,,,207318,,262200,,,2
+H1,2008,2008,2008,4,0,1,Import,662,Saint Lucia,LCA,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,34,,,,26,,818,,,0
+H1,2008,2008,2008,4,0,1,Import,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2191,,,,4455,,50307,,,0
+H1,2008,2008,2008,4,0,2,Export,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,210000,,,,144000,,279820,,,0
+H1,2008,2008,2008,4,0,3,Re-Export,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,210000,,,,144000,,279820,,,0
+H1,2008,2008,2008,4,0,1,Import,662,Saint Lucia,LCA,92,Br. Virgin Isds,VGB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,14232,,,,14219,,14718,,,0
+H1,2008,2008,2008,4,0,1,Import,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,156166,,,,180145,,440134,,,0
+H1,2008,2008,2008,4,0,1,Import,662,Saint Lucia,LCA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,110,,,,67,,190,,,2
+H1,2008,2008,2008,4,0,1,Import,662,Saint Lucia,LCA,188,Costa Rica,CRI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,93,,,,20,,503,,,0
+H1,2008,2008,2008,4,0,1,Import,662,Saint Lucia,LCA,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1,,,,2,,6,,,0
+H1,2008,2008,2008,4,0,1,Import,662,Saint Lucia,LCA,214,Dominican Rep.,DOM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,38663,,,,31827,,67173,,,0
+H1,2008,2008,2008,4,0,1,Import,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,350546,,,,628816,,1640587,,,2
+H1,2008,2008,2008,4,0,2,Export,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,350100,,,,350100,,358229,,,0
+H1,2008,2008,2008,4,0,3,Re-Export,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,350100,,,,350100,,358229,,,0
+H1,2008,2008,2008,4,0,1,Import,662,Saint Lucia,LCA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,642,,,,1000,,3086,,,0
+H1,2008,2008,2008,4,0,1,Import,662,Saint Lucia,LCA,328,Guyana,GUY,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,360,,,,1208,,9561,,,0
+H1,2008,2008,2008,4,0,1,Import,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,31229,,,,59007,,189412,,,2
+H1,2008,2008,2008,4,0,1,Import,662,Saint Lucia,LCA,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4716,,,,8395,,11689,,,0
+H1,2008,2008,2008,4,0,1,Import,662,Saint Lucia,LCA,454,Malawi,MWI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,34,,,,5,,43,,,2
+H1,2008,2008,2008,4,0,1,Import,662,Saint Lucia,LCA,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,237,,,,256,,8162,,,0
+H1,2008,2008,2008,4,0,2,Export,662,Saint Lucia,LCA,659,Saint Kitts and Nevis,KNA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,50000,,,,50000,,53034,,,0
+H1,2008,2008,2008,4,0,3,Re-Export,662,Saint Lucia,LCA,659,Saint Kitts and Nevis,KNA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,50000,,,,50000,,53034,,,0
+H1,2008,2008,2008,4,0,1,Import,662,Saint Lucia,LCA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,675,,,,577,,3003,,,0
+H1,2008,2008,2008,4,0,1,Import,662,Saint Lucia,LCA,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8167,,,,16191,,44703,,,0
+H1,2008,2008,2008,4,0,2,Export,662,Saint Lucia,LCA,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1005,,,,18068,,10796,,,0
+H1,2008,2008,2008,4,0,1,Import,662,Saint Lucia,LCA,764,Thailand,THA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15,,,,20,,42,,,0
+H1,2008,2008,2008,4,0,1,Import,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3,,,,171,,61,,,0
+H1,2008,2008,2008,4,0,1,Import,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,105511,,,,17991,,185732,,,2
+H1,2008,2008,2008,4,0,2,Export,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,120046,,,,180071,,170707,,,0
+H1,2008,2008,2008,4,0,3,Re-Export,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,120022,,,,180035,,170605,,,0
+H1,2008,2008,2008,4,0,1,Import,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,502508,,,,635531,,1976222,,,2
+H1,2008,2008,2008,4,0,2,Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2889,,,,4470,,43937,,,0
+H1,2008,2008,2008,4,0,3,Re-Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2889,,,,4470,,43937,,,0
+H1,2009,2009,2009,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1726474,,,,1726474,,3595744,,,2
+H1,2009,2009,2009,4,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1250252,,,,1250252,,1450148,,,2
+H1,2009,2009,2009,4,0,3,Re-Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1249879,,,,1249879,,1446694,,,2
+H1,2009,2009,2009,4,0,2,Export,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,90050,,,,90050,,37318,,,2
+H1,2009,2009,2009,4,0,3,Re-Export,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,90050,,,,90050,,37318,,,2
+H1,2009,2009,2009,4,0,1,Import,662,Saint Lucia,LCA,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,354265,,,,354265,,419064,,,2
+H1,2009,2009,2009,4,0,1,Import,662,Saint Lucia,LCA,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,20,,,,20,,177,,,2
+H1,2009,2009,2009,4,0,1,Import,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4800,,,,4800,,53035,,,2
+H1,2009,2009,2009,4,0,2,Export,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,30005,,,,30005,,55380,,,2
+H1,2009,2009,2009,4,0,3,Re-Export,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,30005,,,,30005,,55380,,,2
+H1,2009,2009,2009,4,0,1,Import,662,Saint Lucia,LCA,92,Br. Virgin Isds,VGB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,37081,,,,37081,,43574,,,2
+H1,2009,2009,2009,4,0,1,Import,662,Saint Lucia,LCA,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,32,,,,32,,236,,,2
+H1,2009,2009,2009,4,0,1,Import,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,281019,,,,281019,,524489,,,2
+H1,2009,2009,2009,4,0,1,Import,662,Saint Lucia,LCA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,41,,,,41,,116,,,2
+H1,2009,2009,2009,4,0,1,Import,662,Saint Lucia,LCA,188,Costa Rica,CRI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,50,,,,50,,10,,,2
+H1,2009,2009,2009,4,0,1,Import,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,519387,,,,519387,,1041807,,,2
+H1,2009,2009,2009,4,0,2,Export,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,975550,,,,975550,,1156544,,,2
+H1,2009,2009,2009,4,0,3,Re-Export,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,975550,,,,975550,,1156544,,,2
+H1,2009,2009,2009,4,0,1,Import,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,51898,,,,51898,,146450,,,2
+H1,2009,2009,2009,4,0,1,Import,662,Saint Lucia,LCA,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9216,,,,9216,,15827,,,2
+H1,2009,2009,2009,4,0,1,Import,662,Saint Lucia,LCA,660,Anguilla,AIA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2,,,,2,,351,,,2
+H1,2009,2009,2009,4,0,2,Export,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,600,,,,600,,2500,,,2
+H1,2009,2009,2009,4,0,3,Re-Export,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,600,,,,600,,2500,,,2
+H1,2009,2009,2009,4,0,1,Import,662,Saint Lucia,LCA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6731,,,,6731,,14479,,,2
+H1,2009,2009,2009,4,0,1,Import,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,19547,,,,19547,,290760,,,2
+H1,2009,2009,2009,4,0,2,Export,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,152000,,,,152000,,65648,,,2
+H1,2009,2009,2009,4,0,3,Re-Export,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,152000,,,,152000,,65648,,,2
+H1,2009,2009,2009,4,0,1,Import,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,442385,,,,442385,,1045368,,,2
+H1,2009,2009,2009,4,0,2,Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2047,,,,2047,,132757,,,2
+H1,2009,2009,2009,4,0,3,Re-Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1674,,,,1674,,129303,,,2
+H3,2012,2012,2012,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1884551,,,,1884551,,4111672,,,2
+H3,2012,2012,2012,4,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,335,,,,335,,8629,,,2
+H3,2012,2012,2012,4,0,3,Re-Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,335,,,,335,,8629,,,2
+H3,2012,2012,2012,4,0,1,Import,662,Saint Lucia,LCA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,400020,,,,400020,,600489,,,2
+H3,2012,2012,2012,4,0,1,Import,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,68713,,,,68713,,105330,,,2
+H3,2012,2012,2012,4,0,1,Import,662,Saint Lucia,LCA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2680,,,,2680,,3029,,,2
+H3,2012,2012,2012,4,0,1,Import,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,190814,,,,190814,,365072,,,2
+H3,2012,2012,2012,4,0,1,Import,662,Saint Lucia,LCA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,96,,,,96,,72,,,2
+H3,2012,2012,2012,4,0,1,Import,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,479367,,,,479367,,1110263,,,2
+H3,2012,2012,2012,4,0,1,Import,662,Saint Lucia,LCA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,14370,,,,14370,,21649,,,2
+H3,2012,2012,2012,4,0,1,Import,662,Saint Lucia,LCA,308,Grenada,GRD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,660,,,,660,,501,,,2
+H3,2012,2012,2012,4,0,1,Import,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,117062,,,,117062,,238835,,,2
+H3,2012,2012,2012,4,0,1,Import,662,Saint Lucia,LCA,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9595,,,,9595,,15777,,,2
+H3,2012,2012,2012,4,0,1,Import,662,Saint Lucia,LCA,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,320,,,,320,,823,,,2
+H3,2012,2012,2012,4,0,1,Import,662,Saint Lucia,LCA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,135,,,,135,,217,,,2
+H3,2012,2012,2012,4,0,1,Import,662,Saint Lucia,LCA,531,Curaçao,CUW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,22230,,,,22230,,42093,,,2
+H3,2012,2012,2012,4,0,1,Import,662,Saint Lucia,LCA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,957,,,,957,,10966,,,2
+H3,2012,2012,2012,4,0,1,Import,662,Saint Lucia,LCA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,32398,,,,32398,,54757,,,2
+H3,2012,2012,2012,4,0,1,Import,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1050,,,,1050,,4749,,,2
+H3,2012,2012,2012,4,0,1,Import,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,38054,,,,38054,,309849,,,2
+H3,2012,2012,2012,4,0,1,Import,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,506030,,,,506030,,1227203,,,2
+H3,2012,2012,2012,4,0,2,Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,335,,,,335,,8629,,,2
+H3,2012,2012,2012,4,0,3,Re-Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,335,,,,335,,8629,,,2
+H3,2013,2013,2013,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1987865,,,,1987865,,4389057,,,2
+H3,2013,2013,2013,4,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3351,,,,3351,,36698,,,2
+H3,2013,2013,2013,4,0,3,Re-Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3331,,,,3331,,25816,,,2
+H3,2013,2013,2013,4,0,1,Import,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2171,,,,2171,,7424,,,2
+H3,2013,2013,2013,4,0,1,Import,662,Saint Lucia,LCA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,218399,,,,218399,,324776,,,2
+H3,2013,2013,2013,4,0,1,Import,662,Saint Lucia,LCA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,11010,,,,11010,,48453,,,2
+H3,2013,2013,2013,4,0,1,Import,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,95225,,,,95225,,221439,,,2
+H3,2013,2013,2013,4,0,2,Export,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,21,,,,21,,152,,,2
+H3,2013,2013,2013,4,0,3,Re-Export,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,21,,,,21,,152,,,2
+H3,2013,2013,2013,4,0,1,Import,662,Saint Lucia,LCA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1025,,,,1025,,1335,,,2
+H3,2013,2013,2013,4,0,1,Import,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,117111,,,,117111,,277912,,,2
+H3,2013,2013,2013,4,0,1,Import,662,Saint Lucia,LCA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,282,,,,282,,6,,,2
+H3,2013,2013,2013,4,0,2,Export,662,Saint Lucia,LCA,212,Dominica,DMA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,883,,,,883,,1725,,,2
+H3,2013,2013,2013,4,0,3,Re-Export,662,Saint Lucia,LCA,212,Dominica,DMA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,883,,,,883,,1725,,,2
+H3,2013,2013,2013,4,0,1,Import,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,564506,,,,564506,,1360239,,,2
+H3,2013,2013,2013,4,0,1,Import,662,Saint Lucia,LCA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,91868,,,,91868,,122687,,,2
+H3,2013,2013,2013,4,0,2,Export,662,Saint Lucia,LCA,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,100,,,,100,,222,,,2
+H3,2013,2013,2013,4,0,3,Re-Export,662,Saint Lucia,LCA,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,100,,,,100,,222,,,2
+H3,2013,2013,2013,4,0,1,Import,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,96810,,,,96810,,161505,,,2
+H3,2013,2013,2013,4,0,1,Import,662,Saint Lucia,LCA,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,13699,,,,13699,,18367,,,2
+H3,2013,2013,2013,4,0,1,Import,662,Saint Lucia,LCA,531,Curaçao,CUW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,60038,,,,60038,,65450,,,2
+H3,2013,2013,2013,4,0,1,Import,662,Saint Lucia,LCA,534,Saint Maarten,SXM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,715,,,,715,,28246,,,2
+H3,2013,2013,2013,4,0,2,Export,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,20,,,,20,,10883,,,2
+H3,2013,2013,2013,4,0,1,Import,662,Saint Lucia,LCA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,689,,,,689,,3047,,,2
+H3,2013,2013,2013,4,0,1,Import,662,Saint Lucia,LCA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,66968,,,,66968,,130311,,,2
+H3,2013,2013,2013,4,0,1,Import,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15136,,,,15136,,35828,,,2
+H3,2013,2013,2013,4,0,1,Import,662,Saint Lucia,LCA,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10,,,,10,,134,,,2
+H3,2013,2013,2013,4,0,1,Import,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,79843,,,,79843,,302370,,,2
+H3,2013,2013,2013,4,0,2,Export,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,694,,,,694,,5705,,,2
+H3,2013,2013,2013,4,0,3,Re-Export,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,694,,,,694,,5705,,,2
+H3,2013,2013,2013,4,0,1,Import,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,552360,,,,552360,,1279527,,,2
+H3,2013,2013,2013,4,0,2,Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1596,,,,1596,,17607,,,2
+H3,2013,2013,2013,4,0,3,Re-Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1596,,,,1596,,17607,,,2
+H3,2013,2013,2013,4,0,2,Export,662,Saint Lucia,LCA,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,37,,,,37,,404,,,2
+H3,2013,2013,2013,4,0,3,Re-Export,662,Saint Lucia,LCA,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,37,,,,37,,404,,,2
+H3,2014,2014,2014,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2165974,,,,2165974,,5211689,,,2
+H3,2014,2014,2014,4,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4046,,,,4046,,54999,,,2
+H3,2014,2014,2014,4,0,3,Re-Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3104,,,,3104,,36895,,,2
+H3,2014,2014,2014,4,0,1,Import,662,Saint Lucia,LCA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,352348,,,,352348,,617618,,,2
+H3,2014,2014,2014,4,0,1,Import,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6983,,,,6983,,15384,,,2
+H3,2014,2014,2014,4,0,2,Export,662,Saint Lucia,LCA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,862,,,,862,,5672,,,2
+H3,2014,2014,2014,4,0,1,Import,662,Saint Lucia,LCA,136,Cayman Isds,CYM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,300,,,,300,,9453,,,2
+H3,2014,2014,2014,4,0,1,Import,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,207761,,,,207761,,461788,,,2
+H3,2014,2014,2014,4,0,1,Import,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,669809,,,,669809,,1816776,,,2
+H3,2014,2014,2014,4,0,1,Import,662,Saint Lucia,LCA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,51536,,,,51536,,77828,,,2
+H3,2014,2014,2014,4,0,1,Import,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,162804,,,,162804,,292075,,,2
+H3,2014,2014,2014,4,0,1,Import,662,Saint Lucia,LCA,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,19300,,,,19300,,19261,,,2
+H3,2014,2014,2014,4,0,1,Import,662,Saint Lucia,LCA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,16911,,,,16911,,17476,,,2
+H3,2014,2014,2014,4,0,1,Import,662,Saint Lucia,LCA,531,Curaçao,CUW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,32443,,,,32443,,36094,,,2
+H3,2014,2014,2014,4,0,1,Import,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,59,,,,59,,1772,,,2
+H3,2014,2014,2014,4,0,2,Export,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,80,,,,80,,12432,,,2
+H3,2014,2014,2014,4,0,1,Import,662,Saint Lucia,LCA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,621,,,,621,,4184,,,2
+H3,2014,2014,2014,4,0,1,Import,662,Saint Lucia,LCA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,20034,,,,20034,,62832,,,2
+H3,2014,2014,2014,4,0,1,Import,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,320,,,,320,,1516,,,2
+H3,2014,2014,2014,4,0,2,Export,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,40,,,,40,,1131,,,2
+H3,2014,2014,2014,4,0,3,Re-Export,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,40,,,,40,,1131,,,2
+H3,2014,2014,2014,4,0,1,Import,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,54219,,,,54219,,367496,,,2
+H3,2014,2014,2014,4,0,2,Export,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5,,,,5,,60,,,2
+H3,2014,2014,2014,4,0,3,Re-Export,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5,,,,5,,60,,,2
+H3,2014,2014,2014,4,0,1,Import,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,570528,,,,570528,,1410136,,,2
+H3,2014,2014,2014,4,0,2,Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3059,,,,3059,,35704,,,2
+H3,2014,2014,2014,4,0,3,Re-Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3059,,,,3059,,35704,,,2
+H1,2010,2010,2010,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3339749,,,,3339749,,6763287,,,2
+H1,2010,2010,2010,4,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,507785,,,,507785,,918019,,,2
+H1,2010,2010,2010,4,0,3,Re-Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,507785,,,,507785,,918019,,,2
+H1,2010,2010,2010,4,0,1,Import,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16,,,,16,,250,,,2
+H1,2010,2010,2010,4,0,2,Export,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36000,,,,36000,,29904,,,2
+H1,2010,2010,2010,4,0,3,Re-Export,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36000,,,,36000,,29904,,,2
+H1,2010,2010,2010,4,0,1,Import,662,Saint Lucia,LCA,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,564045,,,,564045,,761935,,,2
+H1,2010,2010,2010,4,0,1,Import,662,Saint Lucia,LCA,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,189,,,,189,,2223,,,2
+H1,2010,2010,2010,4,0,1,Import,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,222950,,,,222950,,325860,,,2
+H1,2010,2010,2010,4,0,2,Export,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,37844,,,,37844,,80806,,,2
+H1,2010,2010,2010,4,0,3,Re-Export,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,37844,,,,37844,,80806,,,2
+H1,2010,2010,2010,4,0,1,Import,662,Saint Lucia,LCA,76,Brazil,BRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1,,,,1,,154,,,2
+H1,2010,2010,2010,4,0,1,Import,662,Saint Lucia,LCA,92,Br. Virgin Isds,VGB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,132640,,,,132640,,131151,,,2
+H1,2010,2010,2010,4,0,1,Import,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,391324,,,,391324,,713135,,,2
+H1,2010,2010,2010,4,0,1,Import,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,799442,,,,799442,,1708071,,,2
+H1,2010,2010,2010,4,0,2,Export,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,250000,,,,250000,,190579,,,2
+H1,2010,2010,2010,4,0,3,Re-Export,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,250000,,,,250000,,190579,,,2
+H1,2010,2010,2010,4,0,1,Import,662,Saint Lucia,LCA,328,Guyana,GUY,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10,,,,10,,9,,,2
+H1,2010,2010,2010,4,0,1,Import,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,91546,,,,91546,,171895,,,2
+H1,2010,2010,2010,4,0,1,Import,662,Saint Lucia,LCA,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10393,,,,10393,,20318,,,2
+H1,2010,2010,2010,4,0,1,Import,662,Saint Lucia,LCA,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10,,,,10,,58,,,2
+H1,2010,2010,2010,4,0,1,Import,662,Saint Lucia,LCA,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,706,,,,706,,4714,,,2
+H1,2010,2010,2010,4,0,2,Export,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,803,,,,803,,1889,,,2
+H1,2010,2010,2010,4,0,3,Re-Export,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,803,,,,803,,1889,,,2
+H1,2010,2010,2010,4,0,1,Import,662,Saint Lucia,LCA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9618,,,,9618,,18019,,,2
+H1,2010,2010,2010,4,0,1,Import,662,Saint Lucia,LCA,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15483,,,,15483,,40280,,,2
+H1,2010,2010,2010,4,0,1,Import,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11165,,,,11165,,15030,,,2
+H1,2010,2010,2010,4,0,1,Import,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,390775,,,,390775,,650678,,,2
+H1,2010,2010,2010,4,0,2,Export,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,90000,,,,90000,,108110,,,2
+H1,2010,2010,2010,4,0,3,Re-Export,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,90000,,,,90000,,108110,,,2
+H1,2010,2010,2010,4,0,1,Import,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,699436,,,,699436,,2199506,,,2
+H1,2010,2010,2010,4,0,2,Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,93138,,,,93138,,506731,,,2
+H1,2010,2010,2010,4,0,3,Re-Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,93138,,,,93138,,506731,,,2
+H1,2011,2011,2011,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2308328,,,,2308328,,5266064,,,2
+H1,2011,2011,2011,4,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2073,,,,2073,,19185,,,2
+H1,2011,2011,2011,4,0,3,Re-Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2073,,,,2073,,19185,,,2
+H1,2011,2011,2011,4,0,1,Import,662,Saint Lucia,LCA,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,557549,,,,557549,,790072,,,2
+H1,2011,2011,2011,4,0,1,Import,662,Saint Lucia,LCA,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,90,,,,90,,476,,,2
+H1,2011,2011,2011,4,0,1,Import,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,43221,,,,43221,,98899,,,2
+H1,2011,2011,2011,4,0,1,Import,662,Saint Lucia,LCA,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,185,,,,185,,2616,,,2
+H1,2011,2011,2011,4,0,1,Import,662,Saint Lucia,LCA,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1,,,,1,,69,,,2
+H1,2011,2011,2011,4,0,1,Import,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,275488,,,,275488,,586652,,,2
+H1,2011,2011,2011,4,0,1,Import,662,Saint Lucia,LCA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,60,,,,60,,53,,,2
+H1,2011,2011,2011,4,0,1,Import,662,Saint Lucia,LCA,214,Dominican Rep.,DOM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,300,,,,300,,714,,,2
+H1,2011,2011,2011,4,0,1,Import,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,550383,,,,550383,,1388077,,,2
+H1,2011,2011,2011,4,0,1,Import,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,121712,,,,121712,,313857,,,2
+H1,2011,2011,2011,4,0,1,Import,662,Saint Lucia,LCA,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4866,,,,4866,,8419,,,2
+H1,2011,2011,2011,4,0,1,Import,662,Saint Lucia,LCA,531,Curaçao,CUW,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,57504,,,,57504,,65555,,,2
+H1,2011,2011,2011,4,0,2,Export,662,Saint Lucia,LCA,531,Curaçao,CUW,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,75,,,,75,,319,,,2
+H1,2011,2011,2011,4,0,3,Re-Export,662,Saint Lucia,LCA,531,Curaçao,CUW,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,75,,,,75,,319,,,2
+H1,2011,2011,2011,4,0,1,Import,662,Saint Lucia,LCA,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,990,,,,990,,5891,,,2
+H1,2011,2011,2011,4,0,1,Import,662,Saint Lucia,LCA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,701,,,,701,,6710,,,2
+H1,2011,2011,2011,4,0,1,Import,662,Saint Lucia,LCA,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,25336,,,,25336,,52491,,,2
+H1,2011,2011,2011,4,0,1,Import,662,Saint Lucia,LCA,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3,,,,3,,403,,,2
+H1,2011,2011,2011,4,0,1,Import,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,28657,,,,28657,,219239,,,2
+H1,2011,2011,2011,4,0,1,Import,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,641282,,,,641282,,1725872,,,2
+H1,2011,2011,2011,4,0,2,Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1998,,,,1998,,18866,,,2
+H1,2011,2011,2011,4,0,3,Re-Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1998,,,,1998,,18866,,,2
+H4,2015,2015,2015,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1951421,,,,1951421,,4745985,,,2
+H4,2015,2015,2015,4,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3130,,,,3130,,91081,,,2
+H4,2015,2015,2015,4,0,3,Re-Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2600,,,,2600,,79723,,,2
+H4,2015,2015,2015,4,0,1,Import,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5078,,,,5078,,7551,,,2
+H4,2015,2015,2015,4,0,1,Import,662,Saint Lucia,LCA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,371475,,,,371475,,758534,,,2
+H4,2015,2015,2015,4,0,1,Import,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9136,,,,9136,,44141,,,2
+H4,2015,2015,2015,4,0,1,Import,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,160398,,,,160398,,411248,,,2
+H4,2015,2015,2015,4,0,1,Import,662,Saint Lucia,LCA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20,,,,20,,3,,,2
+H4,2015,2015,2015,4,0,2,Export,662,Saint Lucia,LCA,214,Dominican Rep.,DOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2,,,,2,,182,,,2
+H4,2015,2015,2015,4,0,3,Re-Export,662,Saint Lucia,LCA,214,Dominican Rep.,DOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2,,,,2,,182,,,2
+H4,2015,2015,2015,4,0,1,Import,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,444155,,,,444155,,1245816,,,2
+H4,2015,2015,2015,4,0,1,Import,662,Saint Lucia,LCA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,64889,,,,64889,,74841,,,2
+H4,2015,2015,2015,4,0,1,Import,662,Saint Lucia,LCA,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2583,,,,2583,,3100,,,2
+H4,2015,2015,2015,4,0,1,Import,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,134292,,,,134292,,229752,,,2
+H4,2015,2015,2015,4,0,1,Import,662,Saint Lucia,LCA,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9873,,,,9873,,21128,,,2
+H4,2015,2015,2015,4,0,1,Import,662,Saint Lucia,LCA,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11232,,,,11232,,12278,,,2
+H4,2015,2015,2015,4,0,1,Import,662,Saint Lucia,LCA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8572,,,,8572,,14770,,,2
+H4,2015,2015,2015,4,0,1,Import,662,Saint Lucia,LCA,531,Curaçao,CUW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20220,,,,20220,,22305,,,2
+H4,2015,2015,2015,4,0,1,Import,662,Saint Lucia,LCA,534,Saint Maarten,SXM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,300,,,,300,,4690,,,2
+H4,2015,2015,2015,4,0,2,Export,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1385,,,,1385,,17334,,,2
+H4,2015,2015,2015,4,0,3,Re-Export,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,855,,,,855,,5977,,,2
+H4,2015,2015,2015,4,0,1,Import,662,Saint Lucia,LCA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,57629,,,,57629,,88591,,,2
+H4,2015,2015,2015,4,0,1,Import,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,231,,,,231,,1293,,,2
+H4,2015,2015,2015,4,0,2,Export,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,30,,,,30,,411,,,2
+H4,2015,2015,2015,4,0,3,Re-Export,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,30,,,,30,,411,,,2
+H4,2015,2015,2015,4,0,1,Import,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,34522,,,,34522,,243091,,,2
+H4,2015,2015,2015,4,0,1,Import,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,616650,,,,616650,,1558366,,,2
+H4,2015,2015,2015,4,0,2,Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1713,,,,1713,,73153,,,2
+H4,2015,2015,2015,4,0,3,Re-Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1713,,,,1713,,73153,,,2
+H4,2015,2015,2015,4,0,1,Import,662,Saint Lucia,LCA,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,166,,,,166,,4488,,,2
+H4,2016,2016,2016,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2095019,,,,2095019,,4753114,,,6
+H4,2016,2016,2016,4,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2372,,,,2372,,23812,,,2
+H4,2016,2016,2016,4,0,1,Import,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11715,,,,11715,,13409,,,2
+H4,2016,2016,2016,4,0,1,Import,662,Saint Lucia,LCA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,411678,,,,411678,,706040,,,2
+H4,2016,2016,2016,4,0,1,Import,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3001,,,,3001,,11997,,,2
+H4,2016,2016,2016,4,0,1,Import,662,Saint Lucia,LCA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,522,,,,522,,953,,,2
+H4,2016,2016,2016,4,0,1,Import,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,125968,,,,125968,,318808,,,2
+H4,2016,2016,2016,4,0,1,Import,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,568748,,,,568748,,1310692,,,2
+H4,2016,2016,2016,4,0,1,Import,662,Saint Lucia,LCA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,33407,,,,33407,,38690,,,2
+H4,2016,2016,2016,4,0,1,Import,662,Saint Lucia,LCA,308,Grenada,GRD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,781,,,,781,,2074,,,2
+H4,2016,2016,2016,4,0,1,Import,662,Saint Lucia,LCA,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1588,,,,1588,,3449,,,2
+H4,2016,2016,2016,4,0,1,Import,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,109659,,,,109659,,195341,,,2
+H4,2016,2016,2016,4,0,1,Import,662,Saint Lucia,LCA,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4117,,,,4117,,7069,,,2
+H4,2016,2016,2016,4,0,1,Import,662,Saint Lucia,LCA,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9410,,,,9410,,9789,,,2
+H4,2016,2016,2016,4,0,1,Import,662,Saint Lucia,LCA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9095,,,,9095,,10407,,,2
+H4,2016,2016,2016,4,0,1,Import,662,Saint Lucia,LCA,531,Curaçao,CUW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,727,,,,727,,12031,,,2
+H4,2016,2016,2016,4,0,1,Import,662,Saint Lucia,LCA,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,75,,,,75,,131,,,2
+H4,2016,2016,2016,4,0,2,Export,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,150,,,,150,,871,,,2
+H4,2016,2016,2016,4,0,1,Import,662,Saint Lucia,LCA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6340,,,,6340,,12060,,,2
+H4,2016,2016,2016,4,0,1,Import,662,Saint Lucia,LCA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,155491,,,,155491,,194411,,,2
+H4,2016,2016,2016,4,0,1,Import,662,Saint Lucia,LCA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3,,,,3,,469,,,2
+H4,2016,2016,2016,4,0,1,Import,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,190,,,,190,,3904,,,2
+H4,2016,2016,2016,4,0,1,Import,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,29538,,,,29538,,186964,,,2
+H4,2016,2016,2016,4,0,1,Import,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,608510,,,,608510,,1542592,,,2
+H4,2016,2016,2016,4,0,2,Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2200,,,,2200,,22896,,,2
+H4,2016,2016,2016,4,0,1,Import,662,Saint Lucia,LCA,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4456,,,,4456,,171833,,,6
+H4,2016,2016,2016,4,0,2,Export,662,Saint Lucia,LCA,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22,,,,22,,44,,,2
+H4,2017,2017,2017,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1148646,,,,1148670,,3033304,,,6
+H4,2017,2017,2017,4,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,997766,,,,997766,,2242805,,,2
+H4,2017,2017,2017,4,0,1,Import,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8488,,,,8488,,18300,,,2
+H4,2017,2017,2017,4,0,1,Import,662,Saint Lucia,LCA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,103625,,,,103625,,167161,,,2
+H4,2017,2017,2017,4,0,2,Export,662,Saint Lucia,LCA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,191989,,,,191989,,342222,,,2
+H4,2017,2017,2017,4,0,1,Import,662,Saint Lucia,LCA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,906,,,,906,,2710,,,2
+H4,2017,2017,2017,4,0,2,Export,662,Saint Lucia,LCA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5505,,,,5505,,16009,,,2
+H4,2017,2017,2017,4,0,1,Import,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,416,,,,416,,3905,,,2
+H4,2017,2017,2017,4,0,1,Import,662,Saint Lucia,LCA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,210,,,,210,,545,,,2
+H4,2017,2017,2017,4,0,1,Import,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,101601,,,,101601,,205226,,,2
+H4,2017,2017,2017,4,0,2,Export,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,140069,,,,140069,,284652,,,2
+H4,2017,2017,2017,4,0,1,Import,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,332662,,,,332662,,891291,,,2
+H4,2017,2017,2017,4,0,2,Export,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,272424,,,,272424,,607262,,,2
+H4,2017,2017,2017,4,0,1,Import,662,Saint Lucia,LCA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11957,,,,11957,,12684,,,2
+H4,2017,2017,2017,4,0,1,Import,662,Saint Lucia,LCA,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7437,,,,7437,,15170,,,2
+H4,2017,2017,2017,4,0,1,Import,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,42720,,,,42720,,102826,,,2
+H4,2017,2017,2017,4,0,2,Export,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,77001,,,,77001,,156730,,,2
+H4,2017,2017,2017,4,0,1,Import,662,Saint Lucia,LCA,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14435,,,,14435,,29697,,,2
+H4,2017,2017,2017,4,0,2,Export,662,Saint Lucia,LCA,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,390,,,,390,,391,,,2
+H4,2017,2017,2017,4,0,1,Import,662,Saint Lucia,LCA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5562,,,,5562,,25027,,,2
+H4,2017,2017,2017,4,0,2,Export,662,Saint Lucia,LCA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10060,,,,10060,,27423,,,2
+H4,2017,2017,2017,4,0,2,Export,662,Saint Lucia,LCA,531,Curaçao,CUW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45,,,,45,,2369,,,2
+H4,2017,2017,2017,4,0,1,Import,662,Saint Lucia,LCA,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6348,,,,6348,,4064,,,2
+H4,2017,2017,2017,4,0,2,Export,662,Saint Lucia,LCA,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8177,,,,8177,,11958,,,2
+H4,2017,2017,2017,4,0,2,Export,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,330,,,,330,,8740,,,2
+H4,2017,2017,2017,4,0,1,Import,662,Saint Lucia,LCA,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9,,,,9,,293,,,2
+H4,2017,2017,2017,4,0,1,Import,662,Saint Lucia,LCA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7496,,,,7496,,14289,,,2
+H4,2017,2017,2017,4,0,2,Export,662,Saint Lucia,LCA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1721,,,,1721,,4995,,,2
+H4,2017,2017,2017,4,0,1,Import,662,Saint Lucia,LCA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,106570,,,,106570,,142194,,,2
+H4,2017,2017,2017,4,0,2,Export,662,Saint Lucia,LCA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,42033,,,,42033,,77776,,,2
+H4,2017,2017,2017,4,0,2,Export,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,63,,,,63,,434,,,2
+H4,2017,2017,2017,4,0,1,Import,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,37558,,,,37558,,263916,,,2
+H4,2017,2017,2017,4,0,2,Export,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14385,,,,14385,,73282,,,2
+H4,2017,2017,2017,4,0,1,Import,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,352471,,,,352471,,996753,,,2
+H4,2017,2017,2017,4,0,2,Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,233208,,,,233208,,624128,,,2
+H4,2017,2017,2017,4,0,2,Export,662,Saint Lucia,LCA,862,Venezuela,VEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,114,,,,114,,1209,,,2
+H4,2017,2017,2017,4,0,1,Import,662,Saint Lucia,LCA,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8168,,,,8192,,137242,,,6
+H4,2017,2017,2017,4,0,2,Export,662,Saint Lucia,LCA,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,248,,,,248,,3216,,,2
+H4,2018,2018,2018,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1573762,,,,2204669,,5912554,,,6
+H4,2018,2018,2018,4,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14188,,,,31680,,157769,,,0
+H4,2018,2018,2018,4,0,1,Import,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15313,,,,12361,,24409,,,0
+H4,2018,2018,2018,4,0,1,Import,662,Saint Lucia,LCA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,178968,,,,219935,,415497,,,2
+H4,2018,2018,2018,4,0,1,Import,662,Saint Lucia,LCA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17948,,,,31522,,105255,,,0
+H4,2018,2018,2018,4,0,1,Import,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8,,,,47,,635,,,0
+H4,2018,2018,2018,4,0,2,Export,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7078,,,,7246,,45890,,,0
+H4,2018,2018,2018,4,0,1,Import,662,Saint Lucia,LCA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,312,,,,315,,808,,,0
+H4,2018,2018,2018,4,0,1,Import,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,233555,,,,300651,,605777,,,2
+H4,2018,2018,2018,4,0,1,Import,662,Saint Lucia,LCA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3,,,,14,,26,,,0
+H4,2018,2018,2018,4,0,1,Import,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,436955,,,,626741,,2048882,,,6
+H4,2018,2018,2018,4,0,2,Export,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1030,,,,12331,,31393,,,0
+H4,2018,2018,2018,4,0,1,Import,662,Saint Lucia,LCA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,294,,,,385,,1255,,,2
+H4,2018,2018,2018,4,0,1,Import,662,Saint Lucia,LCA,304,Greenland,GRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22,,,,10,,1031,,,0
+H4,2018,2018,2018,4,0,1,Import,662,Saint Lucia,LCA,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8423,,,,9239,,22942,,,2
+H4,2018,2018,2018,4,0,1,Import,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,92971,,,,158741,,548828,,,2
+H4,2018,2018,2018,4,0,1,Import,662,Saint Lucia,LCA,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,480,,,,1177,,2424,,,0
+H4,2018,2018,2018,4,0,1,Import,662,Saint Lucia,LCA,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90,,,,10,,1226,,,0
+H4,2018,2018,2018,4,0,1,Import,662,Saint Lucia,LCA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1071,,,,2462,,30175,,,0
+H4,2018,2018,2018,4,0,1,Import,662,Saint Lucia,LCA,534,Saint Maarten,SXM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,405,,,,150,,4134,,,0
+H4,2018,2018,2018,4,0,1,Import,662,Saint Lucia,LCA,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1971,,,,3958,,22642,,,0
+H4,2018,2018,2018,4,0,1,Import,662,Saint Lucia,LCA,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9,,,,12,,315,,,0
+H4,2018,2018,2018,4,0,1,Import,662,Saint Lucia,LCA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,346,,,,1059,,3030,,,0
+H4,2018,2018,2018,4,0,2,Export,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1961,,,,3259,,21038,,,0
+H4,2018,2018,2018,4,0,2,Export,662,Saint Lucia,LCA,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9,,,,14,,42,,,0
+H4,2018,2018,2018,4,0,1,Import,662,Saint Lucia,LCA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18092,,,,28184,,59101,,,2
+H4,2018,2018,2018,4,0,1,Import,662,Saint Lucia,LCA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,133789,,,,204369,,313695,,,2
+H4,2018,2018,2018,4,0,1,Import,662,Saint Lucia,LCA,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,270,,,,30,,1154,,,0
+H4,2018,2018,2018,4,0,1,Import,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,43153,,,,52443,,227292,,,2
+H4,2018,2018,2018,4,0,1,Import,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,389307,,,,550845,,1472009,,,2
+H4,2018,2018,2018,4,0,2,Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2712,,,,4256,,46612,,,0
+H4,2018,2018,2018,4,0,2,Export,662,Saint Lucia,LCA,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1397,,,,4573,,12791,,,0
+H4,2019,2019,2019,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1595108,,,,2168614,,5013161,,,6
+H4,2019,2019,2019,4,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8903,,,,29628,,113735,,,2
+H4,2019,2019,2019,4,0,2,Export,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,30,,,,25,,1441,,,0
+H4,2019,2019,2019,4,0,1,Import,662,Saint Lucia,LCA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,164461,,,,214679,,319194,,,2
+H4,2019,2019,2019,4,0,1,Import,662,Saint Lucia,LCA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24295,,,,28535,,89741,,,2
+H4,2019,2019,2019,4,0,2,Export,662,Saint Lucia,LCA,44,Bahamas,BHS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3,,,,2,,64,,,0
+H4,2019,2019,2019,4,0,1,Import,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14,,,,14,,80,,,0
+H4,2019,2019,2019,4,0,2,Export,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3420,,,,5474,,21840,,,0
+H4,2019,2019,2019,4,0,1,Import,662,Saint Lucia,LCA,92,Br. Virgin Isds,VGB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,80,,37,,,0
+H4,2019,2019,2019,4,0,2,Export,662,Saint Lucia,LCA,92,Br. Virgin Isds,VGB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11,,,,8,,137,,,0
+H4,2019,2019,2019,4,0,2,Export,662,Saint Lucia,LCA,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,0,,,,0,,7,,,0
+H4,2019,2019,2019,4,0,1,Import,662,Saint Lucia,LCA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,99,,,,97,,595,,,0
+H4,2019,2019,2019,4,0,2,Export,662,Saint Lucia,LCA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,39,,,,14,,695,,,0
+H4,2019,2019,2019,4,0,1,Import,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,188120,,,,266344,,520413,,,2
+H4,2019,2019,2019,4,0,1,Import,662,Saint Lucia,LCA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36,,,,100,,27,,,0
+H4,2019,2019,2019,4,0,2,Export,662,Saint Lucia,LCA,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3,,,,2,,58,,,0
+H4,2019,2019,2019,4,0,1,Import,662,Saint Lucia,LCA,212,Dominica,DMA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,84,,,,84,,78,,,2
+H4,2019,2019,2019,4,0,2,Export,662,Saint Lucia,LCA,212,Dominica,DMA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6,,,,3,,169,,,0
+H4,2019,2019,2019,4,0,1,Import,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,580238,,,,723931,,1641818,,,2
+H4,2019,2019,2019,4,0,2,Export,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1521,,,,10907,,43418,,,0
+H4,2019,2019,2019,4,0,1,Import,662,Saint Lucia,LCA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,216,,,,315,,1340,,,0
+H4,2019,2019,2019,4,0,2,Export,662,Saint Lucia,LCA,308,Grenada,GRD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20,,,,6,,310,,,0
+H4,2019,2019,2019,4,0,1,Import,662,Saint Lucia,LCA,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9636,,,,24324,,40399,,,0
+H4,2019,2019,2019,4,0,1,Import,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,82706,,,,149137,,412836,,,2
+H4,2019,2019,2019,4,0,1,Import,662,Saint Lucia,LCA,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,27,,,,3,,367,,,0
+H4,2019,2019,2019,4,0,1,Import,662,Saint Lucia,LCA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2079,,,,6276,,53106,,,0
+H4,2019,2019,2019,4,0,1,Import,662,Saint Lucia,LCA,531,Curaçao,CUW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14,,,,38,,365,,,0
+H4,2019,2019,2019,4,0,2,Export,662,Saint Lucia,LCA,534,Saint Maarten,SXM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6,,,,2,,89,,,0
+H4,2019,2019,2019,4,0,1,Import,662,Saint Lucia,LCA,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2623,,,,3840,,21800,,,2
+H4,2019,2019,2019,4,0,1,Import,662,Saint Lucia,LCA,586,Pakistan,PAK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4,,,,4,,29,,,2
+H4,2019,2019,2019,4,0,2,Export,662,Saint Lucia,LCA,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,99,,,,11,,1164,,,0
+H4,2019,2019,2019,4,0,1,Import,662,Saint Lucia,LCA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,714,,,,1546,,7360,,,0
+H4,2019,2019,2019,4,0,2,Export,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1179,,,,1419,,18478,,,2
+H4,2019,2019,2019,4,0,1,Import,662,Saint Lucia,LCA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19373,,,,29813,,63601,,,0
+H4,2019,2019,2019,4,0,1,Import,662,Saint Lucia,LCA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,147056,,,,214025,,299737,,,2
+H4,2019,2019,2019,4,0,1,Import,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,540,,,,400,,4615,,,0
+H4,2019,2019,2019,4,0,2,Export,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,515,,,,698,,3139,,,0
+H4,2019,2019,2019,4,0,2,Export,662,Saint Lucia,LCA,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2,,,,3,,63,,,0
+H4,2019,2019,2019,4,0,1,Import,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,40751,,,,57711,,291032,,,2
+H4,2019,2019,2019,4,0,2,Export,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,99,,,,52,,2539,,,0
+H4,2019,2019,2019,4,0,1,Import,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,332012,,,,447309,,1244579,,,6
+H4,2019,2019,2019,4,0,2,Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1727,,,,6065,,17933,,,0
+H4,2019,2019,2019,4,0,2,Export,662,Saint Lucia,LCA,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,217,,,,4928,,2181,,,0

@@ -1,0 +1,184 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,4,0,1,Import,891,Serbia and Montenegro,SCG,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10335529,,,,10335529,,4848000,,,6
+H1,2000,2000,2000,4,0,2,Export,891,Serbia and Montenegro,SCG,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4211000,,,,4211000,,3476000,,,2
+H1,2000,2000,2000,4,0,2,Export,891,Serbia and Montenegro,SCG,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10000,,,,10000,,10000,,,2
+H1,2000,2000,2000,4,0,1,Import,891,Serbia and Montenegro,SCG,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1000,,,,1000,,3000,,,2
+H1,2000,2000,2000,4,0,2,Export,891,Serbia and Montenegro,SCG,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11000,,,,11000,,20000,,,2
+H1,2000,2000,2000,4,0,2,Export,891,Serbia and Montenegro,SCG,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,27000,,,,27000,,33000,,,2
+H1,2000,2000,2000,4,0,1,Import,891,Serbia and Montenegro,SCG,70,Bosnia Herzegovina,BIH,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5000,,,,5000,,11000,,,2
+H1,2000,2000,2000,4,0,2,Export,891,Serbia and Montenegro,SCG,70,Bosnia Herzegovina,BIH,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3238000,,,,3238000,,2505000,,,2
+H1,2000,2000,2000,4,0,2,Export,891,Serbia and Montenegro,SCG,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,61000,,,,61000,,8000,,,2
+H1,2000,2000,2000,4,0,2,Export,891,Serbia and Montenegro,SCG,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,62000,,,,62000,,85000,,,2
+H1,2000,2000,2000,4,0,1,Import,891,Serbia and Montenegro,SCG,191,Croatia,HRV,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16000,,,,16000,,22000,,,2
+H1,2000,2000,2000,4,0,2,Export,891,Serbia and Montenegro,SCG,196,Cyprus,CYP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9000,,,,9000,,20000,,,2
+H1,2000,2000,2000,4,0,2,Export,891,Serbia and Montenegro,SCG,203,Czechia,CZE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12000,,,,12000,,22000,,,2
+H1,2000,2000,2000,4,0,1,Import,891,Serbia and Montenegro,SCG,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,35824,,,,35824,,61000,,,6
+H1,2000,2000,2000,4,0,2,Export,891,Serbia and Montenegro,SCG,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,75000,,,,75000,,95000,,,2
+H1,2000,2000,2000,4,0,2,Export,891,Serbia and Montenegro,SCG,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,162000,,,,162000,,200000,,,2
+H1,2000,2000,2000,4,0,1,Import,891,Serbia and Montenegro,SCG,348,Hungary,HUN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16000,,,,16000,,19000,,,2
+H1,2000,2000,2000,4,0,2,Export,891,Serbia and Montenegro,SCG,348,Hungary,HUN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,156000,,,,156000,,30000,,,2
+H1,2000,2000,2000,4,0,1,Import,891,Serbia and Montenegro,SCG,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,43000,,,,43000,,31000,,,2
+H1,2000,2000,2000,4,0,2,Export,891,Serbia and Montenegro,SCG,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2000,,,,2000,,1000,,,2
+H1,2000,2000,2000,4,0,2,Export,891,Serbia and Montenegro,SCG,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4000,,,,4000,,8000,,,2
+H1,2000,2000,2000,4,0,2,Export,891,Serbia and Montenegro,SCG,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,106000,,,,106000,,70000,,,2
+H1,2000,2000,2000,4,0,2,Export,891,Serbia and Montenegro,SCG,442,Luxembourg,LUX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1000,,,,1000,,2000,,,2
+H1,2000,2000,2000,4,0,2,Export,891,Serbia and Montenegro,SCG,643,Russian Federation,RUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12000,,,,12000,,27000,,,2
+H1,2000,2000,2000,4,0,1,Import,891,Serbia and Montenegro,SCG,705,Slovenia,SVN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8706,,,,8706,,6000,,,6
+H1,2000,2000,2000,4,0,2,Export,891,Serbia and Montenegro,SCG,705,Slovenia,SVN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,32000,,,,32000,,46000,,,2
+H1,2000,2000,2000,4,0,1,Import,891,Serbia and Montenegro,SCG,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2000,,,,2000,,8000,,,2
+H1,2000,2000,2000,4,0,2,Export,891,Serbia and Montenegro,SCG,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,73000,,,,73000,,116000,,,2
+H1,2000,2000,2000,4,0,1,Import,891,Serbia and Montenegro,SCG,807,North Macedonia,MKD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10208000,,,,10208000,,4687000,,,2
+H1,2000,2000,2000,4,0,2,Export,891,Serbia and Montenegro,SCG,807,North Macedonia,MKD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16000,,,,16000,,24000,,,2
+H1,2000,2000,2000,4,0,2,Export,891,Serbia and Montenegro,SCG,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,109000,,,,109000,,80000,,,2
+H1,2000,2000,2000,4,0,2,Export,891,Serbia and Montenegro,SCG,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,33000,,,,33000,,74000,,,2
+H1,2001,2001,2001,4,0,1,Import,891,Serbia and Montenegro,SCG,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,21168607,,,,21168607,,8795674,,,2
+H1,2001,2001,2001,4,0,2,Export,891,Serbia and Montenegro,SCG,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5405669,,,,5405669,,4102198,,,2
+H1,2001,2001,2001,4,0,2,Export,891,Serbia and Montenegro,SCG,8,Albania,ALB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,29766,,,,29766,,29050,,,2
+H1,2001,2001,2001,4,0,1,Import,891,Serbia and Montenegro,SCG,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1204,,,,1204,,4757,,,2
+H1,2001,2001,2001,4,0,1,Import,891,Serbia and Montenegro,SCG,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,560,,,,560,,1773,,,2
+H1,2001,2001,2001,4,0,2,Export,891,Serbia and Montenegro,SCG,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6930,,,,6930,,12357,,,2
+H1,2001,2001,2001,4,0,1,Import,891,Serbia and Montenegro,SCG,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,79,,,,79,,426,,,2
+H1,2001,2001,2001,4,0,2,Export,891,Serbia and Montenegro,SCG,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15907,,,,15907,,20020,,,2
+H1,2001,2001,2001,4,0,1,Import,891,Serbia and Montenegro,SCG,70,Bosnia Herzegovina,BIH,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,45640,,,,45640,,64046,,,2
+H1,2001,2001,2001,4,0,2,Export,891,Serbia and Montenegro,SCG,70,Bosnia Herzegovina,BIH,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3355155,,,,3355155,,2433840,,,2
+H1,2001,2001,2001,4,0,1,Import,891,Serbia and Montenegro,SCG,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11393,,,,11393,,9796,,,2
+H1,2001,2001,2001,4,0,2,Export,891,Serbia and Montenegro,SCG,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,91485,,,,91485,,110654,,,2
+H1,2001,2001,2001,4,0,1,Import,891,Serbia and Montenegro,SCG,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1995,,,,1995,,5211,,,2
+H1,2001,2001,2001,4,0,1,Import,891,Serbia and Montenegro,SCG,191,Croatia,HRV,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,68086,,,,68086,,151449,,,2
+H1,2001,2001,2001,4,0,1,Import,891,Serbia and Montenegro,SCG,196,Cyprus,CYP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3744,,,,3744,,6556,,,2
+H1,2001,2001,2001,4,0,2,Export,891,Serbia and Montenegro,SCG,196,Cyprus,CYP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9,,,,9,,8,,,2
+H1,2001,2001,2001,4,0,2,Export,891,Serbia and Montenegro,SCG,203,Czechia,CZE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13247,,,,13247,,24748,,,2
+H1,2001,2001,2001,4,0,2,Export,891,Serbia and Montenegro,SCG,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36,,,,36,,212,,,2
+H1,2001,2001,2001,4,0,1,Import,891,Serbia and Montenegro,SCG,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,82457,,,,82457,,214495,,,2
+H1,2001,2001,2001,4,0,2,Export,891,Serbia and Montenegro,SCG,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,114610,,,,114610,,140757,,,2
+H1,2001,2001,2001,4,0,2,Export,891,Serbia and Montenegro,SCG,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1434704,,,,1434704,,726729,,,2
+H1,2001,2001,2001,4,0,1,Import,891,Serbia and Montenegro,SCG,348,Hungary,HUN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13754,,,,13754,,17671,,,2
+H1,2001,2001,2001,4,0,1,Import,891,Serbia and Montenegro,SCG,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,423743,,,,423743,,358178,,,2
+H1,2001,2001,2001,4,0,2,Export,891,Serbia and Montenegro,SCG,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,20475,,,,20475,,39281,,,2
+H1,2001,2001,2001,4,0,2,Export,891,Serbia and Montenegro,SCG,566,Nigeria,NGA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1677,,,,1677,,2856,,,2
+H1,2001,2001,2001,4,0,1,Import,891,Serbia and Montenegro,SCG,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11757,,,,11757,,14930,,,2
+H1,2001,2001,2001,4,0,2,Export,891,Serbia and Montenegro,SCG,643,Russian Federation,RUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,88701,,,,88701,,184799,,,2
+H1,2001,2001,2001,4,0,2,Export,891,Serbia and Montenegro,SCG,703,Slovakia,SVK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,180,,,,180,,55,,,2
+H1,2001,2001,2001,4,0,1,Import,891,Serbia and Montenegro,SCG,705,Slovenia,SVN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,50065,,,,50065,,84120,,,2
+H1,2001,2001,2001,4,0,2,Export,891,Serbia and Montenegro,SCG,705,Slovenia,SVN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,25663,,,,25663,,45358,,,2
+H1,2001,2001,2001,4,0,1,Import,891,Serbia and Montenegro,SCG,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,671,,,,671,,2048,,,2
+H1,2001,2001,2001,4,0,1,Import,891,Serbia and Montenegro,SCG,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11317,,,,11317,,32969,,,2
+H1,2001,2001,2001,4,0,2,Export,891,Serbia and Montenegro,SCG,752,Sweden,SWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6120,,,,6120,,11424,,,2
+H1,2001,2001,2001,4,0,2,Export,891,Serbia and Montenegro,SCG,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,114506,,,,114506,,202938,,,2
+H1,2001,2001,2001,4,0,1,Import,891,Serbia and Montenegro,SCG,807,North Macedonia,MKD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,20441314,,,,20441314,,7824887,,,2
+H1,2001,2001,2001,4,0,2,Export,891,Serbia and Montenegro,SCG,807,North Macedonia,MKD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,21900,,,,21900,,32087,,,2
+H1,2001,2001,2001,4,0,1,Import,891,Serbia and Montenegro,SCG,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18,,,,18,,556,,,2
+H1,2001,2001,2001,4,0,2,Export,891,Serbia and Montenegro,SCG,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,46233,,,,46233,,46763,,,2
+H1,2001,2001,2001,4,0,1,Import,891,Serbia and Montenegro,SCG,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,810,,,,810,,1806,,,2
+H1,2001,2001,2001,4,0,2,Export,891,Serbia and Montenegro,SCG,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18365,,,,18365,,38262,,,2
+H1,2002,2002,2002,4,0,1,Import,891,Serbia and Montenegro,SCG,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13564207,,,,13564207,,7316260,,,2
+H1,2002,2002,2002,4,0,2,Export,891,Serbia and Montenegro,SCG,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6388559,,,,6388559,,5099290,,,2
+H1,2002,2002,2002,4,0,2,Export,891,Serbia and Montenegro,SCG,8,Albania,ALB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36060,,,,36060,,35676,,,2
+H1,2002,2002,2002,4,0,1,Import,891,Serbia and Montenegro,SCG,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1772,,,,1772,,6632,,,2
+H1,2002,2002,2002,4,0,1,Import,891,Serbia and Montenegro,SCG,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2572,,,,2572,,10806,,,2
+H1,2002,2002,2002,4,0,1,Import,891,Serbia and Montenegro,SCG,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1321,,,,1321,,3356,,,2
+H1,2002,2002,2002,4,0,2,Export,891,Serbia and Montenegro,SCG,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,540,,,,540,,932,,,2
+H1,2002,2002,2002,4,0,2,Export,891,Serbia and Montenegro,SCG,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,30845,,,,30845,,36247,,,2
+H1,2002,2002,2002,4,0,2,Export,891,Serbia and Montenegro,SCG,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,17438,,,,17438,,26532,,,2
+H1,2002,2002,2002,4,0,1,Import,891,Serbia and Montenegro,SCG,70,Bosnia Herzegovina,BIH,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,37826,,,,37826,,100348,,,2
+H1,2002,2002,2002,4,0,2,Export,891,Serbia and Montenegro,SCG,70,Bosnia Herzegovina,BIH,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3885620,,,,3885620,,3105653,,,2
+H1,2002,2002,2002,4,0,1,Import,891,Serbia and Montenegro,SCG,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15792,,,,15792,,16509,,,2
+H1,2002,2002,2002,4,0,2,Export,891,Serbia and Montenegro,SCG,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,129555,,,,129555,,145077,,,2
+H1,2002,2002,2002,4,0,1,Import,891,Serbia and Montenegro,SCG,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6859,,,,6859,,21358,,,2
+H1,2002,2002,2002,4,0,1,Import,891,Serbia and Montenegro,SCG,191,Croatia,HRV,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,58519,,,,58519,,186318,,,2
+H1,2002,2002,2002,4,0,2,Export,891,Serbia and Montenegro,SCG,191,Croatia,HRV,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,49525,,,,49525,,83487,,,2
+H1,2002,2002,2002,4,0,2,Export,891,Serbia and Montenegro,SCG,196,Cyprus,CYP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1080,,,,1080,,2078,,,2
+H1,2002,2002,2002,4,0,2,Export,891,Serbia and Montenegro,SCG,203,Czechia,CZE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13950,,,,13950,,29244,,,2
+H1,2002,2002,2002,4,0,1,Import,891,Serbia and Montenegro,SCG,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,73546,,,,73546,,203742,,,2
+H1,2002,2002,2002,4,0,2,Export,891,Serbia and Montenegro,SCG,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,100764,,,,100764,,154953,,,2
+H1,2002,2002,2002,4,0,1,Import,891,Serbia and Montenegro,SCG,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2151,,,,2151,,7840,,,2
+H1,2002,2002,2002,4,0,2,Export,891,Serbia and Montenegro,SCG,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1864012,,,,1864012,,946430,,,2
+H1,2002,2002,2002,4,0,1,Import,891,Serbia and Montenegro,SCG,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10574,,,,10574,,22435,,,2
+H1,2002,2002,2002,4,0,1,Import,891,Serbia and Montenegro,SCG,348,Hungary,HUN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,21427,,,,21427,,22117,,,2
+H1,2002,2002,2002,4,0,2,Export,891,Serbia and Montenegro,SCG,348,Hungary,HUN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,91,,,,91,,169,,,2
+H1,2002,2002,2002,4,0,1,Import,891,Serbia and Montenegro,SCG,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,318851,,,,318851,,408418,,,2
+H1,2002,2002,2002,4,0,1,Import,891,Serbia and Montenegro,SCG,484,Mexico,MEX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2433,,,,2433,,5255,,,2
+H1,2002,2002,2002,4,0,1,Import,891,Serbia and Montenegro,SCG,498,Rep. of Moldova,MDA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8900,,,,8900,,6408,,,2
+H1,2002,2002,2002,4,0,2,Export,891,Serbia and Montenegro,SCG,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18784,,,,18784,,25021,,,2
+H1,2002,2002,2002,4,0,2,Export,891,Serbia and Montenegro,SCG,566,Nigeria,NGA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,469,,,,469,,1046,,,2
+H1,2002,2002,2002,4,0,2,Export,891,Serbia and Montenegro,SCG,579,Norway,NOR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,370,,,,370,,75,,,2
+H1,2002,2002,2002,4,0,2,Export,891,Serbia and Montenegro,SCG,616,Poland,POL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3317,,,,3317,,8760,,,2
+H1,2002,2002,2002,4,0,1,Import,891,Serbia and Montenegro,SCG,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13035,,,,13035,,17788,,,2
+H1,2002,2002,2002,4,0,2,Export,891,Serbia and Montenegro,SCG,643,Russian Federation,RUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,22519,,,,22519,,48404,,,2
+H1,2002,2002,2002,4,0,1,Import,891,Serbia and Montenegro,SCG,694,Sierra Leone,SLE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,90,,,,90,,176,,,2
+H1,2002,2002,2002,4,0,2,Export,891,Serbia and Montenegro,SCG,703,Slovakia,SVK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1728,,,,1728,,3902,,,2
+H1,2002,2002,2002,4,0,1,Import,891,Serbia and Montenegro,SCG,705,Slovenia,SVN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,68488,,,,68488,,97559,,,2
+H1,2002,2002,2002,4,0,2,Export,891,Serbia and Montenegro,SCG,705,Slovenia,SVN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,39738,,,,39738,,89579,,,2
+H1,2002,2002,2002,4,0,1,Import,891,Serbia and Montenegro,SCG,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1346,,,,1346,,2659,,,2
+H1,2002,2002,2002,4,0,1,Import,891,Serbia and Montenegro,SCG,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,75326,,,,75326,,140112,,,2
+H1,2002,2002,2002,4,0,1,Import,891,Serbia and Montenegro,SCG,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,65,,,,65,,237,,,2
+H1,2002,2002,2002,4,0,2,Export,891,Serbia and Montenegro,SCG,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,109779,,,,109779,,228783,,,2
+H1,2002,2002,2002,4,0,1,Import,891,Serbia and Montenegro,SCG,807,North Macedonia,MKD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12834518,,,,12834518,,5992394,,,2
+H1,2002,2002,2002,4,0,2,Export,891,Serbia and Montenegro,SCG,807,North Macedonia,MKD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,22155,,,,22155,,38960,,,2
+H1,2002,2002,2002,4,0,1,Import,891,Serbia and Montenegro,SCG,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2502,,,,2502,,20308,,,2
+H1,2002,2002,2002,4,0,2,Export,891,Serbia and Montenegro,SCG,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8396,,,,8396,,16310,,,2
+H1,2002,2002,2002,4,0,1,Import,891,Serbia and Montenegro,SCG,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6294,,,,6294,,23485,,,2
+H1,2002,2002,2002,4,0,2,Export,891,Serbia and Montenegro,SCG,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,31824,,,,31824,,71972,,,2
+H1,2004,2004,2004,4,0,1,Import,891,Serbia and Montenegro,SCG,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13428946,,,,13428946,,11032072,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10069885,,,,10069885,,12424598,,,6
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,8,Albania,ALB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,27861,,,,27861,,70527,,,2
+H1,2004,2004,2004,4,0,1,Import,891,Serbia and Montenegro,SCG,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,21901,,,,21901,,34757,,,2
+H1,2004,2004,2004,4,0,1,Import,891,Serbia and Montenegro,SCG,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1424,,,,1424,,7510,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2745,,,,2745,,8195,,,2
+H1,2004,2004,2004,4,0,1,Import,891,Serbia and Montenegro,SCG,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5114,,,,5114,,34235,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1932523,,,,1932523,,968582,,,2
+H1,2004,2004,2004,4,0,1,Import,891,Serbia and Montenegro,SCG,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,40,,,,40,,1155,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,25836,,,,25836,,51147,,,2
+H1,2004,2004,2004,4,0,1,Import,891,Serbia and Montenegro,SCG,70,Bosnia Herzegovina,BIH,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,71797,,,,71797,,177722,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,70,Bosnia Herzegovina,BIH,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5525379,,,,5525379,,8130473,,,2
+H1,2004,2004,2004,4,0,1,Import,891,Serbia and Montenegro,SCG,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4570,,,,4570,,8425,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2,,,,2,,6,,,6
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,112,Belarus,BLR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,27495,,,,27495,,59084,,,2
+H1,2004,2004,2004,4,0,1,Import,891,Serbia and Montenegro,SCG,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,810,,,,810,,3434,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,173227,,,,173227,,216034,,,2
+H1,2004,2004,2004,4,0,1,Import,891,Serbia and Montenegro,SCG,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12462,,,,12462,,52709,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2442,,,,2442,,7825,,,2
+H1,2004,2004,2004,4,0,1,Import,891,Serbia and Montenegro,SCG,191,Croatia,HRV,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,120009,,,,120009,,278191,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,191,Croatia,HRV,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,120793,,,,120793,,267199,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,196,Cyprus,CYP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,37854,,,,37854,,124105,,,2
+H1,2004,2004,2004,4,0,1,Import,891,Serbia and Montenegro,SCG,203,Czechia,CZE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,756,,,,756,,11878,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,203,Czechia,CZE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,181393,,,,181393,,230972,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,765,,,,765,,2229,,,2
+H1,2004,2004,2004,4,0,1,Import,891,Serbia and Montenegro,SCG,218,Ecuador,ECU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,22524,,,,22524,,61591,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,246,Finland,FIN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,450,,,,450,,1229,,,2
+H1,2004,2004,2004,4,0,1,Import,891,Serbia and Montenegro,SCG,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,89892,,,,89892,,466763,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,91440,,,,91440,,200460,,,2
+H1,2004,2004,2004,4,0,1,Import,891,Serbia and Montenegro,SCG,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8386,,,,8386,,24185,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1516598,,,,1516598,,1219430,,,2
+H1,2004,2004,2004,4,0,1,Import,891,Serbia and Montenegro,SCG,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8648,,,,8648,,21966,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,38,,,,38,,199,,,2
+H1,2004,2004,2004,4,0,1,Import,891,Serbia and Montenegro,SCG,348,Hungary,HUN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,99585,,,,99585,,98516,,,2
+H1,2004,2004,2004,4,0,1,Import,891,Serbia and Montenegro,SCG,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,156437,,,,156437,,416263,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,54023,,,,54023,,105758,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,398,Kazakhstan,KAZ,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,73,,,,73,,1883,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,470,Malta,MLT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,810,,,,810,,2135,,,2
+H1,2004,2004,2004,4,0,1,Import,891,Serbia and Montenegro,SCG,484,Mexico,MEX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11982,,,,11982,,34201,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12234,,,,12234,,27429,,,2
+H1,2004,2004,2004,4,0,1,Import,891,Serbia and Montenegro,SCG,566,Nigeria,NGA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6,,,,6,,67,,,2
+H1,2004,2004,2004,4,0,1,Import,891,Serbia and Montenegro,SCG,568,"Other Europe, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,21130,,,,21130,,136304,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,579,Norway,NOR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,27,,,,27,,31,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,616,Poland,POL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3712,,,,3712,,16015,,,2
+H1,2004,2004,2004,4,0,1,Import,891,Serbia and Montenegro,SCG,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7323,,,,7323,,16007,,,2
+H1,2004,2004,2004,4,0,1,Import,891,Serbia and Montenegro,SCG,642,Romania,ROU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,17118,,,,17118,,39736,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,642,Romania,ROU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,440,,,,440,,1926,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,643,Russian Federation,RUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,43933,,,,43933,,98780,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,703,Slovakia,SVK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5892,,,,5892,,10559,,,2
+H1,2004,2004,2004,4,0,1,Import,891,Serbia and Montenegro,SCG,705,Slovenia,SVN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,243768,,,,243768,,285619,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,705,Slovenia,SVN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5667,,,,5667,,14847,,,2
+H1,2004,2004,2004,4,0,1,Import,891,Serbia and Montenegro,SCG,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,496,,,,496,,1675,,,2
+H1,2004,2004,2004,4,0,1,Import,891,Serbia and Montenegro,SCG,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,21204,,,,21204,,63119,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,752,Sweden,SWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2592,,,,2592,,9699,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,104499,,,,104499,,290886,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,792,Turkey,TUR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6,,,,6,,37,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,804,Ukraine,UKR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,110,,,,110,,320,,,2
+H1,2004,2004,2004,4,0,1,Import,891,Serbia and Montenegro,SCG,807,North Macedonia,MKD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12475250,,,,12475250,,8702666,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,807,North Macedonia,MKD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,64057,,,,64057,,114511,,,2
+H1,2004,2004,2004,4,0,1,Import,891,Serbia and Montenegro,SCG,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4415,,,,4415,,43644,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2232,,,,2232,,6734,,,2
+H1,2004,2004,2004,4,0,1,Import,891,Serbia and Montenegro,SCG,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1899,,,,1899,,9734,,,2
+H1,2004,2004,2004,4,0,2,Export,891,Serbia and Montenegro,SCG,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,102737,,,,102737,,165352,,,2

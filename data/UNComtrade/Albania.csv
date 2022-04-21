@@ -1,0 +1,353 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2003,2003,2003,4,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1508790,,,,1508790,,1516752,,,4
+H2,2003,2003,2003,4,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1649,,,,1649,,4565,,,4
+H2,2003,2003,2003,4,0,1,Import,8,Albania,ALB,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2990,,,,2990,,19353,,,4
+H2,2003,2003,2003,4,0,1,Import,8,Albania,ALB,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,30,,,,30,,117,,,4
+H2,2003,2003,2003,4,0,1,Import,8,Albania,ALB,191,Croatia,HRV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,100,,,,100,,595,,,4
+H2,2003,2003,2003,4,0,1,Import,8,Albania,ALB,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1176,,,,1176,,10516,,,4
+H2,2003,2003,2003,4,0,1,Import,8,Albania,ALB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,59615,,,,59615,,139885,,,4
+H2,2003,2003,2003,4,0,1,Import,8,Albania,ALB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4428,,,,4428,,9177,,,4
+H2,2003,2003,2003,4,0,1,Import,8,Albania,ALB,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,103757,,,,103757,,126734,,,4
+H2,2003,2003,2003,4,0,2,Export,8,Albania,ALB,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1440,,,,1440,,3330,,,4
+H2,2003,2003,2003,4,0,1,Import,8,Albania,ALB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1159914,,,,1159914,,1031347,,,4
+H2,2003,2003,2003,4,0,1,Import,8,Albania,ALB,498,Rep. of Moldova,MDA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10149,,,,10149,,14173,,,4
+H2,2003,2003,2003,4,0,1,Import,8,Albania,ALB,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,541,,,,541,,2468,,,4
+H2,2003,2003,2003,4,0,2,Export,8,Albania,ALB,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,209,,,,209,,1235,,,4
+H2,2003,2003,2003,4,0,1,Import,8,Albania,ALB,694,Sierra Leone,SLE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,900,,,,900,,1266,,,4
+H2,2003,2003,2003,4,0,1,Import,8,Albania,ALB,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5345,,,,5345,,9006,,,4
+H2,2003,2003,2003,4,0,1,Import,8,Albania,ALB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3375,,,,3375,,8906,,,4
+H2,2003,2003,2003,4,0,1,Import,8,Albania,ALB,807,North Macedonia,MKD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20478,,,,20478,,28188,,,4
+H2,2003,2003,2003,4,0,1,Import,8,Albania,ALB,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1260,,,,1260,,3019,,,4
+H2,2003,2003,2003,4,0,1,Import,8,Albania,ALB,891,Serbia and Montenegro,SCG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18463,,,,18463,,25968,,,4
+H2,2003,2003,2003,4,0,1,Import,8,Albania,ALB,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,116269,,,,116269,,86034,,,4
+H2,2004,2004,2004,4,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1144330,,,,1228784,,1825849,,,0
+H2,2004,2004,2004,4,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1818,,,,1800,,7777,,,0
+H2,2004,2004,2004,4,0,1,Import,8,Albania,ALB,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10125,,,,10125,,20360,,,0
+H2,2004,2004,2004,4,0,1,Import,8,Albania,ALB,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15704,,,,12435,,28854,,,0
+H2,2004,2004,2004,4,0,1,Import,8,Albania,ALB,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,522,,,,522,,1776,,,0
+H2,2004,2004,2004,4,0,1,Import,8,Albania,ALB,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20,,,,20,,52,,,0
+H2,2004,2004,2004,4,0,1,Import,8,Albania,ALB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,84101,,,,88829,,185739,,,0
+H2,2004,2004,2004,4,0,1,Import,8,Albania,ALB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9765,,,,9825,,16187,,,0
+H2,2004,2004,2004,4,0,1,Import,8,Albania,ALB,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,121941,,,,136286,,194235,,,0
+H2,2004,2004,2004,4,0,1,Import,8,Albania,ALB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,674644,,,,745699,,1096197,,,0
+H2,2004,2004,2004,4,0,1,Import,8,Albania,ALB,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6651,,,,6652,,10060,,,0
+H2,2004,2004,2004,4,0,1,Import,8,Albania,ALB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12833,,,,13467,,27501,,,0
+H2,2004,2004,2004,4,0,2,Export,8,Albania,ALB,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1818,,,,1800,,7777,,,0
+H2,2004,2004,2004,4,0,1,Import,8,Albania,ALB,807,North Macedonia,MKD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,159947,,,,158106,,178092,,,0
+H2,2004,2004,2004,4,0,1,Import,8,Albania,ALB,891,Serbia and Montenegro,SCG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,48079,,,,46818,,66797,,,0
+H1,2000,2000,2000,4,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,292081,,,,292081,,314890,,,4
+H1,2000,2000,2000,4,0,1,Import,8,Albania,ALB,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1029,,,,1029,,2708,,,4
+H1,2000,2000,2000,4,0,1,Import,8,Albania,ALB,191,Croatia,HRV,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,126,,,,126,,144,,,4
+H1,2000,2000,2000,4,0,1,Import,8,Albania,ALB,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,180,,,,180,,1239,,,4
+H1,2000,2000,2000,4,0,1,Import,8,Albania,ALB,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15857,,,,15857,,30055,,,4
+H1,2000,2000,2000,4,0,1,Import,8,Albania,ALB,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,60,,,,60,,203,,,4
+H1,2000,2000,2000,4,0,1,Import,8,Albania,ALB,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,44138,,,,44138,,39487,,,4
+H1,2000,2000,2000,4,0,1,Import,8,Albania,ALB,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,186462,,,,186462,,201930,,,4
+H1,2000,2000,2000,4,0,1,Import,8,Albania,ALB,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,855,,,,855,,1719,,,4
+H1,2000,2000,2000,4,0,1,Import,8,Albania,ALB,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,50,,,,50,,1411,,,4
+H1,2000,2000,2000,4,0,1,Import,8,Albania,ALB,792,Turkey,TUR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2394,,,,2394,,3923,,,4
+H1,2000,2000,2000,4,0,1,Import,8,Albania,ALB,807,North Macedonia,MKD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,25473,,,,25473,,15497,,,4
+H1,2000,2000,2000,4,0,1,Import,8,Albania,ALB,891,Serbia and Montenegro,SCG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15457,,,,15457,,16574,,,4
+H1,2001,2001,2001,4,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,429001,,,,429001,,620515,,,4
+H1,2001,2001,2001,4,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5000,,,,5000,,30831,,,4
+H1,2001,2001,2001,4,0,1,Import,8,Albania,ALB,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5012,,,,5012,,10351,,,4
+H1,2001,2001,2001,4,0,1,Import,8,Albania,ALB,112,Belarus,BLR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,900,,,,900,,1161,,,4
+H1,2001,2001,2001,4,0,1,Import,8,Albania,ALB,203,Czechia,CZE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,267,,,,267,,184,,,4
+H1,2001,2001,2001,4,0,1,Import,8,Albania,ALB,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,103,,,,103,,675,,,4
+H1,2001,2001,2001,4,0,1,Import,8,Albania,ALB,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18648,,,,18648,,138882,,,4
+H1,2001,2001,2001,4,0,1,Import,8,Albania,ALB,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7250,,,,7250,,10434,,,4
+H1,2001,2001,2001,4,0,1,Import,8,Albania,ALB,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,86153,,,,86153,,64917,,,4
+H1,2001,2001,2001,4,0,1,Import,8,Albania,ALB,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,245374,,,,245374,,328675,,,4
+H1,2001,2001,2001,4,0,1,Import,8,Albania,ALB,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,23954,,,,23954,,25670,,,4
+H1,2001,2001,2001,4,0,1,Import,8,Albania,ALB,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,270,,,,270,,691,,,4
+H1,2001,2001,2001,4,0,1,Import,8,Albania,ALB,792,Turkey,TUR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1053,,,,1053,,1120,,,4
+H1,2001,2001,2001,4,0,1,Import,8,Albania,ALB,807,North Macedonia,MKD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7531,,,,7531,,3882,,,4
+H1,2001,2001,2001,4,0,1,Import,8,Albania,ALB,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,675,,,,675,,1735,,,4
+H1,2001,2001,2001,4,0,1,Import,8,Albania,ALB,891,Serbia and Montenegro,SCG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,31811,,,,31811,,32138,,,4
+H1,2001,2001,2001,4,0,2,Export,8,Albania,ALB,891,Serbia and Montenegro,SCG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5000,,,,5000,,30831,,,4
+H1,2002,2002,2002,4,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,672711,,,,672711,,842682,,,4
+H1,2002,2002,2002,4,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3277,,,,3277,,5687,,,4
+H1,2002,2002,2002,4,0,1,Import,8,Albania,ALB,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2631,,,,2631,,6923,,,4
+H1,2002,2002,2002,4,0,1,Import,8,Albania,ALB,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,32561,,,,32561,,59922,,,4
+H1,2002,2002,2002,4,0,1,Import,8,Albania,ALB,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1935,,,,1935,,3291,,,4
+H1,2002,2002,2002,4,0,1,Import,8,Albania,ALB,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,88860,,,,88860,,96612,,,4
+H1,2002,2002,2002,4,0,1,Import,8,Albania,ALB,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,510479,,,,510479,,625026,,,4
+H1,2002,2002,2002,4,0,2,Export,8,Albania,ALB,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3127,,,,3127,,4615,,,4
+H1,2002,2002,2002,4,0,1,Import,8,Albania,ALB,705,Slovenia,SVN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1215,,,,1215,,2095,,,4
+H1,2002,2002,2002,4,0,1,Import,8,Albania,ALB,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,150,,,,150,,380,,,4
+H1,2002,2002,2002,4,0,1,Import,8,Albania,ALB,807,North Macedonia,MKD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18766,,,,18766,,26032,,,4
+H1,2002,2002,2002,4,0,1,Import,8,Albania,ALB,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,495,,,,495,,832,,,4
+H1,2002,2002,2002,4,0,1,Import,8,Albania,ALB,891,Serbia and Montenegro,SCG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15619,,,,15619,,21568,,,4
+H1,2002,2002,2002,4,0,2,Export,8,Albania,ALB,891,Serbia and Montenegro,SCG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,150,,,,150,,1072,,,4
+H3,2009,2009,2009,4,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2504847,,,,2529107,,5770568,,,0
+H3,2009,2009,2009,4,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3938,,,,3895,,15849,,,0
+H3,2009,2009,2009,4,0,1,Import,8,Albania,ALB,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5220,,,,5220,,34353,,,0
+H3,2009,2009,2009,4,0,1,Import,8,Albania,ALB,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2768,,,,2768,,16199,,,0
+H3,2009,2009,2009,4,0,1,Import,8,Albania,ALB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1418,,,,1418,,4983,,,0
+H3,2009,2009,2009,4,0,1,Import,8,Albania,ALB,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1244,,,,1244,,6390,,,0
+H3,2009,2009,2009,4,0,1,Import,8,Albania,ALB,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3105,,,,3105,,7263,,,0
+H3,2009,2009,2009,4,0,2,Export,8,Albania,ALB,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,342,,,,557,,1170,,,0
+H3,2009,2009,2009,4,0,1,Import,8,Albania,ALB,191,Croatia,HRV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,796,,,,797,,1742,,,0
+H3,2009,2009,2009,4,0,1,Import,8,Albania,ALB,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,72,,,,129,,1039,,,0
+H3,2009,2009,2009,4,0,1,Import,8,Albania,ALB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,112754,,,,114783,,515742,,,0
+H3,2009,2009,2009,4,0,1,Import,8,Albania,ALB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7195,,,,7646,,19783,,,0
+H3,2009,2009,2009,4,0,1,Import,8,Albania,ALB,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,59851,,,,59480,,99130,,,0
+H3,2009,2009,2009,4,0,1,Import,8,Albania,ALB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1920884,,,,1932327,,4324503,,,0
+H3,2009,2009,2009,4,0,1,Import,8,Albania,ALB,499,Montenegro,MNE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,148688,,,,149900,,194717,,,0
+H3,2009,2009,2009,4,0,2,Export,8,Albania,ALB,499,Montenegro,MNE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18,,,,18,,111,,,0
+H3,2009,2009,2009,4,0,1,Import,8,Albania,ALB,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,685,,,,892,,10233,,,0
+H3,2009,2009,2009,4,0,2,Export,8,Albania,ALB,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,33,,,,50,,98,,,0
+H3,2009,2009,2009,4,0,1,Import,8,Albania,ALB,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8528,,,,8528,,16860,,,0
+H3,2009,2009,2009,4,0,2,Export,8,Albania,ALB,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,976,,,,977,,6713,,,0
+H3,2009,2009,2009,4,0,1,Import,8,Albania,ALB,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5935,,,,5935,,21754,,,0
+H3,2009,2009,2009,4,0,2,Export,8,Albania,ALB,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2389,,,,2114,,7341,,,0
+H3,2009,2009,2009,4,0,1,Import,8,Albania,ALB,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8770,,,,8770,,61448,,,0
+H3,2009,2009,2009,4,0,2,Export,8,Albania,ALB,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,180,,,,180,,416,,,0
+H3,2009,2009,2009,4,0,1,Import,8,Albania,ALB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,105150,,,,109139,,195176,,,0
+H3,2009,2009,2009,4,0,1,Import,8,Albania,ALB,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,45,,,,45,,421,,,0
+H3,2009,2009,2009,4,0,1,Import,8,Albania,ALB,807,North Macedonia,MKD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,110597,,,,115348,,232188,,,0
+H3,2009,2009,2009,4,0,1,Import,8,Albania,ALB,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1143,,,,1636,,6644,,,0
+H2,2005,2005,2005,4,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2031867,,,,2094699,,2872779,,,0
+H2,2005,2005,2005,4,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,251,,,,281,,606,,,0
+H2,2005,2005,2005,4,0,2,Export,8,Albania,ALB,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8,,,,47,,80,,,0
+H2,2005,2005,2005,4,0,1,Import,8,Albania,ALB,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45,,,,45,,97,,,0
+H2,2005,2005,2005,4,0,1,Import,8,Albania,ALB,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,881,,9202,,,0
+H2,2005,2005,2005,4,0,1,Import,8,Albania,ALB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,96027,,,,100417,,183805,,,0
+H2,2005,2005,2005,4,0,1,Import,8,Albania,ALB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20400,,,,20400,,36869,,,0
+H2,2005,2005,2005,4,0,2,Export,8,Albania,ALB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,69,,,,20,,284,,,0
+H2,2005,2005,2005,4,0,1,Import,8,Albania,ALB,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,160171,,,,160640,,230403,,,0
+H2,2005,2005,2005,4,0,1,Import,8,Albania,ALB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1348099,,,,1359250,,1812650,,,0
+H2,2005,2005,2005,4,0,1,Import,8,Albania,ALB,694,Sierra Leone,SLE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,947,,,,947,,1712,,,0
+H2,2005,2005,2005,4,0,1,Import,8,Albania,ALB,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21372,,,,20050,,31757,,,0
+H2,2005,2005,2005,4,0,1,Import,8,Albania,ALB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,44822,,,,46981,,89708,,,0
+H2,2005,2005,2005,4,0,1,Import,8,Albania,ALB,807,North Macedonia,MKD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,241965,,,,258972,,340867,,,0
+H2,2005,2005,2005,4,0,1,Import,8,Albania,ALB,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,710,,,,708,,11128,,,0
+H2,2005,2005,2005,4,0,2,Export,8,Albania,ALB,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,108,,,,148,,108,,,0
+H2,2005,2005,2005,4,0,1,Import,8,Albania,ALB,891,Serbia and Montenegro,SCG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,97308,,,,125409,,124582,,,0
+H2,2005,2005,2005,4,0,2,Export,8,Albania,ALB,891,Serbia and Montenegro,SCG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,66,,,,66,,134,,,0
+H2,2006,2006,2006,4,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1927814,,,,1964486,,3155613,,,0
+H2,2006,2006,2006,4,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4946,,,,18234,,21216,,,0
+H2,2006,2006,2006,4,0,1,Import,8,Albania,ALB,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,668,,,,668,,2239,,,0
+H2,2006,2006,2006,4,0,1,Import,8,Albania,ALB,70,Bosnia Herzegovina,BIH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,54,,,,54,,95,,,0
+H2,2006,2006,2006,4,0,1,Import,8,Albania,ALB,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36,,,,36,,108,,,0
+H2,2006,2006,2006,4,0,1,Import,8,Albania,ALB,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,540,,,,540,,1100,,,0
+H2,2006,2006,2006,4,0,1,Import,8,Albania,ALB,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45,,,,73,,959,,,0
+H2,2006,2006,2006,4,0,1,Import,8,Albania,ALB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,85690,,,,89852,,259714,,,0
+H2,2006,2006,2006,4,0,1,Import,8,Albania,ALB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19089,,,,19089,,32123,,,0
+H2,2006,2006,2006,4,0,1,Import,8,Albania,ALB,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,78830,,,,81647,,181441,,,0
+H2,2006,2006,2006,4,0,1,Import,8,Albania,ALB,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14946,,,,14943,,35460,,,0
+H2,2006,2006,2006,4,0,1,Import,8,Albania,ALB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1233829,,,,1249778,,1947638,,,0
+H2,2006,2006,2006,4,0,2,Export,8,Albania,ALB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4514,,,,17484,,20391,,,0
+H2,2006,2006,2006,4,0,1,Import,8,Albania,ALB,498,Rep. of Moldova,MDA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20160,,,,20160,,13034,,,0
+H2,2006,2006,2006,4,0,1,Import,8,Albania,ALB,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,121683,,,,121733,,106712,,,0
+H2,2006,2006,2006,4,0,2,Export,8,Albania,ALB,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,432,,,,750,,825,,,0
+H2,2006,2006,2006,4,0,1,Import,8,Albania,ALB,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,40095,,,,42089,,52372,,,0
+H2,2006,2006,2006,4,0,1,Import,8,Albania,ALB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,116370,,,,114381,,163571,,,0
+H2,2006,2006,2006,4,0,1,Import,8,Albania,ALB,807,North Macedonia,MKD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,195348,,,,209011,,353359,,,0
+H2,2006,2006,2006,4,0,1,Import,8,Albania,ALB,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,433,,,,433,,5686,,,0
+H2,2007,2007,2007,4,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2293827,,,,2293827,,4765412,,,4
+H2,2007,2007,2007,4,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,220,,,,220,,3204,,,4
+H2,2007,2007,2007,4,0,1,Import,8,Albania,ALB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2700,,,,2700,,6081,,,4
+H2,2007,2007,2007,4,0,1,Import,8,Albania,ALB,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,150,,,,150,,1740,,,4
+H2,2007,2007,2007,4,0,1,Import,8,Albania,ALB,70,Bosnia Herzegovina,BIH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,32,,,,32,,29,,,4
+H2,2007,2007,2007,4,0,1,Import,8,Albania,ALB,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7146,,,,7146,,17456,,,4
+H2,2007,2007,2007,4,0,1,Import,8,Albania,ALB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,81743,,,,81743,,255490,,,4
+H2,2007,2007,2007,4,0,1,Import,8,Albania,ALB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22199,,,,22199,,43073,,,4
+H2,2007,2007,2007,4,0,2,Export,8,Albania,ALB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45,,,,45,,126,,,4
+H2,2007,2007,2007,4,0,1,Import,8,Albania,ALB,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,74044,,,,74044,,134406,,,4
+H2,2007,2007,2007,4,0,1,Import,8,Albania,ALB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1531668,,,,1531668,,3285841,,,4
+H2,2007,2007,2007,4,0,2,Export,8,Albania,ALB,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,174,,,,174,,2635,,,4
+H2,2007,2007,2007,4,0,1,Import,8,Albania,ALB,499,Montenegro,MNE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,55080,,,,55080,,78130,,,4
+H2,2007,2007,2007,4,0,1,Import,8,Albania,ALB,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4230,,,,4230,,22918,,,4
+H2,2007,2007,2007,4,0,1,Import,8,Albania,ALB,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7340,,,,7340,,32546,,,4
+H2,2007,2007,2007,4,0,1,Import,8,Albania,ALB,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,127446,,,,127446,,196886,,,4
+H2,2007,2007,2007,4,0,1,Import,8,Albania,ALB,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7463,,,,7463,,13210,,,4
+H2,2007,2007,2007,4,0,1,Import,8,Albania,ALB,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14,,,,14,,233,,,4
+H2,2007,2007,2007,4,0,1,Import,8,Albania,ALB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,193238,,,,193238,,278992,,,4
+H2,2007,2007,2007,4,0,1,Import,8,Albania,ALB,807,North Macedonia,MKD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,178196,,,,178196,,387370,,,4
+H2,2007,2007,2007,4,0,1,Import,8,Albania,ALB,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1067,,,,1067,,10463,,,4
+H2,2007,2007,2007,4,0,1,Import,8,Albania,ALB,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,75,,,,75,,548,,,4
+H2,2007,2007,2007,4,0,2,Export,8,Albania,ALB,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,1,,443,,,4
+H2,2008,2008,2008,4,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2413612,,,,2458730,,5986292,,,2
+H2,2008,2008,2008,4,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5670,,,,5235,,18374,,,2
+H2,2008,2008,2008,4,0,1,Import,8,Albania,ALB,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1874,,,,1874,,13546,,,2
+H2,2008,2008,2008,4,0,1,Import,8,Albania,ALB,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3920,,,,3920,,27088,,,2
+H2,2008,2008,2008,4,0,1,Import,8,Albania,ALB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4619,,,,4619,,24239,,,2
+H2,2008,2008,2008,4,0,1,Import,8,Albania,ALB,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,360,,,,373,,2178,,,2
+H2,2008,2008,2008,4,0,1,Import,8,Albania,ALB,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4460,,,,4460,,7915,,,2
+H2,2008,2008,2008,4,0,1,Import,8,Albania,ALB,70,Bosnia Herzegovina,BIH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,101,,,,120,,118,,,2
+H2,2008,2008,2008,4,0,1,Import,8,Albania,ALB,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,72,,,,72,,1515,,,2
+H2,2008,2008,2008,4,0,1,Import,8,Albania,ALB,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6300,,,,6356,,16716,,,2
+H2,2008,2008,2008,4,0,1,Import,8,Albania,ALB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,67578,,,,68104,,431725,,,2
+H2,2008,2008,2008,4,0,2,Export,8,Albania,ALB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36,,,,25,,101,,,0
+H2,2008,2008,2008,4,0,1,Import,8,Albania,ALB,268,Georgia,GEO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36,,,,36,,584,,,2
+H2,2008,2008,2008,4,0,1,Import,8,Albania,ALB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2670,,,,2670,,11204,,,2
+H2,2008,2008,2008,4,0,1,Import,8,Albania,ALB,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,81581,,,,81079,,232552,,,2
+H2,2008,2008,2008,4,0,1,Import,8,Albania,ALB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1657431,,,,1679756,,4018335,,,2
+H2,2008,2008,2008,4,0,1,Import,8,Albania,ALB,499,Montenegro,MNE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,152077,,,,152077,,254315,,,0
+H2,2008,2008,2008,4,0,1,Import,8,Albania,ALB,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45,,,,45,,3351,,,2
+H2,2008,2008,2008,4,0,1,Import,8,Albania,ALB,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,105,,,,105,,1081,,,2
+H2,2008,2008,2008,4,0,1,Import,8,Albania,ALB,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3531,,,,3518,,8765,,,2
+H2,2008,2008,2008,4,0,1,Import,8,Albania,ALB,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18502,,,,19482,,56371,,,2
+H2,2008,2008,2008,4,0,2,Export,8,Albania,ALB,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,180,,,,346,,1576,,,0
+H2,2008,2008,2008,4,0,1,Import,8,Albania,ALB,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21,,,,21,,406,,,0
+H2,2008,2008,2008,4,0,1,Import,8,Albania,ALB,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8514,,,,8514,,23061,,,2
+H2,2008,2008,2008,4,0,1,Import,8,Albania,ALB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,174105,,,,176262,,304754,,,2
+H2,2008,2008,2008,4,0,1,Import,8,Albania,ALB,807,North Macedonia,MKD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,223706,,,,242997,,536258,,,2
+H2,2008,2008,2008,4,0,1,Import,8,Albania,ALB,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,2,,,2
+H2,2008,2008,2008,4,0,1,Import,8,Albania,ALB,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1997,,,,2264,,10215,,,2
+H2,2008,2008,2008,4,0,2,Export,8,Albania,ALB,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5454,,,,4864,,16697,,,2
+H4,2012,2012,2012,4,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2608388,,,,2615733,,6869351,,,0
+H4,2012,2012,2012,4,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6596,,,,6659,,35130,,,0
+H4,2012,2012,2012,4,0,1,Import,8,Albania,ALB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,473,,,,473,,1885,,,0
+H4,2012,2012,2012,4,0,1,Import,8,Albania,ALB,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,450,,,,450,,2089,,,0
+H4,2012,2012,2012,4,0,1,Import,8,Albania,ALB,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,48,,,,48,,109,,,0
+H4,2012,2012,2012,4,0,1,Import,8,Albania,ALB,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4572,,,,4572,,20727,,,0
+H4,2012,2012,2012,4,0,2,Export,8,Albania,ALB,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,387,,,,387,,1877,,,0
+H4,2012,2012,2012,4,0,1,Import,8,Albania,ALB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,160279,,,,160281,,1040199,,,0
+H4,2012,2012,2012,4,0,1,Import,8,Albania,ALB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12692,,,,12692,,51329,,,0
+H4,2012,2012,2012,4,0,2,Export,8,Albania,ALB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,418,,,,429,,4143,,,0
+H4,2012,2012,2012,4,0,1,Import,8,Albania,ALB,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,73467,,,,73256,,105723,,,0
+H4,2012,2012,2012,4,0,1,Import,8,Albania,ALB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1675255,,,,1681817,,4456151,,,0
+H4,2012,2012,2012,4,0,2,Export,8,Albania,ALB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,402,,,,402,,14921,,,0
+H4,2012,2012,2012,4,0,1,Import,8,Albania,ALB,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36,,,,48,,285,,,0
+H4,2012,2012,2012,4,0,1,Import,8,Albania,ALB,498,Rep. of Moldova,MDA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12293,,,,12293,,20448,,,0
+H4,2012,2012,2012,4,0,1,Import,8,Albania,ALB,499,Montenegro,MNE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,245639,,,,245639,,548440,,,0
+H4,2012,2012,2012,4,0,1,Import,8,Albania,ALB,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,114361,,,,114353,,114738,,,0
+H4,2012,2012,2012,4,0,2,Export,8,Albania,ALB,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4808,,,,4808,,13186,,,0
+H4,2012,2012,2012,4,0,1,Import,8,Albania,ALB,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,473,,,,473,,1704,,,0
+H4,2012,2012,2012,4,0,1,Import,8,Albania,ALB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,256108,,,,257256,,400569,,,0
+H4,2012,2012,2012,4,0,1,Import,8,Albania,ALB,807,North Macedonia,MKD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,50274,,,,50110,,99607,,,0
+H4,2012,2012,2012,4,0,2,Export,8,Albania,ALB,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,581,,,,633,,1002,,,0
+H4,2012,2012,2012,4,0,1,Import,8,Albania,ALB,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1971,,,,1974,,5346,,,0
+H4,2013,2013,2013,4,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2183544,,,,2188148,,6805872,,,0
+H4,2013,2013,2013,4,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14121,,,,10043,,59711,,,0
+H4,2013,2013,2013,4,0,1,Import,8,Albania,ALB,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,347,,,,347,,1335,,,0
+H4,2013,2013,2013,4,0,1,Import,8,Albania,ALB,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1755,,,,1755,,6634,,,0
+H4,2013,2013,2013,4,0,1,Import,8,Albania,ALB,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9,,,,9,,30,,,0
+H4,2013,2013,2013,4,0,1,Import,8,Albania,ALB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,109339,,,,111367,,790792,,,0
+H4,2013,2013,2013,4,0,1,Import,8,Albania,ALB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10539,,,,10539,,48863,,,0
+H4,2013,2013,2013,4,0,2,Export,8,Albania,ALB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6681,,,,3994,,11296,,,0
+H4,2013,2013,2013,4,0,1,Import,8,Albania,ALB,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,34856,,,,34827,,71255,,,0
+H4,2013,2013,2013,4,0,1,Import,8,Albania,ALB,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,360,,,,360,,1675,,,0
+H4,2013,2013,2013,4,0,1,Import,8,Albania,ALB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1274114,,,,1277871,,4831046,,,0
+H4,2013,2013,2013,4,0,2,Export,8,Albania,ALB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1272,,,,1272,,3943,,,0
+H4,2013,2013,2013,4,0,1,Import,8,Albania,ALB,498,Rep. of Moldova,MDA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20592,,,,20592,,49066,,,0
+H4,2013,2013,2013,4,0,1,Import,8,Albania,ALB,499,Montenegro,MNE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,268656,,,,268656,,254928,,,0
+H4,2013,2013,2013,4,0,2,Export,8,Albania,ALB,499,Montenegro,MNE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3867,,,,3867,,21133,,,0
+H4,2013,2013,2013,4,0,1,Import,8,Albania,ALB,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,192670,,,,191790,,231504,,,0
+H4,2013,2013,2013,4,0,2,Export,8,Albania,ALB,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,756,,,,756,,10326,,,0
+H4,2013,2013,2013,4,0,1,Import,8,Albania,ALB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,189515,,,,189513,,338061,,,0
+H4,2013,2013,2013,4,0,1,Import,8,Albania,ALB,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2776,,,,2784,,5832,,,0
+H4,2013,2013,2013,4,0,1,Import,8,Albania,ALB,807,North Macedonia,MKD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,77322,,,,76963,,172547,,,0
+H4,2013,2013,2013,4,0,2,Export,8,Albania,ALB,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1545,,,,155,,13014,,,0
+H4,2013,2013,2013,4,0,1,Import,8,Albania,ALB,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,696,,,,777,,2302,,,0
+H4,2014,2014,2014,4,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1613911,,,,1616552,,5994690,,,0
+H4,2014,2014,2014,4,0,1,Import,8,Albania,ALB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,54507,,,,56251,,365534,,,0
+H4,2014,2014,2014,4,0,1,Import,8,Albania,ALB,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,31511,,,,31416,,70877,,,0
+H4,2014,2014,2014,4,0,1,Import,8,Albania,ALB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1415094,,,,1416161,,5152008,,,0
+H4,2014,2014,2014,4,0,1,Import,8,Albania,ALB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,78666,,,,78666,,257389,,,0
+H4,2014,2014,2014,4,0,1,Import,8,Albania,ALB,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,59,,,,59,,516,,,0
+H4,2014,2014,2014,4,0,1,Import,8,Albania,ALB,807,North Macedonia,MKD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,34075,,,,33998,,148367,,,0
+H3,2010,2010,2010,4,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2537742,,,,2549166,,6002486,,,2
+H3,2010,2010,2010,4,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,29022,,,,26376,,69221,,,0
+H3,2010,2010,2010,4,0,1,Import,8,Albania,ALB,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15,,,,20,,358,,,0
+H3,2010,2010,2010,4,0,1,Import,8,Albania,ALB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2155,,,,1530,,10018,,,2
+H3,2010,2010,2010,4,0,1,Import,8,Albania,ALB,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,311,,,,500,,1245,,,0
+H3,2010,2010,2010,4,0,1,Import,8,Albania,ALB,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,27,,,,27,,176,,,0
+H3,2010,2010,2010,4,0,1,Import,8,Albania,ALB,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3650,,,,3650,,10380,,,0
+H3,2010,2010,2010,4,0,1,Import,8,Albania,ALB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,93893,,,,94712,,645141,,,2
+H3,2010,2010,2010,4,0,1,Import,8,Albania,ALB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6534,,,,6534,,20892,,,0
+H3,2010,2010,2010,4,0,1,Import,8,Albania,ALB,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,77762,,,,77336,,180055,,,0
+H3,2010,2010,2010,4,0,1,Import,8,Albania,ALB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1760777,,,,1761711,,4161892,,,2
+H3,2010,2010,2010,4,0,1,Import,8,Albania,ALB,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,695,,,,875,,8905,,,0
+H3,2010,2010,2010,4,0,1,Import,8,Albania,ALB,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,823,,,,815,,3693,,,0
+H3,2010,2010,2010,4,0,1,Import,8,Albania,ALB,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,238311,,,,239532,,287757,,,2
+H3,2010,2010,2010,4,0,2,Export,8,Albania,ALB,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1050,,,,1150,,2778,,,0
+H3,2010,2010,2010,4,0,1,Import,8,Albania,ALB,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2986,,,,2986,,8266,,,0
+H3,2010,2010,2010,4,0,1,Import,8,Albania,ALB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,256742,,,,260968,,432113,,,2
+H3,2010,2010,2010,4,0,1,Import,8,Albania,ALB,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,190,,,,190,,1072,,,0
+H3,2010,2010,2010,4,0,1,Import,8,Albania,ALB,807,North Macedonia,MKD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,90925,,,,95822,,222918,,,0
+H3,2010,2010,2010,4,0,1,Import,8,Albania,ALB,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,135,,,,135,,842,,,0
+H3,2010,2010,2010,4,0,1,Import,8,Albania,ALB,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1813,,,,1824,,6763,,,0
+H3,2010,2010,2010,4,0,2,Export,8,Albania,ALB,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,27972,,,,25226,,66443,,,0
+H3,2011,2011,2011,4,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2691037,,,,2697115,,7173918,,,0
+H3,2011,2011,2011,4,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5628,,,,5630,,28921,,,0
+H3,2011,2011,2011,4,0,1,Import,8,Albania,ALB,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,900,,,,900,,3310,,,0
+H3,2011,2011,2011,4,0,1,Import,8,Albania,ALB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2340,,,,2340,,10723,,,0
+H3,2011,2011,2011,4,0,1,Import,8,Albania,ALB,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12,,,,12,,150,,,0
+H3,2011,2011,2011,4,0,1,Import,8,Albania,ALB,70,Bosnia Herzegovina,BIH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2250,,,,2250,,5155,,,0
+H3,2011,2011,2011,4,0,2,Export,8,Albania,ALB,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,77,,,,77,,153,,,0
+H3,2011,2011,2011,4,0,1,Import,8,Albania,ALB,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7025,,,,7025,,23622,,,0
+H3,2011,2011,2011,4,0,1,Import,8,Albania,ALB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,124561,,,,124613,,1031462,,,0
+H3,2011,2011,2011,4,0,1,Import,8,Albania,ALB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7029,,,,7029,,19133,,,0
+H3,2011,2011,2011,4,0,2,Export,8,Albania,ALB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,39,,,,40,,386,,,0
+H3,2011,2011,2011,4,0,1,Import,8,Albania,ALB,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,105529,,,,106408,,233131,,,0
+H3,2011,2011,2011,4,0,1,Import,8,Albania,ALB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1744552,,,,1749587,,4692615,,,0
+H3,2011,2011,2011,4,0,2,Export,8,Albania,ALB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,45,,,,45,,93,,,0
+H3,2011,2011,2011,4,0,1,Import,8,Albania,ALB,446,"China, Macao SAR",MAC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1113,,,,1113,,4529,,,0
+H3,2011,2011,2011,4,0,1,Import,8,Albania,ALB,498,Rep. of Moldova,MDA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,14142,,,,14142,,48245,,,0
+H3,2011,2011,2011,4,0,1,Import,8,Albania,ALB,499,Montenegro,MNE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,209803,,,,209806,,293004,,,0
+H3,2011,2011,2011,4,0,1,Import,8,Albania,ALB,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,720,,,,720,,4012,,,0
+H3,2011,2011,2011,4,0,1,Import,8,Albania,ALB,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1125,,,,1113,,4804,,,0
+H3,2011,2011,2011,4,0,1,Import,8,Albania,ALB,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,30690,,,,30466,,37501,,,0
+H3,2011,2011,2011,4,0,2,Export,8,Albania,ALB,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,68,,,,68,,3664,,,0
+H3,2011,2011,2011,4,0,1,Import,8,Albania,ALB,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,657,,,,657,,2225,,,0
+H3,2011,2011,2011,4,0,1,Import,8,Albania,ALB,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1940,,,,1940,,6989,,,0
+H3,2011,2011,2011,4,0,1,Import,8,Albania,ALB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,252417,,,,252364,,460674,,,0
+H3,2011,2011,2011,4,0,1,Import,8,Albania,ALB,807,North Macedonia,MKD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,181805,,,,182186,,284089,,,0
+H3,2011,2011,2011,4,0,1,Import,8,Albania,ALB,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2429,,,,2446,,8545,,,0
+H3,2011,2011,2011,4,0,2,Export,8,Albania,ALB,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5400,,,,5400,,24624,,,0
+H5,2017,2017,2017,4,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,10977907,,,0
+H5,2017,2017,2017,4,0,1,Import,8,Albania,ALB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,775231,,,0
+H5,2017,2017,2017,4,0,1,Import,8,Albania,ALB,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8468,,,,8445,,29453,,,0
+H5,2017,2017,2017,4,0,1,Import,8,Albania,ALB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,8347038,,,0
+H5,2017,2017,2017,4,0,1,Import,8,Albania,ALB,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,88,,,,88,,9631,,,0
+H5,2017,2017,2017,4,0,1,Import,8,Albania,ALB,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1249484,,,,1247931,,1288662,,,0
+H5,2017,2017,2017,4,0,1,Import,8,Albania,ALB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,127489,,,,127468,,213711,,,0
+H5,2017,2017,2017,4,0,1,Import,8,Albania,ALB,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6,,,,7,,113,,,0
+H5,2017,2017,2017,4,0,1,Import,8,Albania,ALB,807,North Macedonia,MKD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,127676,,,,125060,,314064,,,0
+H5,2018,2018,2018,4,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2449804,,,,2451472,,9740335,,,0
+H5,2018,2018,2018,4,0,1,Import,8,Albania,ALB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,57351,,,,57396,,574997,,,0
+H5,2018,2018,2018,4,0,1,Import,8,Albania,ALB,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4041,,,,4041,,23468,,,0
+H5,2018,2018,2018,4,0,1,Import,8,Albania,ALB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2218140,,,,2220278,,8679888,,,0
+H5,2018,2018,2018,4,0,1,Import,8,Albania,ALB,499,Montenegro,MNE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,156,,,,157,,10678,,,0
+H5,2018,2018,2018,4,0,1,Import,8,Albania,ALB,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,167,,,,169,,17658,,,0
+H5,2018,2018,2018,4,0,1,Import,8,Albania,ALB,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,75474,,,,75137,,141686,,,0
+H5,2018,2018,2018,4,0,1,Import,8,Albania,ALB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,61518,,,,61518,,159552,,,0
+H5,2018,2018,2018,4,0,1,Import,8,Albania,ALB,807,North Macedonia,MKD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,32955,,,,32774,,132403,,,0
+H5,2019,2019,2019,4,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,10583282,,,0
+H5,2019,2019,2019,4,0,1,Import,8,Albania,ALB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7645,,,,7644,,163656,,,0
+H5,2019,2019,2019,4,0,1,Import,8,Albania,ALB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,9050464,,,0
+H5,2019,2019,2019,4,0,1,Import,8,Albania,ALB,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,37,,,,38,,763,,,0
+H5,2019,2019,2019,4,0,1,Import,8,Albania,ALB,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1003543,,,,1003037,,940429,,,0
+H5,2019,2019,2019,4,0,1,Import,8,Albania,ALB,807,North Macedonia,MKD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,216976,,,,217925,,427968,,,0
+H4,2015,2015,2015,4,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8372364,,,,2487174,,6876314,,,0
+H4,2015,2015,2015,4,0,1,Import,8,Albania,ALB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,333075,,,,114387,,700871,,,0
+H4,2015,2015,2015,4,0,1,Import,8,Albania,ALB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6549,,,,6486,,33979,,,0
+H4,2015,2015,2015,4,0,1,Import,8,Albania,ALB,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16595,,,,8327,,19415,,,0
+H4,2015,2015,2015,4,0,1,Import,8,Albania,ALB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4077375,,,,1676250,,5306421,,,0
+H4,2015,2015,2015,4,0,1,Import,8,Albania,ALB,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3637769,,,,430176,,425060,,,0
+H4,2015,2015,2015,4,0,1,Import,8,Albania,ALB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,139281,,,,107645,,155007,,,0
+H4,2015,2015,2015,4,0,1,Import,8,Albania,ALB,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,619,,,,12,,144,,,0
+H4,2015,2015,2015,4,0,1,Import,8,Albania,ALB,807,North Macedonia,MKD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,155595,,,,143277,,233681,,,0
+H4,2015,2015,2015,4,0,1,Import,8,Albania,ALB,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5508,,,,614,,1736,,,0
+H4,2016,2016,2016,4,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2590562,,,,2595742,,8075694,,,0
+H4,2016,2016,2016,4,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2370,,,,2377,,36117,,,0
+H4,2016,2016,2016,4,0,1,Import,8,Albania,ALB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,113951,,,,119506,,1389988,,,0
+H4,2016,2016,2016,4,0,2,Export,8,Albania,ALB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,824,,,,824,,6864,,,0
+H4,2016,2016,2016,4,0,1,Import,8,Albania,ALB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2063677,,,,2063185,,6115809,,,0
+H4,2016,2016,2016,4,0,2,Export,8,Albania,ALB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1547,,,,1553,,29253,,,0
+H4,2016,2016,2016,4,0,1,Import,8,Albania,ALB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,159650,,,,159514,,274652,,,0
+H4,2016,2016,2016,4,0,1,Import,8,Albania,ALB,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5,,,,5,,66,,,0
+H4,2016,2016,2016,4,0,1,Import,8,Albania,ALB,807,North Macedonia,MKD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,253279,,,,253531,,295180,,,0
+H5,2020,2020,2020,4,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,11949784,,,0
+H5,2020,2020,2020,4,0,1,Import,8,Albania,ALB,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1224,,,,1224,,7231,,,0
+H5,2020,2020,2020,4,0,1,Import,8,Albania,ALB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90544,,,,90546,,1393880,,,0
+H5,2020,2020,2020,4,0,1,Import,8,Albania,ALB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2685,,,,2705,,5537,,,0
+H5,2020,2020,2020,4,0,1,Import,8,Albania,ALB,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7357,,,,7334,,39112,,,0
+H5,2020,2020,2020,4,0,1,Import,8,Albania,ALB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2454721,,,,2456184,,9136935,,,0
+H5,2020,2020,2020,4,0,1,Import,8,Albania,ALB,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,17715,,,0
+H5,2020,2020,2020,4,0,1,Import,8,Albania,ALB,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,797820,,,0
+H5,2020,2020,2020,4,0,1,Import,8,Albania,ALB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,121104,,,0
+H5,2020,2020,2020,4,0,1,Import,8,Albania,ALB,807,North Macedonia,MKD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,209707,,,,209425,,430447,,,0

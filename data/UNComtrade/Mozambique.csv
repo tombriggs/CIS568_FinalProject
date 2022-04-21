@@ -1,0 +1,425 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2002,2002,2002,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,968302,,,,,,1284127,,,2
+H2,2002,2002,2002,4,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,206715,,,,,,645596,,,2
+H2,2002,2002,2002,4,0,1,Import,508,Mozambique,MOZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,223,,,,,,579,,,2
+H2,2002,2002,2002,4,0,2,Export,508,Mozambique,MOZ,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1982,,,,,,5881,,,2
+H2,2002,2002,2002,4,0,1,Import,508,Mozambique,MOZ,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,566,,,,,,1486,,,2
+H2,2002,2002,2002,4,0,1,Import,508,Mozambique,MOZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13010,,,,,,12189,,,2
+H2,2002,2002,2002,4,0,2,Export,508,Mozambique,MOZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,632,,,,,,2467,,,2
+H2,2002,2002,2002,4,0,1,Import,508,Mozambique,MOZ,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,508,,,,,,1315,,,2
+H2,2002,2002,2002,4,0,1,Import,508,Mozambique,MOZ,292,Gibraltar,GIB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2635,,,,,,6822,,,2
+H2,2002,2002,2002,4,0,1,Import,508,Mozambique,MOZ,336,Holy See (Vatican City State),VAT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1698,,,,,,1555,,,2
+H2,2002,2002,2002,4,0,2,Export,508,Mozambique,MOZ,336,Holy See (Vatican City State),VAT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3215,,,,,,4070,,,2
+H2,2002,2002,2002,4,0,2,Export,508,Mozambique,MOZ,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,876,,,,,,3419,,,2
+H2,2002,2002,2002,4,0,1,Import,508,Mozambique,MOZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1210,,,,,,3132,,,2
+H2,2002,2002,2002,4,0,1,Import,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,362944,,,,,,619397,,,2
+H2,2002,2002,2002,4,0,1,Import,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,61616,,,,,,127023,,,2
+H2,2002,2002,2002,4,0,1,Import,508,Mozambique,MOZ,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,450,,,,,,413,,,2
+H2,2002,2002,2002,4,0,1,Import,508,Mozambique,MOZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,501235,,,,,,489515,,,2
+H2,2002,2002,2002,4,0,1,Import,508,Mozambique,MOZ,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21993,,,,,,20148,,,2
+H2,2002,2002,2002,4,0,1,Import,508,Mozambique,MOZ,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,214,,,,,,554,,,2
+H2,2002,2002,2002,4,0,2,Export,508,Mozambique,MOZ,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,200010,,,,,,629759,,,2
+H2,2003,2003,2003,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2404124,,,,662449,,1993894,,,4
+H2,2003,2003,2003,4,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18358,,,,7603,,43631,,,4
+H2,2003,2003,2003,4,0,1,Import,508,Mozambique,MOZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1434,,,,1434,,1363,,,4
+H2,2003,2003,2003,4,0,2,Export,508,Mozambique,MOZ,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,610,,,,610,,6595,,,4
+H2,2003,2003,2003,4,0,1,Import,508,Mozambique,MOZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,28680,,,,28680,,40261,,,4
+H2,2003,2003,2003,4,0,1,Import,508,Mozambique,MOZ,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20,,,,20,,1524,,,4
+H2,2003,2003,2003,4,0,1,Import,508,Mozambique,MOZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,44538,,,,9960,,29983,,,4
+H2,2003,2003,2003,4,0,2,Export,508,Mozambique,MOZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,648,,,,648,,620,,,4
+H2,2003,2003,2003,4,0,1,Import,508,Mozambique,MOZ,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4,,,,4,,136,,,4
+H2,2003,2003,2003,4,0,1,Import,508,Mozambique,MOZ,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10,,,,10,,2585,,,4
+H2,2003,2003,2003,4,0,1,Import,508,Mozambique,MOZ,600,Paraguay,PRY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21000,,,,21000,,11224,,,4
+H2,2003,2003,2003,4,0,1,Import,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2047925,,,,412798,,1571771,,,4
+H2,2003,2003,2003,4,0,1,Import,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,92185,,,,20204,,236336,,,4
+H2,2003,2003,2003,4,0,2,Export,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3600,,,,3600,,7676,,,4
+H2,2003,2003,2003,4,0,1,Import,508,Mozambique,MOZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,167652,,,,167652,,95745,,,4
+H2,2003,2003,2003,4,0,1,Import,508,Mozambique,MOZ,748,Eswatini,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18,,,,18,,153,,,4
+H2,2003,2003,2003,4,0,1,Import,508,Mozambique,MOZ,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,658,,,,670,,2813,,,4
+H2,2003,2003,2003,4,0,2,Export,508,Mozambique,MOZ,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13500,,,,2745,,28740,,,4
+H2,2004,2004,2004,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3716307,,,,3463222,,2595779,,,4
+H2,2004,2004,2004,4,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4605,,,,3627,,33121,,,4
+H2,2004,2004,2004,4,0,1,Import,508,Mozambique,MOZ,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10446,,,,2069,,14300,,,4
+H2,2004,2004,2004,4,0,1,Import,508,Mozambique,MOZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,843,,,,660,,1861,,,4
+H2,2004,2004,2004,4,0,2,Export,508,Mozambique,MOZ,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,940,,,,940,,2283,,,4
+H2,2004,2004,2004,4,0,1,Import,508,Mozambique,MOZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,32400,,,,6758,,50387,,,4
+H2,2004,2004,2004,4,0,1,Import,508,Mozambique,MOZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15835,,,,166,,15147,,,4
+H2,2004,2004,2004,4,0,1,Import,508,Mozambique,MOZ,454,Malawi,MWI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,1,,32,,,4
+H2,2004,2004,2004,4,0,1,Import,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2795583,,,,3140242,,2006482,,,4
+H2,2004,2004,2004,4,0,2,Export,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,90,,,,140,,405,,,0
+H2,2004,2004,2004,4,0,1,Import,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,677918,,,,84040,,387326,,,4
+H2,2004,2004,2004,4,0,2,Export,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,135,,,,150,,476,,,0
+H2,2004,2004,2004,4,0,1,Import,508,Mozambique,MOZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,183259,,,,229262,,120185,,,4
+H2,2004,2004,2004,4,0,1,Import,508,Mozambique,MOZ,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23,,,,23,,58,,,4
+H2,2004,2004,2004,4,0,2,Export,508,Mozambique,MOZ,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3440,,,,2397,,29957,,,4
+H1,2001,2001,2001,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1011052,,,,,,1411027,,,2
+H1,2001,2001,2001,4,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8715,,,,,,21961,,,2
+H1,2001,2001,2001,4,0,1,Import,508,Mozambique,MOZ,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,48,,,,,,152,,,2
+H1,2001,2001,2001,4,0,1,Import,508,Mozambique,MOZ,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,56,,,,,,139,,,2
+H1,2001,2001,2001,4,0,1,Import,508,Mozambique,MOZ,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12918,,,,,,24710,,,2
+H1,2001,2001,2001,4,0,1,Import,508,Mozambique,MOZ,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4238,,,,,,5907,,,2
+H1,2001,2001,2001,4,0,1,Import,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,394868,,,,,,720465,,,2
+H1,2001,2001,2001,4,0,1,Import,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,66179,,,,,,122292,,,2
+H1,2001,2001,2001,4,0,2,Export,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1379,,,,,,4498,,,2
+H1,2001,2001,2001,4,0,1,Import,508,Mozambique,MOZ,716,Zimbabwe,ZWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,345,,,,,,852,,,2
+H1,2001,2001,2001,4,0,1,Import,508,Mozambique,MOZ,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,490383,,,,,,483523,,,2
+H1,2001,2001,2001,4,0,1,Import,508,Mozambique,MOZ,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,42018,,,,,,52987,,,2
+H1,2001,2001,2001,4,0,2,Export,508,Mozambique,MOZ,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7336,,,,,,17463,,,2
+H0,2000,2000,2000,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1698896,,,,,,3033822,,,2
+H0,2000,2000,2000,4,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,49130,,,,,,64411,,,2
+H0,2000,2000,2000,4,0,1,Import,508,Mozambique,MOZ,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,489,,,,,,650,,,2
+H0,2000,2000,2000,4,0,2,Export,508,Mozambique,MOZ,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1,,,,,,1,,,2
+H0,2000,2000,2000,4,0,1,Import,508,Mozambique,MOZ,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,16172,,,,,,45450,,,2
+H0,2000,2000,2000,4,0,2,Export,508,Mozambique,MOZ,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1020,,,,,,3442,,,2
+H0,2000,2000,2000,4,0,2,Export,508,Mozambique,MOZ,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,3148,,,,,,2708,,,2
+H0,2000,2000,2000,4,0,1,Import,508,Mozambique,MOZ,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2037,,,,,,5202,,,2
+H0,2000,2000,2000,4,0,1,Import,508,Mozambique,MOZ,568,"Other Europe, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1496,,,,,,3779,,,2
+H0,2000,2000,2000,4,0,1,Import,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1083980,,,,,,2283741,,,2
+H0,2000,2000,2000,4,0,2,Export,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,42961,,,,,,52567,,,2
+H0,2000,2000,2000,4,0,1,Import,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,61384,,,,,,113930,,,2
+H0,2000,2000,2000,4,0,2,Export,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2000,,,,,,5693,,,2
+H0,2000,2000,2000,4,0,1,Import,508,Mozambique,MOZ,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,531855,,,,,,577336,,,2
+H0,2000,2000,2000,4,0,1,Import,508,Mozambique,MOZ,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1482,,,,,,3735,,,2
+H2,2005,2005,2005,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1691184,,,,,,3999349,,,2
+H2,2005,2005,2005,4,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,68454,,,,,,110359,,,2
+H2,2005,2005,2005,4,0,1,Import,508,Mozambique,MOZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5810,,,,,,8305,,,2
+H2,2005,2005,2005,4,0,1,Import,508,Mozambique,MOZ,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2779,,,,,,3267,,,2
+H2,2005,2005,2005,4,0,1,Import,508,Mozambique,MOZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,46691,,,,,,123453,,,2
+H2,2005,2005,2005,4,0,1,Import,508,Mozambique,MOZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,167,,,,,,732,,,2
+H2,2005,2005,2005,4,0,1,Import,508,Mozambique,MOZ,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2552,,,,,,8610,,,2
+H2,2005,2005,2005,4,0,1,Import,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1231088,,,,,,3326242,,,2
+H2,2005,2005,2005,4,0,2,Export,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4774,,,,,,6548,,,2
+H2,2005,2005,2005,4,0,1,Import,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,170948,,,,,,249408,,,2
+H2,2005,2005,2005,4,0,1,Import,508,Mozambique,MOZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,226108,,,,,,271857,,,2
+H2,2005,2005,2005,4,0,1,Import,508,Mozambique,MOZ,748,Eswatini,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5041,,,,,,7474,,,2
+H2,2005,2005,2005,4,0,2,Export,508,Mozambique,MOZ,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,992,,,,,,4500,,,2
+H2,2005,2005,2005,4,0,2,Export,508,Mozambique,MOZ,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,62689,,,,,,99311,,,2
+H2,2006,2006,2006,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1431648,,,,,,3155274,,,2
+H2,2006,2006,2006,4,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,164388,,,,,,228877,,,2
+H2,2006,2006,2006,4,0,1,Import,508,Mozambique,MOZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3365,,,,,,10723,,,2
+H2,2006,2006,2006,4,0,1,Import,508,Mozambique,MOZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,28436,,,,,,108655,,,2
+H2,2006,2006,2006,4,0,1,Import,508,Mozambique,MOZ,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,920,,,,,,1082,,,2
+H2,2006,2006,2006,4,0,1,Import,508,Mozambique,MOZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2975,,,,,,3497,,,2
+H2,2006,2006,2006,4,0,1,Import,508,Mozambique,MOZ,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2372,,,,,,7939,,,2
+H2,2006,2006,2006,4,0,1,Import,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1018117,,,,,,2451455,,,2
+H2,2006,2006,2006,4,0,1,Import,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,158468,,,,,,303026,,,2
+H2,2006,2006,2006,4,0,2,Export,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,54110,,,,,,77606,,,2
+H2,2006,2006,2006,4,0,1,Import,508,Mozambique,MOZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,211868,,,,,,261561,,,2
+H2,2006,2006,2006,4,0,1,Import,508,Mozambique,MOZ,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4512,,,,,,5304,,,2
+H2,2006,2006,2006,4,0,1,Import,508,Mozambique,MOZ,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,614,,,,,,2032,,,2
+H2,2006,2006,2006,4,0,2,Export,508,Mozambique,MOZ,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,110278,,,,,,151270,,,2
+H2,2007,2007,2007,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,1627492,,3299573,,,4
+H2,2007,2007,2007,4,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,46464,,82305,,,4
+H2,2007,2007,2007,4,0,2,Export,508,Mozambique,MOZ,72,Botswana,BWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,326,,338,,,4
+H2,2007,2007,2007,4,0,1,Import,508,Mozambique,MOZ,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,30,,33,,,4
+H2,2007,2007,2007,4,0,1,Import,508,Mozambique,MOZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,795,,1842,,,4
+H2,2007,2007,2007,4,0,2,Export,508,Mozambique,MOZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,407,,423,,,4
+H2,2007,2007,2007,4,0,1,Import,508,Mozambique,MOZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,4638,,31557,,,4
+H2,2007,2007,2007,4,0,2,Export,508,Mozambique,MOZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,204,,212,,,4
+H2,2007,2007,2007,4,0,2,Export,508,Mozambique,MOZ,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,4295,,12940,,,4
+H2,2007,2007,2007,4,0,1,Import,508,Mozambique,MOZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,9376,,25843,,,4
+H2,2007,2007,2007,4,0,2,Export,508,Mozambique,MOZ,454,Malawi,MWI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,1111,,1154,,,4
+H2,2007,2007,2007,4,0,2,Export,508,Mozambique,MOZ,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,101,,105,,,4
+H2,2007,2007,2007,4,0,1,Import,508,Mozambique,MOZ,512,Oman,OMN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,2173,,6992,,,4
+H2,2007,2007,2007,4,0,2,Export,508,Mozambique,MOZ,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,1331,,1382,,,4
+H2,2007,2007,2007,4,0,2,Export,508,Mozambique,MOZ,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,1029,,1068,,,4
+H2,2007,2007,2007,4,0,2,Export,508,Mozambique,MOZ,600,Paraguay,PRY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,886,,2205,,,4
+H2,2007,2007,2007,4,0,1,Import,508,Mozambique,MOZ,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,4955,,5724,,,4
+H2,2007,2007,2007,4,0,1,Import,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,1185659,,2581822,,,4
+H2,2007,2007,2007,4,0,2,Export,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,1281,,1479,,,4
+H2,2007,2007,2007,4,0,1,Import,508,Mozambique,MOZ,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,1132,,,0
+H2,2007,2007,2007,4,0,2,Export,508,Mozambique,MOZ,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,123,,648,,,4
+H2,2007,2007,2007,4,0,1,Import,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,134482,,309790,,,4
+H2,2007,2007,2007,4,0,2,Export,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,27157,,51023,,,4
+H2,2007,2007,2007,4,0,2,Export,508,Mozambique,MOZ,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,790,,820,,,4
+H2,2007,2007,2007,4,0,1,Import,508,Mozambique,MOZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,193950,,223391,,,4
+H2,2007,2007,2007,4,0,1,Import,508,Mozambique,MOZ,748,Eswatini,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,28299,,39586,,,4
+H2,2007,2007,2007,4,0,2,Export,508,Mozambique,MOZ,748,Eswatini,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,1272,,2117,,,4
+H2,2007,2007,2007,4,0,1,Import,508,Mozambique,MOZ,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,63136,,71861,,,4
+H2,2007,2007,2007,4,0,2,Export,508,Mozambique,MOZ,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,741,,770,,,4
+H2,2007,2007,2007,4,0,2,Export,508,Mozambique,MOZ,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,273,,284,,,4
+H2,2007,2007,2007,4,0,2,Export,508,Mozambique,MOZ,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,5139,,5337,,,4
+H2,2008,2008,2008,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,4969492,,,0
+H2,2008,2008,2008,4,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,101052,,137312,,,4
+H2,2008,2008,2008,4,0,2,Export,508,Mozambique,MOZ,72,Botswana,BWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,668,,2613,,,4
+H2,2008,2008,2008,4,0,1,Import,508,Mozambique,MOZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,17115,,,0
+H2,2008,2008,2008,4,0,1,Import,508,Mozambique,MOZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,31213,,,0
+H2,2008,2008,2008,4,0,2,Export,508,Mozambique,MOZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,9613,,11757,,,4
+H2,2008,2008,2008,4,0,1,Import,508,Mozambique,MOZ,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,2232,,8390,,,4
+H2,2008,2008,2008,4,0,1,Import,508,Mozambique,MOZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,5076,,,0
+H2,2008,2008,2008,4,0,1,Import,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,3826663,,,0
+H2,2008,2008,2008,4,0,2,Export,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,2001,,2632,,,4
+H2,2008,2008,2008,4,0,1,Import,508,Mozambique,MOZ,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,406,,1525,,,4
+H2,2008,2008,2008,4,0,1,Import,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,407661,,,0
+H2,2008,2008,2008,4,0,1,Import,508,Mozambique,MOZ,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,342,,456,,,4
+H2,2008,2008,2008,4,0,1,Import,508,Mozambique,MOZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,416448,,496246,,,4
+H2,2008,2008,2008,4,0,1,Import,508,Mozambique,MOZ,748,Eswatini,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,123659,,,0
+H2,2008,2008,2008,4,0,1,Import,508,Mozambique,MOZ,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,3308,,3845,,,4
+H2,2008,2008,2008,4,0,1,Import,508,Mozambique,MOZ,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,3788,,4403,,,4
+H2,2008,2008,2008,4,0,1,Import,508,Mozambique,MOZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,24070,,42941,,,4
+H2,2008,2008,2008,4,0,1,Import,508,Mozambique,MOZ,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,259,,301,,,4
+H2,2008,2008,2008,4,0,2,Export,508,Mozambique,MOZ,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,88769,,120310,,,4
+H2,2009,2009,2009,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,5615569,,,0
+H2,2009,2009,2009,4,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,308525,,,0
+H2,2009,2009,2009,4,0,1,Import,508,Mozambique,MOZ,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,114,,,0
+H2,2009,2009,2009,4,0,1,Import,508,Mozambique,MOZ,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,11067,,20528,,,4
+H2,2009,2009,2009,4,0,1,Import,508,Mozambique,MOZ,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,39,,155,,,4
+H2,2009,2009,2009,4,0,1,Import,508,Mozambique,MOZ,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,65,,255,,,4
+H2,2009,2009,2009,4,0,1,Import,508,Mozambique,MOZ,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,2009,,2642,,,4
+H2,2009,2009,2009,4,0,1,Import,508,Mozambique,MOZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,13059,,,0
+H2,2009,2009,2009,4,0,1,Import,508,Mozambique,MOZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,15012,,,0
+H2,2009,2009,2009,4,0,1,Import,508,Mozambique,MOZ,352,Iceland,ISL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,519,,,0
+H2,2009,2009,2009,4,0,1,Import,508,Mozambique,MOZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,3488,,4587,,,4
+H2,2009,2009,2009,4,0,2,Export,508,Mozambique,MOZ,580,N. Mariana Isds,MNP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,2403,,,0
+H2,2009,2009,2009,4,0,1,Import,508,Mozambique,MOZ,600,Paraguay,PRY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,1607,,6350,,,4
+H2,2009,2009,2009,4,0,1,Import,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,3576124,,,0
+H2,2009,2009,2009,4,0,2,Export,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,26712,,43687,,,4
+H2,2009,2009,2009,4,0,1,Import,508,Mozambique,MOZ,678,Sao Tome and Principe,STP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,526,,,0
+H2,2009,2009,2009,4,0,1,Import,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,852336,,,0
+H2,2009,2009,2009,4,0,2,Export,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,262435,,,0
+H2,2009,2009,2009,4,0,1,Import,508,Mozambique,MOZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,445835,,611583,,,4
+H2,2009,2009,2009,4,0,1,Import,508,Mozambique,MOZ,748,Eswatini,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,46623,,,0
+H2,2009,2009,2009,4,0,1,Import,508,Mozambique,MOZ,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,1521,,2001,,,4
+H2,2009,2009,2009,4,0,1,Import,508,Mozambique,MOZ,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,116949,,462049,,,4
+H2,2009,2009,2009,4,0,1,Import,508,Mozambique,MOZ,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,842,,1107,,,4
+H3,2012,2012,2012,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5583622,,,,2510124,,8778320,,,4
+H3,2012,2012,2012,4,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,347708,,,,414175,,540346,,,0
+H3,2012,2012,2012,4,0,1,Import,508,Mozambique,MOZ,24,Angola,AGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,905,,,,1074,,2070,,,0
+H3,2012,2012,2012,4,0,1,Import,508,Mozambique,MOZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,768189,,,,249002,,1645550,,,0
+H3,2012,2012,2012,4,0,1,Import,508,Mozambique,MOZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2055,,,,9026,,23180,,,0
+H3,2012,2012,2012,4,0,2,Export,508,Mozambique,MOZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4,,,,7,,102,,,0
+H3,2012,2012,2012,4,0,1,Import,508,Mozambique,MOZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,25622,,,,12181,,301980,,,0
+H3,2012,2012,2012,4,0,1,Import,508,Mozambique,MOZ,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2250,,,,1,,2550,,,0
+H3,2012,2012,2012,4,0,1,Import,508,Mozambique,MOZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1966,,,,7873,,37860,,,4
+H3,2012,2012,2012,4,0,1,Import,508,Mozambique,MOZ,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,450,,,,733,,2140,,,0
+H3,2012,2012,2012,4,0,2,Export,508,Mozambique,MOZ,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,216,,,,71,,26418,,,0
+H3,2012,2012,2012,4,0,1,Import,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3857899,,,,1401297,,5481680,,,0
+H3,2012,2012,2012,4,0,1,Import,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,121580,,,,70439,,404380,,,0
+H3,2012,2012,2012,4,0,2,Export,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,302128,,,,370417,,492066,,,0
+H3,2012,2012,2012,4,0,1,Import,508,Mozambique,MOZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,767292,,,,693750,,617090,,,0
+H3,2012,2012,2012,4,0,2,Export,508,Mozambique,MOZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,45360,,,,43680,,21760,,,0
+H3,2012,2012,2012,4,0,1,Import,508,Mozambique,MOZ,748,Eswatini,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,32927,,,,46701,,242040,,,0
+H3,2012,2012,2012,4,0,1,Import,508,Mozambique,MOZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,450,,,,800,,1960,,,0
+H3,2012,2012,2012,4,0,1,Import,508,Mozambique,MOZ,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2037,,,,17247,,15840,,,0
+H3,2013,2013,2013,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10352404,,,,10879267,,19566210,,,4
+H3,2013,2013,2013,4,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,309197,,,,305593,,1874359,,,4
+H3,2013,2013,2013,4,0,1,Import,508,Mozambique,MOZ,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10526,,,,10526,,40190,,,4
+H3,2013,2013,2013,4,0,1,Import,508,Mozambique,MOZ,148,Chad,TCD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10584,,,,10584,,23720,,,4
+H3,2013,2013,2013,4,0,1,Import,508,Mozambique,MOZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1788928,,,,1795092,,3266070,,,4
+H3,2013,2013,2013,4,0,1,Import,508,Mozambique,MOZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6188,,,,8803,,46760,,,4
+H3,2013,2013,2013,4,0,1,Import,508,Mozambique,MOZ,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4500,,,,4500,,13430,,,4
+H3,2013,2013,2013,4,0,1,Import,508,Mozambique,MOZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,36686,,,,41991,,397260,,,4
+H3,2013,2013,2013,4,0,1,Import,508,Mozambique,MOZ,332,Haiti,HTI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1800,,,,1800,,15280,,,4
+H3,2013,2013,2013,4,0,1,Import,508,Mozambique,MOZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,41058,,,,52708,,163410,,,4
+H3,2013,2013,2013,4,0,1,Import,508,Mozambique,MOZ,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,249,,,,280,,2410,,,0
+H3,2013,2013,2013,4,0,1,Import,508,Mozambique,MOZ,562,Niger,NER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,25272,,,,25272,,33480,,,4
+H3,2013,2013,2013,4,0,1,Import,508,Mozambique,MOZ,604,Peru,PER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1800,,,,1800,,3480,,,4
+H3,2013,2013,2013,4,0,1,Import,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6366403,,,,6563632,,10544320,,,4
+H3,2013,2013,2013,4,0,2,Export,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10343,,,,10343,,617527,,,4
+H3,2013,2013,2013,4,0,1,Import,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1313340,,,,1536855,,3724950,,,4
+H3,2013,2013,2013,4,0,2,Export,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,296377,,,,293269,,1250292,,,4
+H3,2013,2013,2013,4,0,2,Export,508,Mozambique,MOZ,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2477,,,,1981,,6540,,,0
+H3,2013,2013,2013,4,0,1,Import,508,Mozambique,MOZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,670428,,,,707438,,921880,,,4
+H3,2013,2013,2013,4,0,1,Import,508,Mozambique,MOZ,748,Eswatini,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,26010,,,,68325,,214560,,,4
+H3,2013,2013,2013,4,0,1,Import,508,Mozambique,MOZ,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3475,,,,4356,,30490,,,4
+H3,2013,2013,2013,4,0,1,Import,508,Mozambique,MOZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,45027,,,,45027,,116820,,,4
+H3,2013,2013,2013,4,0,1,Import,508,Mozambique,MOZ,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,130,,,,278,,7700,,,0
+H3,2014,2014,2014,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10052809,,,,12439791,,21042130,,,4
+H3,2014,2014,2014,4,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6093043,,,,5561683,,7677400,,,0
+H3,2014,2014,2014,4,0,1,Import,508,Mozambique,MOZ,4,Afghanistan,AFG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4095,,,,8503,,16860,,,0
+H3,2014,2014,2014,4,0,1,Import,508,Mozambique,MOZ,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1,,,,1,,120,,,0
+H3,2014,2014,2014,4,0,1,Import,508,Mozambique,MOZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1507350,,,,1021349,,2872160,,,0
+H3,2014,2014,2014,4,0,1,Import,508,Mozambique,MOZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5722,,,,7486,,60640,,,4
+H3,2014,2014,2014,4,0,1,Import,508,Mozambique,MOZ,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,29700,,,,23727,,78150,,,0
+H3,2014,2014,2014,4,0,2,Export,508,Mozambique,MOZ,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7320,,,,16840,,57980,,,0
+H3,2014,2014,2014,4,0,1,Import,508,Mozambique,MOZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3095,,,,2727,,37120,,,0
+H3,2014,2014,2014,4,0,1,Import,508,Mozambique,MOZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,47273,,,,89776,,162570,,,0
+H3,2014,2014,2014,4,0,1,Import,508,Mozambique,MOZ,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1,,,,1,,50,,,0
+H3,2014,2014,2014,4,0,1,Import,508,Mozambique,MOZ,531,Curaçao,CUW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,260,,,,1298,,4830,,,0
+H3,2014,2014,2014,4,0,1,Import,508,Mozambique,MOZ,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,75,,,,1394,,230,,,0
+H3,2014,2014,2014,4,0,1,Import,508,Mozambique,MOZ,600,Paraguay,PRY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,675,,,,675,,3760,,,4
+H3,2014,2014,2014,4,0,1,Import,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6649335,,,,5967513,,12096640,,,0
+H3,2014,2014,2014,4,0,2,Export,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,17834,,,,15072,,90600,,,0
+H3,2014,2014,2014,4,0,1,Import,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1730685,,,,4862980,,5261210,,,0
+H3,2014,2014,2014,4,0,2,Export,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6067889,,,,5529771,,7528820,,,0
+H3,2014,2014,2014,4,0,1,Import,508,Mozambique,MOZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,48821,,,,180926,,210100,,,0
+H3,2014,2014,2014,4,0,1,Import,508,Mozambique,MOZ,748,Eswatini,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,23146,,,,268040,,209680,,,0
+H3,2014,2014,2014,4,0,1,Import,508,Mozambique,MOZ,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2575,,,,3395,,28010,,,0
+H2,2010,2010,2010,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,3188309,,9511971,,,4
+H2,2010,2010,2010,4,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,190447,,228948,,,4
+H2,2010,2010,2010,4,0,3,Re-Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,169158,,200140,,,4
+H2,2010,2010,2010,4,0,1,Import,508,Mozambique,MOZ,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,168,,623,,,4
+H2,2010,2010,2010,4,0,1,Import,508,Mozambique,MOZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,280577,,1039614,,,4
+H2,2010,2010,2010,4,0,1,Import,508,Mozambique,MOZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,7437,,26605,,,4
+H2,2010,2010,2010,4,0,1,Import,508,Mozambique,MOZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,6036,,28976,,,4
+H2,2010,2010,2010,4,0,1,Import,508,Mozambique,MOZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,1994,,6192,,,4
+H2,2010,2010,2010,4,0,2,Export,508,Mozambique,MOZ,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,12849,,14410,,,4
+H2,2010,2010,2010,4,0,3,Re-Export,508,Mozambique,MOZ,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,12849,,14410,,,4
+H2,2010,2010,2010,4,0,2,Export,508,Mozambique,MOZ,580,N. Mariana Isds,MNP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,11954,,13406,,,4
+H2,2010,2010,2010,4,0,3,Re-Export,508,Mozambique,MOZ,580,N. Mariana Isds,MNP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,11954,,13406,,,4
+H2,2010,2010,2010,4,0,1,Import,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,2298773,,7315931,,,4
+H2,2010,2010,2010,4,0,2,Export,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,372,,417,,,4
+H2,2010,2010,2010,4,0,3,Re-Export,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,372,,417,,,4
+H2,2010,2010,2010,4,0,2,Export,508,Mozambique,MOZ,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,8707,,9765,,,4
+H2,2010,2010,2010,4,0,1,Import,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,192133,,500129,,,4
+H2,2010,2010,2010,4,0,2,Export,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,87763,,108268,,,4
+H2,2010,2010,2010,4,0,3,Re-Export,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,87334,,106608,,,4
+H2,2010,2010,2010,4,0,2,Export,508,Mozambique,MOZ,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,3098,,7230,,,4
+H2,2010,2010,2010,4,0,1,Import,508,Mozambique,MOZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,360946,,513323,,,4
+H2,2010,2010,2010,4,0,1,Import,508,Mozambique,MOZ,748,Eswatini,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,27915,,59739,,,4
+H2,2010,2010,2010,4,0,1,Import,508,Mozambique,MOZ,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,116,,148,,,4
+H2,2010,2010,2010,4,0,1,Import,508,Mozambique,MOZ,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,10109,,12887,,,4
+H2,2010,2010,2010,4,0,1,Import,508,Mozambique,MOZ,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,2106,,7803,,,4
+H2,2010,2010,2010,4,0,2,Export,508,Mozambique,MOZ,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,65702,,75452,,,4
+H2,2010,2010,2010,4,0,3,Re-Export,508,Mozambique,MOZ,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,56649,,65299,,,4
+H2,2011,2011,2011,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9128313,,,,20721027,,13775000,,,0
+H2,2011,2011,2011,4,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,111379,,,,266985,,540000,,,0
+H2,2011,2011,2011,4,0,1,Import,508,Mozambique,MOZ,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9247,,,,90200,,32000,,,0
+H2,2011,2011,2011,4,0,1,Import,508,Mozambique,MOZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1491694,,,,1514837,,2632000,,,0
+H2,2011,2011,2011,4,0,1,Import,508,Mozambique,MOZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,75,,,,224,,3000,,,0
+H2,2011,2011,2011,4,0,2,Export,508,Mozambique,MOZ,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,102,,,,59,,22000,,,0
+H2,2011,2011,2011,4,0,1,Import,508,Mozambique,MOZ,232,Eritrea,ERI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22680,,,,21000,,14000,,,0
+H2,2011,2011,2011,4,0,1,Import,508,Mozambique,MOZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1369,,,,3173,,38000,,,0
+H2,2011,2011,2011,4,0,1,Import,508,Mozambique,MOZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,24453,,,,36578,,116000,,,0
+H2,2011,2011,2011,4,0,1,Import,508,Mozambique,MOZ,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2335,,,,18258,,16000,,,0
+H2,2011,2011,2011,4,0,1,Import,508,Mozambique,MOZ,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,172496,,,,178985,,248000,,,0
+H2,2011,2011,2011,4,0,2,Export,508,Mozambique,MOZ,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,460,,,,297,,42000,,,0
+H2,2011,2011,2011,4,0,1,Import,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6398828,,,,14653842,,8933000,,,0
+H2,2011,2011,2011,4,0,2,Export,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,868,,,,4309,,18000,,,0
+H2,2011,2011,2011,4,0,1,Import,508,Mozambique,MOZ,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10654,,,,28416,,36000,,,0
+H2,2011,2011,2011,4,0,1,Import,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,268168,,,,317726,,833000,,,0
+H2,2011,2011,2011,4,0,2,Export,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,58368,,,,226887,,239000,,,0
+H2,2011,2011,2011,4,0,2,Export,508,Mozambique,MOZ,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,48730,,,,34103,,196000,,,0
+H2,2011,2011,2011,4,0,1,Import,508,Mozambique,MOZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,650287,,,,3762958,,687000,,,0
+H2,2011,2011,2011,4,0,1,Import,508,Mozambique,MOZ,748,Eswatini,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,59213,,,,76833,,115000,,,0
+H2,2011,2011,2011,4,0,1,Import,508,Mozambique,MOZ,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16295,,,,17510,,41000,,,0
+H2,2011,2011,2011,4,0,1,Import,508,Mozambique,MOZ,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,519,,,,487,,31000,,,0
+H2,2011,2011,2011,4,0,2,Export,508,Mozambique,MOZ,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2791,,,,1258,,22000,,,0
+H2,2011,2011,2011,4,0,2,Export,508,Mozambique,MOZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,60,,,,72,,1000,,,0
+H5,2018,2018,2018,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,3733952,,11708950,,,6
+H5,2018,2018,2018,4,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,22384,,89160,,,6
+H5,2018,2018,2018,4,0,1,Import,508,Mozambique,MOZ,4,Afghanistan,AFG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5,,,,45,,58,,,0
+H5,2018,2018,2018,4,0,1,Import,508,Mozambique,MOZ,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,7113,,27079,,,6
+H5,2018,2018,2018,4,0,1,Import,508,Mozambique,MOZ,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,297,,1132,,,6
+H5,2018,2018,2018,4,0,1,Import,508,Mozambique,MOZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,693132,,2638435,,,6
+H5,2018,2018,2018,4,0,1,Import,508,Mozambique,MOZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,73,,280,,,6
+H5,2018,2018,2018,4,0,1,Import,508,Mozambique,MOZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7780,,,,11647,,64377,,,6
+H5,2018,2018,2018,4,0,1,Import,508,Mozambique,MOZ,292,Gibraltar,GIB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20,,,,543,,948,,,0
+H5,2018,2018,2018,4,0,1,Import,508,Mozambique,MOZ,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,378,,,,903,,5884,,,0
+H5,2018,2018,2018,4,0,1,Import,508,Mozambique,MOZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,101543,,184505,,,6
+H5,2018,2018,2018,4,0,1,Import,508,Mozambique,MOZ,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,3515,,13383,,,6
+H5,2018,2018,2018,4,0,1,Import,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,1385764,,4767792,,,6
+H5,2018,2018,2018,4,0,2,Export,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,12539,,53769,,,6
+H5,2018,2018,2018,4,0,2,Export,508,Mozambique,MOZ,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36750,,,,100,,243,,,0
+H5,2018,2018,2018,4,0,1,Import,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,1456223,,3744555,,,6
+H5,2018,2018,2018,4,0,2,Export,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3390,,,,6058,,17205,,,6
+H5,2018,2018,2018,4,0,1,Import,508,Mozambique,MOZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,1115,,6787,,,6
+H5,2018,2018,2018,4,0,1,Import,508,Mozambique,MOZ,748,Eswatini,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,68379,,227105,,,6
+H5,2018,2018,2018,4,0,1,Import,508,Mozambique,MOZ,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,128,,,,172,,9707,,,0
+H5,2018,2018,2018,4,0,1,Import,508,Mozambique,MOZ,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2700,,,,3482,,16914,,,6
+H5,2018,2018,2018,4,0,2,Export,508,Mozambique,MOZ,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3541,,,,3686,,17942,,,6
+H5,2019,2019,2019,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,5606059,,,6
+H5,2019,2019,2019,4,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,45336,,,6
+H5,2019,2019,2019,4,0,1,Import,508,Mozambique,MOZ,4,Afghanistan,AFG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,661,,,,785,,2945,,,6
+H5,2019,2019,2019,4,0,1,Import,508,Mozambique,MOZ,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,27,,,,27,,184,,,0
+H5,2019,2019,2019,4,0,2,Export,508,Mozambique,MOZ,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4096,,,,4096,,324,,,0
+H5,2019,2019,2019,4,0,1,Import,508,Mozambique,MOZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,75077,,,6
+H5,2019,2019,2019,4,0,1,Import,508,Mozambique,MOZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1407,,,,1671,,6567,,,6
+H5,2019,2019,2019,4,0,1,Import,508,Mozambique,MOZ,191,Croatia,HRV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15,,,,15,,555,,,0
+H5,2019,2019,2019,4,0,1,Import,508,Mozambique,MOZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,26315,,,,27871,,47913,,,6
+H5,2019,2019,2019,4,0,1,Import,508,Mozambique,MOZ,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,1,,45,,,0
+H5,2019,2019,2019,4,0,1,Import,508,Mozambique,MOZ,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,153,,,,153,,2378,,,0
+H5,2019,2019,2019,4,0,1,Import,508,Mozambique,MOZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,64467,,,,66513,,197969,,,6
+H5,2019,2019,2019,4,0,2,Export,508,Mozambique,MOZ,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,44,,,,44,,306,,,0
+H5,2019,2019,2019,4,0,2,Export,508,Mozambique,MOZ,398,Kazakhstan,KAZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,264144,,,,264144,,938,,,0
+H5,2019,2019,2019,4,0,2,Export,508,Mozambique,MOZ,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,200,,,,200,,101,,,0
+H5,2019,2019,2019,4,0,1,Import,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,713860,,,,826481,,2887323,,,6
+H5,2019,2019,2019,4,0,1,Import,508,Mozambique,MOZ,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,1742,,,6
+H5,2019,2019,2019,4,0,1,Import,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,625021,,,,691972,,2324745,,,6
+H5,2019,2019,2019,4,0,2,Export,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11,,,,11,,75,,,0
+H5,2019,2019,2019,4,0,2,Export,508,Mozambique,MOZ,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,36815,,,6
+H5,2019,2019,2019,4,0,1,Import,508,Mozambique,MOZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1002622,,,,1003117,,26570,,,6
+H5,2019,2019,2019,4,0,1,Import,508,Mozambique,MOZ,748,Eswatini,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2400,,,,2664,,9834,,,6
+H5,2019,2019,2019,4,0,1,Import,508,Mozambique,MOZ,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9,,,,9,,2403,,,0
+H5,2019,2019,2019,4,0,1,Import,508,Mozambique,MOZ,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,54,,,6
+H5,2019,2019,2019,4,0,1,Import,508,Mozambique,MOZ,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,366,,,,366,,8813,,,0
+H5,2019,2019,2019,4,0,1,Import,508,Mozambique,MOZ,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,8366,,,6
+H5,2019,2019,2019,4,0,2,Export,508,Mozambique,MOZ,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1599,,,,1562,,6775,,,6
+H5,2019,2019,2019,4,0,1,Import,508,Mozambique,MOZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,2566,,,6
+H4,2017,2017,2017,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,7191264,,,6
+H4,2017,2017,2017,4,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,74087472,,7591697,,,6
+H4,2017,2017,2017,4,0,1,Import,508,Mozambique,MOZ,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,57,,200,,,6
+H4,2017,2017,2017,4,0,1,Import,508,Mozambique,MOZ,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,161,,560,,,6
+H4,2017,2017,2017,4,0,1,Import,508,Mozambique,MOZ,51,Armenia,ARM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,212,,,,293,,1438,,,6
+H4,2017,2017,2017,4,0,1,Import,508,Mozambique,MOZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,703170,,2446560,,,6
+H4,2017,2017,2017,4,0,1,Import,508,Mozambique,MOZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,1569,,5460,,,6
+H4,2017,2017,2017,4,0,1,Import,508,Mozambique,MOZ,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,1529,,5322,,,6
+H4,2017,2017,2017,4,0,1,Import,508,Mozambique,MOZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5666,,,,15219,,58696,,,6
+H4,2017,2017,2017,4,0,1,Import,508,Mozambique,MOZ,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2,,,,431,,73,,,0
+H4,2017,2017,2017,4,0,1,Import,508,Mozambique,MOZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,76345,,,6
+H4,2017,2017,2017,4,0,1,Import,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,2237189,,,6
+H4,2017,2017,2017,4,0,2,Export,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,24946,,103463,,,6
+H4,2017,2017,2017,4,0,1,Import,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,2279951,,,6
+H4,2017,2017,2017,4,0,2,Export,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,74342020,,,,74062525,,7488234,,,6
+H4,2017,2017,2017,4,0,1,Import,508,Mozambique,MOZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,9,,33,,,6
+H4,2017,2017,2017,4,0,1,Import,508,Mozambique,MOZ,748,Eswatini,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,19807,,68918,,,6
+H4,2017,2017,2017,4,0,1,Import,508,Mozambique,MOZ,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,879,,,,1260,,9962,,,6
+H4,2017,2017,2017,4,0,1,Import,508,Mozambique,MOZ,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14,,,,24,,551,,,0
+H3,2015,2015,2015,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10156272,,,,10156272,,21296147,,,0
+H3,2015,2015,2015,4,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9856718,,,,9856718,,20483681,,,6
+H3,2015,2015,2015,4,0,2,Export,508,Mozambique,MOZ,4,Afghanistan,AFG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,11731,,,,11731,,33441,,,0
+H3,2015,2015,2015,4,0,1,Import,508,Mozambique,MOZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,439358,,,,439358,,749602,,,0
+H3,2015,2015,2015,4,0,1,Import,508,Mozambique,MOZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,23192,,,,23192,,49941,,,0
+H3,2015,2015,2015,4,0,2,Export,508,Mozambique,MOZ,178,Congo,COG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2397,,,,2397,,9250,,,0
+H3,2015,2015,2015,4,0,1,Import,508,Mozambique,MOZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,356,,,,356,,10119,,,0
+H3,2015,2015,2015,4,0,1,Import,508,Mozambique,MOZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18235,,,,18235,,102992,,,0
+H3,2015,2015,2015,4,0,2,Export,508,Mozambique,MOZ,454,Malawi,MWI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2000,,,,2000,,24880,,,0
+H3,2015,2015,2015,4,0,1,Import,508,Mozambique,MOZ,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,60,,,,60,,187,,,0
+H3,2015,2015,2015,4,0,1,Import,508,Mozambique,MOZ,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,196,,,,196,,4958,,,0
+H3,2015,2015,2015,4,0,2,Export,508,Mozambique,MOZ,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,260,,,,260,,4360,,,0
+H3,2015,2015,2015,4,0,1,Import,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5538117,,,,5538117,,11213354,,,0
+H3,2015,2015,2015,4,0,2,Export,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,45498,,,,45498,,112261,,,6
+H3,2015,2015,2015,4,0,1,Import,508,Mozambique,MOZ,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12150,,,,12150,,25275,,,0
+H3,2015,2015,2015,4,0,1,Import,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4064478,,,,4064478,,8958168,,,0
+H3,2015,2015,2015,4,0,2,Export,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9794831,,,,9794831,,20299488,,,0
+H3,2015,2015,2015,4,0,1,Import,508,Mozambique,MOZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,47880,,,,47880,,35233,,,0
+H3,2015,2015,2015,4,0,1,Import,508,Mozambique,MOZ,748,Eswatini,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10480,,,,10480,,110462,,,0
+H3,2015,2015,2015,4,0,1,Import,508,Mozambique,MOZ,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,74,,,,74,,12628,,,0
+H3,2015,2015,2015,4,0,1,Import,508,Mozambique,MOZ,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1694,,,,1694,,23004,,,0
+H3,2015,2015,2015,4,0,1,Import,508,Mozambique,MOZ,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1,,,,1,,218,,,0
+H3,2016,2016,2016,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,29834725,,17594363,,,6
+H3,2016,2016,2016,4,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,177179566,,,,177272303,,15996302,,,6
+H3,2016,2016,2016,4,0,1,Import,508,Mozambique,MOZ,140,Central African Rep.,CAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,173,,559,,,6
+H3,2016,2016,2016,4,0,1,Import,508,Mozambique,MOZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,23377766,,,,23466506,,1862211,,,6
+H3,2016,2016,2016,4,0,1,Import,508,Mozambique,MOZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,940,,,,1241,,5377,,,6
+H3,2016,2016,2016,4,0,1,Import,508,Mozambique,MOZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8677,,,,15485,,159682,,,6
+H3,2016,2016,2016,4,0,1,Import,508,Mozambique,MOZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,64579,,,,128277,,392535,,,6
+H3,2016,2016,2016,4,0,1,Import,508,Mozambique,MOZ,531,Curaçao,CUW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,528,,,,480,,5291,,,0
+H3,2016,2016,2016,4,0,2,Export,508,Mozambique,MOZ,579,Norway,NOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1,,,,50,,27,,,0
+H3,2016,2016,2016,4,0,1,Import,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,3425437,,9210504,,,6
+H3,2016,2016,2016,4,0,1,Import,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,2764444,,5928247,,,6
+H3,2016,2016,2016,4,0,2,Export,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,177179565,,,,177272253,,15996275,,,6
+H3,2016,2016,2016,4,0,1,Import,508,Mozambique,MOZ,748,Eswatini,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6134,,,,32679,,29951,,,6
+H5,2020,2020,2020,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,7163486,,,6
+H5,2020,2020,2020,4,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,36488,,,6
+H5,2020,2020,2020,4,0,1,Import,508,Mozambique,MOZ,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,22889,,,6
+H5,2020,2020,2020,4,0,1,Import,508,Mozambique,MOZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,285818,,,6
+H5,2020,2020,2020,4,0,2,Export,508,Mozambique,MOZ,191,Croatia,HRV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,136,,,6
+H5,2020,2020,2020,4,0,1,Import,508,Mozambique,MOZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15588,,,,15886,,39022,,,6
+H5,2020,2020,2020,4,0,1,Import,508,Mozambique,MOZ,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4596,,,,4596,,7016,,,0
+H5,2020,2020,2020,4,0,1,Import,508,Mozambique,MOZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,105755,,,,106456,,431418,,,6
+H5,2020,2020,2020,4,0,2,Export,508,Mozambique,MOZ,584,Marshall Isds,MHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12,,,,12,,207,,,0
+H5,2020,2020,2020,4,0,1,Import,508,Mozambique,MOZ,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,31497,,,6
+H5,2020,2020,2020,4,0,1,Import,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,938970,,,,971492,,3590046,,,6
+H5,2020,2020,2020,4,0,2,Export,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,1938,,,6
+H5,2020,2020,2020,4,0,1,Import,508,Mozambique,MOZ,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,63,,,,63,,2630,,,0
+H5,2020,2020,2020,4,0,1,Import,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,777805,,,,794784,,2720435,,,6
+H5,2020,2020,2020,4,0,2,Export,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,24351,,,6
+H5,2020,2020,2020,4,0,2,Export,508,Mozambique,MOZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,648,,,,648,,305,,,0
+H5,2020,2020,2020,4,0,1,Import,508,Mozambique,MOZ,748,Eswatini,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,14451,,,6
+H5,2020,2020,2020,4,0,1,Import,508,Mozambique,MOZ,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2053,,,,2132,,9757,,,6
+H5,2020,2020,2020,4,0,2,Export,508,Mozambique,MOZ,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,198,,,6
+H5,2020,2020,2020,4,0,1,Import,508,Mozambique,MOZ,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,570,,,,570,,8503,,,0
+H5,2020,2020,2020,4,0,2,Export,508,Mozambique,MOZ,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,8645,,,6
+H5,2020,2020,2020,4,0,2,Export,508,Mozambique,MOZ,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,621,,,6
+H5,2020,2020,2020,4,0,2,Export,508,Mozambique,MOZ,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12,,,,12,,82,,,0

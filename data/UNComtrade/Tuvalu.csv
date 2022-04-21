@@ -1,0 +1,19 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,2002,2002,2002,4,0,1,Import,798,Tuvalu,TUV,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1128,,,,1128,,2840,,,4
+H0,2002,2002,2002,4,0,1,Import,798,Tuvalu,TUV,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1020,,,,1020,,2138,,,4
+H0,2002,2002,2002,4,0,1,Import,798,Tuvalu,TUV,242,Fiji,FJI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,108,,,,108,,702,,,4
+H0,2004,2004,2004,4,0,1,Import,798,Tuvalu,TUV,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,3106,,,,3106,,12311,,,4
+H0,2004,2004,2004,4,0,1,Import,798,Tuvalu,TUV,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2236,,,,2236,,6739,,,4
+H0,2004,2004,2004,4,0,1,Import,798,Tuvalu,TUV,242,Fiji,FJI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,396,,,,396,,3744,,,4
+H0,2004,2004,2004,4,0,1,Import,798,Tuvalu,TUV,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,474,,,,474,,1828,,,4
+H0,2005,2005,2005,4,0,1,Import,798,Tuvalu,TUV,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,5233,,,,5233,,12492,,,4
+H0,2005,2005,2005,4,0,1,Import,798,Tuvalu,TUV,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,5135,,,,5135,,11459,,,4
+H0,2005,2005,2005,4,0,1,Import,798,Tuvalu,TUV,242,Fiji,FJI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,98,,,,98,,1033,,,4
+H0,2006,2006,2006,4,0,1,Import,798,Tuvalu,TUV,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,6730,,,,6730,,18685,,,4
+H0,2006,2006,2006,4,0,1,Import,798,Tuvalu,TUV,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,5674,,,,5674,,16406,,,4
+H0,2006,2006,2006,4,0,1,Import,798,Tuvalu,TUV,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,360,,,,360,,842,,,4
+H0,2006,2006,2006,4,0,1,Import,798,Tuvalu,TUV,242,Fiji,FJI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,696,,,,696,,1437,,,4
+H0,2008,2008,2008,4,0,1,Import,798,Tuvalu,TUV,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,17391,,,,17391,,43074,,,4
+H0,2008,2008,2008,4,0,1,Import,798,Tuvalu,TUV,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,17325,,,,17325,,42576,,,4
+H0,2008,2008,2008,4,0,1,Import,798,Tuvalu,TUV,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,21,,,,21,,90,,,4
+H0,2008,2008,2008,4,0,1,Import,798,Tuvalu,TUV,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,45,,,,45,,409,,,4

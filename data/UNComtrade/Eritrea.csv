@@ -1,0 +1,14 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2003,2003,2003,4,0,1,Import,232,Eritrea,ERI,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,121987,,,,,,166282,,,2
+H1,2003,2003,2003,4,0,1,Import,232,Eritrea,ERI,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,19,,,,19,,22,,,6
+H1,2003,2003,2003,4,0,1,Import,232,Eritrea,ERI,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11,,,,11,,17,,,4
+H1,2003,2003,2003,4,0,1,Import,232,Eritrea,ERI,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,48,,,,48,,42,,,4
+H1,2003,2003,2003,4,0,1,Import,232,Eritrea,ERI,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,116,,,,,,176,,,2
+H1,2003,2003,2003,4,0,1,Import,232,Eritrea,ERI,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,48427,,,,,,9885,,,2
+H1,2003,2003,2003,4,0,1,Import,232,Eritrea,ERI,454,Malawi,MWI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13,,,,13,,42,,,6
+H1,2003,2003,2003,4,0,1,Import,232,Eritrea,ERI,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,207,,,,207,,799,,,6
+H1,2003,2003,2003,4,0,1,Import,232,Eritrea,ERI,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10341,,,,10341,,18806,,,4
+H1,2003,2003,2003,4,0,1,Import,232,Eritrea,ERI,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,61643,,,,61643,,114297,,,6
+H1,2003,2003,2003,4,0,1,Import,232,Eritrea,ERI,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,156,,,,156,,602,,,6
+H1,2003,2003,2003,4,0,1,Import,232,Eritrea,ERI,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,46,,,,46,,626,,,4
+H1,2003,2003,2003,4,0,1,Import,232,Eritrea,ERI,887,Yemen,YEM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,960,,,,960,,20969,,,4

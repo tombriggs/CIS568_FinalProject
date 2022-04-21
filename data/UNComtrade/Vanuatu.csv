@@ -1,0 +1,90 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,4,0,1,Import,548,Vanuatu,VUT,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,,,,,,,825851,,,0
+H1,2000,2000,2000,4,0,2,Export,548,Vanuatu,VUT,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,,,,,10285,,14463,,,0
+H1,2000,2000,2000,4,0,1,Import,548,Vanuatu,VUT,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,166344,,,,,,458392,,,0
+H1,2000,2000,2000,4,0,2,Export,548,Vanuatu,VUT,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",8,Weight in kilograms,10285,,,,10285,,14463,,,0
+H1,2000,2000,2000,4,0,1,Import,548,Vanuatu,VUT,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5,,,,,,22,,,0
+H1,2000,2000,2000,4,0,1,Import,548,Vanuatu,VUT,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12,,,,,,87,,,0
+H1,2000,2000,2000,4,0,1,Import,548,Vanuatu,VUT,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,60296,,,,,,292303,,,0
+H1,2000,2000,2000,4,0,1,Import,548,Vanuatu,VUT,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2276,,,,,,5846,,,0
+H1,2000,2000,2000,4,0,1,Import,548,Vanuatu,VUT,540,New Caledonia,NCL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2882,,,,,,24206,,,0
+H1,2000,2000,2000,4,0,1,Import,548,Vanuatu,VUT,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4242,,,,,,23691,,,0
+H1,2000,2000,2000,4,0,1,Import,548,Vanuatu,VUT,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3,,,,,,7,,,0
+H1,2000,2000,2000,4,0,1,Import,548,Vanuatu,VUT,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1713,,,,,,21297,,,0
+H2,2007,2007,2007,4,0,1,Import,548,Vanuatu,VUT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,217252,,,,217252,,1651230,,,4
+H2,2007,2007,2007,4,0,1,Import,548,Vanuatu,VUT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,103987,,,,103987,,640374,,,4
+H2,2007,2007,2007,4,0,1,Import,548,Vanuatu,VUT,96,Brunei Darussalam,BRN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1008,,,,1008,,8694,,,4
+H2,2007,2007,2007,4,0,1,Import,548,Vanuatu,VUT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,538,,,,538,,8146,,,4
+H2,2007,2007,2007,4,0,1,Import,548,Vanuatu,VUT,242,Fiji,FJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,936,,,,936,,3596,,,4
+H2,2007,2007,2007,4,0,1,Import,548,Vanuatu,VUT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,66885,,,,66885,,597389,,,4
+H2,2007,2007,2007,4,0,1,Import,548,Vanuatu,VUT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8,,,,8,,24,,,4
+H2,2007,2007,2007,4,0,1,Import,548,Vanuatu,VUT,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10,,,,10,,270,,,4
+H2,2007,2007,2007,4,0,1,Import,548,Vanuatu,VUT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,929,,,,929,,5263,,,4
+H2,2007,2007,2007,4,0,1,Import,548,Vanuatu,VUT,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,1,,10,,,4
+H2,2007,2007,2007,4,0,1,Import,548,Vanuatu,VUT,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,48,,,,48,,138,,,4
+H2,2007,2007,2007,4,0,1,Import,548,Vanuatu,VUT,540,New Caledonia,NCL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,199,,,,199,,911,,,4
+H2,2007,2007,2007,4,0,1,Import,548,Vanuatu,VUT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,42141,,,,42141,,382031,,,4
+H2,2007,2007,2007,4,0,1,Import,548,Vanuatu,VUT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,180,,,,180,,1449,,,4
+H2,2007,2007,2007,4,0,1,Import,548,Vanuatu,VUT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,225,,,,225,,2604,,,4
+H2,2007,2007,2007,4,0,1,Import,548,Vanuatu,VUT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,155,,,,155,,331,,,4
+H2,2009,2009,2009,4,0,1,Import,548,Vanuatu,VUT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,324441,,,,508335,,2458242,,,0
+H2,2009,2009,2009,4,0,2,Export,548,Vanuatu,VUT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1788,,,,1788,,2276,,,4
+H2,2009,2009,2009,4,0,1,Import,548,Vanuatu,VUT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,175188,,,,246717,,1094012,,,0
+H2,2009,2009,2009,4,0,1,Import,548,Vanuatu,VUT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,346,,,,424,,921,,,0
+H2,2009,2009,2009,4,0,1,Import,548,Vanuatu,VUT,242,Fiji,FJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4720,,,,2755,,14499,,,0
+H2,2009,2009,2009,4,0,1,Import,548,Vanuatu,VUT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,70991,,,,108103,,716323,,,0
+H2,2009,2009,2009,4,0,2,Export,548,Vanuatu,VUT,296,Kiribati,KIR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,2,,1,,,4
+H2,2009,2009,2009,4,0,1,Import,548,Vanuatu,VUT,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36,,,,15,,75,,,0
+H2,2009,2009,2009,4,0,1,Import,548,Vanuatu,VUT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,648,,,,1046,,2960,,,0
+H2,2009,2009,2009,4,0,1,Import,548,Vanuatu,VUT,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,135,,,,36,,340,,,0
+H2,2009,2009,2009,4,0,1,Import,548,Vanuatu,VUT,540,New Caledonia,NCL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,671,,,,192,,17285,,,0
+H2,2009,2009,2009,4,0,1,Import,548,Vanuatu,VUT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,68450,,,,142763,,588065,,,0
+H2,2009,2009,2009,4,0,1,Import,548,Vanuatu,VUT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,491,,,,782,,4002,,,0
+H2,2009,2009,2009,4,0,1,Import,548,Vanuatu,VUT,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,31,,,,80,,42,,,0
+H2,2009,2009,2009,4,0,1,Import,548,Vanuatu,VUT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,360,,,,564,,3324,,,0
+H2,2009,2009,2009,4,0,1,Import,548,Vanuatu,VUT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,71,,,,512,,1004,,,0
+H2,2009,2009,2009,4,0,1,Import,548,Vanuatu,VUT,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2304,,,,4347,,15390,,,0
+H2,2009,2009,2009,4,0,2,Export,548,Vanuatu,VUT,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1786,,,,1786,,2275,,,4
+H1,2006,2006,2006,4,0,1,Import,548,Vanuatu,VUT,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,220938,,,,220938,,1450512,,,4
+H1,2006,2006,2006,4,0,1,Import,548,Vanuatu,VUT,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,97089,,,,97089,,510821,,,4
+H1,2006,2006,2006,4,0,1,Import,548,Vanuatu,VUT,90,Solomon Isds,SLB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36,,,,36,,25,,,4
+H1,2006,2006,2006,4,0,1,Import,548,Vanuatu,VUT,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,60,,,,60,,104,,,4
+H1,2006,2006,2006,4,0,1,Import,548,Vanuatu,VUT,242,Fiji,FJI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6778,,,,6778,,27477,,,4
+H1,2006,2006,2006,4,0,1,Import,548,Vanuatu,VUT,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,74269,,,,74269,,586250,,,4
+H1,2006,2006,2006,4,0,1,Import,548,Vanuatu,VUT,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,156,,,,156,,134,,,4
+H1,2006,2006,2006,4,0,1,Import,548,Vanuatu,VUT,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1255,,,,1255,,8790,,,4
+H1,2006,2006,2006,4,0,1,Import,548,Vanuatu,VUT,410,Rep. of Korea,KOR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,49,,,,49,,45,,,4
+H1,2006,2006,2006,4,0,1,Import,548,Vanuatu,VUT,540,New Caledonia,NCL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,408,,,,408,,3175,,,4
+H1,2006,2006,2006,4,0,1,Import,548,Vanuatu,VUT,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,40406,,,,40406,,309485,,,4
+H1,2006,2006,2006,4,0,1,Import,548,Vanuatu,VUT,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,180,,,,180,,1440,,,4
+H1,2006,2006,2006,4,0,1,Import,548,Vanuatu,VUT,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,198,,,,198,,2103,,,4
+H1,2006,2006,2006,4,0,1,Import,548,Vanuatu,VUT,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,54,,,,54,,663,,,4
+H2,2010,2010,2010,4,0,1,Import,548,Vanuatu,VUT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,262537,,,,429495,,1745260,,,0
+H2,2010,2010,2010,4,0,2,Export,548,Vanuatu,VUT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1144,,,,1144,,1066,,,4
+H2,2010,2010,2010,4,0,1,Import,548,Vanuatu,VUT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,127130,,,,186038,,761213,,,0
+H2,2010,2010,2010,4,0,1,Import,548,Vanuatu,VUT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6372,,,,12003,,46227,,,0
+H2,2010,2010,2010,4,0,1,Import,548,Vanuatu,VUT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,647,,,,709,,549,,,0
+H2,2010,2010,2010,4,0,1,Import,548,Vanuatu,VUT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,79850,,,,129917,,570435,,,0
+H2,2010,2010,2010,4,0,1,Import,548,Vanuatu,VUT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,21,,25,,,0
+H2,2010,2010,2010,4,0,1,Import,548,Vanuatu,VUT,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,28,,,,23,,164,,,0
+H2,2010,2010,2010,4,0,1,Import,548,Vanuatu,VUT,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12,,,,2,,104,,,0
+H2,2010,2010,2010,4,0,1,Import,548,Vanuatu,VUT,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,25,,,,12,,198,,,0
+H2,2010,2010,2010,4,0,1,Import,548,Vanuatu,VUT,540,New Caledonia,NCL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1646,,,,5245,,30437,,,0
+H2,2010,2010,2010,4,0,1,Import,548,Vanuatu,VUT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45603,,,,93305,,330421,,,0
+H2,2010,2010,2010,4,0,1,Import,548,Vanuatu,VUT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,297,,,,408,,2603,,,0
+H2,2010,2010,2010,4,0,1,Import,548,Vanuatu,VUT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,918,,,,1812,,2885,,,0
+H2,2010,2010,2010,4,0,2,Export,548,Vanuatu,VUT,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1144,,,,1144,,1066,,,4
+H2,2011,2011,2011,4,0,1,Import,548,Vanuatu,VUT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,253884,,,,425598,,1360742,,,0
+H2,2011,2011,2011,4,0,2,Export,548,Vanuatu,VUT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1056,,,,1056,,8712,,,4
+H2,2011,2011,2011,4,0,1,Import,548,Vanuatu,VUT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,114202,,,,163878,,585146,,,0
+H2,2011,2011,2011,4,0,1,Import,548,Vanuatu,VUT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,26,,,,17,,39,,,0
+H2,2011,2011,2011,4,0,1,Import,548,Vanuatu,VUT,242,Fiji,FJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1505,,,,2282,,9015,,,0
+H2,2011,2011,2011,4,0,1,Import,548,Vanuatu,VUT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,82192,,,,159622,,467555,,,0
+H2,2011,2011,2011,4,0,1,Import,548,Vanuatu,VUT,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,139,,,,519,,1198,,,0
+H2,2011,2011,2011,4,0,1,Import,548,Vanuatu,VUT,540,New Caledonia,NCL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5229,,,,9443,,28567,,,0
+H2,2011,2011,2011,4,0,2,Export,548,Vanuatu,VUT,540,New Caledonia,NCL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,248,,,,248,,6897,,,4
+H2,2011,2011,2011,4,0,1,Import,548,Vanuatu,VUT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,50224,,,,89305,,266072,,,0
+H2,2011,2011,2011,4,0,1,Import,548,Vanuatu,VUT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,302,,,,412,,2790,,,0
+H2,2011,2011,2011,4,0,1,Import,548,Vanuatu,VUT,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,38,,,,70,,69,,,0
+H2,2011,2011,2011,4,0,1,Import,548,Vanuatu,VUT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27,,,,49,,291,,,0
+H2,2011,2011,2011,4,0,2,Export,548,Vanuatu,VUT,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,809,,,,809,,1815,,,4

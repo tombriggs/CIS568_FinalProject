@@ -1,0 +1,372 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2002,2002,2002,4,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4482028,,,,4615357,,11672234,,,2
+H2,2002,2002,2002,4,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4320,,,,4320,,65947,,,2
+H2,2002,2002,2002,4,0,1,Import,20,Andorra,AND,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,172,,,,180,,445,,,2
+H2,2002,2002,2002,4,0,1,Import,20,Andorra,AND,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,417,,,,134,,1081,,,2
+H2,2002,2002,2002,4,0,1,Import,20,Andorra,AND,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,67,,,,26,,174,,,2
+H2,2002,2002,2002,4,0,1,Import,20,Andorra,AND,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2586,,,,199,,6695,,,2
+H2,2002,2002,2002,4,0,1,Import,20,Andorra,AND,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5380,,,,3447,,14896,,,2
+H2,2002,2002,2002,4,0,1,Import,20,Andorra,AND,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20,,,,22,,53,,,2
+H2,2002,2002,2002,4,0,1,Import,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,834407,,,,367120,,2477435,,,2
+H2,2002,2002,2002,4,0,2,Export,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4320,,,,4320,,65947,,,2
+H2,2002,2002,2002,4,0,1,Import,20,Andorra,AND,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,410,,,,199,,1061,,,2
+H2,2002,2002,2002,4,0,1,Import,20,Andorra,AND,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1439,,,,1492,,3725,,,2
+H2,2002,2002,2002,4,0,1,Import,20,Andorra,AND,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,103,,,,12,,266,,,2
+H2,2002,2002,2002,4,0,1,Import,20,Andorra,AND,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,58717,,,,71141,,149976,,,2
+H2,2002,2002,2002,4,0,1,Import,20,Andorra,AND,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,69,,,,23,,178,,,2
+H2,2002,2002,2002,4,0,1,Import,20,Andorra,AND,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,385839,,,,343445,,946396,,,2
+H2,2002,2002,2002,4,0,1,Import,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3190071,,,,3827723,,8063816,,,2
+H2,2002,2002,2002,4,0,1,Import,20,Andorra,AND,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1785,,,,110,,4622,,,2
+H2,2002,2002,2002,4,0,1,Import,20,Andorra,AND,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,546,,,,84,,1413,,,2
+H2,2003,2003,2003,4,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4792644,,,,4621069,,14168896,,,2
+H2,2003,2003,2003,4,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,506,,,,875,,3383,,,2
+H2,2003,2003,2003,4,0,1,Import,20,Andorra,AND,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10353,,,,8030,,30146,,,2
+H2,2003,2003,2003,4,0,1,Import,20,Andorra,AND,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,293,,,,93,,647,,,2
+H2,2003,2003,2003,4,0,1,Import,20,Andorra,AND,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12274,,,,514,,35738,,,2
+H2,2003,2003,2003,4,0,1,Import,20,Andorra,AND,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,156,,,,33,,454,,,2
+H2,2003,2003,2003,4,0,1,Import,20,Andorra,AND,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3845,,,,2583,,11392,,,2
+H2,2003,2003,2003,4,0,1,Import,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,875055,,,,343512,,3113464,,,2
+H2,2003,2003,2003,4,0,2,Export,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11,,,,35,,1257,,,2
+H2,2003,2003,2003,4,0,1,Import,20,Andorra,AND,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,3,,38,,,2
+H2,2003,2003,2003,4,0,1,Import,20,Andorra,AND,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1987,,,,1470,,5787,,,2
+H2,2003,2003,2003,4,0,1,Import,20,Andorra,AND,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,377,,,,81,,1097,,,2
+H2,2003,2003,2003,4,0,1,Import,20,Andorra,AND,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,73208,,,,81346,,209617,,,2
+H2,2003,2003,2003,4,0,1,Import,20,Andorra,AND,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18,,,,2,,52,,,2
+H2,2003,2003,2003,4,0,1,Import,20,Andorra,AND,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,108,,,,279,,314,,,2
+H2,2003,2003,2003,4,0,1,Import,20,Andorra,AND,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,32,,,,10,,93,,,2
+H2,2003,2003,2003,4,0,1,Import,20,Andorra,AND,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,386531,,,,365068,,1071720,,,2
+H2,2003,2003,2003,4,0,1,Import,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3407569,,,,3807773,,9621887,,,2
+H2,2003,2003,2003,4,0,2,Export,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,495,,,,840,,2126,,,2
+H2,2003,2003,2003,4,0,1,Import,20,Andorra,AND,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14371,,,,6682,,47652,,,2
+H2,2003,2003,2003,4,0,1,Import,20,Andorra,AND,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6456,,,,3590,,18798,,,2
+H2,2004,2004,2004,4,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4621219,,,,4510430,,15442921,,,2
+H2,2004,2004,2004,4,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3742,,,,3743,,78852,,,2
+H2,2004,2004,2004,4,0,1,Import,20,Andorra,AND,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,474,,,,171,,1531,,,2
+H2,2004,2004,2004,4,0,1,Import,20,Andorra,AND,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16,,,,1,,19,,,2
+H2,2004,2004,2004,4,0,1,Import,20,Andorra,AND,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4406,,,,762,,14581,,,2
+H2,2004,2004,2004,4,0,1,Import,20,Andorra,AND,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4574,,,,2863,,15912,,,2
+H2,2004,2004,2004,4,0,1,Import,20,Andorra,AND,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4,,,,10,,14,,,2
+H2,2004,2004,2004,4,0,1,Import,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,841053,,,,350036,,3333696,,,2
+H2,2004,2004,2004,4,0,2,Export,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3600,,,,3600,,76393,,,2
+H2,2004,2004,2004,4,0,1,Import,20,Andorra,AND,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,95,,,,21,,440,,,2
+H2,2004,2004,2004,4,0,1,Import,20,Andorra,AND,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2819,,,,2180,,9330,,,2
+H2,2004,2004,2004,4,0,1,Import,20,Andorra,AND,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,70156,,,,92759,,235164,,,2
+H2,2004,2004,2004,4,0,1,Import,20,Andorra,AND,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,41,,,,4,,137,,,2
+H2,2004,2004,2004,4,0,1,Import,20,Andorra,AND,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,313585,,,,283990,,965567,,,2
+H2,2004,2004,2004,4,0,1,Import,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3375975,,,,3773973,,10839320,,,2
+H2,2004,2004,2004,4,0,2,Export,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,138,,,,138,,2327,,,2
+H2,2004,2004,2004,4,0,2,Export,20,Andorra,AND,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4,,,,5,,132,,,2
+H2,2004,2004,2004,4,0,1,Import,20,Andorra,AND,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7826,,,,3638,,26570,,,2
+H2,2004,2004,2004,4,0,1,Import,20,Andorra,AND,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,194,,,,22,,641,,,2
+H1,2000,2000,2000,4,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4104571,,,,4629240,,10155267,,,2
+H1,2000,2000,2000,4,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6916,,,,7240,,60916,,,2
+H1,2000,2000,2000,4,0,1,Import,20,Andorra,AND,12,Algeria,DZA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,269,,,,360,,679,,,2
+H1,2000,2000,2000,4,0,1,Import,20,Andorra,AND,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,682,,,,347,,1722,,,2
+H1,2000,2000,2000,4,0,1,Import,20,Andorra,AND,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,160,,,,112,,403,,,2
+H1,2000,2000,2000,4,0,1,Import,20,Andorra,AND,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,46,,,,13,,116,,,2
+H1,2000,2000,2000,4,0,1,Import,20,Andorra,AND,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,564,,,,464,,1424,,,2
+H1,2000,2000,2000,4,0,1,Import,20,Andorra,AND,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1032,,,,781,,2606,,,2
+H1,2000,2000,2000,4,0,1,Import,20,Andorra,AND,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1780,,,,1447,,4599,,,2
+H1,2000,2000,2000,4,0,1,Import,20,Andorra,AND,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,20,,,,12,,50,,,2
+H1,2000,2000,2000,4,0,1,Import,20,Andorra,AND,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,26,,,,30,,66,,,2
+H1,2000,2000,2000,4,0,1,Import,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,740244,,,,340795,,2042168,,,2
+H1,2000,2000,2000,4,0,2,Export,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2700,,,,2700,,45380,,,2
+H1,2000,2000,2000,4,0,1,Import,20,Andorra,AND,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,214,,,,164,,552,,,2
+H1,2000,2000,2000,4,0,1,Import,20,Andorra,AND,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3986,,,,4500,,10070,,,2
+H1,2000,2000,2000,4,0,1,Import,20,Andorra,AND,348,Hungary,HUN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,28,,,,12,,72,,,2
+H1,2000,2000,2000,4,0,1,Import,20,Andorra,AND,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,25868,,,,26128,,63090,,,2
+H1,2000,2000,2000,4,0,1,Import,20,Andorra,AND,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,20,,,,9,,50,,,2
+H1,2000,2000,2000,4,0,1,Import,20,Andorra,AND,422,Lebanon,LBN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,306,,,,40,,773,,,2
+H1,2000,2000,2000,4,0,1,Import,20,Andorra,AND,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,254,,,,80,,640,,,2
+H1,2000,2000,2000,4,0,1,Import,20,Andorra,AND,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,326905,,,,300578,,804072,,,2
+H1,2000,2000,2000,4,0,1,Import,20,Andorra,AND,642,Romania,ROU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,70,,,,112,,177,,,2
+H1,2000,2000,2000,4,0,1,Import,20,Andorra,AND,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1410,,,,1776,,3561,,,2
+H1,2000,2000,2000,4,0,1,Import,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2992697,,,,3946798,,7198189,,,2
+H1,2000,2000,2000,4,0,2,Export,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4216,,,,4540,,15536,,,2
+H1,2000,2000,2000,4,0,1,Import,20,Andorra,AND,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7992,,,,4682,,20189,,,2
+H1,2001,2001,2001,4,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4060518,,,,4792098,,9859830,,,2
+H1,2001,2001,2001,4,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2990,,,,3072,,42986,,,2
+H1,2001,2001,2001,4,0,1,Import,20,Andorra,AND,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,869,,,,152,,2145,,,2
+H1,2001,2001,2001,4,0,1,Import,20,Andorra,AND,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3028,,,,739,,7470,,,2
+H1,2001,2001,2001,4,0,1,Import,20,Andorra,AND,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,103,,,,86,,137,,,2
+H1,2001,2001,2001,4,0,1,Import,20,Andorra,AND,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4133,,,,2414,,10770,,,2
+H1,2001,2001,2001,4,0,1,Import,20,Andorra,AND,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,40,,,,45,,99,,,2
+H1,2001,2001,2001,4,0,1,Import,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,738441,,,,372860,,2025084,,,2
+H1,2001,2001,2001,4,0,2,Export,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,237,,,,237,,3507,,,2
+H1,2001,2001,2001,4,0,1,Import,20,Andorra,AND,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,327,,,,198,,807,,,2
+H1,2001,2001,2001,4,0,1,Import,20,Andorra,AND,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2682,,,,3001,,6617,,,2
+H1,2001,2001,2001,4,0,1,Import,20,Andorra,AND,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,45652,,,,44790,,110689,,,2
+H1,2001,2001,2001,4,0,1,Import,20,Andorra,AND,422,Lebanon,LBN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36,,,,4,,88,,,2
+H1,2001,2001,2001,4,0,1,Import,20,Andorra,AND,484,Mexico,MEX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,718,,,,473,,1771,,,2
+H1,2001,2001,2001,4,0,1,Import,20,Andorra,AND,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,163,,,,54,,403,,,2
+H1,2001,2001,2001,4,0,1,Import,20,Andorra,AND,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,277960,,,,261909,,677458,,,2
+H1,2001,2001,2001,4,0,1,Import,20,Andorra,AND,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,119,,,,63,,293,,,2
+H1,2001,2001,2001,4,0,1,Import,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2977610,,,,4097590,,6994397,,,2
+H1,2001,2001,2001,4,0,2,Export,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2006,,,,2088,,25363,,,2
+H1,2001,2001,2001,4,0,1,Import,20,Andorra,AND,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8432,,,,7598,,21097,,,2
+H1,2001,2001,2001,4,0,2,Export,20,Andorra,AND,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,747,,,,747,,14115,,,2
+H1,2001,2001,2001,4,0,1,Import,20,Andorra,AND,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,205,,,,122,,507,,,2
+H3,2007,2007,2007,4,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3922899,,,,3922899,,16970004,,,2
+H3,2007,2007,2007,4,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1099,,,,1099,,23231,,,2
+H3,2007,2007,2007,4,0,1,Import,20,Andorra,AND,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,270,,,,270,,1780,,,2
+H3,2007,2007,2007,4,0,1,Import,20,Andorra,AND,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3492,,,,3492,,25791,,,2
+H3,2007,2007,2007,4,0,1,Import,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,315790,,,,315790,,3608238,,,2
+H3,2007,2007,2007,4,0,1,Import,20,Andorra,AND,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,127,,,,127,,550,,,2
+H3,2007,2007,2007,4,0,1,Import,20,Andorra,AND,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3,,,,3,,194,,,2
+H3,2007,2007,2007,4,0,1,Import,20,Andorra,AND,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,62930,,,,62930,,176183,,,2
+H3,2007,2007,2007,4,0,1,Import,20,Andorra,AND,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,286609,,,,286609,,884845,,,2
+H3,2007,2007,2007,4,0,1,Import,20,Andorra,AND,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1232,,,,1232,,8578,,,2
+H3,2007,2007,2007,4,0,1,Import,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3249418,,,,3249418,,12252745,,,2
+H3,2007,2007,2007,4,0,2,Export,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1095,,,,1095,,23170,,,2
+H3,2007,2007,2007,4,0,2,Export,20,Andorra,AND,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4,,,,4,,62,,,2
+H3,2007,2007,2007,4,0,1,Import,20,Andorra,AND,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2,,,,2,,123,,,2
+H3,2007,2007,2007,4,0,1,Import,20,Andorra,AND,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3018,,,,3018,,10761,,,2
+H3,2007,2007,2007,4,0,1,Import,20,Andorra,AND,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9,,,,9,,216,,,2
+H3,2008,2008,2008,4,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3912052,,,,3912052,,18392913,,,2
+H3,2008,2008,2008,4,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10166,,,,10166,,126952,,,2
+H3,2008,2008,2008,4,0,2,Export,20,Andorra,AND,24,Angola,AGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,306,,,,306,,1030,,,2
+H3,2008,2008,2008,4,0,1,Import,20,Andorra,AND,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2,,,,2,,523,,,2
+H3,2008,2008,2008,4,0,1,Import,20,Andorra,AND,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3,,,,3,,27,,,2
+H3,2008,2008,2008,4,0,1,Import,20,Andorra,AND,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,326,,,,326,,7267,,,2
+H3,2008,2008,2008,4,0,1,Import,20,Andorra,AND,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4895,,,,4895,,35018,,,2
+H3,2008,2008,2008,4,0,1,Import,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,287843,,,,287843,,4051063,,,2
+H3,2008,2008,2008,4,0,2,Export,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9610,,,,9610,,123369,,,2
+H3,2008,2008,2008,4,0,1,Import,20,Andorra,AND,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,253,,,,253,,1547,,,2
+H3,2008,2008,2008,4,0,1,Import,20,Andorra,AND,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,627,,,,627,,2912,,,2
+H3,2008,2008,2008,4,0,1,Import,20,Andorra,AND,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,48812,,,,48812,,211348,,,2
+H3,2008,2008,2008,4,0,1,Import,20,Andorra,AND,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3,,,,3,,377,,,2
+H3,2008,2008,2008,4,0,1,Import,20,Andorra,AND,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,327784,,,,327784,,1283053,,,2
+H3,2008,2008,2008,4,0,1,Import,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3241363,,,,3241363,,12796989,,,2
+H3,2008,2008,2008,4,0,2,Export,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,250,,,,250,,2552,,,2
+H3,2008,2008,2008,4,0,1,Import,20,Andorra,AND,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4,,,,4,,95,,,2
+H3,2008,2008,2008,4,0,1,Import,20,Andorra,AND,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,61,,,,61,,665,,,2
+H3,2008,2008,2008,4,0,1,Import,20,Andorra,AND,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,77,,,,77,,2028,,,2
+H3,2009,2009,2009,4,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3589824,,,,3589824,,16028869,,,2
+H3,2009,2009,2009,4,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6523,,,,6523,,182469,,,2
+H3,2009,2009,2009,4,0,1,Import,20,Andorra,AND,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1942,,,,1942,,9195,,,2
+H3,2009,2009,2009,4,0,1,Import,20,Andorra,AND,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,47,,,,47,,256,,,2
+H3,2009,2009,2009,4,0,1,Import,20,Andorra,AND,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1,,,,1,,70,,,2
+H3,2009,2009,2009,4,0,1,Import,20,Andorra,AND,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3385,,,,3385,,21327,,,2
+H3,2009,2009,2009,4,0,1,Import,20,Andorra,AND,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,153,,,,153,,313,,,2
+H3,2009,2009,2009,4,0,1,Import,20,Andorra,AND,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,27,,,,27,,162,,,2
+H3,2009,2009,2009,4,0,1,Import,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,283383,,,,283383,,3401551,,,2
+H3,2009,2009,2009,4,0,2,Export,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,630,,,,630,,28093,,,2
+H3,2009,2009,2009,4,0,1,Import,20,Andorra,AND,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,13,,,,13,,210,,,2
+H3,2009,2009,2009,4,0,1,Import,20,Andorra,AND,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,419,,,,419,,2545,,,2
+H3,2009,2009,2009,4,0,1,Import,20,Andorra,AND,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,47,,,,47,,994,,,2
+H3,2009,2009,2009,4,0,1,Import,20,Andorra,AND,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,52915,,,,52915,,145570,,,2
+H3,2009,2009,2009,4,0,1,Import,20,Andorra,AND,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,17,,,,17,,97,,,2
+H3,2009,2009,2009,4,0,1,Import,20,Andorra,AND,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4,,,,4,,47,,,2
+H3,2009,2009,2009,4,0,1,Import,20,Andorra,AND,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,34,,,,34,,121,,,2
+H3,2009,2009,2009,4,0,1,Import,20,Andorra,AND,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3,,,,3,,84,,,2
+H3,2009,2009,2009,4,0,1,Import,20,Andorra,AND,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,263275,,,,263275,,970176,,,2
+H3,2009,2009,2009,4,0,1,Import,20,Andorra,AND,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,204,,,,204,,1318,,,2
+H3,2009,2009,2009,4,0,1,Import,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2983764,,,,2983764,,11467728,,,2
+H3,2009,2009,2009,4,0,2,Export,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5893,,,,5893,,154377,,,2
+H3,2009,2009,2009,4,0,1,Import,20,Andorra,AND,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,29,,,,29,,4199,,,2
+H3,2009,2009,2009,4,0,1,Import,20,Andorra,AND,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,76,,,,76,,1546,,,2
+H3,2009,2009,2009,4,0,1,Import,20,Andorra,AND,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,86,,,,86,,1361,,,2
+H2,2005,2005,2005,4,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1362,,,,1362,,97951,,,2
+H2,2005,2005,2005,4,0,2,Export,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1354,,,,1354,,97726,,,2
+H2,2005,2005,2005,4,0,2,Export,20,Andorra,AND,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,224,,,2
+H2,2006,2006,2006,4,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4232906,,,,4232906,,15370279,,,2
+H2,2006,2006,2006,4,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,253,,,,253,,5901,,,2
+H2,2006,2006,2006,4,0,1,Import,20,Andorra,AND,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,557,,,,557,,3735,,,2
+H2,2006,2006,2006,4,0,1,Import,20,Andorra,AND,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,1,,34,,,2
+H2,2006,2006,2006,4,0,1,Import,20,Andorra,AND,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,846,,,,846,,4988,,,2
+H2,2006,2006,2006,4,0,1,Import,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,317926,,,,317926,,3131862,,,2
+H2,2006,2006,2006,4,0,1,Import,20,Andorra,AND,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,31,,,,31,,389,,,2
+H2,2006,2006,2006,4,0,1,Import,20,Andorra,AND,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22,,,,22,,358,,,2
+H2,2006,2006,2006,4,0,1,Import,20,Andorra,AND,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,93693,,,,93693,,216654,,,2
+H2,2006,2006,2006,4,0,1,Import,20,Andorra,AND,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8,,,,8,,121,,,2
+H2,2006,2006,2006,4,0,1,Import,20,Andorra,AND,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,360,,,,360,,7231,,,2
+H2,2006,2006,2006,4,0,1,Import,20,Andorra,AND,530,Neth. Antilles,ANT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,2,,58,,,2
+H2,2006,2006,2006,4,0,1,Import,20,Andorra,AND,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,300830,,,,300830,,949368,,,2
+H2,2006,2006,2006,4,0,1,Import,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3517616,,,,3517616,,11018850,,,2
+H2,2006,2006,2006,4,0,2,Export,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,238,,,,238,,5699,,,2
+H2,2006,2006,2006,4,0,1,Import,20,Andorra,AND,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,269,,,,269,,7245,,,2
+H2,2006,2006,2006,4,0,2,Export,20,Andorra,AND,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15,,,,15,,202,,,2
+H2,2006,2006,2006,4,0,1,Import,20,Andorra,AND,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,742,,,,742,,27626,,,2
+H2,2006,2006,2006,4,0,1,Import,20,Andorra,AND,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3,,,,3,,1762,,,2
+H4,2012,2012,2012,4,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3304296,,,,3304296,,14751272,,,2
+H4,2012,2012,2012,4,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2747,,,,2747,,726105,,,2
+H4,2012,2012,2012,4,0,1,Import,20,Andorra,AND,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2,,,,2,,14,,,2
+H4,2012,2012,2012,4,0,1,Import,20,Andorra,AND,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,497,,,,497,,3284,,,2
+H4,2012,2012,2012,4,0,1,Import,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,246460,,,,246460,,2914877,,,2
+H4,2012,2012,2012,4,0,2,Export,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,340,,,,340,,12514,,,2
+H4,2012,2012,2012,4,0,1,Import,20,Andorra,AND,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,432,,,,432,,1587,,,2
+H4,2012,2012,2012,4,0,1,Import,20,Andorra,AND,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3,,,,3,,103,,,2
+H4,2012,2012,2012,4,0,1,Import,20,Andorra,AND,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14214,,,,14214,,50200,,,2
+H4,2012,2012,2012,4,0,1,Import,20,Andorra,AND,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18,,,,18,,72,,,2
+H4,2012,2012,2012,4,0,1,Import,20,Andorra,AND,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,63,,,,63,,410,,,2
+H4,2012,2012,2012,4,0,2,Export,20,Andorra,AND,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,841,,,,841,,51191,,,2
+H4,2012,2012,2012,4,0,1,Import,20,Andorra,AND,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,251781,,,,251781,,907531,,,2
+H4,2012,2012,2012,4,0,1,Import,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2790810,,,,2790810,,10872915,,,2
+H4,2012,2012,2012,4,0,2,Export,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1566,,,,1566,,662400,,,2
+H4,2012,2012,2012,4,0,1,Import,20,Andorra,AND,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16,,,,16,,282,,,2
+H4,2013,2013,2013,4,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3316314,,,,3316314,,16096674,,,2
+H4,2013,2013,2013,4,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1505,,,,1505,,160183,,,2
+H4,2013,2013,2013,4,0,1,Import,20,Andorra,AND,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90,,,,90,,1256,,,2
+H4,2013,2013,2013,4,0,1,Import,20,Andorra,AND,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,491,,,,491,,3488,,,2
+H4,2013,2013,2013,4,0,1,Import,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,253606,,,,253606,,3019570,,,2
+H4,2013,2013,2013,4,0,2,Export,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,665,,,,665,,2786,,,2
+H4,2013,2013,2013,4,0,1,Import,20,Andorra,AND,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45,,,,45,,303,,,2
+H4,2013,2013,2013,4,0,1,Import,20,Andorra,AND,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,768,,,,768,,2891,,,2
+H4,2013,2013,2013,4,0,1,Import,20,Andorra,AND,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18897,,,,18897,,82223,,,2
+H4,2013,2013,2013,4,0,1,Import,20,Andorra,AND,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,77,,,,77,,3378,,,2
+H4,2013,2013,2013,4,0,2,Export,20,Andorra,AND,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,27,,,,27,,133929,,,2
+H4,2013,2013,2013,4,0,1,Import,20,Andorra,AND,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,193156,,,,193156,,724048,,,2
+H4,2013,2013,2013,4,0,1,Import,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2848717,,,,2848717,,12238880,,,2
+H4,2013,2013,2013,4,0,2,Export,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,801,,,,801,,21873,,,2
+H4,2013,2013,2013,4,0,1,Import,20,Andorra,AND,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,81,,,,81,,2790,,,2
+H4,2013,2013,2013,4,0,2,Export,20,Andorra,AND,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11,,,,11,,1594,,,2
+H4,2013,2013,2013,4,0,1,Import,20,Andorra,AND,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,262,,,,262,,17643,,,2
+H4,2013,2013,2013,4,0,1,Import,20,Andorra,AND,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,125,,,,125,,203,,,2
+H4,2014,2014,2014,4,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3329672,,,,3329672,,16552361,,,2
+H4,2014,2014,2014,4,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,826,,,,826,,122222,,,2
+H4,2014,2014,2014,4,0,1,Import,20,Andorra,AND,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,428,,,,428,,3974,,,2
+H4,2014,2014,2014,4,0,1,Import,20,Andorra,AND,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,198,,,,198,,1984,,,2
+H4,2014,2014,2014,4,0,1,Import,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,254151,,,,254151,,3264125,,,2
+H4,2014,2014,2014,4,0,1,Import,20,Andorra,AND,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9,,,,9,,53,,,2
+H4,2014,2014,2014,4,0,1,Import,20,Andorra,AND,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,607,,,,607,,2434,,,2
+H4,2014,2014,2014,4,0,1,Import,20,Andorra,AND,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,1,,66,,,2
+H4,2014,2014,2014,4,0,1,Import,20,Andorra,AND,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11777,,,,11777,,60211,,,2
+H4,2014,2014,2014,4,0,1,Import,20,Andorra,AND,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4,,,,4,,645,,,2
+H4,2014,2014,2014,4,0,1,Import,20,Andorra,AND,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18,,,,18,,365,,,2
+H4,2014,2014,2014,4,0,1,Import,20,Andorra,AND,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9,,,,9,,330,,,2
+H4,2014,2014,2014,4,0,1,Import,20,Andorra,AND,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,243357,,,,243357,,871048,,,2
+H4,2014,2014,2014,4,0,2,Export,20,Andorra,AND,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,207,,,,207,,3791,,,2
+H4,2014,2014,2014,4,0,1,Import,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2818224,,,,2818224,,12345366,,,2
+H4,2014,2014,2014,4,0,2,Export,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,592,,,,592,,52590,,,2
+H4,2014,2014,2014,4,0,1,Import,20,Andorra,AND,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,883,,,,883,,1687,,,2
+H4,2014,2014,2014,4,0,1,Import,20,Andorra,AND,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3,,,,3,,67,,,2
+H4,2014,2014,2014,4,0,2,Export,20,Andorra,AND,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,27,,,,27,,65841,,,2
+H3,2010,2010,2010,4,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3449154,,,,3449154,,15187442,,,2
+H3,2010,2010,2010,4,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3516,,,,3516,,35060,,,2
+H3,2010,2010,2010,4,0,1,Import,20,Andorra,AND,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,270,,,,270,,5564,,,2
+H3,2010,2010,2010,4,0,1,Import,20,Andorra,AND,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9,,,,9,,115,,,2
+H3,2010,2010,2010,4,0,1,Import,20,Andorra,AND,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5,,,,5,,263,,,2
+H3,2010,2010,2010,4,0,1,Import,20,Andorra,AND,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1184,,,,1184,,7525,,,2
+H3,2010,2010,2010,4,0,1,Import,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,278256,,,,278256,,2997196,,,2
+H3,2010,2010,2010,4,0,2,Export,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,360,,,,360,,10644,,,2
+H3,2010,2010,2010,4,0,1,Import,20,Andorra,AND,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,355,,,,355,,1407,,,2
+H3,2010,2010,2010,4,0,1,Import,20,Andorra,AND,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,315,,,,315,,1390,,,2
+H3,2010,2010,2010,4,0,1,Import,20,Andorra,AND,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,31814,,,,31814,,88765,,,2
+H3,2010,2010,2010,4,0,1,Import,20,Andorra,AND,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,32,,,,32,,338,,,2
+H3,2010,2010,2010,4,0,1,Import,20,Andorra,AND,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,32,,,,32,,147,,,2
+H3,2010,2010,2010,4,0,2,Export,20,Andorra,AND,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1,,,,1,,26,,,2
+H3,2010,2010,2010,4,0,1,Import,20,Andorra,AND,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,300646,,,,300646,,1069854,,,2
+H3,2010,2010,2010,4,0,1,Import,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2836162,,,,2836162,,11012658,,,2
+H3,2010,2010,2010,4,0,2,Export,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3155,,,,3155,,24390,,,2
+H3,2010,2010,2010,4,0,1,Import,20,Andorra,AND,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2,,,,2,,40,,,2
+H3,2010,2010,2010,4,0,1,Import,20,Andorra,AND,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,33,,,,33,,1176,,,2
+H3,2010,2010,2010,4,0,1,Import,20,Andorra,AND,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,41,,,,41,,1004,,,2
+H3,2011,2011,2011,4,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3492777,,,,3492777,,16357303,,,2
+H3,2011,2011,2011,4,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3732,,,,3732,,116510,,,2
+H3,2011,2011,2011,4,0,1,Import,20,Andorra,AND,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,14,,,,14,,135,,,2
+H3,2011,2011,2011,4,0,1,Import,20,Andorra,AND,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,29,,,,29,,493,,,2
+H3,2011,2011,2011,4,0,1,Import,20,Andorra,AND,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3180,,,,3180,,20232,,,2
+H3,2011,2011,2011,4,0,1,Import,20,Andorra,AND,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,32,,,,32,,382,,,2
+H3,2011,2011,2011,4,0,1,Import,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,307222,,,,307222,,3569700,,,2
+H3,2011,2011,2011,4,0,2,Export,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,429,,,,429,,956,,,2
+H3,2011,2011,2011,4,0,1,Import,20,Andorra,AND,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,37,,,,37,,454,,,2
+H3,2011,2011,2011,4,0,1,Import,20,Andorra,AND,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,570,,,,570,,2315,,,2
+H3,2011,2011,2011,4,0,1,Import,20,Andorra,AND,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,25982,,,,25982,,85011,,,2
+H3,2011,2011,2011,4,0,1,Import,20,Andorra,AND,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,14,,,,14,,111,,,2
+H3,2011,2011,2011,4,0,1,Import,20,Andorra,AND,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5,,,,5,,36,,,2
+H3,2011,2011,2011,4,0,1,Import,20,Andorra,AND,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,225,,,,225,,33817,,,2
+H3,2011,2011,2011,4,0,1,Import,20,Andorra,AND,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,242458,,,,242458,,959188,,,2
+H3,2011,2011,2011,4,0,1,Import,20,Andorra,AND,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5,,,,5,,29,,,2
+H3,2011,2011,2011,4,0,1,Import,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2913000,,,,2913000,,11685374,,,2
+H3,2011,2011,2011,4,0,2,Export,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3303,,,,3303,,115555,,,2
+H3,2011,2011,2011,4,0,1,Import,20,Andorra,AND,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5,,,,5,,28,,,2
+H5,2017,2017,2017,4,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3258566,,,,3261049,,16477968,,,2
+H5,2017,2017,2017,4,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3256,,,,3256,,371138,,,2
+H5,2017,2017,2017,4,0,1,Import,20,Andorra,AND,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,643,,,,643,,5669,,,2
+H5,2017,2017,2017,4,0,1,Import,20,Andorra,AND,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4,,,,4,,148,,,2
+H5,2017,2017,2017,4,0,1,Import,20,Andorra,AND,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1196,,,,1196,,6194,,,2
+H5,2017,2017,2017,4,0,1,Import,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,232487,,,,233085,,3230807,,,2
+H5,2017,2017,2017,4,0,2,Export,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,661,,,,661,,277495,,,2
+H5,2017,2017,2017,4,0,1,Import,20,Andorra,AND,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,193,,,,193,,2192,,,2
+H5,2017,2017,2017,4,0,1,Import,20,Andorra,AND,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,558,,,,558,,2101,,,2
+H5,2017,2017,2017,4,0,1,Import,20,Andorra,AND,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7736,,,,7736,,123895,,,2
+H5,2017,2017,2017,4,0,2,Export,20,Andorra,AND,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,94,,,,94,,4170,,,2
+H5,2017,2017,2017,4,0,1,Import,20,Andorra,AND,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9,,,,9,,135,,,2
+H5,2017,2017,2017,4,0,1,Import,20,Andorra,AND,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18,,,,18,,298,,,2
+H5,2017,2017,2017,4,0,1,Import,20,Andorra,AND,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13,,,,13,,297,,,2
+H5,2017,2017,2017,4,0,1,Import,20,Andorra,AND,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,217737,,,,218936,,752521,,,2
+H5,2017,2017,2017,4,0,1,Import,20,Andorra,AND,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36,,,,36,,614,,,2
+H5,2017,2017,2017,4,0,1,Import,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2797744,,,,2798429,,12351622,,,2
+H5,2017,2017,2017,4,0,2,Export,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2348,,,,2348,,50856,,,2
+H5,2017,2017,2017,4,0,1,Import,20,Andorra,AND,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3,,,,3,,362,,,2
+H5,2017,2017,2017,4,0,2,Export,20,Andorra,AND,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,152,,,,152,,38615,,,2
+H5,2017,2017,2017,4,0,1,Import,20,Andorra,AND,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,50,,,,50,,156,,,2
+H5,2017,2017,2017,4,0,1,Import,20,Andorra,AND,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,135,,,,135,,949,,,2
+H5,2018,2018,2018,4,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3167578,,,,3169087,,17441300,,,2
+H5,2018,2018,2018,4,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5552,,,,5552,,328613,,,2
+H5,2018,2018,2018,4,0,4,Re-Import,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,778,,,,778,,4177,,,2
+H5,2018,2018,2018,4,0,1,Import,20,Andorra,AND,20,Andorra,AND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,778,,,,778,,4177,,,2
+H5,2018,2018,2018,4,0,2,Export,20,Andorra,AND,20,Andorra,AND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,150,,,,150,,21495,,,2
+H5,2018,2018,2018,4,0,4,Re-Import,20,Andorra,AND,20,Andorra,AND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,778,,,,778,,4177,,,2
+H5,2018,2018,2018,4,0,1,Import,20,Andorra,AND,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,907,,,,907,,7576,,,2
+H5,2018,2018,2018,4,0,1,Import,20,Andorra,AND,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,172,,,,172,,6067,,,2
+H5,2018,2018,2018,4,0,1,Import,20,Andorra,AND,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4,,,,4,,120,,,2
+H5,2018,2018,2018,4,0,1,Import,20,Andorra,AND,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1488,,,,1488,,9473,,,2
+H5,2018,2018,2018,4,0,1,Import,20,Andorra,AND,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,37,,,,37,,14571,,,2
+H5,2018,2018,2018,4,0,1,Import,20,Andorra,AND,233,Estonia,EST,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4,,,,4,,40,,,2
+H5,2018,2018,2018,4,0,1,Import,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,225616,,,,226113,,3233744,,,2
+H5,2018,2018,2018,4,0,2,Export,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1306,,,,1306,,176446,,,2
+H5,2018,2018,2018,4,0,1,Import,20,Andorra,AND,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,53,,,,53,,2032,,,2
+H5,2018,2018,2018,4,0,1,Import,20,Andorra,AND,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,769,,,,769,,3024,,,2
+H5,2018,2018,2018,4,0,1,Import,20,Andorra,AND,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,102,,,,102,,4954,,,2
+H5,2018,2018,2018,4,0,1,Import,20,Andorra,AND,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8918,,,,8918,,84727,,,2
+H5,2018,2018,2018,4,0,1,Import,20,Andorra,AND,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45,,,,45,,510,,,2
+H5,2018,2018,2018,4,0,1,Import,20,Andorra,AND,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90,,,,90,,1640,,,2
+H5,2018,2018,2018,4,0,1,Import,20,Andorra,AND,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,111,,,,111,,17804,,,2
+H5,2018,2018,2018,4,0,1,Import,20,Andorra,AND,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,241575,,,,246214,,815217,,,2
+H5,2018,2018,2018,4,0,1,Import,20,Andorra,AND,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,697,,,,697,,6323,,,2
+H5,2018,2018,2018,4,0,1,Import,20,Andorra,AND,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,72,,,,72,,2138,,,2
+H5,2018,2018,2018,4,0,1,Import,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2685905,,,,2682278,,13224556,,,2
+H5,2018,2018,2018,4,0,2,Export,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4096,,,,4096,,130670,,,2
+H5,2018,2018,2018,4,0,1,Import,20,Andorra,AND,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,185,,,,185,,2139,,,2
+H5,2018,2018,2018,4,0,1,Import,20,Andorra,AND,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45,,,,45,,457,,,2
+H4,2015,2015,2015,4,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3645756,,,,3645756,,14007320,,,2
+H4,2015,2015,2015,4,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5788,,,,5788,,202529,,,2
+H4,2015,2015,2015,4,0,1,Import,20,Andorra,AND,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,842,,,,842,,6564,,,2
+H4,2015,2015,2015,4,0,1,Import,20,Andorra,AND,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2197,,,,2197,,11768,,,2
+H4,2015,2015,2015,4,0,1,Import,20,Andorra,AND,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,249,,,,249,,1356,,,2
+H4,2015,2015,2015,4,0,1,Import,20,Andorra,AND,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9,,,,9,,131,,,2
+H4,2015,2015,2015,4,0,1,Import,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,609784,,,,609784,,2567564,,,2
+H4,2015,2015,2015,4,0,2,Export,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,272,,,,272,,25306,,,2
+H4,2015,2015,2015,4,0,1,Import,20,Andorra,AND,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,554,,,,554,,4869,,,2
+H4,2015,2015,2015,4,0,2,Export,20,Andorra,AND,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9,,,,9,,2561,,,2
+H4,2015,2015,2015,4,0,1,Import,20,Andorra,AND,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,495,,,,495,,1771,,,2
+H4,2015,2015,2015,4,0,2,Export,20,Andorra,AND,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,145,,,,145,,13623,,,2
+H4,2015,2015,2015,4,0,1,Import,20,Andorra,AND,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4968,,,,4968,,36853,,,2
+H4,2015,2015,2015,4,0,1,Import,20,Andorra,AND,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18,,,,18,,156,,,2
+H4,2015,2015,2015,4,0,2,Export,20,Andorra,AND,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4896,,,,4896,,139894,,,2
+H4,2015,2015,2015,4,0,1,Import,20,Andorra,AND,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,204697,,,,204697,,649396,,,2
+H4,2015,2015,2015,4,0,1,Import,20,Andorra,AND,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,23,,,,23,,432,,,2
+H4,2015,2015,2015,4,0,1,Import,20,Andorra,AND,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,1,,53,,,2
+H4,2015,2015,2015,4,0,1,Import,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2819984,,,,2819984,,10713437,,,2
+H4,2015,2015,2015,4,0,2,Export,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,466,,,,466,,21143,,,2
+H4,2015,2015,2015,4,0,1,Import,20,Andorra,AND,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1933,,,,1933,,12963,,,2
+H4,2016,2016,2016,4,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3355167,,,,3355167,,15385585,,,2
+H4,2016,2016,2016,4,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4433,,,,4433,,127375,,,2
+H4,2016,2016,2016,4,0,1,Import,20,Andorra,AND,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,630,,,,630,,5809,,,2
+H4,2016,2016,2016,4,0,1,Import,20,Andorra,AND,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1611,,,,1611,,9321,,,2
+H4,2016,2016,2016,4,0,1,Import,20,Andorra,AND,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,225,,,,225,,444,,,2
+H4,2016,2016,2016,4,0,1,Import,20,Andorra,AND,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18,,,,18,,355,,,2
+H4,2016,2016,2016,4,0,2,Export,20,Andorra,AND,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,153,,,,153,,579,,,2
+H4,2016,2016,2016,4,0,1,Import,20,Andorra,AND,233,Estonia,EST,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,58,,,,58,,537,,,2
+H4,2016,2016,2016,4,0,1,Import,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,269969,,,,269969,,3073406,,,2
+H4,2016,2016,2016,4,0,2,Export,20,Andorra,AND,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,364,,,,364,,30202,,,2
+H4,2016,2016,2016,4,0,1,Import,20,Andorra,AND,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4,,,,4,,29,,,2
+H4,2016,2016,2016,4,0,1,Import,20,Andorra,AND,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,234,,,,234,,1023,,,2
+H4,2016,2016,2016,4,0,1,Import,20,Andorra,AND,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,912,,,,912,,2564,,,2
+H4,2016,2016,2016,4,0,1,Import,20,Andorra,AND,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6243,,,,6243,,38848,,,2
+H4,2016,2016,2016,4,0,1,Import,20,Andorra,AND,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90,,,,90,,598,,,2
+H4,2016,2016,2016,4,0,1,Import,20,Andorra,AND,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,229821,,,,229821,,743232,,,2
+H4,2016,2016,2016,4,0,1,Import,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2844993,,,,2844993,,11498691,,,2
+H4,2016,2016,2016,4,0,2,Export,20,Andorra,AND,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3915,,,,3915,,96593,,,2
+H4,2016,2016,2016,4,0,1,Import,20,Andorra,AND,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,358,,,,358,,10723,,,2

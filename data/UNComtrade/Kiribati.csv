@@ -1,0 +1,95 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2004,2004,2004,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1252,,,,1252,,3318,,,4
+H1,2004,2004,2004,4,0,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1162,,,,1162,,2838,,,4
+H1,2004,2004,2004,4,0,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,90,,,,90,,480,,,4
+H2,2005,2005,2005,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2932,,,,2932,,13781,,,4
+H2,2005,2005,2005,4,0,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2740,,,,2740,,12297,,,4
+H2,2005,2005,2005,4,0,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,30,,,,30,,19,,,4
+H2,2005,2005,2005,4,0,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,81,,,,81,,730,,,4
+H2,2005,2005,2005,4,0,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,81,,,,81,,734,,,4
+H2,2006,2006,2006,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6351,,,,6351,,25589,,,4
+H2,2006,2006,2006,4,0,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5807,,,,5807,,22761,,,4
+H2,2006,2006,2006,4,0,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,26,,,,26,,139,,,4
+H2,2006,2006,2006,4,0,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,142,,,,142,,562,,,4
+H2,2006,2006,2006,4,0,1,Import,296,Kiribati,KIR,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,2,,11,,,4
+H2,2006,2006,2006,4,0,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,374,,,,374,,2115,,,4
+H2,2007,2007,2007,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2544,,,,2544,,26273,,,4
+H2,2007,2007,2007,4,0,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2307,,,,2307,,23115,,,4
+H2,2007,2007,2007,4,0,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,92,,,,92,,789,,,4
+H2,2007,2007,2007,4,0,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,81,,,,81,,1679,,,4
+H2,2007,2007,2007,4,0,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5,,,,5,,55,,,4
+H2,2007,2007,2007,4,0,1,Import,296,Kiribati,KIR,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,60,,,,60,,636,,,4
+H2,2008,2008,2008,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5181,,,,5181,,26968,,,4
+H2,2008,2008,2008,4,0,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5047,,,,5047,,26324,,,4
+H2,2008,2008,2008,4,0,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,134,,,,134,,644,,,4
+H2,2009,2009,2009,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10175,,,,10175,,34613,,,4
+H2,2009,2009,2009,4,0,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9462,,,,9462,,32671,,,4
+H2,2009,2009,2009,4,0,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,225,,,,225,,200,,,4
+H2,2009,2009,2009,4,0,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,386,,,,386,,1320,,,4
+H2,2009,2009,2009,4,0,1,Import,296,Kiribati,KIR,548,Vanuatu,VUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,2,,8,,,4
+H2,2009,2009,2009,4,0,1,Import,296,Kiribati,KIR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,100,,,,100,,415,,,4
+H4,2014,2014,2014,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4487,,,,4487,,52264,,,0
+H4,2014,2014,2014,4,0,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2997,,,,2997,,37434,,,0
+H4,2014,2014,2014,4,0,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,947,,,,947,,7727,,,0
+H4,2014,2014,2014,4,0,1,Import,296,Kiribati,KIR,360,Indonesia,IDN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,21,,,,21,,402,,,0
+H4,2014,2014,2014,4,0,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,183,,,,183,,3183,,,0
+H4,2014,2014,2014,4,0,1,Import,296,Kiribati,KIR,584,Marshall Isds,MHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,338,,,,338,,3516,,,0
+H2,2010,2010,2010,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4580,,,,4580,,41845,,,4
+H2,2010,2010,2010,4,0,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3821,,,,3821,,32674,,,4
+H2,2010,2010,2010,4,0,1,Import,296,Kiribati,KIR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18,,,,18,,128,,,4
+H2,2010,2010,2010,4,0,1,Import,296,Kiribati,KIR,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10,,,,10,,183,,,4
+H2,2010,2010,2010,4,0,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3,,,,3,,64,,,4
+H2,2010,2010,2010,4,0,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,726,,,,726,,8756,,,4
+H2,2010,2010,2010,4,0,1,Import,296,Kiribati,KIR,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,2,,39,,,4
+H2,2011,2011,2011,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7116,,,,7116,,59020,,,4
+H2,2011,2011,2011,4,0,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7067,,,,7067,,58490,,,4
+H2,2011,2011,2011,4,0,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,1,,27,,,4
+H2,2011,2011,2011,4,0,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18,,,,18,,103,,,4
+H2,2011,2011,2011,4,0,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,59,,,4
+H2,2011,2011,2011,4,0,1,Import,296,Kiribati,KIR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21,,,,21,,341,,,4
+H2,2012,2012,2012,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2240,,,,2240,,34042,,,4
+H2,2012,2012,2012,4,0,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2103,,,,2103,,30732,,,4
+H2,2012,2012,2012,4,0,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11,,,,11,,175,,,4
+H2,2012,2012,2012,4,0,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,126,,,,126,,3135,,,4
+H2,2013,2013,2013,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6382,,,,6382,,58894,,,4
+H2,2013,2013,2013,4,0,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5498,,,,5498,,52334,,,4
+H2,2013,2013,2013,4,0,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,499,,,,499,,3653,,,4
+H2,2013,2013,2013,4,0,1,Import,296,Kiribati,KIR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7,,,,7,,182,,,4
+H2,2013,2013,2013,4,0,1,Import,296,Kiribati,KIR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,198,,,,198,,1107,,,4
+H2,2013,2013,2013,4,0,1,Import,296,Kiribati,KIR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,180,,,,180,,1618,,,4
+H4,2015,2015,2015,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16596,,,,16596,,60598,,,0
+H4,2015,2015,2015,4,0,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14553,,,,14553,,47877,,,0
+H4,2015,2015,2015,4,0,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1337,,,,1337,,8294,,,0
+H4,2015,2015,2015,4,0,1,Import,296,Kiribati,KIR,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,86,,,,86,,173,,,0
+H4,2015,2015,2015,4,0,1,Import,296,Kiribati,KIR,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36,,,,36,,116,,,0
+H4,2015,2015,2015,4,0,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7,,,,7,,9,,,0
+H4,2015,2015,2015,4,0,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,417,,,,417,,3130,,,0
+H4,2015,2015,2015,4,0,1,Import,296,Kiribati,KIR,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,160,,,,160,,996,,,0
+H4,2016,2016,2016,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4487,,,,4487,,48928,,,0
+H4,2016,2016,2016,4,0,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2997,,,,2997,,35005,,,0
+H4,2016,2016,2016,4,0,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,947,,,,947,,6918,,,0
+H4,2016,2016,2016,4,0,1,Import,296,Kiribati,KIR,360,Indonesia,IDN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,21,,,,21,,240,,,0
+H4,2016,2016,2016,4,0,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,183,,,,183,,3527,,,0
+H4,2016,2016,2016,4,0,1,Import,296,Kiribati,KIR,584,Marshall Isds,MHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,338,,,,338,,3237,,,0
+H4,2017,2017,2017,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5988,,,,5988,,39424,,,0
+H4,2017,2017,2017,4,0,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3886,,,,3886,,26313,,,0
+H4,2017,2017,2017,4,0,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7,,,,7,,47,,,0
+H4,2017,2017,2017,4,0,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1498,,,,1498,,8390,,,0
+H4,2017,2017,2017,4,0,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,215,,,,215,,1322,,,0
+H4,2017,2017,2017,4,0,1,Import,296,Kiribati,KIR,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,1,,7,,,0
+H4,2017,2017,2017,4,0,1,Import,296,Kiribati,KIR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,377,,,,377,,3342,,,0
+H4,2018,2018,2018,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9941,,,,9941,,46964,,,0
+H4,2018,2018,2018,4,0,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4229,,,,4229,,24285,,,0
+H4,2018,2018,2018,4,0,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,0,,,,0,,11,,,0
+H4,2018,2018,2018,4,0,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3348,,,,3348,,15665,,,0
+H4,2018,2018,2018,4,0,1,Import,296,Kiribati,KIR,360,Indonesia,IDN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,990,,,,990,,2686,,,0
+H4,2018,2018,2018,4,0,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1174,,,,1174,,3084,,,0
+H4,2018,2018,2018,4,0,1,Import,296,Kiribati,KIR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,199,,,,199,,1231,,,0
+H5,2020,2020,2020,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9736,,,,9736,,36344,,,0
+H5,2020,2020,2020,4,0,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4868,,,,4868,,16413,,,0
+H5,2020,2020,2020,4,0,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7,,,,7,,192,,,0
+H5,2020,2020,2020,4,0,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3090,,,,3090,,12376,,,0
+H5,2020,2020,2020,4,0,1,Import,296,Kiribati,KIR,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90,,,,90,,46,,,0
+H5,2020,2020,2020,4,0,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1257,,,,1257,,5429,,,0
+H5,2020,2020,2020,4,0,1,Import,296,Kiribati,KIR,584,Marshall Isds,MHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,180,,,,180,,443,,,0
+H5,2020,2020,2020,4,0,1,Import,296,Kiribati,KIR,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,243,,,,243,,1443,,,0

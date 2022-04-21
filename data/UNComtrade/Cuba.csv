@@ -1,0 +1,187 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2003,2003,2003,4,0,1,Import,192,Cuba,CUB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3734680,,,,3959568,,7045289,,,6
+H2,2003,2003,2003,4,0,2,Export,192,Cuba,CUB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8284,,,,9314,,28229,,,6
+H2,2003,2003,2003,4,0,1,Import,192,Cuba,CUB,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13355,,,,17554,,22061,,,6
+H2,2003,2003,2003,4,0,1,Import,192,Cuba,CUB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1940,,,,2215,,16235,,,6
+H2,2003,2003,2003,4,0,1,Import,192,Cuba,CUB,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,90,,,,96,,1282,,,6
+H2,2003,2003,2003,4,0,2,Export,192,Cuba,CUB,44,Bahamas,BHS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,244,,,,212,,609,,,6
+H2,2003,2003,2003,4,0,1,Import,192,Cuba,CUB,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,41,,30,,,6
+H2,2003,2003,2003,4,0,1,Import,192,Cuba,CUB,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,83666,,,,92948,,70704,,,6
+H2,2003,2003,2003,4,0,1,Import,192,Cuba,CUB,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,262051,,,,299738,,667410,,,6
+H2,2003,2003,2003,4,0,1,Import,192,Cuba,CUB,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9954,,,,16673,,41416,,,6
+H2,2003,2003,2003,4,0,2,Export,192,Cuba,CUB,214,Dominican Rep.,DOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,181,,,,122,,362,,,6
+H2,2003,2003,2003,4,0,1,Import,192,Cuba,CUB,218,Ecuador,ECU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3,,,,5,,27,,,6
+H2,2003,2003,2003,4,0,1,Import,192,Cuba,CUB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,26952,,,,28454,,166704,,,6
+H2,2003,2003,2003,4,0,2,Export,192,Cuba,CUB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,60,,,,85,,120,,,6
+H2,2003,2003,2003,4,0,1,Import,192,Cuba,CUB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1136,,,,1829,,5094,,,6
+H2,2003,2003,2003,4,0,2,Export,192,Cuba,CUB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,24,,,,30,,4,,,6
+H2,2003,2003,2003,4,0,1,Import,192,Cuba,CUB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,287811,,,,311028,,582085,,,6
+H2,2003,2003,2003,4,0,1,Import,192,Cuba,CUB,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,76,,,,109,,841,,,6
+H2,2003,2003,2003,4,0,2,Export,192,Cuba,CUB,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,24,,,,17,,40,,,6
+H2,2003,2003,2003,4,0,1,Import,192,Cuba,CUB,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,48,,,,150,,931,,,6
+H2,2003,2003,2003,4,0,2,Export,192,Cuba,CUB,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6831,,,,7200,,22490,,,6
+H2,2003,2003,2003,4,0,1,Import,192,Cuba,CUB,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3949,,,,3635,,21697,,,6
+H2,2003,2003,2003,4,0,2,Export,192,Cuba,CUB,530,Neth. Antilles,ANT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20,,,,198,,404,,,6
+H2,2003,2003,2003,4,0,1,Import,192,Cuba,CUB,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,90,,,,643,,1718,,,6
+H2,2003,2003,2003,4,0,1,Import,192,Cuba,CUB,604,Peru,PER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2025,,,,2025,,9828,,,6
+H2,2003,2003,2003,4,0,1,Import,192,Cuba,CUB,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,77,,,,81,,224,,,6
+H2,2003,2003,2003,4,0,1,Import,192,Cuba,CUB,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4077,,,,5451,,20241,,,6
+H2,2003,2003,2003,4,0,1,Import,192,Cuba,CUB,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,194,,,,870,,2021,,,6
+H2,2003,2003,2003,4,0,1,Import,192,Cuba,CUB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3025741,,,,3144081,,5323193,,,6
+H2,2003,2003,2003,4,0,1,Import,192,Cuba,CUB,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4,,,,6,,116,,,6
+H2,2003,2003,2003,4,0,1,Import,192,Cuba,CUB,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,531,,,,592,,1820,,,6
+H2,2003,2003,2003,4,0,2,Export,192,Cuba,CUB,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,900,,,,1450,,4200,,,6
+H2,2003,2003,2003,4,0,1,Import,192,Cuba,CUB,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9040,,,,30215,,85365,,,6
+H2,2003,2003,2003,4,0,1,Import,192,Cuba,CUB,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1861,,,,1129,,4246,,,6
+H2,2004,2004,2004,4,0,1,Import,192,Cuba,CUB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3463186,,,,4039608,,6955105,,,0
+H2,2004,2004,2004,4,0,2,Export,192,Cuba,CUB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18838,,,,27167,,96136,,,0
+H2,2004,2004,2004,4,0,1,Import,192,Cuba,CUB,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,31825,,,,41932,,78756,,,0
+H2,2004,2004,2004,4,0,1,Import,192,Cuba,CUB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10358,,,,22257,,48316,,,0
+H2,2004,2004,2004,4,0,2,Export,192,Cuba,CUB,44,Bahamas,BHS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,420,,,,339,,865,,,0
+H2,2004,2004,2004,4,0,1,Import,192,Cuba,CUB,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12324,,,,9791,,18683,,,0
+H2,2004,2004,2004,4,0,2,Export,192,Cuba,CUB,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,120,,,,109,,280,,,0
+H2,2004,2004,2004,4,0,1,Import,192,Cuba,CUB,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,256469,,,,264926,,750217,,,0
+H2,2004,2004,2004,4,0,1,Import,192,Cuba,CUB,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,386,,,,421,,931,,,0
+H2,2004,2004,2004,4,0,1,Import,192,Cuba,CUB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15626,,,,24958,,127187,,,0
+H2,2004,2004,2004,4,0,2,Export,192,Cuba,CUB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1403,,,,2005,,6862,,,0
+H2,2004,2004,2004,4,0,1,Import,192,Cuba,CUB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,70254,,,,70262,,215522,,,0
+H2,2004,2004,2004,4,0,2,Export,192,Cuba,CUB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1251,,,,1768,,4603,,,0
+H2,2004,2004,2004,4,0,2,Export,192,Cuba,CUB,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9900,,,,14300,,30540,,,0
+H2,2004,2004,2004,4,0,1,Import,192,Cuba,CUB,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1116,,,,1315,,12585,,,0
+H2,2004,2004,2004,4,0,1,Import,192,Cuba,CUB,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18090,,,,18660,,24523,,,0
+H2,2004,2004,2004,4,0,1,Import,192,Cuba,CUB,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12,,,,12,,46,,,0
+H2,2004,2004,2004,4,0,1,Import,192,Cuba,CUB,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3674,,,,10424,,39316,,,0
+H2,2004,2004,2004,4,0,1,Import,192,Cuba,CUB,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,651,,,,2034,,6519,,,0
+H2,2004,2004,2004,4,0,1,Import,192,Cuba,CUB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3012100,,,,3538903,,5528405,,,0
+H2,2004,2004,2004,4,0,1,Import,192,Cuba,CUB,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,86,,,,74,,236,,,0
+H2,2004,2004,2004,4,0,1,Import,192,Cuba,CUB,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,28548,,,,32238,,89286,,,0
+H2,2004,2004,2004,4,0,1,Import,192,Cuba,CUB,862,Venezuela,VEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,623,,,,357,,783,,,0
+H2,2004,2004,2004,4,0,1,Import,192,Cuba,CUB,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1044,,,,1044,,13794,,,0
+H2,2004,2004,2004,4,0,2,Export,192,Cuba,CUB,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5744,,,,8646,,52986,,,0
+H1,2000,2000,2000,4,0,1,Import,192,Cuba,CUB,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2922707,,,,3192414,,6053201,,,0
+H1,2000,2000,2000,4,0,2,Export,192,Cuba,CUB,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,31433,,,,31527,,97327,,,0
+H1,2000,2000,2000,4,0,1,Import,192,Cuba,CUB,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9547,,,,7545,,15315,,,0
+H1,2000,2000,2000,4,0,1,Import,192,Cuba,CUB,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,269,,,,250,,4176,,,0
+H1,2000,2000,2000,4,0,1,Import,192,Cuba,CUB,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,225,,,,379,,1125,,,0
+H1,2000,2000,2000,4,0,1,Import,192,Cuba,CUB,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10,,,,10,,5,,,0
+H1,2000,2000,2000,4,0,1,Import,192,Cuba,CUB,64,Bhutan,BTN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,360,,,,292,,2817,,,0
+H1,2000,2000,2000,4,0,1,Import,192,Cuba,CUB,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3965,,,,4758,,19393,,,0
+H1,2000,2000,2000,4,0,1,Import,192,Cuba,CUB,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3187,,,,4404,,13805,,,0
+H1,2000,2000,2000,4,0,1,Import,192,Cuba,CUB,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,80132,,,,104418,,373884,,,0
+H1,2000,2000,2000,4,0,1,Import,192,Cuba,CUB,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2278,,,,2488,,14511,,,0
+H1,2000,2000,2000,4,0,1,Import,192,Cuba,CUB,170,Colombia,COL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,120,,,,54,,388,,,0
+H1,2000,2000,2000,4,0,2,Export,192,Cuba,CUB,170,Colombia,COL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9900,,,,9900,,23760,,,0
+H1,2000,2000,2000,4,0,1,Import,192,Cuba,CUB,188,Costa Rica,CRI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,41,,,,70,,445,,,0
+H1,2000,2000,2000,4,0,1,Import,192,Cuba,CUB,203,Czechia,CZE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15215,,,,672,,4456,,,0
+H1,2000,2000,2000,4,0,1,Import,192,Cuba,CUB,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,284852,,,,321745,,922771,,,0
+H1,2000,2000,2000,4,0,1,Import,192,Cuba,CUB,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1459,,,,1122,,7884,,,0
+H1,2000,2000,2000,4,0,2,Export,192,Cuba,CUB,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9338,,,,9405,,33870,,,0
+H1,2000,2000,2000,4,0,1,Import,192,Cuba,CUB,376,Israel,ISR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3,,,,9,,9,,,0
+H1,2000,2000,2000,4,0,1,Import,192,Cuba,CUB,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,273078,,,,277362,,502899,,,0
+H1,2000,2000,2000,4,0,1,Import,192,Cuba,CUB,484,Mexico,MEX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,29,,,,28,,160,,,0
+H1,2000,2000,2000,4,0,2,Export,192,Cuba,CUB,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2700,,,,2700,,11280,,,0
+H1,2000,2000,2000,4,0,1,Import,192,Cuba,CUB,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,431,,,,316,,2959,,,0
+H1,2000,2000,2000,4,0,1,Import,192,Cuba,CUB,591,Panama,PAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,709,,,,748,,3314,,,0
+H1,2000,2000,2000,4,0,1,Import,192,Cuba,CUB,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13183,,,,13583,,26773,,,0
+H1,2000,2000,2000,4,0,1,Import,192,Cuba,CUB,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,543,,,,522,,4591,,,0
+H1,2000,2000,2000,4,0,1,Import,192,Cuba,CUB,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2229547,,,,2448396,,4125849,,,0
+H1,2000,2000,2000,4,0,1,Import,192,Cuba,CUB,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,155,,,,205,,854,,,0
+H1,2000,2000,2000,4,0,1,Import,192,Cuba,CUB,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36,,,,84,,124,,,0
+H1,2000,2000,2000,4,0,2,Export,192,Cuba,CUB,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9450,,,,9450,,28354,,,0
+H1,2000,2000,2000,4,0,1,Import,192,Cuba,CUB,858,Uruguay,URY,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9,,,,7,,63,,,0
+H1,2000,2000,2000,4,0,1,Import,192,Cuba,CUB,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3324,,,,2947,,4631,,,0
+H1,2000,2000,2000,4,0,2,Export,192,Cuba,CUB,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,45,,,,72,,63,,,0
+H1,2001,2001,2001,4,0,1,Import,192,Cuba,CUB,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3134959,,,,3075388,,5512660,,,2
+H1,2001,2001,2001,4,0,2,Export,192,Cuba,CUB,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,90,,,,100,,338,,,2
+H1,2001,2001,2001,4,0,2,Export,192,Cuba,CUB,24,Angola,AGO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,90,,,,100,,338,,,2
+H1,2001,2001,2001,4,0,1,Import,192,Cuba,CUB,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5875,,,,1711,,27009,,,2
+H1,2001,2001,2001,4,0,1,Import,192,Cuba,CUB,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,376,,,,560,,5095,,,2
+H1,2001,2001,2001,4,0,1,Import,192,Cuba,CUB,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,168,,,,134,,635,,,2
+H1,2001,2001,2001,4,0,1,Import,192,Cuba,CUB,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,62474,,,,30074,,63173,,,2
+H1,2001,2001,2001,4,0,1,Import,192,Cuba,CUB,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,175616,,,,169708,,272328,,,2
+H1,2001,2001,2001,4,0,1,Import,192,Cuba,CUB,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,208,,,,204,,900,,,2
+H1,2001,2001,2001,4,0,1,Import,192,Cuba,CUB,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,97390,,,,90035,,435861,,,2
+H1,2001,2001,2001,4,0,1,Import,192,Cuba,CUB,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1867,,,,2645,,16766,,,2
+H1,2001,2001,2001,4,0,1,Import,192,Cuba,CUB,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,24,,,,30,,176,,,2
+H1,2001,2001,2001,4,0,1,Import,192,Cuba,CUB,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,158356,,,,159363,,297168,,,2
+H1,2001,2001,2001,4,0,1,Import,192,Cuba,CUB,484,Mexico,MEX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2,,,,2,,65,,,2
+H1,2001,2001,2001,4,0,1,Import,192,Cuba,CUB,591,Panama,PAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36,,,,3,,96,,,2
+H1,2001,2001,2001,4,0,1,Import,192,Cuba,CUB,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2842,,,,2543,,21744,,,2
+H1,2001,2001,2001,4,0,1,Import,192,Cuba,CUB,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,473,,,,911,,4352,,,2
+H1,2001,2001,2001,4,0,1,Import,192,Cuba,CUB,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2618089,,,,2605973,,4299294,,,2
+H1,2001,2001,2001,4,0,1,Import,192,Cuba,CUB,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,66,,,,105,,1107,,,2
+H1,2001,2001,2001,4,0,1,Import,192,Cuba,CUB,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,22,,,,114,,170,,,2
+H1,2001,2001,2001,4,0,1,Import,192,Cuba,CUB,862,Venezuela,VEN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1,,,,30,,20,,,2
+H1,2001,2001,2001,4,0,1,Import,192,Cuba,CUB,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11074,,,,11243,,66701,,,2
+H1,2002,2002,2002,4,0,1,Import,192,Cuba,CUB,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3376689,,,,3134805,,6701801,,,6
+H1,2002,2002,2002,4,0,2,Export,192,Cuba,CUB,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4800,,,,4800,,13873,,,6
+H1,2002,2002,2002,4,0,1,Import,192,Cuba,CUB,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13720,,,,15456,,56890,,,6
+H1,2002,2002,2002,4,0,1,Import,192,Cuba,CUB,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,105,,,,105,,1375,,,6
+H1,2002,2002,2002,4,0,1,Import,192,Cuba,CUB,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13230,,,,20963,,41072,,,6
+H1,2002,2002,2002,4,0,1,Import,192,Cuba,CUB,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,56121,,,,68358,,98746,,,6
+H1,2002,2002,2002,4,0,1,Import,192,Cuba,CUB,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,196545,,,,225714,,693054,,,6
+H1,2002,2002,2002,4,0,1,Import,192,Cuba,CUB,188,Costa Rica,CRI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,108,,,,193,,627,,,6
+H1,2002,2002,2002,4,0,1,Import,192,Cuba,CUB,203,Czechia,CZE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,42,,,,42,,78,,,6
+H1,2002,2002,2002,4,0,1,Import,192,Cuba,CUB,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,87193,,,,107137,,475804,,,6
+H1,2002,2002,2002,4,0,1,Import,192,Cuba,CUB,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16,,,,16,,21,,,6
+H1,2002,2002,2002,4,0,1,Import,192,Cuba,CUB,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,236551,,,,246804,,477706,,,6
+H1,2002,2002,2002,4,0,1,Import,192,Cuba,CUB,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,132,,,,318,,4129,,,6
+H1,2002,2002,2002,4,0,1,Import,192,Cuba,CUB,484,Mexico,MEX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10286,,,,10101,,81166,,,6
+H1,2002,2002,2002,4,0,2,Export,192,Cuba,CUB,484,Mexico,MEX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36,,,,36,,54,,,6
+H1,2002,2002,2002,4,0,1,Import,192,Cuba,CUB,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18,,,,18,,79,,,6
+H1,2002,2002,2002,4,0,1,Import,192,Cuba,CUB,591,Panama,PAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,50,,,,44,,50,,,6
+H1,2002,2002,2002,4,0,1,Import,192,Cuba,CUB,616,Poland,POL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,30,,,,31,,92,,,6
+H1,2002,2002,2002,4,0,1,Import,192,Cuba,CUB,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10424,,,,10723,,91272,,,6
+H1,2002,2002,2002,4,0,1,Import,192,Cuba,CUB,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1461,,,,3464,,15227,,,6
+H1,2002,2002,2002,4,0,1,Import,192,Cuba,CUB,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2749924,,,,2424636,,4625446,,,6
+H1,2002,2002,2002,4,0,2,Export,192,Cuba,CUB,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,90,,,,90,,360,,,6
+H1,2002,2002,2002,4,0,1,Import,192,Cuba,CUB,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7,,,,7,,36,,,6
+H1,2002,2002,2002,4,0,1,Import,192,Cuba,CUB,818,Egypt,EGY,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,60,,,,25,,1788,,,6
+H1,2002,2002,2002,4,0,1,Import,192,Cuba,CUB,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,45,,,,45,,214,,,6
+H1,2002,2002,2002,4,0,2,Export,192,Cuba,CUB,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4674,,,,4674,,13459,,,6
+H1,2002,2002,2002,4,0,1,Import,192,Cuba,CUB,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,621,,,,605,,36929,,,6
+H2,2005,2005,2005,4,0,1,Import,192,Cuba,CUB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3575863,,,,4602839,,7587226,,,0
+H2,2005,2005,2005,4,0,2,Export,192,Cuba,CUB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,35656,,,,48233,,116244,,,0
+H2,2005,2005,2005,4,0,4,Re-Import,192,Cuba,CUB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9810,,,,9810,,36591,,,0
+H2,2005,2005,2005,4,0,1,Import,192,Cuba,CUB,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,191307,,,,207641,,144380,,,0
+H2,2005,2005,2005,4,0,1,Import,192,Cuba,CUB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,335,,,,8342,,2998,,,0
+H2,2005,2005,2005,4,0,2,Export,192,Cuba,CUB,44,Bahamas,BHS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,180,,,,150,,388,,,0
+H2,2005,2005,2005,4,0,1,Import,192,Cuba,CUB,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6995,,,,2557,,25140,,,0
+H2,2005,2005,2005,4,0,1,Import,192,Cuba,CUB,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,331129,,,,344836,,995625,,,0
+H2,2005,2005,2005,4,0,1,Import,192,Cuba,CUB,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,238,,,,493,,404,,,0
+H2,2005,2005,2005,4,0,2,Export,192,Cuba,CUB,214,Dominican Rep.,DOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,121,,,,38,,136,,,0
+H2,2005,2005,2005,4,0,1,Import,192,Cuba,CUB,218,Ecuador,ECU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10584,,,,10584,,18493,,,0
+H2,2005,2005,2005,4,0,1,Import,192,Cuba,CUB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11978,,,,18648,,162981,,,0
+H2,2005,2005,2005,4,0,1,Import,192,Cuba,CUB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,534,,,,700,,2376,,,0
+H2,2005,2005,2005,4,0,2,Export,192,Cuba,CUB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9891,,,,9891,,35206,,,0
+H2,2005,2005,2005,4,0,1,Import,192,Cuba,CUB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15578,,,,11699,,90482,,,0
+H2,2005,2005,2005,4,0,1,Import,192,Cuba,CUB,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12,,,,16,,267,,,0
+H2,2005,2005,2005,4,0,2,Export,192,Cuba,CUB,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7380,,,,7380,,25505,,,0
+H2,2005,2005,2005,4,0,1,Import,192,Cuba,CUB,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,3,,3,,,0
+H2,2005,2005,2005,4,0,2,Export,192,Cuba,CUB,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,80,,,,80,,800,,,0
+H2,2005,2005,2005,4,0,1,Import,192,Cuba,CUB,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,50,,,,557,,2031,,,0
+H2,2005,2005,2005,4,0,1,Import,192,Cuba,CUB,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,24,,8,,,0
+H2,2005,2005,2005,4,0,1,Import,192,Cuba,CUB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2996482,,,,3986584,,6104105,,,0
+H2,2005,2005,2005,4,0,2,Export,192,Cuba,CUB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17992,,,,30630,,54112,,,0
+H2,2005,2005,2005,4,0,1,Import,192,Cuba,CUB,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,96,,,,254,,163,,,0
+H2,2005,2005,2005,4,0,1,Import,192,Cuba,CUB,838,Free Zones,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9810,,,,9810,,36591,,,0
+H2,2005,2005,2005,4,0,4,Re-Import,192,Cuba,CUB,838,Free Zones,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9810,,,,9810,,36591,,,0
+H2,2005,2005,2005,4,0,1,Import,192,Cuba,CUB,862,Venezuela,VEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,731,,,,91,,1178,,,0
+H2,2005,2005,2005,4,0,2,Export,192,Cuba,CUB,862,Venezuela,VEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12,,,,64,,96,,,0
+H2,2006,2006,2006,4,0,1,Import,192,Cuba,CUB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4049987,,,,4519930,,7336481,,,0
+H2,2006,2006,2006,4,0,1,Import,192,Cuba,CUB,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20154,,,,19708,,16348,,,0
+H2,2006,2006,2006,4,0,1,Import,192,Cuba,CUB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2730,,,,9808,,21026,,,0
+H2,2006,2006,2006,4,0,1,Import,192,Cuba,CUB,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,503,,,,535,,1559,,,0
+H2,2006,2006,2006,4,0,1,Import,192,Cuba,CUB,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,890193,,,,888796,,1698599,,,0
+H2,2006,2006,2006,4,0,1,Import,192,Cuba,CUB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20532,,,,21929,,136320,,,0
+H2,2006,2006,2006,4,0,1,Import,192,Cuba,CUB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,315,,,,480,,2139,,,0
+H2,2006,2006,2006,4,0,1,Import,192,Cuba,CUB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,44326,,,,48491,,170050,,,0
+H2,2006,2006,2006,4,0,1,Import,192,Cuba,CUB,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12,,,,29,,288,,,0
+H2,2006,2006,2006,4,0,1,Import,192,Cuba,CUB,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19,,,,229,,6086,,,0
+H2,2006,2006,2006,4,0,1,Import,192,Cuba,CUB,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,11,,57,,,0
+H2,2006,2006,2006,4,0,1,Import,192,Cuba,CUB,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,153,,,,578,,2019,,,0
+H2,2006,2006,2006,4,0,1,Import,192,Cuba,CUB,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,465,,,,325,,4061,,,0
+H2,2006,2006,2006,4,0,1,Import,192,Cuba,CUB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3065770,,,,3528034,,5268355,,,0
+H2,2006,2006,2006,4,0,1,Import,192,Cuba,CUB,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4800,,,,480,,7523,,,0
+H2,2006,2006,2006,4,0,1,Import,192,Cuba,CUB,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5,,,,8,,436,,,0
+H2,2006,2006,2006,4,0,1,Import,192,Cuba,CUB,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,489,,1614,,,0

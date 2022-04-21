@@ -1,0 +1,577 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2004,2004,2004,4,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22407796,,,,22407796,,7049100,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,294403258,,,,294403258,,249231696,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,31,Azerbaijan,AZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,862514,,,,862514,,332893,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5800,,,,5800,,16272,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,49140,,,,49140,,98829,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,112,Belarus,BLR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,35071716,,,,35071716,,28778987,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4881,,,,4881,,7632,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,33963,,,,33963,,55517,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,26589,,,,26589,,48782,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,434029,,,,434029,,635476,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,233,Estonia,EST,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20589,,,,20589,,34955,,,2
+H2,2004,2004,2004,4,0,1,Import,498,Rep. of Moldova,MDA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,275,,,,275,,9008,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1190,,,,1190,,1088,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,268,Georgia,GEO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1093147,,,,1093147,,638439,,,2
+H2,2004,2004,2004,4,0,1,Import,498,Rep. of Moldova,MDA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,2,,26,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,554322,,,,554322,,884776,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23125,,,,23125,,36387,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,352,Iceland,ISL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,756,,,,756,,3286,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,368,Iraq,IRQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,33024,,,,33024,,36928,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,264145,,,,264145,,305585,,,2
+H2,2004,2004,2004,4,0,1,Import,498,Rep. of Moldova,MDA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,671,,,,671,,2470,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3672,,,,3672,,5771,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,398,Kazakhstan,KAZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5144616,,,,5144616,,7062364,,,2
+H2,2004,2004,2004,4,0,1,Import,498,Rep. of Moldova,MDA,417,Kyrgyzstan,KGZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17460,,,,17460,,13679,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,417,Kyrgyzstan,KGZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,574519,,,,574519,,816687,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7560,,,,7560,,21141,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,428,Latvia,LVA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,519414,,,,519414,,735285,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,440,Lithuania,LTU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,591749,,,,591749,,628296,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2543,,,,2543,,4229,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14256,,,,14256,,32033,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8010,,,,8010,,12312,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1367144,,,,1367144,,1799030,,,2
+H2,2004,2004,2004,4,0,1,Import,498,Rep. of Moldova,MDA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,48,,,,48,,320,,,2
+H2,2004,2004,2004,4,0,1,Import,498,Rep. of Moldova,MDA,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20515842,,,,20515842,,6208356,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,137561,,,,137561,,269729,,,2
+H2,2004,2004,2004,4,0,1,Import,498,Rep. of Moldova,MDA,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,29280,,,,29280,,23461,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,238100542,,,,238100542,,194076906,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16000,,,,16000,,14150,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,41500,,,,41500,,72135,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,704,Viet Nam,VNM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17542,,,,17542,,34717,,,2
+H2,2004,2004,2004,4,0,1,Import,498,Rep. of Moldova,MDA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1451500,,,,1451500,,613734,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,98,,,,98,,1053,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17403,,,,17403,,42663,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19859,,,,19859,,41753,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,65631,,,,65631,,84669,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,795,Turkmenistan,TKM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,278332,,,,278332,,326118,,,2
+H2,2004,2004,2004,4,0,1,Import,498,Rep. of Moldova,MDA,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,392718,,,,392718,,178046,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8053434,,,,8053434,,9783728,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,373497,,,,373497,,717511,,,2
+H2,2004,2004,2004,4,0,2,Export,498,Rep. of Moldova,MDA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,569446,,,,569446,,733584,,,2
+H1,2000,2000,2000,4,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2130390,,,,2127794,,957402,,,0
+H1,2000,2000,2000,4,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,155641570,,,,155632459,,112715612,,,0
+H1,2000,2000,2000,4,0,3,Re-Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,17640,,,,17640,,22680,,,0
+H1,2000,2000,2000,4,0,1,Import,498,Rep. of Moldova,MDA,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,231146,,,,230799,,61357,,,0
+H1,2000,2000,2000,4,0,2,Export,498,Rep. of Moldova,MDA,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1178081,,,,1178081,,414520,,,0
+H1,2000,2000,2000,4,0,1,Import,498,Rep. of Moldova,MDA,112,Belarus,BLR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11382,,,,11382,,17961,,,0
+H1,2000,2000,2000,4,0,2,Export,498,Rep. of Moldova,MDA,112,Belarus,BLR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,14176089,,,,14171518,,5617780,,,0
+H1,2000,2000,2000,4,0,2,Export,498,Rep. of Moldova,MDA,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12600,,,,12600,,25296,,,0
+H1,2000,2000,2000,4,0,2,Export,498,Rep. of Moldova,MDA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11385,,,,11385,,16614,,,0
+H1,2000,2000,2000,4,0,1,Import,498,Rep. of Moldova,MDA,203,Czechia,CZE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3570,,,,3534,,5406,,,0
+H1,2000,2000,2000,4,0,2,Export,498,Rep. of Moldova,MDA,203,Czechia,CZE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,934540,,,,934504,,361232,,,0
+H1,2000,2000,2000,4,0,2,Export,498,Rep. of Moldova,MDA,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11259,,,,11259,,15763,,,0
+H1,2000,2000,2000,4,0,1,Import,498,Rep. of Moldova,MDA,233,Estonia,EST,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9,,,,9,,97,,,0
+H1,2000,2000,2000,4,0,2,Export,498,Rep. of Moldova,MDA,233,Estonia,EST,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,335823,,,,335526,,334704,,,0
+H1,2000,2000,2000,4,0,1,Import,498,Rep. of Moldova,MDA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,504652,,,,504736,,261872,,,0
+H1,2000,2000,2000,4,0,2,Export,498,Rep. of Moldova,MDA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,112154,,,,111665,,67925,,,0
+H1,2000,2000,2000,4,0,2,Export,498,Rep. of Moldova,MDA,268,Georgia,GEO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,580000,,,,580000,,145000,,,0
+H1,2000,2000,2000,4,0,1,Import,498,Rep. of Moldova,MDA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,17591,,,,17591,,20367,,,0
+H1,2000,2000,2000,4,0,2,Export,498,Rep. of Moldova,MDA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,130892,,,,130892,,150427,,,0
+H1,2000,2000,2000,4,0,2,Export,498,Rep. of Moldova,MDA,376,Israel,ISR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,56163,,,,56163,,59395,,,0
+H1,2000,2000,2000,4,0,1,Import,498,Rep. of Moldova,MDA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,55,,,,55,,265,,,0
+H1,2000,2000,2000,4,0,2,Export,498,Rep. of Moldova,MDA,398,Kazakhstan,KAZ,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2824299,,,,2822020,,3719342,,,0
+H1,2000,2000,2000,4,0,2,Export,498,Rep. of Moldova,MDA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8355,,,,8355,,9299,,,0
+H1,2000,2000,2000,4,0,2,Export,498,Rep. of Moldova,MDA,428,Latvia,LVA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4337543,,,,4361394,,2117358,,,0
+H1,2000,2000,2000,4,0,3,Re-Export,498,Rep. of Moldova,MDA,428,Latvia,LVA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,17640,,,,17640,,22680,,,0
+H1,2000,2000,2000,4,0,1,Import,498,Rep. of Moldova,MDA,440,Lithuania,LTU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4066,,,,4026,,3540,,,0
+H1,2000,2000,2000,4,0,2,Export,498,Rep. of Moldova,MDA,440,Lithuania,LTU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4237318,,,,4235485,,2185908,,,0
+H1,2000,2000,2000,4,0,2,Export,498,Rep. of Moldova,MDA,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,61476,,,,61414,,99553,,,0
+H1,2000,2000,2000,4,0,2,Export,498,Rep. of Moldova,MDA,579,Norway,NOR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,74500,,,,74016,,53640,,,0
+H1,2000,2000,2000,4,0,2,Export,498,Rep. of Moldova,MDA,616,Poland,POL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,74699,,,,74700,,78557,,,0
+H1,2000,2000,2000,4,0,1,Import,498,Rep. of Moldova,MDA,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,24,,,,24,,218,,,0
+H1,2000,2000,2000,4,0,1,Import,498,Rep. of Moldova,MDA,642,Romania,ROU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1217372,,,,1215192,,396943,,,0
+H1,2000,2000,2000,4,0,2,Export,498,Rep. of Moldova,MDA,642,Romania,ROU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,336867,,,,336867,,136092,,,0
+H1,2000,2000,2000,4,0,1,Import,498,Rep. of Moldova,MDA,643,Russian Federation,RUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,136285,,,,136208,,179793,,,0
+H1,2000,2000,2000,4,0,2,Export,498,Rep. of Moldova,MDA,643,Russian Federation,RUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,119728096,,,,119704380,,91578516,,,0
+H1,2000,2000,2000,4,0,1,Import,498,Rep. of Moldova,MDA,703,Slovakia,SVK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4003,,,,4003,,8807,,,0
+H1,2000,2000,2000,4,0,2,Export,498,Rep. of Moldova,MDA,703,Slovakia,SVK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,300550,,,,300550,,84978,,,0
+H1,2000,2000,2000,4,0,2,Export,498,Rep. of Moldova,MDA,704,Viet Nam,VNM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12006,,,,12006,,11206,,,0
+H1,2000,2000,2000,4,0,1,Import,498,Rep. of Moldova,MDA,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,78,,,,78,,529,,,0
+H1,2000,2000,2000,4,0,1,Import,498,Rep. of Moldova,MDA,792,Turkey,TUR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,157,,,,157,,247,,,0
+H1,2000,2000,2000,4,0,2,Export,498,Rep. of Moldova,MDA,792,Turkey,TUR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7564,,,,7565,,8657,,,0
+H1,2000,2000,2000,4,0,2,Export,498,Rep. of Moldova,MDA,795,Turkmenistan,TKM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,117785,,,,117785,,179194,,,0
+H1,2000,2000,2000,4,0,2,Export,498,Rep. of Moldova,MDA,804,Ukraine,UKR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5815636,,,,5816539,,4919321,,,0
+H1,2000,2000,2000,4,0,2,Export,498,Rep. of Moldova,MDA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,165890,,,,165790,,325335,,,0
+H1,2001,2001,2001,4,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5393764,,,,5366868,,1733846,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,213263007,,,,213207377,,154856716,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,48033,,,,48033,,26870,,,0
+H1,2001,2001,2001,4,0,1,Import,498,Rep. of Moldova,MDA,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,44828,,,,44828,,14062,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,931065,,,,931065,,223610,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,112,Belarus,BLR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,19518006,,,,19500934,,10867589,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10800,,,,10800,,20160,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,203,Czechia,CZE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,158605,,,,158605,,128687,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12015,,,,12015,,16800,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,233,Estonia,EST,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,173317,,,,173317,,142987,,,0
+H1,2001,2001,2001,4,0,1,Import,498,Rep. of Moldova,MDA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2929,,,,2929,,59318,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,48033,,,,47545,,23757,,,0
+H1,2001,2001,2001,4,0,1,Import,498,Rep. of Moldova,MDA,268,Georgia,GEO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5338,,,,5338,,26691,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,268,Georgia,GEO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,499580,,,,499580,,255512,,,0
+H1,2001,2001,2001,4,0,1,Import,498,Rep. of Moldova,MDA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7893,,,,7893,,4708,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,197067,,,,197067,,256845,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,42477,,,,42477,,13244,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,372,Ireland,IRL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15850,,,,15850,,33452,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,376,Israel,ISR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,214978,,,,214978,,241868,,,0
+H1,2001,2001,2001,4,0,1,Import,498,Rep. of Moldova,MDA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,580,,,,580,,6517,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15380,,,,15380,,54171,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,398,Kazakhstan,KAZ,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2160534,,,,2159964,,2929032,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,417,Kyrgyzstan,KGZ,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,197395,,,,197395,,179315,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,428,Latvia,LVA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,866364,,,,866296,,807941,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,440,Lithuania,LTU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,750084,,,,749620,,781452,,,0
+H1,2001,2001,2001,4,0,1,Import,498,Rep. of Moldova,MDA,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8343,,,,8343,,12236,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2160,,,,2160,,4954,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,579,Norway,NOR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,25000,,,,24755,,15000,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,616,Poland,POL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,258094,,,,257914,,258679,,,0
+H1,2001,2001,2001,4,0,1,Import,498,Rep. of Moldova,MDA,642,Romania,ROU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5262253,,,,5235357,,1493634,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,642,Romania,ROU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,32876,,,,32876,,20846,,,0
+H1,2001,2001,2001,4,0,1,Import,498,Rep. of Moldova,MDA,643,Russian Federation,RUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,60823,,,,60823,,97592,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,643,Russian Federation,RUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,174320747,,,,174283175,,128215123,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3544,,,,3544,,7621,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,703,Slovakia,SVK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,61250,,,,61250,,21200,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,704,Viet Nam,VNM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,29250,,,,29250,,33540,,,0
+H1,2001,2001,2001,4,0,1,Import,498,Rep. of Moldova,MDA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,90,,,,90,,324,,,0
+H1,2001,2001,2001,4,0,1,Import,498,Rep. of Moldova,MDA,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,338,,,,338,,4678,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,795,Turkmenistan,TKM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,114424,,,,114424,,120365,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,804,Ukraine,UKR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12441746,,,,12442775,,8993221,,,0
+H1,2001,2001,2001,4,0,1,Import,498,Rep. of Moldova,MDA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6,,,,6,,51,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,40500,,,,40500,,29700,,,0
+H1,2001,2001,2001,4,0,1,Import,498,Rep. of Moldova,MDA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,343,,,,343,,14035,,,0
+H1,2001,2001,2001,4,0,2,Export,498,Rep. of Moldova,MDA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,73833,,,,73833,,133175,,,0
+H1,2002,2002,2002,4,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,23042272,,,,23042272,,7641155,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,239955887,,,,239955887,,170945715,,,2
+H1,2002,2002,2002,4,0,3,Re-Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,286,,,,286,,2317,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,31,Azerbaijan,AZE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1052100,,,,1052100,,386688,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2773,,,,2773,,4917,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11580,,,,11580,,6636,,,2
+H1,2002,2002,2002,4,0,1,Import,498,Rep. of Moldova,MDA,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,310920,,,,310920,,129987,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,769968,,,,769968,,157714,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,112,Belarus,BLR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,25217382,,,,25217382,,14651917,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,87000,,,,87000,,96560,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,191,Croatia,HRV,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2604,,,,2604,,5123,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,196,Cyprus,CYP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,78610,,,,78610,,24448,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,203,Czechia,CZE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,229323,,,,229323,,277544,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6600,,,,6600,,9621,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,233,Estonia,EST,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,78404,,,,78404,,108762,,,2
+H1,2002,2002,2002,4,0,1,Import,498,Rep. of Moldova,MDA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,181,,,,181,,3936,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,455,,,,455,,1483,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,268,Georgia,GEO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,346873,,,,346873,,171051,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,350101,,,,350101,,418810,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,19854,,,,19854,,24333,,,2
+H1,2002,2002,2002,4,0,1,Import,498,Rep. of Moldova,MDA,372,Ireland,IRL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,96,,,,96,,524,,,2
+H1,2002,2002,2002,4,0,1,Import,498,Rep. of Moldova,MDA,376,Israel,ISR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9828,,,,9828,,14461,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,376,Israel,ISR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,233117,,,,233117,,241833,,,2
+H1,2002,2002,2002,4,0,1,Import,498,Rep. of Moldova,MDA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,576682,,,,576682,,293499,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,52091,,,,52091,,10418,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8495,,,,8495,,17471,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,398,Kazakhstan,KAZ,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2550674,,,,2550674,,3211181,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,410,Rep. of Korea,KOR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5748,,,,5748,,9201,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,417,Kyrgyzstan,KGZ,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,424447,,,,424447,,603248,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,428,Latvia,LVA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,998771,,,,998771,,954314,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,440,Lithuania,LTU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3988794,,,,3988794,,1528461,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,616,Poland,POL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,284822,,,,284822,,310056,,,2
+H1,2002,2002,2002,4,0,1,Import,498,Rep. of Moldova,MDA,642,Romania,ROU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,21848259,,,,21848259,,7069628,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,642,Romania,ROU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,59500,,,,59500,,56637,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,643,Russian Federation,RUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,190847335,,,,190847335,,135101861,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,703,Slovakia,SVK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,46845,,,,46845,,66195,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,705,Slovenia,SVN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,692,,,,692,,3969,,,2
+H1,2002,2002,2002,4,0,3,Re-Export,498,Rep. of Moldova,MDA,705,Slovenia,SVN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,286,,,,286,,2317,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8,,,,8,,1505,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,795,Turkmenistan,TKM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,84369,,,,84369,,74060,,,2
+H1,2002,2002,2002,4,0,1,Import,498,Rep. of Moldova,MDA,804,Ukraine,UKR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,286280,,,,286280,,118668,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,804,Ukraine,UKR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11626700,,,,11626700,,11588520,,,2
+H1,2002,2002,2002,4,0,1,Import,498,Rep. of Moldova,MDA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10026,,,,10026,,10452,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,157128,,,,157128,,286786,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,327558,,,,327558,,527432,,,2
+H1,2002,2002,2002,4,0,2,Export,498,Rep. of Moldova,MDA,891,Serbia and Montenegro,SCG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5166,,,,5166,,6960,,,2
+H1,2003,2003,2003,4,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,17142953,,,,17142953,,5963996,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,280189576,,,,280189576,,215159697,,,2
+H1,2003,2003,2003,4,0,4,Re-Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,194117,,,,194117,,253347,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,8,Albania,ALB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10150,,,,10150,,11863,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,31,Azerbaijan,AZE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,833426,,,,833426,,399295,,,2
+H1,2003,2003,2003,4,0,1,Import,498,Rep. of Moldova,MDA,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,42980,,,,42980,,42980,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4362,,,,4362,,11901,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,41832,,,,41832,,68813,,,2
+H1,2003,2003,2003,4,0,1,Import,498,Rep. of Moldova,MDA,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,264059,,,,264059,,112385,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,112,Belarus,BLR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,25092987,,,,25092987,,17351693,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,32517,,,,32517,,71459,,,2
+H1,2003,2003,2003,4,0,1,Import,498,Rep. of Moldova,MDA,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,48000,,,,48000,,23210,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,196,Cyprus,CYP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,323522,,,,323522,,124824,,,2
+H1,2003,2003,2003,4,0,1,Import,498,Rep. of Moldova,MDA,203,Czechia,CZE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,786,,,,786,,1067,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,203,Czechia,CZE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,323658,,,,323658,,417684,,,2
+H1,2003,2003,2003,4,0,4,Re-Import,498,Rep. of Moldova,MDA,203,Czechia,CZE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,786,,,,786,,1067,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7961,,,,7961,,13591,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,233,Estonia,EST,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,79590,,,,79590,,109450,,,2
+H1,2003,2003,2003,4,0,1,Import,498,Rep. of Moldova,MDA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2287,,,,2287,,22757,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,268,Georgia,GEO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1139541,,,,1139541,,594186,,,2
+H1,2003,2003,2003,4,0,1,Import,498,Rep. of Moldova,MDA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11340,,,,11340,,15922,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,602004,,,,602004,,1021285,,,2
+H1,2003,2003,2003,4,0,4,Re-Import,498,Rep. of Moldova,MDA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11340,,,,11340,,15922,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,26197,,,,26197,,37182,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,376,Israel,ISR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,255493,,,,255493,,232186,,,2
+H1,2003,2003,2003,4,0,1,Import,498,Rep. of Moldova,MDA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,226,,,,226,,1532,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,50019,,,,50019,,21915,,,2
+H1,2003,2003,2003,4,0,1,Import,498,Rep. of Moldova,MDA,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,79,,,,79,,569,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5634,,,,5634,,11181,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,398,Kazakhstan,KAZ,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2347296,,,,2347296,,3072040,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,417,Kyrgyzstan,KGZ,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,712738,,,,712738,,1068678,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,428,Latvia,LVA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,759937,,,,759937,,842583,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,440,Lithuania,LTU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6239691,,,,6239691,,2338028,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,616,Poland,POL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,521722,,,,521722,,646841,,,2
+H1,2003,2003,2003,4,0,1,Import,498,Rep. of Moldova,MDA,642,Romania,ROU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16455964,,,,16455964,,5433741,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,642,Romania,ROU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,462068,,,,462068,,189436,,,2
+H1,2003,2003,2003,4,0,1,Import,498,Rep. of Moldova,MDA,643,Russian Federation,RUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,181991,,,,181991,,236358,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,643,Russian Federation,RUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,227450569,,,,227450569,,172512560,,,2
+H1,2003,2003,2003,4,0,4,Re-Import,498,Rep. of Moldova,MDA,643,Russian Federation,RUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,181991,,,,181991,,236358,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,703,Slovakia,SVK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13256,,,,13256,,17019,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8810,,,,8810,,18385,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3790,,,,3790,,15421,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,792,Turkey,TUR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11520,,,,11520,,11433,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,795,Turkmenistan,TKM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,78930,,,,78930,,104348,,,2
+H1,2003,2003,2003,4,0,1,Import,498,Rep. of Moldova,MDA,804,Ukraine,UKR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,135241,,,,135241,,73475,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,804,Ukraine,UKR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12234058,,,,12234058,,12955543,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,212758,,,,212758,,375398,,,2
+H1,2003,2003,2003,4,0,2,Export,498,Rep. of Moldova,MDA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,303540,,,,303540,,493476,,,2
+H3,2009,2009,2009,4,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,472692,,,,472692,,928823,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,96330071,,,,96368448,,128700146,,,0
+H3,2009,2009,2009,4,0,4,Re-Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,439505,,,,439505,,616004,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,31,Azerbaijan,AZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,276828,,,,276828,,161246,,,0
+H3,2009,2009,2009,4,0,1,Import,498,Rep. of Moldova,MDA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,27,,,,27,,498,,,0
+H3,2009,2009,2009,4,0,1,Import,498,Rep. of Moldova,MDA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,214,,,,214,,2077,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5883,,,,5883,,21593,,,0
+H3,2009,2009,2009,4,0,1,Import,498,Rep. of Moldova,MDA,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,46,,,,46,,332,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,54193,,,,54193,,175212,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,70,Bosnia Herzegovina,BIH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,22302,,,,22302,,38139,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,68270,,,,68270,,41146,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,112,Belarus,BLR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,35630960,,,,35631509,,39857142,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,29664,,,,29664,,74221,,,0
+H3,2009,2009,2009,4,0,1,Import,498,Rep. of Moldova,MDA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,336,,,,336,,3093,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,165182,,,,165182,,387388,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,191,Croatia,HRV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10018,,,,10018,,16858,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,52522,,,,52522,,147813,,,0
+H3,2009,2009,2009,4,0,1,Import,498,Rep. of Moldova,MDA,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,26,,,,26,,77,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1983098,,,,1983098,,3418452,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,53742,,,,53742,,125799,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,233,Estonia,EST,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,34872,,,,34872,,57862,,,0
+H3,2009,2009,2009,4,0,1,Import,498,Rep. of Moldova,MDA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,13188,,,,13188,,195453,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,19,,,,19,,206,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,268,Georgia,GEO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4577703,,,,4580055,,3667813,,,0
+H3,2009,2009,2009,4,0,1,Import,498,Rep. of Moldova,MDA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,245,,,,245,,3309,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,781892,,,,781892,,1637061,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,288,Ghana,GHA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,44238,,,,44238,,94482,,,0
+H3,2009,2009,2009,4,0,1,Import,498,Rep. of Moldova,MDA,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,57,,,,57,,367,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,107793,,,,107793,,238408,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,196,,,,196,,2163,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8640,,,,8640,,21302,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,133326,,,,133326,,266035,,,0
+H3,2009,2009,2009,4,0,1,Import,498,Rep. of Moldova,MDA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15926,,,,15926,,86778,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2520,,,,2520,,6453,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12224,,,,12224,,52993,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,398,Kazakhstan,KAZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5933475,,,,5933535,,11365003,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9240,,,,9240,,14720,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,417,Kyrgyzstan,KGZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1059111,,,,1059111,,1842433,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,428,Latvia,LVA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,225414,,,,225414,,397461,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,440,Lithuania,LTU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,379638,,,,383238,,712650,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,29,,,,29,,913,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8,,,,8,,60,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2886,,,,2886,,8611,,,0
+H3,2009,2009,2009,4,0,1,Import,498,Rep. of Moldova,MDA,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,106,,,,106,,1564,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8955,,,,8955,,19384,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,579,Norway,NOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4365,,,,4365,,11626,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5175941,,,,5175905,,9133859,,,0
+H3,2009,2009,2009,4,0,1,Import,498,Rep. of Moldova,MDA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,444,,,,444,,4151,,,0
+H3,2009,2009,2009,4,0,1,Import,498,Rep. of Moldova,MDA,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1679,,,,1679,,6034,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1469928,,,,1469928,,2416477,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,28867477,,,,28887782,,40858487,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1896,,,,1896,,12592,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,127123,,,,127123,,230584,,,0
+H3,2009,2009,2009,4,0,1,Import,498,Rep. of Moldova,MDA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,218,,,,218,,2345,,,0
+H3,2009,2009,2009,4,0,1,Import,498,Rep. of Moldova,MDA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,269,,,,269,,3165,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,44043,,,,44043,,113499,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,45,,,,45,,207,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,762,Tajikistan,TJK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,46854,,,,46854,,97523,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,75,,,,75,,298,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,795,Turkmenistan,TKM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,31668,,,,31668,,56207,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8293994,,,,8305541,,9754426,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,221999,,,,221999,,508761,,,0
+H3,2009,2009,2009,4,0,1,Import,498,Rep. of Moldova,MDA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,406,,,,406,,3576,,,0
+H3,2009,2009,2009,4,0,2,Export,498,Rep. of Moldova,MDA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,369822,,,,369822,,634578,,,0
+H3,2009,2009,2009,4,0,1,Import,498,Rep. of Moldova,MDA,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,439505,,,,439505,,616004,,,0
+H3,2009,2009,2009,4,0,4,Re-Import,498,Rep. of Moldova,MDA,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,439505,,,,439505,,616004,,,0
+H2,2005,2005,2005,4,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20656313,,,,20645613,,8177944,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,321548731,,,,321392935,,278142076,,,0
+H2,2005,2005,2005,4,0,3,Re-Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,88950,,,,88950,,91435,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,8,Albania,ALB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20160,,,,20160,,20160,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,31,Azerbaijan,AZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2459882,,,,2459882,,1019678,,,0
+H2,2005,2005,2005,4,0,1,Import,498,Rep. of Moldova,MDA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,48072,,,,47712,,29969,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1170,,,,1170,,2459,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,51,Armenia,ARM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,29565,,,,29565,,38960,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,46898,,,,46898,,114441,,,0
+H2,2005,2005,2005,4,0,1,Import,498,Rep. of Moldova,MDA,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,38,,,,38,,301,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,112,Belarus,BLR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,37099860,,,,37103229,,33674356,,,0
+H2,2005,2005,2005,4,0,3,Re-Export,498,Rep. of Moldova,MDA,112,Belarus,BLR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4239,,,,4239,,14096,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,48011,,,,48011,,119525,,,0
+H2,2005,2005,2005,4,0,1,Import,498,Rep. of Moldova,MDA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19,,,,19,,27,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,191,Croatia,HRV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11160,,,,11160,,24912,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,28319,,,,28319,,55213,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,894391,,,,894364,,1246693,,,0
+H2,2005,2005,2005,4,0,3,Re-Export,498,Rep. of Moldova,MDA,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,338,,,,338,,1800,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,204,Benin,BEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7765,,,,7765,,14715,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7317,,,,7317,,15198,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,233,Estonia,EST,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36332,,,,36332,,69383,,,0
+H2,2005,2005,2005,4,0,1,Import,498,Rep. of Moldova,MDA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,224891,,,,224891,,253932,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3043,,,,3043,,7316,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,268,Georgia,GEO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2187306,,,,2187306,,1761450,,,0
+H2,2005,2005,2005,4,0,1,Import,498,Rep. of Moldova,MDA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4950,,,,4950,,11458,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,775820,,,,775820,,1278012,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45325,,,,45325,,65396,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,340,Honduras,HND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,34140,,,,34140,,32598,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18365,,,,18365,,31207,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,162749,,,,162749,,192573,,,0
+H2,2005,2005,2005,4,0,1,Import,498,Rep. of Moldova,MDA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,48861,,,,49197,,37696,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23183,,,,23183,,14157,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,28452,,,,28452,,86195,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,398,Kazakhstan,KAZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4208299,,,,4208289,,5856222,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,417,Kyrgyzstan,KGZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,758213,,,,758213,,1164174,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,428,Latvia,LVA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,713945,,,,713945,,1077160,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,440,Lithuania,LTU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,573866,,,,573866,,674180,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,900,,,,900,,4813,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,470,Malta,MLT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,37,,,,37,,48,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11624,,,,11623,,34567,,,0
+H2,2005,2005,2005,4,0,1,Import,498,Rep. of Moldova,MDA,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,72,,,,72,,926,,,0
+H2,2005,2005,2005,4,0,1,Import,498,Rep. of Moldova,MDA,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,108,,,,108,,778,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1679143,,,,1679503,,2388971,,,0
+H2,2005,2005,2005,4,0,3,Re-Export,498,Rep. of Moldova,MDA,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2475,,,,2475,,12000,,,0
+H2,2005,2005,2005,4,0,1,Import,498,Rep. of Moldova,MDA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,51,,,,51,,418,,,0
+H2,2005,2005,2005,4,0,1,Import,498,Rep. of Moldova,MDA,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9019392,,,,8963769,,2950787,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1307109,,,,1307019,,1565345,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,250852437,,,,250693204,,208359320,,,0
+H2,2005,2005,2005,4,0,3,Re-Export,498,Rep. of Moldova,MDA,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,81891,,,,81891,,63364,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4196,,,,4196,,11724,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,704,Viet Nam,VNM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,31466,,,,31466,,50837,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2340,,,,2340,,3252,,,0
+H2,2005,2005,2005,4,0,1,Import,498,Rep. of Moldova,MDA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,198,,,,198,,1515,,,0
+H2,2005,2005,2005,4,0,1,Import,498,Rep. of Moldova,MDA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11188780,,,,11233727,,4715355,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,740,Suriname,SUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22500,,,,22500,,9349,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11603,,,,11603,,24697,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2444,,,,2444,,7462,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,762,Tajikistan,TJK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,94147,,,,94147,,113409,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7259,,,,7259,,18259,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,158654,,,,158654,,149861,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,795,Turkmenistan,TKM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,385906,,,,385906,,444011,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16009214,,,,16009050,,14812952,,,0
+H2,2005,2005,2005,4,0,1,Import,498,Rep. of Moldova,MDA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18,,,,18,,298,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,359024,,,,359024,,753968,,,0
+H2,2005,2005,2005,4,0,3,Re-Export,498,Rep. of Moldova,MDA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7,,,,7,,175,,,0
+H2,2005,2005,2005,4,0,1,Import,498,Rep. of Moldova,MDA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36,,,,36,,480,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,378885,,,,378885,,708200,,,0
+H2,2005,2005,2005,4,0,1,Import,498,Rep. of Moldova,MDA,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,120827,,,,120827,,174004,,,0
+H2,2005,2005,2005,4,0,2,Export,498,Rep. of Moldova,MDA,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6307,,,,6307,,24698,,,0
+H2,2006,2006,2006,4,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16548472,,,,16530324,,13709507,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,194628513,,,,194706845,,161081273,,,0
+H2,2006,2006,2006,4,0,3,Re-Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,619763,,,,619763,,295885,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,31,Azerbaijan,AZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1311578,,,,1311578,,673711,,,0
+H2,2006,2006,2006,4,0,1,Import,498,Rep. of Moldova,MDA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,158,,,0
+H2,2006,2006,2006,4,0,1,Import,498,Rep. of Moldova,MDA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,70,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5796,,,,5796,,14388,,,0
+H2,2006,2006,2006,4,0,1,Import,498,Rep. of Moldova,MDA,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,75,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22275,,,,22275,,74367,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2875143,,,,2875143,,1263314,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,112,Belarus,BLR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,33869942,,,,33960754,,33515910,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,61735,,,,61735,,150373,,,0
+H2,2006,2006,2006,4,0,1,Import,498,Rep. of Moldova,MDA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,82,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,124899,,,,124899,,266845,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,29387,,,,29387,,66620,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,908911,,,,908866,,1330188,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,204,Benin,BEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12,,,,12,,19,,,0
+H2,2006,2006,2006,4,0,1,Import,498,Rep. of Moldova,MDA,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36,,,,36,,484,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,233,Estonia,EST,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27300,,,,27300,,50562,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8326,,,,8326,,27722,,,0
+H2,2006,2006,2006,4,0,1,Import,498,Rep. of Moldova,MDA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,74259,,,,74259,,87938,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4847,,,,4847,,7283,,,0
+H2,2006,2006,2006,4,0,1,Import,498,Rep. of Moldova,MDA,268,Georgia,GEO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5445,,,,5445,,35989,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,268,Georgia,GEO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1592980,,,,1590000,,1450897,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,767047,,,,767047,,1608649,,,0
+H2,2006,2006,2006,4,0,3,Re-Export,498,Rep. of Moldova,MDA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1512,,,,1512,,6888,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,44151,,,,44151,,75272,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,39635,,,,39635,,85464,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,255749,,,,255749,,342097,,,0
+H2,2006,2006,2006,4,0,1,Import,498,Rep. of Moldova,MDA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,239607,,,,239449,,147277,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5297,,,,5297,,10048,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,51284,,,,51284,,370107,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,398,Kazakhstan,KAZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4592648,,,,4591573,,7026782,,,0
+H2,2006,2006,2006,4,0,3,Re-Export,498,Rep. of Moldova,MDA,398,Kazakhstan,KAZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,905,,,,905,,12382,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8460,,,,8460,,14890,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,417,Kyrgyzstan,KGZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,427596,,,,427596,,693910,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,428,Latvia,LVA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,823847,,,,823847,,1115058,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,440,Lithuania,LTU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,487408,,,,487408,,603022,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23,,,,23,,271,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,497,,,,497,,1745,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2709183,,,,2709183,,4055048,,,0
+H2,2006,2006,2006,4,0,3,Re-Export,498,Rep. of Moldova,MDA,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11475,,,,11475,,17412,,,0
+H2,2006,2006,2006,4,0,1,Import,498,Rep. of Moldova,MDA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,200,,,,200,,874,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1179,,,,1179,,2216,,,0
+H2,2006,2006,2006,4,0,1,Import,498,Rep. of Moldova,MDA,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1028112,,,,1024808,,324652,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,48409062,,,,48405613,,23973276,,,0
+H2,2006,2006,2006,4,0,3,Re-Export,498,Rep. of Moldova,MDA,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,582156,,,,582156,,222594,,,0
+H2,2006,2006,2006,4,0,1,Import,498,Rep. of Moldova,MDA,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3150,,,,3150,,3192,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,54019164,,,,54016231,,48953253,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11970,,,,11970,,27292,,,0
+H2,2006,2006,2006,4,0,3,Re-Export,498,Rep. of Moldova,MDA,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2115,,,,2115,,6609,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23,,,,23,,20,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,54,,,,54,,239,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,81077,,,,81077,,125754,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,704,Viet Nam,VNM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8480,,,,8480,,15823,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1319,,,,1319,,4440,,,0
+H2,2006,2006,2006,4,0,1,Import,498,Rep. of Moldova,MDA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2276062,,,,2260500,,883496,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7560,,,,7560,,11467,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11254,,,,11254,,25677,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13,,,,13,,94,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,762,Tajikistan,TJK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,38036,,,,38036,,58699,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7650,,,,7650,,14102,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4,,,,4,,26,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,60905,,,,60905,,79483,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,795,Turkmenistan,TKM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,167213,,,,167213,,214202,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,39851925,,,,39849927,,30936084,,,0
+H2,2006,2006,2006,4,0,1,Import,498,Rep. of Moldova,MDA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18,,,,18,,201,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,365701,,,,365701,,764167,,,0
+H2,2006,2006,2006,4,0,1,Import,498,Rep. of Moldova,MDA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18,,,,18,,156,,,0
+H2,2006,2006,2006,4,0,2,Export,498,Rep. of Moldova,MDA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,529968,,,,529968,,980397,,,0
+H2,2006,2006,2006,4,0,3,Re-Export,498,Rep. of Moldova,MDA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21600,,,,21600,,30000,,,0
+H2,2006,2006,2006,4,0,1,Import,498,Rep. of Moldova,MDA,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12921529,,,,12922405,,12224863,,,0
+H2,2007,2007,2007,4,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3403331,,,,3415547,,2095963,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,105324360,,,,105341971,,107758468,,,0
+H2,2007,2007,2007,4,0,3,Re-Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2020338,,,,2036582,,1507308,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,31,Azerbaijan,AZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3124969,,,,3124969,,1736245,,,0
+H2,2007,2007,2007,4,0,3,Re-Export,498,Rep. of Moldova,MDA,31,Azerbaijan,AZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,720,,,,720,,1383,,,0
+H2,2007,2007,2007,4,0,1,Import,498,Rep. of Moldova,MDA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,50,,,,50,,605,,,0
+H2,2007,2007,2007,4,0,1,Import,498,Rep. of Moldova,MDA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,203,,,,203,,1683,,,0
+H2,2007,2007,2007,4,0,1,Import,498,Rep. of Moldova,MDA,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,76,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,51,Armenia,ARM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,35,,,,35,,32,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23253,,,,23253,,76128,,,0
+H2,2007,2007,2007,4,0,1,Import,498,Rep. of Moldova,MDA,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,800000,,,,794976,,246691,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1134,,,,1134,,3174,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,112,Belarus,BLR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,34296072,,,,34295840,,30858245,,,0
+H2,2007,2007,2007,4,0,3,Re-Export,498,Rep. of Moldova,MDA,112,Belarus,BLR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1964980,,,,1964980,,1401609,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,49431,,,,49431,,128206,,,0
+H2,2007,2007,2007,4,0,1,Import,498,Rep. of Moldova,MDA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,118,,,,118,,925,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,103736,,,,103736,,180313,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,42371,,,,42371,,101629,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1462103,,,,1462103,,2237313,,,0
+H2,2007,2007,2007,4,0,1,Import,498,Rep. of Moldova,MDA,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18,,,,18,,234,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,233,Estonia,EST,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,65154,,,,65154,,97592,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8316,,,,8316,,28548,,,0
+H2,2007,2007,2007,4,0,1,Import,498,Rep. of Moldova,MDA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,123367,,,,123367,,196344,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9853,,,,9853,,35899,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,268,Georgia,GEO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,646705,,,,646705,,563190,,,0
+H2,2007,2007,2007,4,0,1,Import,498,Rep. of Moldova,MDA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1511,,,,1511,,415,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,776160,,,,777351,,1649760,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,288,Ghana,GHA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17663,,,,17663,,29822,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45590,,,,45590,,100604,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,26773,,,,26773,,51683,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,254922,,,,254922,,403172,,,0
+H2,2007,2007,2007,4,0,1,Import,498,Rep. of Moldova,MDA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,70552,,,,71876,,91426,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10529,,,,10529,,32070,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,25333,,,,25333,,262430,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,398,Kazakhstan,KAZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8445678,,,,8445678,,13889864,,,0
+H2,2007,2007,2007,4,0,3,Re-Export,498,Rep. of Moldova,MDA,398,Kazakhstan,KAZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9900,,,,9900,,17904,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8400,,,,8400,,13482,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,417,Kyrgyzstan,KGZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,876839,,,,876839,,1447977,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,428,Latvia,LVA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,667390,,,,667390,,1032230,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,440,Lithuania,LTU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,309608,,,,309608,,448912,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12378,,,,12378,,20399,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14087,,,,14087,,83355,,,0
+H2,2007,2007,2007,4,0,1,Import,498,Rep. of Moldova,MDA,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,124,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4,,,,4,,2,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,579,Norway,NOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27,,,,27,,28,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3335563,,,,3335571,,5619158,,,0
+H2,2007,2007,2007,4,0,1,Import,498,Rep. of Moldova,MDA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,30,,,,30,,262,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3280041,,,,3280451,,4333929,,,0
+H2,2007,2007,2007,4,0,3,Re-Export,498,Rep. of Moldova,MDA,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,756,,,,756,,4449,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1333367,,,,1349611,,1961487,,,0
+H2,2007,2007,2007,4,0,3,Re-Export,498,Rep. of Moldova,MDA,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36714,,,,52958,,54881,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9643,,,,9643,,17041,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,59,,,,59,,39,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15081,,,,15081,,30258,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,704,Viet Nam,VNM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14607,,,,14607,,32517,,,0
+H2,2007,2007,2007,4,0,1,Import,498,Rep. of Moldova,MDA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,218,,,,218,,1893,,,0
+H2,2007,2007,2007,4,0,1,Import,498,Rep. of Moldova,MDA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1319440,,,,1335356,,667969,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,748,Eswatini,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16930,,,,16929,,59943,,,0
+H2,2007,2007,2007,4,0,3,Re-Export,498,Rep. of Moldova,MDA,748,Eswatini,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7268,,,,7268,,27082,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19,,,,19,,85,,,0
+H2,2007,2007,2007,4,0,1,Import,498,Rep. of Moldova,MDA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,108,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,113,,,,113,,354,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,762,Tajikistan,TJK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,115275,,,,115275,,170285,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,33087,,,,33087,,52574,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,795,Turkmenistan,TKM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,98994,,,,98994,,163194,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,800,Uganda,UGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15300,,,,15300,,18288,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,44822336,,,,44822327,,37986255,,,0
+H2,2007,2007,2007,4,0,1,Import,498,Rep. of Moldova,MDA,807,North Macedonia,MKD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10794,,,,10794,,19121,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,467938,,,,467938,,1025286,,,0
+H2,2007,2007,2007,4,0,1,Import,498,Rep. of Moldova,MDA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,231,,,,231,,3319,,,0
+H2,2007,2007,2007,4,0,2,Export,498,Rep. of Moldova,MDA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,441494,,,,441494,,775471,,,0
+H2,2007,2007,2007,4,0,1,Import,498,Rep. of Moldova,MDA,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1076772,,,,1076772,,864768,,,0
+H2,2008,2008,2008,4,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1371639,,,,1371033,,1858965,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,119267815,,,,119276196,,153513273,,,0
+H2,2008,2008,2008,4,0,3,Re-Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,91924,,,,91924,,128523,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,31,Azerbaijan,AZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4519390,,,,4519390,,2539827,,,0
+H2,2008,2008,2008,4,0,1,Import,498,Rep. of Moldova,MDA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,677,,,,677,,3919,,,0
+H2,2008,2008,2008,4,0,1,Import,498,Rep. of Moldova,MDA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,601,,,,601,,4510,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11088,,,,11088,,33002,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,180,,,,180,,2108,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,66298,,,,66298,,199464,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,70,Bosnia Herzegovina,BIH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10584,,,,10584,,17113,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,84,Belize,BLZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1125,,,,1125,,11010,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,333771,,,,333771,,114239,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,112,Belarus,BLR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,37811376,,,,37811563,,40530436,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,47070,,,,47070,,124672,,,0
+H2,2008,2008,2008,4,0,1,Import,498,Rep. of Moldova,MDA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,523,,,,523,,4668,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,306309,,,,306309,,600981,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10206,,,,10206,,22033,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,32135,,,,32135,,93016,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1614030,,,,1614030,,2933170,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,31668,,,,31668,,106376,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,233,Estonia,EST,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,35417,,,,35417,,59319,,,0
+H2,2008,2008,2008,4,0,1,Import,498,Rep. of Moldova,MDA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,199446,,,,199446,,464331,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1542,,,,1542,,10302,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,268,Georgia,GEO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2369647,,,,2369647,,2237711,,,0
+H2,2008,2008,2008,4,0,1,Import,498,Rep. of Moldova,MDA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,266,,,,266,,3841,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,667359,,,,667359,,1497906,,,0
+H2,2008,2008,2008,4,0,1,Import,498,Rep. of Moldova,MDA,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,81,,,,81,,499,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,67248,,,,67248,,151362,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,871,,,,871,,14439,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,29207,,,,29207,,74455,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,195693,,,,195693,,352661,,,0
+H2,2008,2008,2008,4,0,1,Import,498,Rep. of Moldova,MDA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,35128,,,,35006,,90561,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,515,,,,515,,2437,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15133,,,,15133,,305605,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,398,Kazakhstan,KAZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3363186,,,,3363187,,6507259,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10836,,,,10836,,24818,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,417,Kyrgyzstan,KGZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,690720,,,,690720,,1099791,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,428,Latvia,LVA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,366494,,,,366494,,678078,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,440,Lithuania,LTU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,325043,,,,325043,,570832,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15,,,,15,,127,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,496,Mongolia,MNG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22361,,,,22361,,41132,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7459,,,,8005,,33810,,,0
+H2,2008,2008,2008,4,0,1,Import,498,Rep. of Moldova,MDA,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,182,,,,182,,2326,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,579,Norway,NOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17240,,,,17240,,58549,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4853064,,,,4853064,,9117551,,,0
+H2,2008,2008,2008,4,0,1,Import,498,Rep. of Moldova,MDA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,259,,,,259,,14455,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2758069,,,,2758069,,4324409,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27671286,,,,27676886,,44782073,,,0
+H2,2008,2008,2008,4,0,3,Re-Export,498,Rep. of Moldova,MDA,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,46427,,,,46427,,92571,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9000,,,,9000,,15394,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11387,,,,11387,,40277,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,31719,,,,31719,,65076,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,704,Viet Nam,VNM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17613,,,,17613,,22231,,,0
+H2,2008,2008,2008,4,0,1,Import,498,Rep. of Moldova,MDA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,554,,,,554,,3165,,,0
+H2,2008,2008,2008,4,0,1,Import,498,Rep. of Moldova,MDA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,103810,,,,103326,,150213,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6930,,,,6930,,13637,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,791,,,,791,,3195,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10440,,,,10440,,21020,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,795,Turkmenistan,TKM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,35532,,,,35532,,59854,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,30022417,,,,30024464,,32265575,,,0
+H2,2008,2008,2008,4,0,3,Re-Export,498,Rep. of Moldova,MDA,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45497,,,,45497,,35952,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,297988,,,,297988,,738582,,,0
+H2,2008,2008,2008,4,0,1,Import,498,Rep. of Moldova,MDA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,451,,,,451,,5318,,,0
+H2,2008,2008,2008,4,0,2,Export,498,Rep. of Moldova,MDA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,560363,,,,560363,,996359,,,0
+H2,2008,2008,2008,4,0,1,Import,498,Rep. of Moldova,MDA,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1029661,,,,1029661,,1111159,,,0

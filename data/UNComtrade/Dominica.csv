@@ -1,0 +1,254 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,4,0,1,Import,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,485554,,,,485554,,655522,,,2
+H1,2000,2000,2000,4,0,2,Export,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1202,,,,1202,,8091,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1202,,,,1202,,8091,,,2
+H1,2000,2000,2000,4,0,1,Import,212,Dominica,DMA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7915,,,,7915,,10810,,,2
+H1,2000,2000,2000,4,0,2,Export,212,Dominica,DMA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,146,,,,146,,2778,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,212,Dominica,DMA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,146,,,,146,,2778,,,2
+H1,2000,2000,2000,4,0,1,Import,212,Dominica,DMA,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,426,,,,426,,1565,,,2
+H1,2000,2000,2000,4,0,1,Import,212,Dominica,DMA,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,120,,,,120,,455,,,2
+H1,2000,2000,2000,4,0,1,Import,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,35120,,,,35120,,63903,,,2
+H1,2000,2000,2000,4,0,2,Export,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,928,,,,928,,2882,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,928,,,,928,,2882,,,2
+H1,2000,2000,2000,4,0,1,Import,212,Dominica,DMA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,120,,,,120,,1090,,,2
+H1,2000,2000,2000,4,0,1,Import,212,Dominica,DMA,328,Guyana,GUY,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,450,,,,450,,734,,,2
+H1,2000,2000,2000,4,0,1,Import,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,277961,,,,277961,,366444,,,2
+H1,2000,2000,2000,4,0,1,Import,212,Dominica,DMA,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,35,,,,35,,38,,,2
+H1,2000,2000,2000,4,0,1,Import,212,Dominica,DMA,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,45,,,,45,,143,,,2
+H1,2000,2000,2000,4,0,1,Import,212,Dominica,DMA,662,Saint Lucia,LCA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,849,,,,849,,7449,,,2
+H1,2000,2000,2000,4,0,2,Export,212,Dominica,DMA,662,Saint Lucia,LCA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,128,,,,128,,2431,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,212,Dominica,DMA,662,Saint Lucia,LCA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,128,,,,128,,2431,,,2
+H1,2000,2000,2000,4,0,1,Import,212,Dominica,DMA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,45,,,,45,,211,,,2
+H1,2000,2000,2000,4,0,1,Import,212,Dominica,DMA,674,San Marino,SMR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1055,,,,1055,,4249,,,2
+H1,2000,2000,2000,4,0,1,Import,212,Dominica,DMA,682,Saudi Arabia,SAU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,128,,,,128,,385,,,2
+H1,2000,2000,2000,4,0,1,Import,212,Dominica,DMA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9,,,,9,,89,,,2
+H1,2000,2000,2000,4,0,1,Import,212,Dominica,DMA,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,126,,,,126,,277,,,2
+H1,2000,2000,2000,4,0,1,Import,212,Dominica,DMA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5059,,,,5059,,5991,,,2
+H1,2000,2000,2000,4,0,1,Import,212,Dominica,DMA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,142256,,,,142256,,133820,,,2
+H1,2000,2000,2000,4,0,1,Import,212,Dominica,DMA,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13835,,,,13835,,57869,,,2
+H1,2001,2001,2001,4,0,1,Import,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,394691,,,,394691,,534320,,,2
+H1,2001,2001,2001,4,0,2,Export,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2862,,,,2862,,9952,,,2
+H1,2001,2001,2001,4,0,3,Re-Export,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2862,,,,2862,,9952,,,2
+H1,2001,2001,2001,4,0,1,Import,212,Dominica,DMA,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1035,,,,1035,,3756,,,2
+H1,2001,2001,2001,4,0,1,Import,212,Dominica,DMA,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2868,,,,2868,,8698,,,2
+H1,2001,2001,2001,4,0,1,Import,212,Dominica,DMA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,26,,,,26,,4,,,2
+H1,2001,2001,2001,4,0,1,Import,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,48975,,,,48975,,76457,,,2
+H1,2001,2001,2001,4,0,2,Export,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2399,,,,2399,,8820,,,2
+H1,2001,2001,2001,4,0,3,Re-Export,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2399,,,,2399,,8820,,,2
+H1,2001,2001,2001,4,0,1,Import,212,Dominica,DMA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,294,,,,294,,497,,,2
+H1,2001,2001,2001,4,0,1,Import,212,Dominica,DMA,328,Guyana,GUY,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2030,,,,2030,,2581,,,2
+H1,2001,2001,2001,4,0,1,Import,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,254576,,,,254576,,307703,,,2
+H1,2001,2001,2001,4,0,2,Export,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,454,,,,454,,1110,,,2
+H1,2001,2001,2001,4,0,3,Re-Export,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,454,,,,454,,1110,,,2
+H1,2001,2001,2001,4,0,2,Export,212,Dominica,DMA,660,Anguilla,AIA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9,,,,9,,22,,,2
+H1,2001,2001,2001,4,0,3,Re-Export,212,Dominica,DMA,660,Anguilla,AIA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9,,,,9,,22,,,2
+H1,2001,2001,2001,4,0,1,Import,212,Dominica,DMA,662,Saint Lucia,LCA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1600,,,,1600,,2933,,,2
+H1,2001,2001,2001,4,0,1,Import,212,Dominica,DMA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,70,,,,70,,178,,,2
+H1,2001,2001,2001,4,0,1,Import,212,Dominica,DMA,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,90,,,,90,,26,,,2
+H1,2001,2001,2001,4,0,1,Import,212,Dominica,DMA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,626,,,,626,,1882,,,2
+H1,2001,2001,2001,4,0,1,Import,212,Dominica,DMA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,68932,,,,68932,,80908,,,2
+H1,2001,2001,2001,4,0,1,Import,212,Dominica,DMA,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13569,,,,13569,,48698,,,2
+H1,2002,2002,2002,4,0,1,Import,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,467748,,,,467748,,625893,,,2
+H1,2002,2002,2002,4,0,2,Export,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,24486,,,,24486,,75845,,,2
+H1,2002,2002,2002,4,0,3,Re-Export,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,24486,,,,24486,,75845,,,2
+H1,2002,2002,2002,4,0,1,Import,212,Dominica,DMA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9,,,,9,,30,,,2
+H1,2002,2002,2002,4,0,2,Export,212,Dominica,DMA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,252,,,,252,,730,,,2
+H1,2002,2002,2002,4,0,3,Re-Export,212,Dominica,DMA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,252,,,,252,,730,,,2
+H1,2002,2002,2002,4,0,1,Import,212,Dominica,DMA,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,180,,,,180,,608,,,2
+H1,2002,2002,2002,4,0,1,Import,212,Dominica,DMA,92,Br. Virgin Isds,VGB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12,,,,12,,56,,,2
+H1,2002,2002,2002,4,0,1,Import,212,Dominica,DMA,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5445,,,,5445,,15729,,,2
+H1,2002,2002,2002,4,0,1,Import,212,Dominica,DMA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,21,,,,21,,292,,,2
+H1,2002,2002,2002,4,0,1,Import,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,44283,,,,44283,,78906,,,2
+H1,2002,2002,2002,4,0,2,Export,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,22870,,,,22870,,71602,,,2
+H1,2002,2002,2002,4,0,3,Re-Export,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,22870,,,,22870,,71602,,,2
+H1,2002,2002,2002,4,0,1,Import,212,Dominica,DMA,328,Guyana,GUY,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9130,,,,9130,,6157,,,2
+H1,2002,2002,2002,4,0,1,Import,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,228214,,,,228214,,329809,,,2
+H1,2002,2002,2002,4,0,2,Export,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1364,,,,1364,,3513,,,2
+H1,2002,2002,2002,4,0,3,Re-Export,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1364,,,,1364,,3513,,,2
+H1,2002,2002,2002,4,0,1,Import,212,Dominica,DMA,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7824,,,,7824,,11710,,,2
+H1,2002,2002,2002,4,0,1,Import,212,Dominica,DMA,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,420,,,,420,,1871,,,2
+H1,2002,2002,2002,4,0,1,Import,212,Dominica,DMA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18950,,,,18950,,18929,,,2
+H1,2002,2002,2002,4,0,1,Import,212,Dominica,DMA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,144335,,,,144335,,106200,,,2
+H1,2002,2002,2002,4,0,1,Import,212,Dominica,DMA,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8925,,,,8925,,55596,,,2
+H1,2003,2003,2003,4,0,1,Import,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,415416,,,,415416,,525902,,,2
+H1,2003,2003,2003,4,0,2,Export,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,63444,,,,63444,,103440,,,2
+H1,2003,2003,2003,4,0,3,Re-Export,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,63444,,,,63444,,103440,,,2
+H1,2003,2003,2003,4,0,1,Import,212,Dominica,DMA,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,27,,,,27,,91,,,2
+H1,2003,2003,2003,4,0,1,Import,212,Dominica,DMA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,57,,,,57,,94,,,2
+H1,2003,2003,2003,4,0,1,Import,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,39852,,,,39852,,113253,,,2
+H1,2003,2003,2003,4,0,2,Export,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,57981,,,,57981,,89781,,,2
+H1,2003,2003,2003,4,0,3,Re-Export,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,57981,,,,57981,,89781,,,2
+H1,2003,2003,2003,4,0,1,Import,212,Dominica,DMA,328,Guyana,GUY,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7700,,,,7700,,5969,,,2
+H1,2003,2003,2003,4,0,1,Import,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,293678,,,,293678,,324349,,,2
+H1,2003,2003,2003,4,0,2,Export,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5454,,,,5454,,13636,,,2
+H1,2003,2003,2003,4,0,3,Re-Export,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5454,,,,5454,,13636,,,2
+H1,2003,2003,2003,4,0,1,Import,212,Dominica,DMA,591,Panama,PAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,90,,,,90,,210,,,2
+H1,2003,2003,2003,4,0,2,Export,212,Dominica,DMA,660,Anguilla,AIA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9,,,,9,,23,,,2
+H1,2003,2003,2003,4,0,3,Re-Export,212,Dominica,DMA,660,Anguilla,AIA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9,,,,9,,23,,,2
+H1,2003,2003,2003,4,0,1,Import,212,Dominica,DMA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36,,,,36,,87,,,2
+H1,2003,2003,2003,4,0,1,Import,212,Dominica,DMA,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,272,,,,272,,356,,,2
+H1,2003,2003,2003,4,0,1,Import,212,Dominica,DMA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,42,,,,42,,145,,,2
+H1,2003,2003,2003,4,0,1,Import,212,Dominica,DMA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,60,,,,60,,1020,,,2
+H1,2003,2003,2003,4,0,1,Import,212,Dominica,DMA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,68119,,,,68119,,43178,,,2
+H1,2003,2003,2003,4,0,1,Import,212,Dominica,DMA,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5483,,,,5483,,37150,,,2
+H1,2004,2004,2004,4,0,1,Import,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,378865,,,,378865,,621315,,,2
+H1,2004,2004,2004,4,0,2,Export,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,48293,,,,48293,,70948,,,2
+H1,2004,2004,2004,4,0,3,Re-Export,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,48293,,,,48293,,70948,,,2
+H1,2004,2004,2004,4,0,1,Import,212,Dominica,DMA,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,338,,,,338,,760,,,2
+H1,2004,2004,2004,4,0,1,Import,212,Dominica,DMA,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7,,,,7,,19,,,2
+H1,2004,2004,2004,4,0,1,Import,212,Dominica,DMA,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5301,,,,5301,,14645,,,2
+H1,2004,2004,2004,4,0,1,Import,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,40127,,,,40127,,106701,,,2
+H1,2004,2004,2004,4,0,2,Export,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,38075,,,,38075,,55429,,,2
+H1,2004,2004,2004,4,0,3,Re-Export,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,38075,,,,38075,,55429,,,2
+H1,2004,2004,2004,4,0,1,Import,212,Dominica,DMA,328,Guyana,GUY,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8500,,,,8500,,5650,,,2
+H1,2004,2004,2004,4,0,1,Import,212,Dominica,DMA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,117,,,,117,,888,,,2
+H1,2004,2004,2004,4,0,1,Import,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,203827,,,,203827,,325076,,,2
+H1,2004,2004,2004,4,0,2,Export,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10218,,,,10218,,15519,,,2
+H1,2004,2004,2004,4,0,3,Re-Export,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10218,,,,10218,,15519,,,2
+H1,2004,2004,2004,4,0,1,Import,212,Dominica,DMA,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,19068,,,,19068,,27954,,,2
+H1,2004,2004,2004,4,0,1,Import,212,Dominica,DMA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,31,,,,31,,142,,,2
+H1,2004,2004,2004,4,0,1,Import,212,Dominica,DMA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13,,,,13,,37,,,2
+H1,2004,2004,2004,4,0,1,Import,212,Dominica,DMA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,97136,,,,97136,,103544,,,2
+H1,2004,2004,2004,4,0,1,Import,212,Dominica,DMA,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4400,,,,4400,,35899,,,2
+H3,2009,2009,2009,4,0,1,Import,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,354326,,,,354326,,696421,,,2
+H3,2009,2009,2009,4,0,2,Export,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,25711,,,,25711,,44264,,,2
+H3,2009,2009,2009,4,0,3,Re-Export,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,25711,,,,25711,,44264,,,2
+H3,2009,2009,2009,4,0,1,Import,212,Dominica,DMA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,19975,,,,19975,,16836,,,2
+H3,2009,2009,2009,4,0,1,Import,212,Dominica,DMA,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,597,,,,597,,939,,,2
+H3,2009,2009,2009,4,0,1,Import,212,Dominica,DMA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12970,,,,12970,,27670,,,2
+H3,2009,2009,2009,4,0,1,Import,212,Dominica,DMA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,425,,,,425,,722,,,2
+H3,2009,2009,2009,4,0,1,Import,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,19158,,,,19158,,66971,,,2
+H3,2009,2009,2009,4,0,2,Export,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,25711,,,,25711,,44264,,,2
+H3,2009,2009,2009,4,0,3,Re-Export,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,25711,,,,25711,,44264,,,2
+H3,2009,2009,2009,4,0,1,Import,212,Dominica,DMA,328,Guyana,GUY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18149,,,,18149,,14184,,,2
+H3,2009,2009,2009,4,0,1,Import,212,Dominica,DMA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4118,,,,4118,,8945,,,2
+H3,2009,2009,2009,4,0,1,Import,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,177353,,,,177353,,338831,,,2
+H3,2009,2009,2009,4,0,1,Import,212,Dominica,DMA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,21269,,,,21269,,25821,,,2
+H3,2009,2009,2009,4,0,1,Import,212,Dominica,DMA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1443,,,,1443,,4618,,,2
+H3,2009,2009,2009,4,0,1,Import,212,Dominica,DMA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,67943,,,,67943,,128891,,,2
+H3,2009,2009,2009,4,0,1,Import,212,Dominica,DMA,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10926,,,,10926,,61993,,,2
+H2,2006,2006,2006,4,0,1,Import,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,321315,,,,321315,,579412,,,6
+H2,2006,2006,2006,4,0,2,Export,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,55628,,,,55628,,77997,,,6
+H2,2006,2006,2006,4,0,3,Re-Export,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,55628,,,,55628,,77997,,,6
+H2,2006,2006,2006,4,0,1,Import,212,Dominica,DMA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8335,,,,8335,,17373,,,6
+H2,2006,2006,2006,4,0,1,Import,212,Dominica,DMA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8248,,,,8248,,24945,,,6
+H2,2006,2006,2006,4,0,1,Import,212,Dominica,DMA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,289,,,,289,,261,,,6
+H2,2006,2006,2006,4,0,1,Import,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20653,,,,20653,,49454,,,6
+H2,2006,2006,2006,4,0,2,Export,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,52748,,,,52748,,73950,,,6
+H2,2006,2006,2006,4,0,3,Re-Export,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,52748,,,,52748,,73950,,,6
+H2,2006,2006,2006,4,0,1,Import,212,Dominica,DMA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,50,,,6
+H2,2006,2006,2006,4,0,1,Import,212,Dominica,DMA,328,Guyana,GUY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12300,,,,12300,,10550,,,6
+H2,2006,2006,2006,4,0,1,Import,212,Dominica,DMA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,599,,,,599,,4074,,,6
+H2,2006,2006,2006,4,0,1,Import,212,Dominica,DMA,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,180,,,,180,,498,,,6
+H2,2006,2006,2006,4,0,1,Import,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,214726,,,,214726,,309952,,,6
+H2,2006,2006,2006,4,0,2,Export,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2880,,,,2880,,4047,,,6
+H2,2006,2006,2006,4,0,3,Re-Export,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2880,,,,2880,,4047,,,6
+H2,2006,2006,2006,4,0,1,Import,212,Dominica,DMA,659,Saint Kitts and Nevis,KNA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45,,,,45,,89,,,6
+H2,2006,2006,2006,4,0,1,Import,212,Dominica,DMA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,92,,,,92,,542,,,6
+H2,2006,2006,2006,4,0,1,Import,212,Dominica,DMA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,108,,,,108,,443,,,6
+H2,2006,2006,2006,4,0,1,Import,212,Dominica,DMA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,289,,,,289,,299,,,6
+H2,2006,2006,2006,4,0,1,Import,212,Dominica,DMA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45810,,,,45810,,92437,,,6
+H2,2006,2006,2006,4,0,1,Import,212,Dominica,DMA,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9632,,,,9632,,68447,,,6
+H2,2007,2007,2007,4,0,1,Import,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,419680,,,,419680,,664360,,,2
+H2,2007,2007,2007,4,0,2,Export,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27098,,,,27098,,40957,,,2
+H2,2007,2007,2007,4,0,3,Re-Export,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27098,,,,27098,,40957,,,2
+H2,2007,2007,2007,4,0,1,Import,212,Dominica,DMA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1342,,,,1342,,2404,,,2
+H2,2007,2007,2007,4,0,1,Import,212,Dominica,DMA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14771,,,,14771,,27553,,,2
+H2,2007,2007,2007,4,0,1,Import,212,Dominica,DMA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,73,,,,73,,162,,,2
+H2,2007,2007,2007,4,0,1,Import,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,55520,,,,55520,,105212,,,2
+H2,2007,2007,2007,4,0,2,Export,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27098,,,,27098,,40957,,,2
+H2,2007,2007,2007,4,0,3,Re-Export,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27098,,,,27098,,40957,,,2
+H2,2007,2007,2007,4,0,1,Import,212,Dominica,DMA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,244,,,,244,,1259,,,2
+H2,2007,2007,2007,4,0,1,Import,212,Dominica,DMA,328,Guyana,GUY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22421,,,,22421,,13780,,,2
+H2,2007,2007,2007,4,0,1,Import,212,Dominica,DMA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,798,,,,798,,3421,,,2
+H2,2007,2007,2007,4,0,1,Import,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,242881,,,,242881,,331486,,,2
+H2,2007,2007,2007,4,0,1,Import,212,Dominica,DMA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,154,,,,154,,1044,,,2
+H2,2007,2007,2007,4,0,1,Import,212,Dominica,DMA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,122,,,,122,,591,,,2
+H2,2007,2007,2007,4,0,1,Import,212,Dominica,DMA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,518,,,,518,,769,,,2
+H2,2007,2007,2007,4,0,1,Import,212,Dominica,DMA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,68906,,,,68906,,98391,,,2
+H2,2007,2007,2007,4,0,1,Import,212,Dominica,DMA,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11930,,,,11930,,78287,,,2
+H2,2008,2008,2008,4,0,1,Import,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1566295,,,,1566295,,720681,,,2
+H2,2008,2008,2008,4,0,2,Export,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,29735,,,,29735,,92732,,,2
+H2,2008,2008,2008,4,0,3,Re-Export,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,29735,,,,29735,,92732,,,2
+H2,2008,2008,2008,4,0,1,Import,212,Dominica,DMA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8044,,,,8044,,13148,,,2
+H2,2008,2008,2008,4,0,1,Import,212,Dominica,DMA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10747,,,,10747,,28687,,,2
+H2,2008,2008,2008,4,0,1,Import,212,Dominica,DMA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,227,,,,227,,261,,,2
+H2,2008,2008,2008,4,0,1,Import,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,68509,,,,68509,,108271,,,2
+H2,2008,2008,2008,4,0,2,Export,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,24926,,,,24926,,84725,,,2
+H2,2008,2008,2008,4,0,3,Re-Export,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,24926,,,,24926,,84725,,,2
+H2,2008,2008,2008,4,0,1,Import,212,Dominica,DMA,328,Guyana,GUY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14817,,,,14817,,9909,,,2
+H2,2008,2008,2008,4,0,1,Import,212,Dominica,DMA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1521,,,,1521,,6185,,,2
+H2,2008,2008,2008,4,0,1,Import,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,229230,,,,229230,,357002,,,2
+H2,2008,2008,2008,4,0,2,Export,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4809,,,,4809,,8007,,,2
+H2,2008,2008,2008,4,0,3,Re-Export,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4809,,,,4809,,8007,,,2
+H2,2008,2008,2008,4,0,1,Import,212,Dominica,DMA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,850,,,,850,,2789,,,2
+H2,2008,2008,2008,4,0,1,Import,212,Dominica,DMA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,448,,,,448,,2091,,,2
+H2,2008,2008,2008,4,0,1,Import,212,Dominica,DMA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1056,,,,1056,,3641,,,2
+H2,2008,2008,2008,4,0,1,Import,212,Dominica,DMA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1157853,,,,1157853,,2421,,,2
+H2,2008,2008,2008,4,0,1,Import,212,Dominica,DMA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4107,,,,4107,,8481,,,2
+H2,2008,2008,2008,4,0,1,Import,212,Dominica,DMA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,59241,,,,59241,,104851,,,2
+H2,2008,2008,2008,4,0,1,Import,212,Dominica,DMA,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9645,,,,9645,,72945,,,2
+H1,2005,2005,2005,4,0,1,Import,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,411408,,,,411408,,611500,,,2
+H1,2005,2005,2005,4,0,2,Export,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,48169,,,,48169,,85120,,,2
+H1,2005,2005,2005,4,0,3,Re-Export,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,48157,,,,48157,,85046,,,2
+H1,2005,2005,2005,4,0,1,Import,212,Dominica,DMA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,105,,,,105,,426,,,2
+H1,2005,2005,2005,4,0,1,Import,212,Dominica,DMA,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4617,,,,4617,,9916,,,2
+H1,2005,2005,2005,4,0,1,Import,212,Dominica,DMA,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10920,,,,10920,,32416,,,2
+H1,2005,2005,2005,4,0,1,Import,212,Dominica,DMA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,162,,,,162,,61,,,2
+H1,2005,2005,2005,4,0,1,Import,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,35277,,,,35277,,74614,,,2
+H1,2005,2005,2005,4,0,2,Export,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,25530,,,,25530,,46920,,,2
+H1,2005,2005,2005,4,0,3,Re-Export,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,25518,,,,25518,,46846,,,2
+H1,2005,2005,2005,4,0,1,Import,212,Dominica,DMA,328,Guyana,GUY,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5100,,,,5100,,3300,,,2
+H1,2005,2005,2005,4,0,1,Import,212,Dominica,DMA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,308,,,,308,,1671,,,2
+H1,2005,2005,2005,4,0,1,Import,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,244174,,,,244174,,326378,,,2
+H1,2005,2005,2005,4,0,2,Export,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,22639,,,,22639,,38200,,,2
+H1,2005,2005,2005,4,0,3,Re-Export,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,22639,,,,22639,,38200,,,2
+H1,2005,2005,2005,4,0,1,Import,212,Dominica,DMA,686,Senegal,SEN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,106,,,,106,,400,,,2
+H1,2005,2005,2005,4,0,1,Import,212,Dominica,DMA,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18790,,,,18790,,29111,,,2
+H1,2005,2005,2005,4,0,1,Import,212,Dominica,DMA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,264,,,,264,,470,,,2
+H1,2005,2005,2005,4,0,1,Import,212,Dominica,DMA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,84181,,,,84181,,93346,,,2
+H1,2005,2005,2005,4,0,1,Import,212,Dominica,DMA,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7404,,,,7404,,39390,,,2
+H3,2010,2010,2010,4,0,1,Import,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,158155,,,,158155,,697082,,,6
+H3,2010,2010,2010,4,0,2,Export,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,22499,,,,22499,,56942,,,6
+H3,2010,2010,2010,4,0,3,Re-Export,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,22461,,,,22461,,56812,,,6
+H3,2010,2010,2010,4,0,1,Import,212,Dominica,DMA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12316,,,,12316,,15307,,,2
+H3,2010,2010,2010,4,0,1,Import,212,Dominica,DMA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2786,,,,2786,,18245,,,6
+H3,2010,2010,2010,4,0,1,Import,212,Dominica,DMA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,31,,,,31,,15658,,,6
+H3,2010,2010,2010,4,0,1,Import,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,30574,,,,30574,,72501,,,6
+H3,2010,2010,2010,4,0,2,Export,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,16662,,,,16662,,38537,,,6
+H3,2010,2010,2010,4,0,3,Re-Export,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,16624,,,,16624,,38408,,,2
+H3,2010,2010,2010,4,0,1,Import,212,Dominica,DMA,328,Guyana,GUY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,600,,,,600,,14204,,,2
+H3,2010,2010,2010,4,0,1,Import,212,Dominica,DMA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4040,,,,4040,,30694,,,2
+H3,2010,2010,2010,4,0,1,Import,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,72770,,,,72770,,286981,,,2
+H3,2010,2010,2010,4,0,2,Export,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5610,,,,5610,,17830,,,2
+H3,2010,2010,2010,4,0,3,Re-Export,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5610,,,,5610,,17830,,,2
+H3,2010,2010,2010,4,0,2,Export,212,Dominica,DMA,659,Saint Kitts and Nevis,KNA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,227,,,,227,,574,,,6
+H3,2010,2010,2010,4,0,3,Re-Export,212,Dominica,DMA,659,Saint Kitts and Nevis,KNA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,227,,,,227,,574,,,6
+H3,2010,2010,2010,4,0,1,Import,212,Dominica,DMA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,86,,,,86,,453,,,2
+H3,2010,2010,2010,4,0,1,Import,212,Dominica,DMA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5087,,,,5087,,18076,,,6
+H3,2010,2010,2010,4,0,1,Import,212,Dominica,DMA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3343,,,,3343,,8340,,,2
+H3,2010,2010,2010,4,0,1,Import,212,Dominica,DMA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1416,,,,1416,,6024,,,6
+H3,2010,2010,2010,4,0,1,Import,212,Dominica,DMA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,20428,,,,20428,,150868,,,6
+H3,2010,2010,2010,4,0,1,Import,212,Dominica,DMA,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4678,,,,4678,,59730,,,2
+H3,2012,2012,2012,4,0,1,Import,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,147233,,,,147233,,599898,,,2
+H3,2012,2012,2012,4,0,2,Export,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5592,,,,5592,,33356,,,2
+H3,2012,2012,2012,4,0,3,Re-Export,212,Dominica,DMA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5591,,,,5591,,33282,,,2
+H3,2012,2012,2012,4,0,1,Import,212,Dominica,DMA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6,,,,6,,366,,,2
+H3,2012,2012,2012,4,0,1,Import,212,Dominica,DMA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4128,,,,4128,,10313,,,2
+H3,2012,2012,2012,4,0,1,Import,212,Dominica,DMA,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,844,,,,844,,2683,,,2
+H3,2012,2012,2012,4,0,1,Import,212,Dominica,DMA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7404,,,,7404,,19585,,,2
+H3,2012,2012,2012,4,0,1,Import,212,Dominica,DMA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,207,,,,207,,561,,,2
+H3,2012,2012,2012,4,0,1,Import,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5903,,,,5903,,40349,,,2
+H3,2012,2012,2012,4,0,2,Export,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5531,,,,5531,,32849,,,2
+H3,2012,2012,2012,4,0,3,Re-Export,212,Dominica,DMA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5530,,,,5530,,32775,,,2
+H3,2012,2012,2012,4,0,1,Import,212,Dominica,DMA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1260,,,,1260,,5703,,,2
+H3,2012,2012,2012,4,0,1,Import,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,56604,,,,56604,,242675,,,2
+H3,2012,2012,2012,4,0,1,Import,212,Dominica,DMA,531,Curaçao,CUW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3,,,,3,,170,,,2
+H3,2012,2012,2012,4,0,1,Import,212,Dominica,DMA,662,Saint Lucia,LCA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,72,,,,72,,191,,,2
+H3,2012,2012,2012,4,0,1,Import,212,Dominica,DMA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7475,,,,7475,,39678,,,2
+H3,2012,2012,2012,4,0,1,Import,212,Dominica,DMA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,20,,,,20,,538,,,2
+H3,2012,2012,2012,4,0,1,Import,212,Dominica,DMA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1019,,,,1019,,5472,,,2
+H3,2012,2012,2012,4,0,1,Import,212,Dominica,DMA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,52338,,,,52338,,166811,,,2
+H3,2012,2012,2012,4,0,2,Export,212,Dominica,DMA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,61,,,,61,,507,,,2
+H3,2012,2012,2012,4,0,3,Re-Export,212,Dominica,DMA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,61,,,,61,,507,,,2
+H3,2012,2012,2012,4,0,1,Import,212,Dominica,DMA,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9951,,,,9951,,64804,,,2

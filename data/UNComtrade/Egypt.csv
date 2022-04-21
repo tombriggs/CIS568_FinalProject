@@ -1,0 +1,105 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,2000,2000,2000,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,346545,,,,346545,,109581,,,4
+H0,2000,2000,2000,4,0,1,Import,818,Egypt,EGY,196,Cyprus,CYP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,504,,,,504,,1629,,,4
+H0,2000,2000,2000,4,0,1,Import,818,Egypt,EGY,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2400,,,,2400,,1498,,,4
+H0,2000,2000,2000,4,0,1,Import,818,Egypt,EGY,568,"Other Europe, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,338300,,,,338300,,97255,,,4
+H0,2000,2000,2000,4,0,1,Import,818,Egypt,EGY,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,5341,,,,5341,,9200,,,4
+H0,2001,2001,2001,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,5270,,,,5270,,19239,,,4
+H0,2001,2001,2001,4,0,1,Import,818,Egypt,EGY,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2680,,,,2680,,13951,,,4
+H0,2001,2001,2001,4,0,1,Import,818,Egypt,EGY,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2590,,,,2590,,5288,,,4
+H0,2002,2002,2002,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,6290,,,,6290,,4340,,,4
+H0,2002,2002,2002,4,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2690,,,,2690,,1610,,,4
+H0,2002,2002,2002,4,0,2,Export,818,Egypt,EGY,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2600,,,,2600,,1410,,,4
+H0,2002,2002,2002,4,0,1,Import,818,Egypt,EGY,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,6290,,,,6290,,4340,,,4
+H0,2002,2002,2002,4,0,2,Export,818,Egypt,EGY,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,90,,,,90,,200,,,4
+H0,2003,2003,2003,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,16394,,,,16394,,19549,,,4
+H0,2003,2003,2003,4,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,6250,,,,6250,,6624,,,4
+H0,2003,2003,2003,4,0,2,Export,818,Egypt,EGY,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,6250,,,,6250,,6624,,,4
+H0,2003,2003,2003,4,0,1,Import,818,Egypt,EGY,682,Saudi Arabia,SAU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,3101,,,,3101,,3114,,,4
+H0,2003,2003,2003,4,0,1,Import,818,Egypt,EGY,736,Fmr Sudan,SDN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,3293,,,,3293,,3307,,,4
+H0,2003,2003,2003,4,0,1,Import,818,Egypt,EGY,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,10000,,,,10000,,13128,,,4
+H0,2004,2004,2004,4,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,172,,,,172,,277,,,4
+H0,2004,2004,2004,4,0,2,Export,818,Egypt,EGY,682,Saudi Arabia,SAU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,172,,,,172,,277,,,4
+H3,2008,2008,2008,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15399,,,,15399,,22500,,,4
+H3,2008,2008,2008,4,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,449521,,,,449521,,340353,,,4
+H3,2008,2008,2008,4,0,1,Import,818,Egypt,EGY,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,277,,,,277,,4769,,,4
+H3,2008,2008,2008,4,0,1,Import,818,Egypt,EGY,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,700,,,,700,,281,,,4
+H3,2008,2008,2008,4,0,2,Export,818,Egypt,EGY,434,Libya,LBY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,48072,,,,48072,,54121,,,4
+H3,2008,2008,2008,4,0,2,Export,818,Egypt,EGY,634,Qatar,QAT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,21954,,,,21954,,19760,,,4
+H3,2008,2008,2008,4,0,2,Export,818,Egypt,EGY,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,379495,,,,379495,,266472,,,4
+H3,2008,2008,2008,4,0,1,Import,818,Egypt,EGY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,14422,,,,14422,,17450,,,4
+H3,2009,2009,2009,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1010,,,,1010,,14305,,,4
+H3,2009,2009,2009,4,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,221245,,,,221245,,160312,,,4
+H3,2009,2009,2009,4,0,2,Export,818,Egypt,EGY,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7,,,,7,,10,,,4
+H3,2009,2009,2009,4,0,2,Export,818,Egypt,EGY,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,200,,,,200,,176,,,4
+H3,2009,2009,2009,4,0,2,Export,818,Egypt,EGY,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,214416,,,,214416,,155330,,,4
+H3,2009,2009,2009,4,0,2,Export,818,Egypt,EGY,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6621,,,,6621,,4797,,,4
+H3,2009,2009,2009,4,0,1,Import,818,Egypt,EGY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1010,,,,1010,,14305,,,4
+H0,2005,2005,2005,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,59606,,,,59606,,82570,,,4
+H0,2005,2005,2005,4,0,1,Import,818,Egypt,EGY,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,6886,,,,6886,,11896,,,4
+H0,2005,2005,2005,4,0,1,Import,818,Egypt,EGY,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,5000,,,,5000,,6037,,,4
+H0,2005,2005,2005,4,0,1,Import,818,Egypt,EGY,682,Saudi Arabia,SAU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,19720,,,,19720,,20440,,,4
+H0,2005,2005,2005,4,0,1,Import,818,Egypt,EGY,792,Turkey,TUR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,20000,,,,20000,,33779,,,4
+H0,2005,2005,2005,4,0,1,Import,818,Egypt,EGY,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,8000,,,,8000,,10418,,,4
+H0,2006,2006,2006,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,29027,,,,29027,,44427,,,4
+H0,2006,2006,2006,4,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2702,,,,2702,,7735,,,4
+H0,2006,2006,2006,4,0,1,Import,818,Egypt,EGY,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,29027,,,,29027,,44427,,,4
+H0,2006,2006,2006,4,0,2,Export,818,Egypt,EGY,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2702,,,,2702,,7735,,,4
+H0,2007,2007,2007,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,8762,,,,8762,,8746,,,4
+H0,2007,2007,2007,4,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,700000,,,,700000,,55974,,,4
+H0,2007,2007,2007,4,0,1,Import,818,Egypt,EGY,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,8757,,,,8757,,8741,,,4
+H0,2007,2007,2007,4,0,1,Import,818,Egypt,EGY,490,"Other Asia, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,5,,,,5,,5,,,4
+H0,2007,2007,2007,4,0,2,Export,818,Egypt,EGY,768,Togo,TGO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,700000,,,,700000,,55974,,,4
+H4,2014,2014,2014,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,661,,,,661,,3603,,,4
+H4,2014,2014,2014,4,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4710,,,,4710,,23027,,,4
+H4,2014,2014,2014,4,0,1,Import,818,Egypt,EGY,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2,,,,2,,721,,,4
+H4,2014,2014,2014,4,0,1,Import,818,Egypt,EGY,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,659,,,,659,,2883,,,4
+H4,2014,2014,2014,4,0,2,Export,818,Egypt,EGY,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4710,,,,4710,,23027,,,4
+H3,2010,2010,2010,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3783,,,,3783,,42588,,,4
+H3,2010,2010,2010,4,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,569,,,,569,,1900,,,4
+H3,2010,2010,2010,4,0,2,Export,818,Egypt,EGY,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9,,,,9,,8,,,4
+H3,2010,2010,2010,4,0,2,Export,818,Egypt,EGY,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,560,,,,560,,1892,,,4
+H3,2010,2010,2010,4,0,1,Import,818,Egypt,EGY,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,86,,,,86,,1409,,,4
+H3,2010,2010,2010,4,0,1,Import,818,Egypt,EGY,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,40,,,,40,,2793,,,4
+H3,2010,2010,2010,4,0,1,Import,818,Egypt,EGY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3657,,,,3657,,38386,,,4
+H3,2011,2011,2011,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3402,,,,3402,,15298,,,4
+H3,2011,2011,2011,4,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,142,,,,142,,478,,,4
+H3,2011,2011,2011,4,0,2,Export,818,Egypt,EGY,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,35,,,,35,,117,,,4
+H3,2011,2011,2011,4,0,2,Export,818,Egypt,EGY,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,108,,,,108,,361,,,4
+H3,2011,2011,2011,4,0,1,Import,818,Egypt,EGY,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,102,,,,102,,855,,,4
+H3,2011,2011,2011,4,0,1,Import,818,Egypt,EGY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3300,,,,3300,,14443,,,4
+H3,2012,2012,2012,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,5904,,28794,,,4
+H3,2012,2012,2012,4,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,1483,,6073,,,4
+H3,2012,2012,2012,4,0,2,Export,818,Egypt,EGY,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,1483,,6073,,,4
+H3,2012,2012,2012,4,0,1,Import,818,Egypt,EGY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,5904,,28794,,,4
+H3,2013,2013,2013,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,7116,,28828,,,4
+H3,2013,2013,2013,4,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,43,,,0
+H3,2013,2013,2013,4,0,2,Export,818,Egypt,EGY,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,20,,,0
+H3,2013,2013,2013,4,0,2,Export,818,Egypt,EGY,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,4,,12,,,4
+H3,2013,2013,2013,4,0,2,Export,818,Egypt,EGY,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,12,,,0
+H3,2013,2013,2013,4,0,1,Import,818,Egypt,EGY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,7116,,28828,,,4
+H4,2015,2015,2015,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,41567,,,,41567,,144925,,,0
+H4,2015,2015,2015,4,0,1,Import,818,Egypt,EGY,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15000,,,,15000,,127103,,,0
+H4,2015,2015,2015,4,0,1,Import,818,Egypt,EGY,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,26567,,,,26567,,17821,,,0
+H4,2016,2016,2016,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,152,,,,152,,5365,,,0
+H4,2016,2016,2016,4,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,62,,,,62,,220,,,0
+H4,2016,2016,2016,4,0,2,Export,818,Egypt,EGY,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2,,,,2,,94,,,0
+H4,2016,2016,2016,4,0,2,Export,818,Egypt,EGY,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,60,,,,60,,125,,,0
+H4,2016,2016,2016,4,0,1,Import,818,Egypt,EGY,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,152,,,,152,,5365,,,0
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4977,,,,4977,,34620,,,0
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,470,,,,470,,1262,,,0
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,37,,,,37,,573,,,0
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1500,,,,1500,,18357,,,0
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2970,,,,2970,,14426,,,0
+H4,2018,2018,2018,4,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,200,,,,200,,125,,,0
+H4,2018,2018,2018,4,0,2,Export,818,Egypt,EGY,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,200,,,,200,,125,,,0
+H4,2019,2019,2019,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,364,,,,364,,611,,,2
+H4,2019,2019,2019,4,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3152,,,,3152,,16065,,,0
+H4,2019,2019,2019,4,0,1,Import,818,Egypt,EGY,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,364,,,,364,,611,,,2
+H4,2019,2019,2019,4,0,2,Export,818,Egypt,EGY,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3152,,,,3152,,16065,,,0
+H4,2020,2020,2020,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,3879,,13689,,,4
+H4,2020,2020,2020,4,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,7,,32,,,4
+H4,2020,2020,2020,4,0,1,Import,818,Egypt,EGY,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,1309,,3203,,,4
+H4,2020,2020,2020,4,0,1,Import,818,Egypt,EGY,268,Georgia,GEO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,1870,,7631,,,4
+H4,2020,2020,2020,4,0,2,Export,818,Egypt,EGY,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,7,,32,,,4
+H4,2020,2020,2020,4,0,1,Import,818,Egypt,EGY,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,699,,2855,,,4

@@ -1,0 +1,261 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2003,2003,2003,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,163821,,,,163821,,514765,,,4
+H2,2003,2003,2003,4,0,1,Import,454,Malawi,MWI,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,100,,,,100,,756,,,4
+H2,2003,2003,2003,4,0,1,Import,454,Malawi,MWI,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6541,,,,6541,,14063,,,4
+H2,2003,2003,2003,4,0,1,Import,454,Malawi,MWI,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,72,,,,72,,325,,,4
+H2,2003,2003,2003,4,0,1,Import,454,Malawi,MWI,360,Indonesia,IDN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22,,,,22,,45,,,4
+H2,2003,2003,2003,4,0,1,Import,454,Malawi,MWI,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,30,,,,30,,48,,,4
+H2,2003,2003,2003,4,0,1,Import,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,139572,,,,139572,,430461,,,4
+H2,2003,2003,2003,4,0,1,Import,454,Malawi,MWI,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5283,,,,5283,,19561,,,4
+H2,2003,2003,2003,4,0,1,Import,454,Malawi,MWI,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12179,,,,12179,,49439,,,4
+H2,2003,2003,2003,4,0,1,Import,454,Malawi,MWI,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22,,,,22,,66,,,4
+H2,2004,2004,2004,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,244558,,,,244558,,686427,,,4
+H2,2004,2004,2004,4,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10230,,,,10230,,5048,,,4
+H2,2004,2004,2004,4,0,1,Import,454,Malawi,MWI,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,144,,,,144,,40,,,4
+H2,2004,2004,2004,4,0,1,Import,454,Malawi,MWI,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,515,,,,515,,15408,,,4
+H2,2004,2004,2004,4,0,2,Export,454,Malawi,MWI,178,Congo,COG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,160,,,,160,,321,,,4
+H2,2004,2004,2004,4,0,1,Import,454,Malawi,MWI,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12352,,,,12352,,39564,,,4
+H2,2004,2004,2004,4,0,1,Import,454,Malawi,MWI,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,288,,,,288,,2329,,,4
+H2,2004,2004,2004,4,0,1,Import,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,133652,,,,133652,,333333,,,4
+H2,2004,2004,2004,4,0,1,Import,454,Malawi,MWI,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20018,,,,20018,,12288,,,4
+H2,2004,2004,2004,4,0,1,Import,454,Malawi,MWI,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,120,,,,120,,584,,,4
+H2,2004,2004,2004,4,0,1,Import,454,Malawi,MWI,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,77469,,,,77469,,282881,,,4
+H2,2004,2004,2004,4,0,2,Export,454,Malawi,MWI,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10000,,,,10000,,4543,,,4
+H2,2004,2004,2004,4,0,2,Export,454,Malawi,MWI,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,70,,,,70,,184,,,4
+H1,2000,2000,2000,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,167496,,,,214203,,288210,,,6
+H1,2000,2000,2000,4,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,33089,,,,33868,,60047,,,6
+H1,2000,2000,2000,4,0,2,Export,454,Malawi,MWI,108,Burundi,BDI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,30733,,,,30105,,51790,,,6
+H1,2000,2000,2000,4,0,2,Export,454,Malawi,MWI,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,45,,,,68,,158,,,6
+H1,2000,2000,2000,4,0,1,Import,454,Malawi,MWI,231,Ethiopia,ETH,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36,,,,35,,81,,,6
+H1,2000,2000,2000,4,0,1,Import,454,Malawi,MWI,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11905,,,,10128,,23307,,,6
+H1,2000,2000,2000,4,0,1,Import,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,154413,,,,199861,,255975,,,6
+H1,2000,2000,2000,4,0,1,Import,454,Malawi,MWI,716,Zimbabwe,ZWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,463,,,,741,,818,,,6
+H1,2000,2000,2000,4,0,1,Import,454,Malawi,MWI,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,679,,,,3438,,8028,,,6
+H1,2000,2000,2000,4,0,2,Export,454,Malawi,MWI,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,970,,,,1813,,4190,,,6
+H1,2000,2000,2000,4,0,2,Export,454,Malawi,MWI,894,Zambia,ZMB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1341,,,,1882,,3908,,,6
+H1,2001,2001,2001,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,173909,,,,173909,,288571,,,4
+H1,2001,2001,2001,4,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,80,,,,80,,89,,,4
+H1,2001,2001,2001,4,0,1,Import,454,Malawi,MWI,72,Botswana,BWA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,46,,,,46,,74,,,4
+H1,2001,2001,2001,4,0,1,Import,454,Malawi,MWI,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10525,,,,10525,,21969,,,4
+H1,2001,2001,2001,4,0,1,Import,454,Malawi,MWI,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,166,,,,166,,392,,,4
+H1,2001,2001,2001,4,0,2,Export,454,Malawi,MWI,428,Latvia,LVA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,80,,,,80,,89,,,4
+H1,2001,2001,2001,4,0,1,Import,454,Malawi,MWI,462,Maldives,MDV,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,87,,,,87,,213,,,4
+H1,2001,2001,2001,4,0,1,Import,454,Malawi,MWI,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,24,,,,24,,51,,,4
+H1,2001,2001,2001,4,0,1,Import,454,Malawi,MWI,616,Poland,POL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12,,,,12,,40,,,4
+H1,2001,2001,2001,4,0,1,Import,454,Malawi,MWI,682,Saudi Arabia,SAU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8490,,,,8490,,10033,,,4
+H1,2001,2001,2001,4,0,1,Import,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,142835,,,,142835,,235362,,,4
+H1,2001,2001,2001,4,0,1,Import,454,Malawi,MWI,716,Zimbabwe,ZWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,934,,,,934,,1658,,,4
+H1,2001,2001,2001,4,0,1,Import,454,Malawi,MWI,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10191,,,,10191,,18117,,,4
+H1,2001,2001,2001,4,0,1,Import,454,Malawi,MWI,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,60,,,,60,,29,,,4
+H1,2001,2001,2001,4,0,1,Import,454,Malawi,MWI,894,Zambia,ZMB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,539,,,,539,,634,,,4
+H1,2002,2002,2002,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,686355,,,,686355,,493917,,,4
+H1,2002,2002,2002,4,0,1,Import,454,Malawi,MWI,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,194,,,,194,,411,,,4
+H1,2002,2002,2002,4,0,1,Import,454,Malawi,MWI,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,162,,,,162,,4187,,,4
+H1,2002,2002,2002,4,0,1,Import,454,Malawi,MWI,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,24,,,,24,,113,,,4
+H1,2002,2002,2002,4,0,1,Import,454,Malawi,MWI,231,Ethiopia,ETH,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36,,,,36,,447,,,4
+H1,2002,2002,2002,4,0,1,Import,454,Malawi,MWI,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,388676,,,,388676,,27460,,,4
+H1,2002,2002,2002,4,0,1,Import,454,Malawi,MWI,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,354,,,,354,,1534,,,4
+H1,2002,2002,2002,4,0,1,Import,454,Malawi,MWI,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4,,,,4,,638,,,4
+H1,2002,2002,2002,4,0,1,Import,454,Malawi,MWI,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,241,,,,241,,334,,,4
+H1,2002,2002,2002,4,0,1,Import,454,Malawi,MWI,616,Poland,POL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12,,,,12,,36,,,4
+H1,2002,2002,2002,4,0,1,Import,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,274390,,,,274390,,429947,,,4
+H1,2002,2002,2002,4,0,1,Import,454,Malawi,MWI,716,Zimbabwe,ZWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7613,,,,7613,,9979,,,4
+H1,2002,2002,2002,4,0,1,Import,454,Malawi,MWI,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12,,,,12,,78,,,4
+H1,2002,2002,2002,4,0,1,Import,454,Malawi,MWI,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,14634,,,,14634,,18730,,,4
+H1,2002,2002,2002,4,0,1,Import,454,Malawi,MWI,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3,,,,3,,23,,,4
+H3,2008,2008,2008,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,274052,,,,274052,,313382,,,2
+H3,2008,2008,2008,4,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6,,,,6,,30,,,2
+H3,2008,2008,2008,4,0,1,Import,454,Malawi,MWI,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,25,,,,25,,1073,,,2
+H3,2008,2008,2008,4,0,1,Import,454,Malawi,MWI,242,Fiji,FJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,20,,,,20,,352,,,2
+H3,2008,2008,2008,4,0,1,Import,454,Malawi,MWI,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,326,,,,326,,925,,,2
+H3,2008,2008,2008,4,0,1,Import,454,Malawi,MWI,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1729,,,,1729,,3200,,,2
+H3,2008,2008,2008,4,0,1,Import,454,Malawi,MWI,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,23,,,,23,,110,,,2
+H3,2008,2008,2008,4,0,1,Import,454,Malawi,MWI,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,35,,,,35,,77,,,2
+H3,2008,2008,2008,4,0,1,Import,454,Malawi,MWI,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,100,,,,100,,215,,,2
+H3,2008,2008,2008,4,0,1,Import,454,Malawi,MWI,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,196,,,,196,,1492,,,2
+H3,2008,2008,2008,4,0,1,Import,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,268410,,,,268410,,297409,,,2
+H3,2008,2008,2008,4,0,1,Import,454,Malawi,MWI,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,449,,,,449,,745,,,2
+H3,2008,2008,2008,4,0,1,Import,454,Malawi,MWI,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,295,,,,295,,2720,,,2
+H3,2008,2008,2008,4,0,1,Import,454,Malawi,MWI,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2018,,,,2018,,2228,,,2
+H3,2008,2008,2008,4,0,1,Import,454,Malawi,MWI,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,41,,,,41,,118,,,2
+H3,2008,2008,2008,4,0,1,Import,454,Malawi,MWI,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,385,,,,385,,2718,,,2
+H3,2008,2008,2008,4,0,2,Export,454,Malawi,MWI,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6,,,,6,,30,,,2
+H3,2009,2009,2009,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,190018,,,,435963,,1142867,,,2
+H3,2009,2009,2009,4,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,24,,,,100,,992,,,2
+H3,2009,2009,2009,4,0,2,Export,454,Malawi,MWI,72,Botswana,BWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,20,,,,35,,390,,,2
+H3,2009,2009,2009,4,0,1,Import,454,Malawi,MWI,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,258,,,,252,,138,,,0
+H3,2009,2009,2009,4,0,1,Import,454,Malawi,MWI,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8,,,,200,,256,,,0
+H3,2009,2009,2009,4,0,1,Import,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,181073,,,,426080,,1139574,,,0
+H3,2009,2009,2009,4,0,1,Import,454,Malawi,MWI,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,262,,,,868,,2060,,,0
+H3,2009,2009,2009,4,0,1,Import,454,Malawi,MWI,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8410,,,,8558,,825,,,2
+H3,2009,2009,2009,4,0,1,Import,454,Malawi,MWI,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7,,,,5,,14,,,0
+H3,2009,2009,2009,4,0,2,Export,454,Malawi,MWI,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4,,,,65,,602,,,0
+H2,2005,2005,2005,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,955120,,,,955120,,1073119,,,6
+H2,2005,2005,2005,4,0,1,Import,454,Malawi,MWI,144,Sri Lanka,LKA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,1,,2,,,6
+H2,2005,2005,2005,4,0,1,Import,454,Malawi,MWI,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,24530,,,,24530,,73330,,,6
+H2,2005,2005,2005,4,0,1,Import,454,Malawi,MWI,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,549,,,,549,,646,,,6
+H2,2005,2005,2005,4,0,1,Import,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,929109,,,,929109,,980644,,,6
+H2,2005,2005,2005,4,0,1,Import,454,Malawi,MWI,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,248,,,,248,,6524,,,4
+H2,2005,2005,2005,4,0,1,Import,454,Malawi,MWI,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,535,,,,535,,11870,,,4
+H2,2005,2005,2005,4,0,1,Import,454,Malawi,MWI,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,148,,,,148,,104,,,6
+H2,2006,2006,2006,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,71229,,,,71229,,374792,,,4
+H2,2006,2006,2006,4,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10,,,,10,,242,,,4
+H2,2006,2006,2006,4,0,1,Import,454,Malawi,MWI,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,1,,981,,,4
+H2,2006,2006,2006,4,0,1,Import,454,Malawi,MWI,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5,,,,5,,741,,,4
+H2,2006,2006,2006,4,0,1,Import,454,Malawi,MWI,178,Congo,COG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,2,,13,,,4
+H2,2006,2006,2006,4,0,1,Import,454,Malawi,MWI,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,26,,,,26,,487,,,4
+H2,2006,2006,2006,4,0,1,Import,454,Malawi,MWI,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10,,,,10,,31,,,4
+H2,2006,2006,2006,4,0,1,Import,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,69330,,,,69330,,350886,,,4
+H2,2006,2006,2006,4,0,2,Export,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7,,,,7,,139,,,4
+H2,2006,2006,2006,4,0,1,Import,454,Malawi,MWI,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,891,,,,891,,8524,,,4
+H2,2006,2006,2006,4,0,1,Import,454,Malawi,MWI,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,956,,,,956,,10601,,,4
+H2,2006,2006,2006,4,0,1,Import,454,Malawi,MWI,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6,,,,6,,2478,,,4
+H2,2006,2006,2006,4,0,2,Export,454,Malawi,MWI,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3,,,,3,,103,,,4
+H2,2006,2006,2006,4,0,1,Import,454,Malawi,MWI,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,2,,50,,,4
+H2,2007,2007,2007,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,44271,,,,214096,,506717,,,0
+H2,2007,2007,2007,4,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10,,,,30430,,18720,,,0
+H2,2007,2007,2007,4,0,1,Import,454,Malawi,MWI,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,45,,153,,,0
+H2,2007,2007,2007,4,0,2,Export,454,Malawi,MWI,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,30400,,18505,,,0
+H2,2007,2007,2007,4,0,1,Import,454,Malawi,MWI,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12,,,,20,,259,,,0
+H2,2007,2007,2007,4,0,1,Import,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,42791,,,,212553,,489846,,,0
+H2,2007,2007,2007,4,0,2,Export,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,30,,215,,,0
+H2,2007,2007,2007,4,0,1,Import,454,Malawi,MWI,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1156,,,,1261,,8234,,,0
+H2,2007,2007,2007,4,0,1,Import,454,Malawi,MWI,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,300,,,,73,,4465,,,0
+H2,2007,2007,2007,4,0,1,Import,454,Malawi,MWI,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11,,,,144,,3759,,,0
+H4,2014,2014,2014,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1953893,,,,276977,,499716,,,0
+H4,2014,2014,2014,4,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5000,,,,40000,,19512,,,0
+H4,2014,2014,2014,4,0,1,Import,454,Malawi,MWI,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,180,,,,263,,526,,,0
+H4,2014,2014,2014,4,0,1,Import,454,Malawi,MWI,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,157,,,,556,,3447,,,0
+H4,2014,2014,2014,4,0,1,Import,454,Malawi,MWI,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,86,,,,1054,,1320,,,0
+H4,2014,2014,2014,4,0,1,Import,454,Malawi,MWI,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6,,,,25,,152,,,0
+H4,2014,2014,2014,4,0,1,Import,454,Malawi,MWI,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17,,,,83,,851,,,0
+H4,2014,2014,2014,4,0,1,Import,454,Malawi,MWI,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10,,,,100,,446,,,0
+H4,2014,2014,2014,4,0,1,Import,454,Malawi,MWI,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,78,,,,214,,863,,,0
+H4,2014,2014,2014,4,0,1,Import,454,Malawi,MWI,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,75,,,,349,,722,,,0
+H4,2014,2014,2014,4,0,1,Import,454,Malawi,MWI,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,142,,3522,,,0
+H4,2014,2014,2014,4,0,1,Import,454,Malawi,MWI,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,48,,,,40,,172,,,0
+H4,2014,2014,2014,4,0,2,Export,454,Malawi,MWI,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5000,,,,40000,,19512,,,0
+H4,2014,2014,2014,4,0,1,Import,454,Malawi,MWI,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3,,,,150,,62,,,0
+H4,2014,2014,2014,4,0,1,Import,454,Malawi,MWI,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,182,,,,231,,529,,,0
+H4,2014,2014,2014,4,0,1,Import,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1952837,,,,272971,,485689,,,0
+H4,2014,2014,2014,4,0,1,Import,454,Malawi,MWI,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,213,,,,799,,1415,,,0
+H3,2010,2010,2010,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,52263,,,,312892,,449544,,,0
+H3,2010,2010,2010,4,0,1,Import,454,Malawi,MWI,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2,,,,22,,306,,,0
+H3,2010,2010,2010,4,0,1,Import,454,Malawi,MWI,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,200,,,,200,,784,,,0
+H3,2010,2010,2010,4,0,1,Import,454,Malawi,MWI,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,313,,,,365,,2805,,,0
+H3,2010,2010,2010,4,0,1,Import,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,51150,,,,310507,,440302,,,0
+H3,2010,2010,2010,4,0,1,Import,454,Malawi,MWI,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,109,,,,1381,,2969,,,0
+H3,2010,2010,2010,4,0,1,Import,454,Malawi,MWI,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12,,,,43,,210,,,0
+H3,2010,2010,2010,4,0,1,Import,454,Malawi,MWI,800,Uganda,UGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,440,,,,354,,1963,,,0
+H3,2010,2010,2010,4,0,1,Import,454,Malawi,MWI,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,36,,,,6,,76,,,0
+H3,2010,2010,2010,4,0,1,Import,454,Malawi,MWI,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1,,,,14,,128,,,0
+H3,2011,2011,2011,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,41017,,,,181277,,342418,,,2
+H3,2011,2011,2011,4,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4,,,,1168,,84,,,0
+H3,2011,2011,2011,4,0,1,Import,454,Malawi,MWI,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1717,,,,407,,7352,,,2
+H3,2011,2011,2011,4,0,1,Import,454,Malawi,MWI,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4,,,,20,,313,,,2
+H3,2011,2011,2011,4,0,1,Import,454,Malawi,MWI,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,30,,,,136,,169,,,0
+H3,2011,2011,2011,4,0,1,Import,454,Malawi,MWI,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,196,,,,338,,1163,,,2
+H3,2011,2011,2011,4,0,1,Import,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,38973,,,,180170,,332397,,,2
+H3,2011,2011,2011,4,0,2,Export,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4,,,,1168,,84,,,0
+H3,2011,2011,2011,4,0,1,Import,454,Malawi,MWI,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8,,,,60,,347,,,0
+H3,2011,2011,2011,4,0,1,Import,454,Malawi,MWI,800,Uganda,UGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,89,,,,146,,677,,,2
+H3,2012,2012,2012,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,65123,,,,196452,,438655,,,2
+H3,2012,2012,2012,4,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,109,,,,122,,327,,,0
+H3,2012,2012,2012,4,0,2,Export,454,Malawi,MWI,24,Angola,AGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,24,,,,40,,81,,,0
+H3,2012,2012,2012,4,0,1,Import,454,Malawi,MWI,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,220,,,,220,,356,,,0
+H3,2012,2012,2012,4,0,2,Export,454,Malawi,MWI,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,60,,,,40,,202,,,0
+H3,2012,2012,2012,4,0,1,Import,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,64903,,,,196232,,438299,,,2
+H3,2012,2012,2012,4,0,2,Export,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,24,,,,40,,40,,,0
+H3,2012,2012,2012,4,0,2,Export,454,Malawi,MWI,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1,,,,2,,4,,,0
+H3,2013,2013,2013,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,309688,,,,217950,,411601,,,0
+H3,2013,2013,2013,4,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,54,,,,90,,139,,,0
+H3,2013,2013,2013,4,0,1,Import,454,Malawi,MWI,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12,,,,15,,38,,,0
+H3,2013,2013,2013,4,0,1,Import,454,Malawi,MWI,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,30,,,,250,,177,,,0
+H3,2013,2013,2013,4,0,1,Import,454,Malawi,MWI,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6,,,,22,,34,,,0
+H3,2013,2013,2013,4,0,1,Import,454,Malawi,MWI,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,24,,,,99,,206,,,0
+H3,2013,2013,2013,4,0,1,Import,454,Malawi,MWI,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12,,,,50,,243,,,0
+H3,2013,2013,2013,4,0,2,Export,454,Malawi,MWI,579,Norway,NOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,54,,,,90,,139,,,0
+H3,2013,2013,2013,4,0,1,Import,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,39569,,,,216817,,406625,,,0
+H3,2013,2013,2013,4,0,1,Import,454,Malawi,MWI,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,270020,,,,586,,2136,,,0
+H3,2013,2013,2013,4,0,1,Import,454,Malawi,MWI,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12,,,,15,,30,,,0
+H3,2013,2013,2013,4,0,1,Import,454,Malawi,MWI,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3,,,,95,,2111,,,0
+H5,2019,2019,2019,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,58610,,,,162351,,265831,,,2
+H5,2019,2019,2019,4,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,26,,,,205,,507,,,0
+H5,2019,2019,2019,4,0,2,Export,454,Malawi,MWI,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10,,,,5,,27,,,0
+H5,2019,2019,2019,4,0,1,Import,454,Malawi,MWI,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,33,,,,252,,191,,,2
+H5,2019,2019,2019,4,0,1,Import,454,Malawi,MWI,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1756,,,,4600,,24481,,,0
+H5,2019,2019,2019,4,0,1,Import,454,Malawi,MWI,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,200,,,,252,,4694,,,2
+H5,2019,2019,2019,4,0,1,Import,454,Malawi,MWI,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,6,,3,,,0
+H5,2019,2019,2019,4,0,1,Import,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,56596,,,,157230,,236348,,,2
+H5,2019,2019,2019,4,0,1,Import,454,Malawi,MWI,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12,,,,8,,64,,,0
+H5,2019,2019,2019,4,0,1,Import,454,Malawi,MWI,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12,,,,2,,48,,,0
+H5,2019,2019,2019,4,0,2,Export,454,Malawi,MWI,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16,,,,200,,480,,,0
+H4,2015,2015,2015,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,73617,,,,174141,,322991,,,0
+H4,2015,2015,2015,4,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17520,,,,98300,,61258,,,0
+H4,2015,2015,2015,4,0,1,Import,454,Malawi,MWI,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,28,,,,145,,307,,,0
+H4,2015,2015,2015,4,0,2,Export,454,Malawi,MWI,108,Burundi,BDI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8750,,,,49300,,30450,,,0
+H4,2015,2015,2015,4,0,1,Import,454,Malawi,MWI,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,115,,,,1194,,1819,,,0
+H4,2015,2015,2015,4,0,1,Import,454,Malawi,MWI,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,111,,,,171,,1891,,,0
+H4,2015,2015,2015,4,0,1,Import,454,Malawi,MWI,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12236,,,,620,,8875,,,0
+H4,2015,2015,2015,4,0,1,Import,454,Malawi,MWI,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,63,,,,259,,826,,,0
+H4,2015,2015,2015,4,0,1,Import,454,Malawi,MWI,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1601,,,,1650,,20600,,,0
+H4,2015,2015,2015,4,0,1,Import,454,Malawi,MWI,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7,,,,62,,101,,,0
+H4,2015,2015,2015,4,0,2,Export,454,Malawi,MWI,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8770,,,,49000,,30808,,,0
+H4,2015,2015,2015,4,0,1,Import,454,Malawi,MWI,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,1,,1027,,,0
+H4,2015,2015,2015,4,0,1,Import,454,Malawi,MWI,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,192,,,,1698,,2947,,,0
+H4,2015,2015,2015,4,0,1,Import,454,Malawi,MWI,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5,,,,118,,945,,,0
+H4,2015,2015,2015,4,0,1,Import,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,59048,,,,166585,,280186,,,0
+H4,2015,2015,2015,4,0,1,Import,454,Malawi,MWI,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24,,,,216,,1128,,,0
+H4,2015,2015,2015,4,0,1,Import,454,Malawi,MWI,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,135,,,,1201,,2067,,,0
+H4,2015,2015,2015,4,0,1,Import,454,Malawi,MWI,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,42,,,,218,,262,,,0
+H4,2015,2015,2015,4,0,1,Import,454,Malawi,MWI,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9,,,,3,,10,,,0
+H4,2016,2016,2016,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,37519,,,,150882,,205537,,,0
+H4,2016,2016,2016,4,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12,,,,15,,83,,,0
+H4,2016,2016,2016,4,0,1,Import,454,Malawi,MWI,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11,,,,81,,140,,,0
+H4,2016,2016,2016,4,0,1,Import,454,Malawi,MWI,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24,,,,171,,312,,,0
+H4,2016,2016,2016,4,0,1,Import,454,Malawi,MWI,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,151,,,,2275,,6945,,,0
+H4,2016,2016,2016,4,0,1,Import,454,Malawi,MWI,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10080,,,,2750,,6637,,,0
+H4,2016,2016,2016,4,0,1,Import,454,Malawi,MWI,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,93,,,,651,,3626,,,0
+H4,2016,2016,2016,4,0,1,Import,454,Malawi,MWI,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3,,,,5,,32,,,0
+H4,2016,2016,2016,4,0,1,Import,454,Malawi,MWI,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,300,,,,120,,4930,,,0
+H4,2016,2016,2016,4,0,1,Import,454,Malawi,MWI,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,34,,,,104,,126,,,0
+H4,2016,2016,2016,4,0,1,Import,454,Malawi,MWI,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1377,,,,1411,,201,,,0
+H4,2016,2016,2016,4,0,1,Import,454,Malawi,MWI,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12,,,,93,,150,,,0
+H4,2016,2016,2016,4,0,1,Import,454,Malawi,MWI,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90,,,,648,,1079,,,0
+H4,2016,2016,2016,4,0,1,Import,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25342,,,,142528,,180414,,,0
+H4,2016,2016,2016,4,0,1,Import,454,Malawi,MWI,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2,,,,45,,939,,,0
+H4,2016,2016,2016,4,0,2,Export,454,Malawi,MWI,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12,,,,15,,83,,,0
+H4,2017,2017,2017,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,325156,,,2
+H4,2017,2017,2017,4,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,33,,,,2825,,675,,,0
+H4,2017,2017,2017,4,0,1,Import,454,Malawi,MWI,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13,,,,47,,60,,,0
+H4,2017,2017,2017,4,0,2,Export,454,Malawi,MWI,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5,,,,50,,287,,,0
+H4,2017,2017,2017,4,0,1,Import,454,Malawi,MWI,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6720,,,,1500,,679,,,0
+H4,2017,2017,2017,4,0,1,Import,454,Malawi,MWI,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6302,,,,3233,,43060,,,0
+H4,2017,2017,2017,4,0,1,Import,454,Malawi,MWI,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10,,,,72,,137,,,0
+H4,2017,2017,2017,4,0,1,Import,454,Malawi,MWI,440,Lithuania,LTU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8,,,,59,,106,,,0
+H4,2017,2017,2017,4,0,1,Import,454,Malawi,MWI,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,308,,,,1452,,337,,,0
+H4,2017,2017,2017,4,0,1,Import,454,Malawi,MWI,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,844,,,,4017,,10390,,,2
+H4,2017,2017,2017,4,0,1,Import,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,263199,,,2
+H4,2017,2017,2017,4,0,2,Export,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15,,,,20,,27,,,0
+H4,2017,2017,2017,4,0,1,Import,454,Malawi,MWI,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,226,,,,235,,856,,,0
+H4,2017,2017,2017,4,0,1,Import,454,Malawi,MWI,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4420,,,,1452,,6145,,,0
+H4,2017,2017,2017,4,0,1,Import,454,Malawi,MWI,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,50,,,,250,,166,,,0
+H4,2017,2017,2017,4,0,2,Export,454,Malawi,MWI,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13,,,,2755,,360,,,0
+H4,2017,2017,2017,4,0,1,Import,454,Malawi,MWI,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3,,,,15,,16,,,0
+H4,2018,2018,2018,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,367310,,,0
+H4,2018,2018,2018,4,0,1,Import,454,Malawi,MWI,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13,,,,63,,32,,,0
+H4,2018,2018,2018,4,0,1,Import,454,Malawi,MWI,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13386,,,,4758,,58264,,,0
+H4,2018,2018,2018,4,0,1,Import,454,Malawi,MWI,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,51,,,,3291,,1687,,,0
+H4,2018,2018,2018,4,0,1,Import,454,Malawi,MWI,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,78,,,,1698,,10642,,,0
+H4,2018,2018,2018,4,0,1,Import,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,296587,,,0
+H4,2018,2018,2018,4,0,1,Import,454,Malawi,MWI,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12,,,,120,,96,,,0
+H5,2020,2020,2020,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,86530,,,,244184,,340566,,,2
+H5,2020,2020,2020,4,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,84,,,,185,,477,,,0
+H5,2020,2020,2020,4,0,1,Import,454,Malawi,MWI,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10200,,,,114200,,74264,,,0
+H5,2020,2020,2020,4,0,1,Import,454,Malawi,MWI,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,55,,,,65,,276,,,2
+H5,2020,2020,2020,4,0,1,Import,454,Malawi,MWI,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9,,,,9,,34,,,2
+H5,2020,2020,2020,4,0,1,Import,454,Malawi,MWI,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,23,,,,1560,,665,,,0
+H5,2020,2020,2020,4,0,1,Import,454,Malawi,MWI,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18,,,,18,,126,,,2
+H5,2020,2020,2020,4,0,1,Import,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,76216,,,,128241,,265013,,,2
+H5,2020,2020,2020,4,0,2,Export,454,Malawi,MWI,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,84,,,,185,,477,,,0
+H5,2020,2020,2020,4,0,1,Import,454,Malawi,MWI,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9,,,,90,,186,,,0

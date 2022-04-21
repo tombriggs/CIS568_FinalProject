@@ -1,0 +1,924 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2002,2002,2002,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,34395670,,,,34395670,,65821155,,,4
+H2,2002,2002,2002,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1385070,,,,1385070,,3076306,,,4
+H2,2002,2002,2002,4,0,1,Import,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,442155,,,,442155,,1344314,,,4
+H2,2002,2002,2002,4,0,1,Import,484,Mexico,MEX,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,31322,,,,31322,,197876,,,4
+H2,2002,2002,2002,4,0,1,Import,484,Mexico,MEX,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2469,,,,2469,,15058,,,4
+H2,2002,2002,2002,4,0,1,Import,484,Mexico,MEX,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,298,,,,298,,3354,,,4
+H2,2002,2002,2002,4,0,2,Export,484,Mexico,MEX,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,32980,,,,32980,,47846,,,4
+H2,2002,2002,2002,4,0,1,Import,484,Mexico,MEX,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4525,,,,4525,,8404,,,4
+H2,2002,2002,2002,4,0,1,Import,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,360,,,,360,,10404,,,4
+H2,2002,2002,2002,4,0,2,Export,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,44406,,,,44406,,120147,,,4
+H2,2002,2002,2002,4,0,1,Import,484,Mexico,MEX,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7173526,,,,7173526,,14035794,,,4
+H2,2002,2002,2002,4,0,1,Import,484,Mexico,MEX,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,333,,,,333,,5988,,,4
+H2,2002,2002,2002,4,0,2,Export,484,Mexico,MEX,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,250,,,,250,,5871,,,4
+H2,2002,2002,2002,4,0,1,Import,484,Mexico,MEX,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3927,,,,3927,,11648,,,4
+H2,2002,2002,2002,4,0,2,Export,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,51714,,,,51714,,146635,,,4
+H2,2002,2002,2002,4,0,1,Import,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2501472,,,,2501472,,15023081,,,4
+H2,2002,2002,2002,4,0,2,Export,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,331164,,,,331164,,484394,,,4
+H2,2002,2002,2002,4,0,1,Import,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2579640,,,,2579640,,4079209,,,4
+H2,2002,2002,2002,4,0,2,Export,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,451542,,,,451542,,595642,,,4
+H2,2002,2002,2002,4,0,1,Import,484,Mexico,MEX,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1189,,,,1189,,3794,,,4
+H2,2002,2002,2002,4,0,2,Export,484,Mexico,MEX,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1602,,,,1602,,50055,,,4
+H2,2002,2002,2002,4,0,2,Export,484,Mexico,MEX,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1698,,,,1698,,6569,,,4
+H2,2002,2002,2002,4,0,1,Import,484,Mexico,MEX,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7422,,,,7422,,38811,,,4
+H2,2002,2002,2002,4,0,1,Import,484,Mexico,MEX,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,900,,,,900,,1442,,,4
+H2,2002,2002,2002,4,0,1,Import,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14161413,,,,14161413,,3841528,,,4
+H2,2002,2002,2002,4,0,2,Export,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9257,,,,9257,,21532,,,4
+H2,2002,2002,2002,4,0,2,Export,484,Mexico,MEX,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,32180,,,,32180,,129901,,,4
+H2,2002,2002,2002,4,0,2,Export,484,Mexico,MEX,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9450,,,,9450,,24150,,,4
+H2,2002,2002,2002,4,0,1,Import,484,Mexico,MEX,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1026,,,,1026,,8594,,,4
+H2,2002,2002,2002,4,0,2,Export,484,Mexico,MEX,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16200,,,,16200,,2520,,,4
+H2,2002,2002,2002,4,0,2,Export,484,Mexico,MEX,558,Nicaragua,NIC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,414,,,,414,,1100,,,4
+H2,2002,2002,2002,4,0,1,Import,484,Mexico,MEX,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20445,,,,20445,,145877,,,4
+H2,2002,2002,2002,4,0,2,Export,484,Mexico,MEX,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36043,,,,36043,,103590,,,4
+H2,2002,2002,2002,4,0,2,Export,484,Mexico,MEX,579,Norway,NOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18090,,,,18090,,46120,,,4
+H2,2002,2002,2002,4,0,1,Import,484,Mexico,MEX,604,Peru,PER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,324,,,,324,,2606,,,4
+H2,2002,2002,2002,4,0,1,Import,484,Mexico,MEX,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,196,,,,196,,1249,,,4
+H2,2002,2002,2002,4,0,1,Import,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,449213,,,,449213,,875778,,,4
+H2,2002,2002,2002,4,0,1,Import,484,Mexico,MEX,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,81,,,,81,,3340,,,4
+H2,2002,2002,2002,4,0,2,Export,484,Mexico,MEX,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1107,,,,1107,,6636,,,4
+H2,2002,2002,2002,4,0,2,Export,484,Mexico,MEX,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,39450,,,,39450,,100340,,,4
+H2,2002,2002,2002,4,0,1,Import,484,Mexico,MEX,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9216,,,,9216,,41479,,,4
+H2,2002,2002,2002,4,0,1,Import,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5014214,,,,5014214,,20425078,,,4
+H2,2002,2002,2002,4,0,2,Export,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6039,,,,6039,,15621,,,4
+H2,2002,2002,2002,4,0,1,Import,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1659,,,,1659,,19982,,,4
+H2,2002,2002,2002,4,0,2,Export,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17132,,,,17132,,81808,,,4
+H2,2002,2002,2002,4,0,1,Import,484,Mexico,MEX,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,711,,,,711,,3943,,,4
+H2,2002,2002,2002,4,0,1,Import,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6551,,,,6551,,60966,,,4
+H2,2002,2002,2002,4,0,2,Export,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,43506,,,,43506,,104843,,,4
+H2,2002,2002,2002,4,0,1,Import,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1970491,,,,1970491,,5551240,,,4
+H2,2002,2002,2002,4,0,2,Export,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,236079,,,,236079,,930113,,,4
+H2,2002,2002,2002,4,0,1,Import,484,Mexico,MEX,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10409,,,,10409,,51351,,,4
+H2,2002,2002,2002,4,0,1,Import,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,183,,,,183,,8967,,,4
+H2,2002,2002,2002,4,0,2,Export,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4767,,,,4767,,50873,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22691521,,,,22691521,,76069585,,,4
+H2,2003,2003,2003,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1031141,,,,1031141,,2536779,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1674335,,,,1674335,,2245661,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,51440,,,,51440,,298531,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1139,,,,1139,,6345,,,4
+H2,2003,2003,2003,4,0,2,Export,484,Mexico,MEX,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,58553,,,,58553,,72296,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5472,,,,5472,,12123,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1927,,,,1927,,25051,,,4
+H2,2003,2003,2003,4,0,2,Export,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23400,,,,23400,,82356,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6594263,,,,6594263,,14530637,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,146,,,,146,,14047,,,4
+H2,2003,2003,2003,4,0,2,Export,484,Mexico,MEX,191,Croatia,HRV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11340,,,,11340,,23978,,,4
+H2,2003,2003,2003,4,0,2,Export,484,Mexico,MEX,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2822,,,,2822,,12946,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3009,,,,3009,,7674,,,4
+H2,2003,2003,2003,4,0,2,Export,484,Mexico,MEX,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2160,,,,2160,,5171,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,956,,,,956,,9714,,,4
+H2,2003,2003,2003,4,0,2,Export,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9696,,,,9696,,25137,,,4
+H2,2003,2003,2003,4,0,2,Export,484,Mexico,MEX,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4752,,,,4752,,11759,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2463245,,,,2463245,,17914136,,,4
+H2,2003,2003,2003,4,0,2,Export,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,153480,,,,153480,,252204,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2629138,,,,2629138,,4143018,,,4
+H2,2003,2003,2003,4,0,2,Export,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,118524,,,,118524,,240218,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3807,,,,3807,,11877,,,4
+H2,2003,2003,2003,4,0,2,Export,484,Mexico,MEX,340,Honduras,HND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2670,,,,2670,,5500,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10296,,,,10296,,34435,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1323,,,,1323,,6795,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,315,,,,315,,1011,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1346382,,,,1346382,,4903934,,,4
+H2,2003,2003,2003,4,0,2,Export,484,Mexico,MEX,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19836,,,,19836,,63511,,,4
+H2,2003,2003,2003,4,0,2,Export,484,Mexico,MEX,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,108,,,,108,,1052,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,675,,,,675,,4780,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,144,,,,144,,7112,,,4
+H2,2003,2003,2003,4,0,2,Export,484,Mexico,MEX,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,51970,,,,51970,,49371,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,531,,,,531,,6324,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9774,,,,9774,,34583,,,4
+H2,2003,2003,2003,4,0,2,Export,484,Mexico,MEX,579,Norway,NOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9180,,,,9180,,23460,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,604,Peru,PER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,558,,,,558,,4545,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,293431,,,,293431,,832493,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,47,,,,47,,12265,,,4
+H2,2003,2003,2003,4,0,2,Export,484,Mexico,MEX,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,33899,,,,33899,,7712,,,4
+H2,2003,2003,2003,4,0,2,Export,484,Mexico,MEX,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,43200,,,,43200,,75676,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14402,,,,14402,,65574,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5424011,,,,5424011,,25229611,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,689,,,,689,,4797,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1373,,,,1373,,14202,,,4
+H2,2003,2003,2003,4,0,2,Export,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,63768,,,,63768,,133568,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4938,,,,4938,,40969,,,4
+H2,2003,2003,2003,4,0,2,Export,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5645,,,,5645,,117485,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2125954,,,,2125954,,5525533,,,4
+H2,2003,2003,2003,4,0,2,Export,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,398958,,,,398958,,1281121,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27616,,,,27616,,118521,,,4
+H2,2003,2003,2003,4,0,2,Export,484,Mexico,MEX,891,Serbia and Montenegro,SCG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11520,,,,11520,,21680,,,4
+H2,2003,2003,2003,4,0,1,Import,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,185,,,,185,,3287,,,4
+H2,2003,2003,2003,4,0,2,Export,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5660,,,,5660,,30578,,,4
+H2,2004,2004,2004,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22423054,,,,91690569,,86148568,,,0
+H2,2004,2004,2004,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1298774,,,,2412924,,3162761,,,0
+H2,2004,2004,2004,4,0,1,Import,484,Mexico,MEX,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,405,,,,13581,,1897,,,0
+H2,2004,2004,2004,4,0,1,Import,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1168789,,,,3474744,,3190281,,,0
+H2,2004,2004,2004,4,0,1,Import,484,Mexico,MEX,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,103764,,,,323973,,593982,,,0
+H2,2004,2004,2004,4,0,1,Import,484,Mexico,MEX,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8208,,,,15470,,46896,,,0
+H2,2004,2004,2004,4,0,2,Export,484,Mexico,MEX,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10432,,,,19949,,32553,,,0
+H2,2004,2004,2004,4,0,1,Import,484,Mexico,MEX,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4875,,,,17150,,9534,,,0
+H2,2004,2004,2004,4,0,1,Import,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,967,,,,2359,,11243,,,0
+H2,2004,2004,2004,4,0,2,Export,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,43476,,,,93510,,144599,,,0
+H2,2004,2004,2004,4,0,1,Import,484,Mexico,MEX,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6713363,,,,15564108,,17204446,,,0
+H2,2004,2004,2004,4,0,2,Export,484,Mexico,MEX,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,240,,,,9355,,3549,,,0
+H2,2004,2004,2004,4,0,1,Import,484,Mexico,MEX,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,908,,,,2034,,2034,,,0
+H2,2004,2004,2004,4,0,1,Import,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,216,,,,3242,,6269,,,0
+H2,2004,2004,2004,4,0,2,Export,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14665,,,,56453,,51287,,,0
+H2,2004,2004,2004,4,0,1,Import,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2237401,,,,34189332,,17769138,,,0
+H2,2004,2004,2004,4,0,2,Export,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,175411,,,,241901,,327917,,,0
+H2,2004,2004,2004,4,0,1,Import,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2097862,,,,5323502,,3875546,,,0
+H2,2004,2004,2004,4,0,2,Export,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,291760,,,,324347,,364098,,,0
+H2,2004,2004,2004,4,0,1,Import,484,Mexico,MEX,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,529,,,,669,,1985,,,0
+H2,2004,2004,2004,4,0,2,Export,484,Mexico,MEX,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10350,,,,19895,,32775,,,0
+H2,2004,2004,2004,4,0,2,Export,484,Mexico,MEX,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,135,,,,1800,,3322,,,0
+H2,2004,2004,2004,4,0,1,Import,484,Mexico,MEX,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5304,,,,84623,,26840,,,0
+H2,2004,2004,2004,4,0,1,Import,484,Mexico,MEX,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,90,,,,363,,1941,,,0
+H2,2004,2004,2004,4,0,1,Import,484,Mexico,MEX,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1519,,,,3831,,2381,,,0
+H2,2004,2004,2004,4,0,1,Import,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1343658,,,,4776796,,5341058,,,0
+H2,2004,2004,2004,4,0,2,Export,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,26867,,,,7392,,28479,,,0
+H2,2004,2004,2004,4,0,2,Export,484,Mexico,MEX,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9090,,,,17345,,23150,,,0
+H2,2004,2004,2004,4,0,1,Import,484,Mexico,MEX,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,980,,,,1955,,15279,,,0
+H2,2004,2004,2004,4,0,1,Import,484,Mexico,MEX,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,450,,,,13581,,1720,,,0
+H2,2004,2004,2004,4,0,2,Export,484,Mexico,MEX,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,107130,,,,137842,,178224,,,0
+H2,2004,2004,2004,4,0,1,Import,484,Mexico,MEX,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1305,,,,44291,,15183,,,0
+H2,2004,2004,2004,4,0,1,Import,484,Mexico,MEX,579,Norway,NOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,180,,,,380,,3517,,,0
+H2,2004,2004,2004,4,0,1,Import,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,429744,,,,1174890,,1306835,,,0
+H2,2004,2004,2004,4,0,2,Export,484,Mexico,MEX,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1215,,,,2348,,7308,,,0
+H2,2004,2004,2004,4,0,2,Export,484,Mexico,MEX,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23406,,,,40441,,44138,,,0
+H2,2004,2004,2004,4,0,1,Import,484,Mexico,MEX,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16015,,,,52575,,92563,,,0
+H2,2004,2004,2004,4,0,1,Import,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5500761,,,,19908160,,28855758,,,0
+H2,2004,2004,2004,4,0,2,Export,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,33206,,,,84474,,111717,,,0
+H2,2004,2004,2004,4,0,2,Export,484,Mexico,MEX,748,Eswatini,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,37212,,,,79644,,114273,,,0
+H2,2004,2004,2004,4,0,1,Import,484,Mexico,MEX,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,189,,,,38764,,18009,,,0
+H2,2004,2004,2004,4,0,1,Import,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,212,,,,11034,,2206,,,0
+H2,2004,2004,2004,4,0,2,Export,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,40839,,,,87178,,91484,,,0
+H2,2004,2004,2004,4,0,2,Export,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18834,,,,36138,,49552,,,0
+H2,2004,2004,2004,4,0,1,Import,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2739905,,,,6563786,,7562975,,,0
+H2,2004,2004,2004,4,0,2,Export,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,449027,,,,990324,,1522889,,,0
+H2,2004,2004,2004,4,0,1,Import,484,Mexico,MEX,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45455,,,,85376,,189052,,,0
+H2,2004,2004,2004,4,0,2,Export,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5479,,,,162589,,31447,,,0
+H1,2000,2000,2000,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16416198,,,,16416198,,51759897,,,6
+H1,2000,2000,2000,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1598579,,,,1598579,,4504019,,,4
+H1,2000,2000,2000,4,0,1,Import,484,Mexico,MEX,12,Algeria,DZA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1172,,,,1172,,2713,,,4
+H1,2000,2000,2000,4,0,1,Import,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,190976,,,,190976,,818447,,,4
+H1,2000,2000,2000,4,0,2,Export,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10224,,,,10224,,9000,,,4
+H1,2000,2000,2000,4,0,1,Import,484,Mexico,MEX,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5621,,,,5621,,62511,,,4
+H1,2000,2000,2000,4,0,1,Import,484,Mexico,MEX,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,757,,,,757,,5633,,,4
+H1,2000,2000,2000,4,0,1,Import,484,Mexico,MEX,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,144,,,,144,,5223,,,4
+H1,2000,2000,2000,4,0,1,Import,484,Mexico,MEX,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13862,,,,13862,,15886,,,4
+H1,2000,2000,2000,4,0,1,Import,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,22070,,,,22070,,9618,,,4
+H1,2000,2000,2000,4,0,2,Export,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,34560,,,,34560,,96232,,,4
+H1,2000,2000,2000,4,0,1,Import,484,Mexico,MEX,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5675036,,,,5675036,,12484164,,,4
+H1,2000,2000,2000,4,0,2,Export,484,Mexico,MEX,188,Costa Rica,CRI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,47456,,,,47456,,40383,,,4
+H1,2000,2000,2000,4,0,1,Import,484,Mexico,MEX,196,Cyprus,CYP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,31050,,,,31050,,107640,,,4
+H1,2000,2000,2000,4,0,1,Import,484,Mexico,MEX,203,Czechia,CZE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7454,,,,7454,,24701,,,4
+H1,2000,2000,2000,4,0,2,Export,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,132157,,,,132157,,341924,,,4
+H1,2000,2000,2000,4,0,1,Import,484,Mexico,MEX,214,Dominican Rep.,DOM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,63,,,,63,,2553,,,4
+H1,2000,2000,2000,4,0,2,Export,484,Mexico,MEX,222,El Salvador,SLV,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,20800,,,,20800,,30078,,,4
+H1,2000,2000,2000,4,0,2,Export,484,Mexico,MEX,246,Finland,FIN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9000,,,,9000,,36000,,,4
+H1,2000,2000,2000,4,0,1,Import,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1942187,,,,1942187,,12409812,,,6
+H1,2000,2000,2000,4,0,2,Export,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,388472,,,,388472,,485911,,,4
+H1,2000,2000,2000,4,0,1,Import,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1918452,,,,1918452,,2959103,,,4
+H1,2000,2000,2000,4,0,2,Export,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,55035,,,,55035,,267718,,,4
+H1,2000,2000,2000,4,0,2,Export,484,Mexico,MEX,320,Guatemala,GTM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,750,,,,750,,1661,,,4
+H1,2000,2000,2000,4,0,2,Export,484,Mexico,MEX,340,Honduras,HND,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5616,,,,5616,,16462,,,4
+H1,2000,2000,2000,4,0,2,Export,484,Mexico,MEX,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2250,,,,2250,,9750,,,4
+H1,2000,2000,2000,4,0,1,Import,484,Mexico,MEX,348,Hungary,HUN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4388,,,,4388,,17654,,,4
+H1,2000,2000,2000,4,0,2,Export,484,Mexico,MEX,352,Iceland,ISL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,20475,,,,20475,,4230,,,4
+H1,2000,2000,2000,4,0,2,Export,484,Mexico,MEX,372,Ireland,IRL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8983,,,,8983,,27900,,,4
+H1,2000,2000,2000,4,0,1,Import,484,Mexico,MEX,376,Israel,ISR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3287,,,,3287,,3306,,,4
+H1,2000,2000,2000,4,0,1,Import,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,895338,,,,895338,,2874072,,,4
+H1,2000,2000,2000,4,0,2,Export,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7650,,,,7650,,15300,,,4
+H1,2000,2000,2000,4,0,1,Import,484,Mexico,MEX,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,162,,,,162,,5154,,,4
+H1,2000,2000,2000,4,0,2,Export,484,Mexico,MEX,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7546,,,,7546,,20814,,,4
+H1,2000,2000,2000,4,0,1,Import,484,Mexico,MEX,442,Luxembourg,LUX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,351,,,,351,,1567,,,4
+H1,2000,2000,2000,4,0,1,Import,484,Mexico,MEX,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,900,,,,900,,20718,,,4
+H1,2000,2000,2000,4,0,2,Export,484,Mexico,MEX,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,143147,,,,143147,,157461,,,4
+H1,2000,2000,2000,4,0,1,Import,484,Mexico,MEX,568,"Other Europe, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5196,,,,5196,,11237,,,4
+H1,2000,2000,2000,4,0,2,Export,484,Mexico,MEX,579,Norway,NOR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9000,,,,9000,,23000,,,4
+H1,2000,2000,2000,4,0,1,Import,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,193678,,,,193678,,596848,,,4
+H1,2000,2000,2000,4,0,1,Import,484,Mexico,MEX,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12618,,,,12618,,32920,,,4
+H1,2000,2000,2000,4,0,1,Import,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3126914,,,,3126914,,13990695,,,4
+H1,2000,2000,2000,4,0,2,Export,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10098,,,,10098,,40498,,,4
+H1,2000,2000,2000,4,0,1,Import,484,Mexico,MEX,752,Sweden,SWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,720,,,,720,,2239,,,4
+H1,2000,2000,2000,4,0,2,Export,484,Mexico,MEX,752,Sweden,SWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,30,,,,30,,96,,,4
+H1,2000,2000,2000,4,0,1,Import,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,450,,,,450,,2793,,,4
+H1,2000,2000,2000,4,0,2,Export,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,67896,,,,67896,,132501,,,4
+H1,2000,2000,2000,4,0,1,Import,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6575,,,,6575,,85914,,,4
+H1,2000,2000,2000,4,0,2,Export,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,198193,,,,198193,,532507,,,4
+H1,2000,2000,2000,4,0,1,Import,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2341015,,,,2341015,,5151868,,,4
+H1,2000,2000,2000,4,0,2,Export,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,409987,,,,409987,,2148606,,,4
+H1,2000,2000,2000,4,0,1,Import,484,Mexico,MEX,858,Uruguay,URY,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15764,,,,15764,,54908,,,4
+H1,2000,2000,2000,4,0,2,Export,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9252,,,,9252,,65987,,,4
+H1,2001,2001,2001,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,22565543,,,,22565543,,62962735,,,4
+H1,2001,2001,2001,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1865032,,,,1865032,,4501048,,,4
+H1,2001,2001,2001,4,0,1,Import,484,Mexico,MEX,12,Algeria,DZA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,216,,,,216,,1383,,,4
+H1,2001,2001,2001,4,0,1,Import,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,406188,,,,406188,,1151653,,,4
+H1,2001,2001,2001,4,0,1,Import,484,Mexico,MEX,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,26964,,,,26964,,177341,,,4
+H1,2001,2001,2001,4,0,2,Export,484,Mexico,MEX,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1350,,,,1350,,7200,,,4
+H1,2001,2001,2001,4,0,2,Export,484,Mexico,MEX,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12111,,,,12111,,54499,,,4
+H1,2001,2001,2001,4,0,1,Import,484,Mexico,MEX,76,Brazil,BRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36,,,,36,,1298,,,4
+H1,2001,2001,2001,4,0,1,Import,484,Mexico,MEX,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4035,,,,4035,,10250,,,4
+H1,2001,2001,2001,4,0,1,Import,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,21881,,,,21881,,8060,,,4
+H1,2001,2001,2001,4,0,2,Export,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,88479,,,,88479,,287222,,,4
+H1,2001,2001,2001,4,0,1,Import,484,Mexico,MEX,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7495015,,,,7495015,,13991911,,,4
+H1,2001,2001,2001,4,0,1,Import,484,Mexico,MEX,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,26,,,,26,,1450,,,4
+H1,2001,2001,2001,4,0,2,Export,484,Mexico,MEX,188,Costa Rica,CRI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,35909,,,,35909,,30479,,,4
+H1,2001,2001,2001,4,0,1,Import,484,Mexico,MEX,203,Czechia,CZE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5006,,,,5006,,14491,,,4
+H1,2001,2001,2001,4,0,2,Export,484,Mexico,MEX,203,Czechia,CZE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12960,,,,12960,,33562,,,4
+H1,2001,2001,2001,4,0,1,Import,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,135,,,,135,,1365,,,4
+H1,2001,2001,2001,4,0,2,Export,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,93847,,,,93847,,175573,,,4
+H1,2001,2001,2001,4,0,2,Export,484,Mexico,MEX,222,El Salvador,SLV,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,23200,,,,23200,,32479,,,4
+H1,2001,2001,2001,4,0,2,Export,484,Mexico,MEX,246,Finland,FIN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13500,,,,13500,,35520,,,4
+H1,2001,2001,2001,4,0,1,Import,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1993274,,,,1993274,,12834338,,,4
+H1,2001,2001,2001,4,0,2,Export,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,414368,,,,414368,,601129,,,4
+H1,2001,2001,2001,4,0,1,Import,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3450591,,,,3450591,,5417720,,,4
+H1,2001,2001,2001,4,0,2,Export,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,350973,,,,350973,,540820,,,4
+H1,2001,2001,2001,4,0,1,Import,484,Mexico,MEX,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8703,,,,8703,,37740,,,4
+H1,2001,2001,2001,4,0,2,Export,484,Mexico,MEX,320,Guatemala,GTM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10350,,,,10350,,32775,,,4
+H1,2001,2001,2001,4,0,1,Import,484,Mexico,MEX,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3520,,,,3520,,5402,,,4
+H1,2001,2001,2001,4,0,2,Export,484,Mexico,MEX,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1980,,,,1980,,9975,,,4
+H1,2001,2001,2001,4,0,1,Import,484,Mexico,MEX,348,Hungary,HUN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,21566,,,,21566,,72332,,,4
+H1,2001,2001,2001,4,0,2,Export,484,Mexico,MEX,372,Ireland,IRL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7488,,,,7488,,20220,,,4
+H1,2001,2001,2001,4,0,1,Import,484,Mexico,MEX,376,Israel,ISR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5924,,,,5924,,12617,,,4
+H1,2001,2001,2001,4,0,1,Import,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1308693,,,,1308693,,3772848,,,4
+H1,2001,2001,2001,4,0,2,Export,484,Mexico,MEX,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18000,,,,18000,,63925,,,4
+H1,2001,2001,2001,4,0,2,Export,484,Mexico,MEX,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,133273,,,,133273,,202741,,,4
+H1,2001,2001,2001,4,0,1,Import,484,Mexico,MEX,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,200,,,,200,,1272,,,4
+H1,2001,2001,2001,4,0,2,Export,484,Mexico,MEX,558,Nicaragua,NIC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1159,,,,1159,,3080,,,4
+H1,2001,2001,2001,4,0,1,Import,484,Mexico,MEX,568,"Other Europe, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,14112,,,,14112,,48749,,,4
+H1,2001,2001,2001,4,0,2,Export,484,Mexico,MEX,568,"Other Europe, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,19035,,,,19035,,52700,,,4
+H1,2001,2001,2001,4,0,2,Export,484,Mexico,MEX,579,Norway,NOR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9000,,,,9000,,23000,,,4
+H1,2001,2001,2001,4,0,1,Import,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,341172,,,,341172,,784373,,,4
+H1,2001,2001,2001,4,0,2,Export,484,Mexico,MEX,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1014,,,,1014,,5815,,,4
+H1,2001,2001,2001,4,0,1,Import,484,Mexico,MEX,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18927,,,,18927,,69593,,,4
+H1,2001,2001,2001,4,0,1,Import,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5458859,,,,5458859,,19573978,,,4
+H1,2001,2001,2001,4,0,2,Export,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13149,,,,13149,,34361,,,4
+H1,2001,2001,2001,4,0,2,Export,484,Mexico,MEX,752,Sweden,SWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,990,,,,990,,5056,,,4
+H1,2001,2001,2001,4,0,1,Import,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2045,,,,2045,,12359,,,4
+H1,2001,2001,2001,4,0,2,Export,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16341,,,,16341,,98161,,,4
+H1,2001,2001,2001,4,0,1,Import,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9035,,,,9035,,108352,,,4
+H1,2001,2001,2001,4,0,2,Export,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,90268,,,,90268,,201792,,,4
+H1,2001,2001,2001,4,0,1,Import,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1956559,,,,1956559,,4792434,,,4
+H1,2001,2001,2001,4,0,2,Export,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,490105,,,,490105,,1859976,,,4
+H1,2001,2001,2001,4,0,1,Import,484,Mexico,MEX,858,Uruguay,URY,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12861,,,,12861,,59426,,,4
+H1,2001,2001,2001,4,0,2,Export,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6183,,,,6183,,88988,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,48001782,,,,48001782,,177531858,,,4
+H3,2008,2008,2008,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,757765,,,,757765,,3076281,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,378,,,,378,,959,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4257825,,,,4257825,,12647274,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,412002,,,,412002,,2167422,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2958,,,,2958,,16421,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,24,,,,24,,130,,,4
+H3,2008,2008,2008,4,0,2,Export,484,Mexico,MEX,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,153675,,,,153675,,189666,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5,,,,5,,88,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2938,,,,2938,,80968,,,4
+H3,2008,2008,2008,4,0,2,Export,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,21484,,,,21484,,107809,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,21115365,,,,21115365,,34112094,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,342,,,,342,,1783,,,4
+H3,2008,2008,2008,4,0,2,Export,484,Mexico,MEX,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10350,,,,10350,,35650,,,4
+H3,2008,2008,2008,4,0,2,Export,484,Mexico,MEX,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,281,,,,281,,4700,,,4
+H3,2008,2008,2008,4,0,2,Export,484,Mexico,MEX,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5400,,,,5400,,18000,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2605720,,,,2605720,,36040523,,,4
+H3,2008,2008,2008,4,0,2,Export,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18011,,,,18011,,53444,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1580583,,,,1580583,,4753065,,,4
+H3,2008,2008,2008,4,0,2,Export,484,Mexico,MEX,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,11150,,,,11150,,33691,,,4
+H3,2008,2008,2008,4,0,2,Export,484,Mexico,MEX,340,Honduras,HND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,720,,,,720,,874,,,4
+H3,2008,2008,2008,4,0,2,Export,484,Mexico,MEX,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,396,,,,396,,5782,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2740,,,,2740,,48608,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18207,,,,18207,,94965,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4048213,,,,4048213,,16825340,,,4
+H3,2008,2008,2008,4,0,2,Export,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7138,,,,7138,,20618,,,4
+H3,2008,2008,2008,4,0,2,Export,484,Mexico,MEX,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,59598,,,,59598,,213431,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9603,,,,9603,,54779,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,498,Rep. of Moldova,MDA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2250,,,,2250,,11724,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1800,,,,1800,,11585,,,4
+H3,2008,2008,2008,4,0,2,Export,484,Mexico,MEX,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,20430,,,,20430,,58550,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,34502,,,,34502,,331816,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,604,Peru,PER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1,,,,1,,15,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,448886,,,,448886,,1835326,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,437,,,,437,,2811,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1,,,,1,,15,,,4
+H3,2008,2008,2008,4,0,2,Export,484,Mexico,MEX,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,122,,,,122,,1620,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,123920,,,,123920,,485163,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10413138,,,,10413138,,56686450,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,365,,,,365,,2052,,,4
+H3,2008,2008,2008,4,0,2,Export,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,11947,,,,11947,,45088,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,810,,,,810,,5797,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2,,,,2,,44,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15555,,,,15555,,181082,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2818526,,,,2818526,,10701291,,,4
+H3,2008,2008,2008,4,0,2,Export,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,405966,,,,405966,,1615452,,,4
+H3,2008,2008,2008,4,0,1,Import,484,Mexico,MEX,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,84686,,,,84686,,432268,,,4
+H3,2008,2008,2008,4,0,2,Export,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,31097,,,,31097,,671906,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,38578669,,,,38578669,,144320697,,,4
+H3,2009,2009,2009,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2362641,,,,2362641,,3733321,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,873,,,,873,,2195,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3612892,,,,3612892,,13661630,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,374954,,,,374954,,1705738,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9628,,,,9628,,92891,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,190,,,,190,,5054,,,4
+H3,2009,2009,2009,4,0,2,Export,484,Mexico,MEX,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,19258,,,,19258,,64900,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,225,,,,225,,632,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6118,,,,6118,,71761,,,4
+H3,2009,2009,2009,4,0,2,Export,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,350,,,,350,,3607,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,16757567,,,,16757567,,30173036,,,4
+H3,2009,2009,2009,4,0,2,Export,484,Mexico,MEX,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7335,,,,7335,,23380,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,11,,,,11,,271,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1935507,,,,1935507,,24954171,,,4
+H3,2009,2009,2009,4,0,2,Export,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,32782,,,,32782,,123429,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,617931,,,,617931,,2068594,,,4
+H3,2009,2009,2009,4,0,2,Export,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,42,,,,42,,8,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,133402,,,,133402,,147179,,,4
+H3,2009,2009,2009,4,0,2,Export,484,Mexico,MEX,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,21662,,,,21662,,48257,,,4
+H3,2009,2009,2009,4,0,2,Export,484,Mexico,MEX,332,Haiti,HTI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,360,,,,360,,438,,,4
+H3,2009,2009,2009,4,0,2,Export,484,Mexico,MEX,340,Honduras,HND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5100,,,,5100,,6460,,,4
+H3,2009,2009,2009,4,0,2,Export,484,Mexico,MEX,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,27,,,,27,,873,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1223,,,,1223,,50409,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15785,,,,15785,,70383,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4103012,,,,4103012,,15282386,,,4
+H3,2009,2009,2009,4,0,2,Export,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2525,,,,2525,,7286,,,4
+H3,2009,2009,2009,4,0,2,Export,484,Mexico,MEX,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1836414,,,,1836414,,1088353,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6597,,,,6597,,36100,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,498,Rep. of Moldova,MDA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10128,,,,10128,,17304,,,4
+H3,2009,2009,2009,4,0,2,Export,484,Mexico,MEX,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18450,,,,18450,,55850,,,4
+H3,2009,2009,2009,4,0,2,Export,484,Mexico,MEX,530,Neth. Antilles,ANT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,600,,,,600,,1050,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,28270,,,,28270,,248072,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,579,Norway,NOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,244,,,,244,,3202,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,604,Peru,PER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,418,,,,418,,4845,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1944,,,,1944,,9740,,,4
+H3,2009,2009,2009,4,0,2,Export,484,Mexico,MEX,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9900,,,,9900,,25325,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,458776,,,,458776,,1665297,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2241,,,,2241,,11235,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1516,,,,1516,,11859,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,149304,,,,149304,,541441,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7864918,,,,7864918,,45429299,,,4
+H3,2009,2009,2009,4,0,2,Export,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,34,,,,34,,100,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,648,,,,648,,17415,,,4
+H3,2009,2009,2009,4,0,2,Export,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,31722,,,,31722,,59712,,,4
+H3,2009,2009,2009,4,0,2,Export,484,Mexico,MEX,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,960,,,,960,,1460,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,120,,,,120,,870,,,4
+H3,2009,2009,2009,4,0,2,Export,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9005,,,,9005,,24601,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2401597,,,,2401597,,7679980,,,4
+H3,2009,2009,2009,4,0,2,Export,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,349445,,,,349445,,1737655,,,4
+H3,2009,2009,2009,4,0,1,Import,484,Mexico,MEX,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,82630,,,,82630,,357708,,,4
+H3,2009,2009,2009,4,0,2,Export,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,16670,,,,16670,,460577,,,4
+H2,2005,2005,2005,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27104307,,,,27104307,,104718227,,,4
+H2,2005,2005,2005,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1285209,,,,1285209,,2913636,,,4
+H2,2005,2005,2005,4,0,1,Import,484,Mexico,MEX,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1296,,,,1296,,3181,,,4
+H2,2005,2005,2005,4,0,1,Import,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2598719,,,,2598719,,4947460,,,4
+H2,2005,2005,2005,4,0,2,Export,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23,,,,23,,30,,,4
+H2,2005,2005,2005,4,0,1,Import,484,Mexico,MEX,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,203281,,,,203281,,1040601,,,4
+H2,2005,2005,2005,4,0,1,Import,484,Mexico,MEX,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1925,,,,1925,,9745,,,4
+H2,2005,2005,2005,4,0,2,Export,484,Mexico,MEX,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,126525,,,,126525,,137113,,,4
+H2,2005,2005,2005,4,0,1,Import,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1017,,,,1017,,19764,,,4
+H2,2005,2005,2005,4,0,1,Import,484,Mexico,MEX,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7230516,,,,7230516,,19913075,,,4
+H2,2005,2005,2005,4,0,1,Import,484,Mexico,MEX,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27,,,,27,,950,,,4
+H2,2005,2005,2005,4,0,1,Import,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,64,,,4
+H2,2005,2005,2005,4,0,2,Export,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9900,,,,9900,,25400,,,4
+H2,2005,2005,2005,4,0,1,Import,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2321315,,,,2321315,,19380657,,,4
+H2,2005,2005,2005,4,0,2,Export,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,117343,,,,117343,,167749,,,4
+H2,2005,2005,2005,4,0,1,Import,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1856193,,,,1856193,,4226652,,,4
+H2,2005,2005,2005,4,0,2,Export,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,363954,,,,363954,,404514,,,4
+H2,2005,2005,2005,4,0,1,Import,484,Mexico,MEX,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4210,,,,4210,,19939,,,4
+H2,2005,2005,2005,4,0,1,Import,484,Mexico,MEX,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7326,,,,7326,,34794,,,4
+H2,2005,2005,2005,4,0,1,Import,484,Mexico,MEX,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,59,,,,59,,666,,,4
+H2,2005,2005,2005,4,0,1,Import,484,Mexico,MEX,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2424,,,,2424,,8214,,,4
+H2,2005,2005,2005,4,0,1,Import,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1685208,,,,1685208,,6984664,,,4
+H2,2005,2005,2005,4,0,2,Export,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4208,,,,4208,,13883,,,4
+H2,2005,2005,2005,4,0,2,Export,484,Mexico,MEX,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11312,,,,11312,,55642,,,4
+H2,2005,2005,2005,4,0,1,Import,484,Mexico,MEX,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,585,,,,585,,4371,,,4
+H2,2005,2005,2005,4,0,1,Import,484,Mexico,MEX,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18,,,,18,,670,,,4
+H2,2005,2005,2005,4,0,1,Import,484,Mexico,MEX,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,437,,,,437,,5905,,,4
+H2,2005,2005,2005,4,0,2,Export,484,Mexico,MEX,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,32463,,,,32463,,47043,,,4
+H2,2005,2005,2005,4,0,1,Import,484,Mexico,MEX,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1499,,,,1499,,18713,,,4
+H2,2005,2005,2005,4,0,1,Import,484,Mexico,MEX,579,Norway,NOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,296,,,,296,,5011,,,4
+H2,2005,2005,2005,4,0,1,Import,484,Mexico,MEX,604,Peru,PER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,140,,,4
+H2,2005,2005,2005,4,0,1,Import,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,855027,,,,855027,,1491288,,,4
+H2,2005,2005,2005,4,0,1,Import,484,Mexico,MEX,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14,,,,14,,33,,,4
+H2,2005,2005,2005,4,0,2,Export,484,Mexico,MEX,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,486,,,,486,,5784,,,4
+H2,2005,2005,2005,4,0,2,Export,484,Mexico,MEX,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,70788,,,,70788,,139529,,,4
+H2,2005,2005,2005,4,0,1,Import,484,Mexico,MEX,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23432,,,,23432,,127824,,,4
+H2,2005,2005,2005,4,0,1,Import,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7329577,,,,7329577,,37677406,,,4
+H2,2005,2005,2005,4,0,2,Export,484,Mexico,MEX,748,Eswatini,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5400,,,,5400,,25215,,,4
+H2,2005,2005,2005,4,0,1,Import,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,650,,,,650,,11196,,,4
+H2,2005,2005,2005,4,0,2,Export,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,54048,,,,54048,,130176,,,4
+H2,2005,2005,2005,4,0,1,Import,484,Mexico,MEX,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45,,,,45,,404,,,4
+H2,2005,2005,2005,4,0,2,Export,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9612,,,,9612,,46138,,,4
+H2,2005,2005,2005,4,0,1,Import,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2922265,,,,2922265,,8545098,,,4
+H2,2005,2005,2005,4,0,2,Export,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,462768,,,,462768,,1649526,,,4
+H2,2005,2005,2005,4,0,1,Import,484,Mexico,MEX,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,56928,,,,56928,,239742,,,4
+H2,2005,2005,2005,4,0,2,Export,484,Mexico,MEX,862,Venezuela,VEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18,,,,18,,840,,,4
+H2,2005,2005,2005,4,0,2,Export,484,Mexico,MEX,891,Serbia and Montenegro,SCG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10770,,,,10770,,20540,,,4
+H2,2005,2005,2005,4,0,2,Export,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5591,,,,5591,,44514,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,33611461,,,,33611461,,127074870,,,4
+H2,2006,2006,2006,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,871888,,,,871888,,2842759,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1197,,,,1197,,2991,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4772408,,,,4772408,,8506359,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,318978,,,,318978,,1413830,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19116,,,,19116,,85074,,,4
+H2,2006,2006,2006,4,0,2,Export,484,Mexico,MEX,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11109,,,,11109,,41458,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,70,Bosnia Herzegovina,BIH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,329,,,,329,,11168,,,4
+H2,2006,2006,2006,4,0,2,Export,484,Mexico,MEX,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,32,,,,32,,42,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,360,,,,360,,1719,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,779,,,,779,,22297,,,4
+H2,2006,2006,2006,4,0,2,Export,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3600,,,,3600,,15400,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9283317,,,,9283317,,25675650,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,243,,,,243,,1731,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18,,,,18,,188,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,266,,,,266,,6693,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2387231,,,,2387231,,23258473,,,4
+H2,2006,2006,2006,4,0,2,Export,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,87686,,,,87686,,185871,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1401343,,,,1401343,,3407897,,,4
+H2,2006,2006,2006,4,0,2,Export,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,161720,,,,161720,,186622,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,84648,,,,84648,,60306,,,4
+H2,2006,2006,2006,4,0,2,Export,484,Mexico,MEX,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10350,,,,10350,,32775,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,332,Haiti,HTI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4410,,,,4410,,7210,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4052,,,,4052,,44119,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11373,,,,11373,,25779,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2401087,,,,2401087,,9430245,,,4
+H2,2006,2006,2006,4,0,2,Export,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2826,,,,2826,,8514,,,4
+H2,2006,2006,2006,4,0,2,Export,484,Mexico,MEX,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18159,,,,18159,,77895,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2660,,,,2660,,20618,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,283,,,,283,,1322,,,4
+H2,2006,2006,2006,4,0,2,Export,484,Mexico,MEX,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,39228,,,,39228,,73410,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11053,,,,11053,,81330,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,604,Peru,PER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,210,,,,210,,834,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,494152,,,,494152,,1477592,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2115,,,,2115,,9454,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,47097,,,,47097,,205388,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9510771,,,,9510771,,44811053,,,4
+H2,2006,2006,2006,4,0,2,Export,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,201,,,,201,,1186,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,432,,,,432,,13702,,,4
+H2,2006,2006,2006,4,0,2,Export,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13923,,,,13923,,85816,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,306,,,,306,,3048,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2803762,,,,2803762,,8247979,,,4
+H2,2006,2006,2006,4,0,2,Export,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,515903,,,,515903,,2005164,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,46583,,,,46583,,236992,,,4
+H2,2006,2006,2006,4,0,1,Import,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,882,,,,882,,3829,,,4
+H2,2006,2006,2006,4,0,2,Export,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7151,,,,7151,,128606,,,4
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,38445852,,,,38445852,,144093989,,,6
+H2,2007,2007,2007,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,749889,,,,749889,,2713835,,,6
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,720,,,,720,,1809,,,4
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4977232,,,,4977232,,11515361,,,6
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,399312,,,,399312,,1941906,,,4
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2898,,,,2898,,18440,,,4
+H2,2007,2007,2007,4,0,2,Export,484,Mexico,MEX,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,24831,,,,24831,,73975,,,4
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,68,Bolivia (Plurinational State of),BOL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,72,,,,72,,96,,,4
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2677,,,,2677,,19391,,,4
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1091,,,,1091,,52124,,,4
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13753464,,,,13753464,,29293695,,,4
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,450,,,,450,,2587,,,4
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,124,,,,124,,719,,,4
+H2,2007,2007,2007,4,0,2,Export,484,Mexico,MEX,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,600,,,,600,,962,,,4
+H2,2007,2007,2007,4,0,2,Export,484,Mexico,MEX,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,53,,,,53,,585,,,4
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,705,,,,705,,5257,,,4
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9900,,,,9900,,26680,,,4
+H2,2007,2007,2007,4,0,2,Export,484,Mexico,MEX,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6480,,,,6480,,21600,,,4
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2538032,,,,2538032,,27139701,,,6
+H2,2007,2007,2007,4,0,2,Export,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,63604,,,,63604,,144369,,,4
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1385953,,,,1385953,,3606849,,,4
+H2,2007,2007,2007,4,0,2,Export,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,56699,,,,56699,,78905,,,4
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,100500,,,,100500,,88844,,,4
+H2,2007,2007,2007,4,0,2,Export,484,Mexico,MEX,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10350,,,,10350,,32775,,,4
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6761,,,,6761,,44932,,,4
+H2,2007,2007,2007,4,0,2,Export,484,Mexico,MEX,352,Iceland,ISL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,38,,,,38,,116,,,4
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,549,,,,549,,12991,,,4
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9492,,,,9492,,34532,,,4
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3381565,,,,3381565,,13662590,,,6
+H2,2007,2007,2007,4,0,2,Export,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1800,,,,1800,,5400,,,4
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27,,,,27,,409,,,4
+H2,2007,2007,2007,4,0,2,Export,484,Mexico,MEX,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,132384,,,,132384,,207170,,,4
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,490,,,,490,,5384,,,4
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,720,,,,720,,3732,,,4
+H2,2007,2007,2007,4,0,2,Export,484,Mexico,MEX,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18900,,,,18900,,56950,,,4
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23113,,,,23113,,208295,,,4
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3600,,,,3600,,6706,,,4
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,604,Peru,PER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,78,,,,78,,1204,,,4
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,533560,,,,533560,,2102360,,,4
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,69414,,,,69414,,269672,,,4
+H2,2007,2007,2007,4,0,2,Export,484,Mexico,MEX,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,108,,,,108,,72,,,4
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8895158,,,,8895158,,44819369,,,6
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,318,,,,318,,6148,,,4
+H2,2007,2007,2007,4,0,2,Export,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12951,,,,12951,,53167,,,4
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18,,,,18,,139,,,4
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2249018,,,,2249018,,8804675,,,4
+H2,2007,2007,2007,4,0,2,Export,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,356949,,,,356949,,1335221,,,4
+H2,2007,2007,2007,4,0,1,Import,484,Mexico,MEX,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,98841,,,,98841,,397392,,,4
+H2,2007,2007,2007,4,0,2,Export,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,64142,,,,64142,,702568,,,6
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,44034263,,,,44034263,,190619582,,,4
+H4,2012,2012,2012,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1176615,,,,1176615,,5347523,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1845,,,,1845,,5100,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4321147,,,,4321147,,17773506,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,359946,,,,359946,,1655602,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2259,,,,2259,,28587,,,4
+H4,2012,2012,2012,4,0,2,Export,484,Mexico,MEX,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36458,,,,36458,,113855,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1390,,,,1390,,8578,,,4
+H4,2012,2012,2012,4,0,2,Export,484,Mexico,MEX,84,Belize,BLZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1297,,,,1297,,43198,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2039,,,,2039,,15849,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4371,,,,4371,,79757,,,4
+H4,2012,2012,2012,4,0,2,Export,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,109882,,,,109882,,583815,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11224797,,,,11224797,,33823984,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,279,,,,279,,2136,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45,,,,45,,609,,,4
+H4,2012,2012,2012,4,0,2,Export,484,Mexico,MEX,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1104,,,,1104,,1862,,,4
+H4,2012,2012,2012,4,0,2,Export,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36243,,,,36243,,136057,,,4
+H4,2012,2012,2012,4,0,2,Export,484,Mexico,MEX,222,El Salvador,SLV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6638,,,,6638,,13087,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2590949,,,,2590949,,34741841,,,4
+H4,2012,2012,2012,4,0,2,Export,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,38611,,,,38611,,145146,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,973568,,,,973568,,3150933,,,4
+H4,2012,2012,2012,4,0,2,Export,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,96000,,,,96000,,99360,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,97967,,,,97967,,163623,,,4
+H4,2012,2012,2012,4,0,2,Export,484,Mexico,MEX,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24486,,,,24486,,42094,,,4
+H4,2012,2012,2012,4,0,2,Export,484,Mexico,MEX,332,Haiti,HTI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2400,,,,2400,,2999,,,4
+H4,2012,2012,2012,4,0,2,Export,484,Mexico,MEX,340,Honduras,HND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11700,,,,11700,,15614,,,4
+H4,2012,2012,2012,4,0,2,Export,484,Mexico,MEX,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,413,,,,413,,5143,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1503,,,,1503,,68067,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,116,,,,116,,2600,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17331,,,,17331,,125535,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7525942,,,,7525942,,25674275,,,4
+H4,2012,2012,2012,4,0,2,Export,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5,,,,5,,9,,,4
+H4,2012,2012,2012,4,0,2,Export,484,Mexico,MEX,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,497094,,,,497094,,2030029,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,63,,,,63,,652,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9100,,,,9100,,61679,,,4
+H4,2012,2012,2012,4,0,2,Export,484,Mexico,MEX,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14108,,,,14108,,56702,,,4
+H4,2012,2012,2012,4,0,2,Export,484,Mexico,MEX,531,Curaçao,CUW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90,,,,90,,205,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,26836,,,,26836,,245821,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14,,,,14,,941,,,4
+H4,2012,2012,2012,4,0,2,Export,484,Mexico,MEX,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3926,,,,3926,,5399,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,604,Peru,PER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,68,,,,68,,1297,,,4
+H4,2012,2012,2012,4,0,2,Export,484,Mexico,MEX,604,Peru,PER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,270,,,,270,,2829,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,344014,,,,344014,,1572757,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6570,,,,6570,,31990,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,646,Rwanda,RWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,67,,,,67,,518,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9779,,,,9779,,48492,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,142608,,,,142608,,524577,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13208240,,,,13208240,,58942998,,,4
+H4,2012,2012,2012,4,0,2,Export,484,Mexico,MEX,748,Eswatini,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7038,,,,7038,,27742,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,155,,,,155,,2456,,,4
+H4,2012,2012,2012,4,0,2,Export,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6795,,,,6795,,25662,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7201,,,,7201,,14385,,,4
+H4,2012,2012,2012,4,0,2,Export,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19440,,,,19440,,56096,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3047768,,,,3047768,,11327900,,,4
+H4,2012,2012,2012,4,0,2,Export,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,232304,,,,232304,,909126,,,4
+H4,2012,2012,2012,4,0,1,Import,484,Mexico,MEX,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,106286,,,,106286,,522537,,,4
+H4,2012,2012,2012,4,0,2,Export,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,30313,,,,30313,,1031494,,,4
+H4,2013,2013,2013,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,53685207,,,,53685207,,218599868,,,4
+H4,2013,2013,2013,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1132019,,,,1132019,,4675551,,,4
+H4,2013,2013,2013,4,0,1,Import,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7003362,,,,7003362,,22243483,,,4
+H4,2013,2013,2013,4,0,2,Export,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,64,,,,64,,494,,,4
+H4,2013,2013,2013,4,0,1,Import,484,Mexico,MEX,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,357241,,,,357241,,1647577,,,4
+H4,2013,2013,2013,4,0,2,Export,484,Mexico,MEX,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,621,,,,621,,6058,,,4
+H4,2013,2013,2013,4,0,1,Import,484,Mexico,MEX,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2680,,,,2680,,30214,,,4
+H4,2013,2013,2013,4,0,2,Export,484,Mexico,MEX,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18653,,,,18653,,53804,,,4
+H4,2013,2013,2013,4,0,2,Export,484,Mexico,MEX,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5,,,,5,,30,,,4
+H4,2013,2013,2013,4,0,2,Export,484,Mexico,MEX,84,Belize,BLZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1324,,,,1324,,46544,,,4
+H4,2013,2013,2013,4,0,1,Import,484,Mexico,MEX,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2925,,,,2925,,32801,,,4
+H4,2013,2013,2013,4,0,1,Import,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2133,,,,2133,,78092,,,4
+H4,2013,2013,2013,4,0,2,Export,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,111044,,,,111044,,522015,,,4
+H4,2013,2013,2013,4,0,1,Import,484,Mexico,MEX,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17088381,,,,17088381,,40626893,,,4
+H4,2013,2013,2013,4,0,1,Import,484,Mexico,MEX,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17559,,,,17559,,51865,,,4
+H4,2013,2013,2013,4,0,2,Export,484,Mexico,MEX,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9840,,,,9840,,14143,,,4
+H4,2013,2013,2013,4,0,2,Export,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,35909,,,,35909,,165338,,,4
+H4,2013,2013,2013,4,0,2,Export,484,Mexico,MEX,214,Dominican Rep.,DOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,21,,,,21,,2704,,,4
+H4,2013,2013,2013,4,0,2,Export,484,Mexico,MEX,222,El Salvador,SLV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4261,,,,4261,,10419,,,4
+H4,2013,2013,2013,4,0,1,Import,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2796381,,,,2796381,,41227694,,,4
+H4,2013,2013,2013,4,0,2,Export,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9397,,,,9397,,28016,,,4
+H4,2013,2013,2013,4,0,1,Import,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,721031,,,,721031,,2486117,,,4
+H4,2013,2013,2013,4,0,2,Export,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24972,,,,24972,,29807,,,4
+H4,2013,2013,2013,4,0,1,Import,484,Mexico,MEX,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,122224,,,,122224,,188710,,,4
+H4,2013,2013,2013,4,0,2,Export,484,Mexico,MEX,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,23675,,,,23675,,45330,,,4
+H4,2013,2013,2013,4,0,2,Export,484,Mexico,MEX,340,Honduras,HND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,21600,,,,21600,,29068,,,4
+H4,2013,2013,2013,4,0,2,Export,484,Mexico,MEX,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,373,,,,373,,33517,,,4
+H4,2013,2013,2013,4,0,1,Import,484,Mexico,MEX,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3011,,,,3011,,70782,,,4
+H4,2013,2013,2013,4,0,1,Import,484,Mexico,MEX,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9014,,,,9014,,31477,,,4
+H4,2013,2013,2013,4,0,1,Import,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7901909,,,,7901909,,29637073,,,4
+H4,2013,2013,2013,4,0,2,Export,484,Mexico,MEX,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,592265,,,,592265,,2410437,,,4
+H4,2013,2013,2013,4,0,1,Import,484,Mexico,MEX,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19,,,,19,,453,,,4
+H4,2013,2013,2013,4,0,1,Import,484,Mexico,MEX,498,Rep. of Moldova,MDA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18864,,,,18864,,16800,,,4
+H4,2013,2013,2013,4,0,2,Export,484,Mexico,MEX,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17622,,,,17622,,51349,,,4
+H4,2013,2013,2013,4,0,1,Import,484,Mexico,MEX,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,33163,,,,33163,,284985,,,4
+H4,2013,2013,2013,4,0,2,Export,484,Mexico,MEX,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,189,,,,189,,1229,,,4
+H4,2013,2013,2013,4,0,1,Import,484,Mexico,MEX,579,Norway,NOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,770,,,,770,,10617,,,4
+H4,2013,2013,2013,4,0,2,Export,484,Mexico,MEX,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3020,,,,3020,,4151,,,4
+H4,2013,2013,2013,4,0,1,Import,484,Mexico,MEX,604,Peru,PER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2876,,,,2876,,14148,,,4
+H4,2013,2013,2013,4,0,1,Import,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,361323,,,,361323,,1694308,,,4
+H4,2013,2013,2013,4,0,1,Import,484,Mexico,MEX,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,106,,,,106,,135,,,4
+H4,2013,2013,2013,4,0,1,Import,484,Mexico,MEX,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13931,,,,13931,,67843,,,4
+H4,2013,2013,2013,4,0,1,Import,484,Mexico,MEX,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,83198,,,,83198,,322247,,,4
+H4,2013,2013,2013,4,0,1,Import,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13345433,,,,13345433,,63564750,,,4
+H4,2013,2013,2013,4,0,1,Import,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,353,,,,353,,5787,,,4
+H4,2013,2013,2013,4,0,2,Export,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13770,,,,13770,,60725,,,4
+H4,2013,2013,2013,4,0,1,Import,484,Mexico,MEX,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5,,,,5,,17,,,4
+H4,2013,2013,2013,4,0,1,Import,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3,,,,3,,8,,,4
+H4,2013,2013,2013,4,0,2,Export,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9788,,,,9788,,24499,,,4
+H4,2013,2013,2013,4,0,1,Import,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3580325,,,,3580325,,13661836,,,4
+H4,2013,2013,2013,4,0,2,Export,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,228331,,,,228331,,852708,,,4
+H4,2013,2013,2013,4,0,1,Import,484,Mexico,MEX,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,216987,,,,216987,,603156,,,4
+H4,2013,2013,2013,4,0,2,Export,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5275,,,,5275,,283166,,,4
+H4,2014,2014,2014,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,227862635,,,0
+H4,2014,2014,2014,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,4001022,,,4
+H4,2014,2014,2014,4,0,1,Import,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,22720965,,,0
+H4,2014,2014,2014,4,0,1,Import,484,Mexico,MEX,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,1091876,,,0
+H4,2014,2014,2014,4,0,1,Import,484,Mexico,MEX,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,37252,,,0
+H4,2014,2014,2014,4,0,1,Import,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5769,,,,5769,,68530,,,0
+H4,2014,2014,2014,4,0,1,Import,484,Mexico,MEX,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,36231755,,,0
+H4,2014,2014,2014,4,0,1,Import,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,40042460,,,0
+H4,2014,2014,2014,4,0,1,Import,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,2590051,,,0
+H4,2014,2014,2014,4,0,1,Import,484,Mexico,MEX,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,113645,,,0
+H4,2014,2014,2014,4,0,1,Import,484,Mexico,MEX,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1287,,,,1287,,33885,,,0
+H4,2014,2014,2014,4,0,1,Import,484,Mexico,MEX,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,41068,,,0
+H4,2014,2014,2014,4,0,1,Import,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,34966654,,,0
+H4,2014,2014,2014,4,0,2,Export,484,Mexico,MEX,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,2643803,,,0
+H4,2014,2014,2014,4,0,1,Import,484,Mexico,MEX,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,77950,,,0
+H4,2014,2014,2014,4,0,1,Import,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,1679814,,,0
+H4,2014,2014,2014,4,0,1,Import,484,Mexico,MEX,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,244780,,,0
+H4,2014,2014,2014,4,0,1,Import,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,70698559,,,0
+H4,2014,2014,2014,4,0,1,Import,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,16663164,,,0
+H4,2014,2014,2014,4,0,2,Export,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,898199,,,4
+H4,2014,2014,2014,4,0,1,Import,484,Mexico,MEX,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,560227,,,0
+H4,2014,2014,2014,4,0,2,Export,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,459020,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,43974327,,,,43974327,,161698396,,,4
+H3,2010,2010,2010,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1065884,,,,1065884,,4832855,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,306,,,,306,,735,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4072189,,,,4072189,,15417514,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,445120,,,,445120,,2002227,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2480,,,,2480,,16201,,,4
+H3,2010,2010,2010,4,0,2,Export,484,Mexico,MEX,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,26595,,,,26595,,72810,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,336003,,,,336003,,156270,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2097,,,,2097,,23132,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1640,,,,1640,,46388,,,4
+H3,2010,2010,2010,4,0,2,Export,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,23553,,,,23553,,113834,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15563164,,,,15563164,,33649967,,,4
+H3,2010,2010,2010,4,0,2,Export,484,Mexico,MEX,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,108,,,,108,,111,,,4
+H3,2010,2010,2010,4,0,2,Export,484,Mexico,MEX,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3105,,,,3105,,12398,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,180,,,,180,,560,,,4
+H3,2010,2010,2010,4,0,2,Export,484,Mexico,MEX,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,39,,,,39,,4,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,28,,,,28,,291,,,4
+H3,2010,2010,2010,4,0,2,Export,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,116,,,,116,,249,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2477985,,,,2477985,,27274980,,,4
+H3,2010,2010,2010,4,0,2,Export,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8949,,,,8949,,35164,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,815747,,,,815747,,2513951,,,4
+H3,2010,2010,2010,4,0,2,Export,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,54,,,,54,,72,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,91868,,,,91868,,125199,,,4
+H3,2010,2010,2010,4,0,2,Export,484,Mexico,MEX,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10704,,,,10704,,13965,,,4
+H3,2010,2010,2010,4,0,2,Export,484,Mexico,MEX,332,Haiti,HTI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,610,,,,610,,2189,,,4
+H3,2010,2010,2010,4,0,2,Export,484,Mexico,MEX,340,Honduras,HND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5004,,,,5004,,6408,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,358,,,,358,,17656,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,81,,,,81,,773,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,13887,,,,13887,,70037,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4980745,,,,4980745,,16692215,,,4
+H3,2010,2010,2010,4,0,2,Export,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4771,,,,4771,,31280,,,4
+H3,2010,2010,2010,4,0,2,Export,484,Mexico,MEX,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,469490,,,,469490,,1886240,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,182,,,,182,,649,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6930,,,,6930,,51464,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7,,,,7,,48,,,4
+H3,2010,2010,2010,4,0,2,Export,484,Mexico,MEX,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,17295,,,,17295,,44447,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,34722,,,,34722,,305285,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12,,,,12,,138,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,604,Peru,PER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,677,,,,677,,8410,,,4
+H3,2010,2010,2010,4,0,2,Export,484,Mexico,MEX,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9315,,,,9315,,22975,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,416767,,,,416767,,1631878,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2747,,,,2747,,12181,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3613,,,,3613,,23799,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,286113,,,,286113,,1172793,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10526724,,,,10526724,,50318826,,,4
+H3,2010,2010,2010,4,0,2,Export,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,29114,,,,29114,,8010,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6723,,,,6723,,42714,,,4
+H3,2010,2010,2010,4,0,2,Export,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,13582,,,,13582,,58320,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,34,,,,34,,195,,,4
+H3,2010,2010,2010,4,0,2,Export,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,21033,,,,21033,,71494,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3188051,,,,3188051,,9393163,,,4
+H3,2010,2010,2010,4,0,2,Export,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,398302,,,,398302,,1776256,,,4
+H3,2010,2010,2010,4,0,1,Import,484,Mexico,MEX,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,697147,,,,697147,,728757,,,4
+H3,2010,2010,2010,4,0,2,Export,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,24145,,,,24145,,676629,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,45389423,,,,45389423,,186412218,,,4
+H3,2011,2011,2011,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1152072,,,,1152072,,5097787,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2403,,,,2403,,6827,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4568921,,,,4568921,,17885620,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,334062,,,,334062,,1646504,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1443,,,,1443,,5423,,,4
+H3,2011,2011,2011,4,0,2,Export,484,Mexico,MEX,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,17469,,,,17469,,52560,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,68,Bolivia (Plurinational State of),BOL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,234,,,,234,,5132,,,4
+H3,2011,2011,2011,4,0,2,Export,484,Mexico,MEX,84,Belize,BLZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1395,,,,1395,,8052,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2948,,,,2948,,27468,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2603,,,,2603,,72523,,,4
+H3,2011,2011,2011,4,0,2,Export,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,144567,,,,144567,,734457,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,13297812,,,,13297812,,36345618,,,4
+H3,2011,2011,2011,4,0,2,Export,484,Mexico,MEX,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,504,,,,504,,6719,,,4
+H3,2011,2011,2011,4,0,2,Export,484,Mexico,MEX,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1140,,,,1140,,1948,,,4
+H3,2011,2011,2011,4,0,2,Export,484,Mexico,MEX,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18,,,,18,,1,,,4
+H3,2011,2011,2011,4,0,2,Export,484,Mexico,MEX,204,Benin,BEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3,,,,3,,1,,,4
+H3,2011,2011,2011,4,0,2,Export,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,35624,,,,35624,,154705,,,4
+H3,2011,2011,2011,4,0,2,Export,484,Mexico,MEX,222,El Salvador,SLV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5494,,,,5494,,11581,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2459190,,,,2459190,,32627275,,,4
+H3,2011,2011,2011,4,0,2,Export,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,28186,,,,28186,,90342,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,783363,,,,783363,,2522054,,,4
+H3,2011,2011,2011,4,0,2,Export,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,119630,,,,119630,,126007,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,97820,,,,97820,,122728,,,4
+H3,2011,2011,2011,4,0,2,Export,484,Mexico,MEX,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,16111,,,,16111,,31645,,,4
+H3,2011,2011,2011,4,0,2,Export,484,Mexico,MEX,332,Haiti,HTI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2135,,,,2135,,7282,,,4
+H3,2011,2011,2011,4,0,2,Export,484,Mexico,MEX,340,Honduras,HND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7752,,,,7752,,10002,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,752,,,,752,,43243,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,11571,,,,11571,,51802,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6098226,,,,6098226,,21241362,,,4
+H3,2011,2011,2011,4,0,2,Export,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4465,,,,4465,,12898,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,26,,,,26,,1239,,,4
+H3,2011,2011,2011,4,0,2,Export,484,Mexico,MEX,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,484335,,,,484335,,1924568,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7156,,,,7156,,42541,,,4
+H3,2011,2011,2011,4,0,2,Export,484,Mexico,MEX,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1008,,,,1008,,13439,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,225,,,,225,,2988,,,4
+H3,2011,2011,2011,4,0,2,Export,484,Mexico,MEX,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,19440,,,,19440,,65769,,,4
+H3,2011,2011,2011,4,0,2,Export,484,Mexico,MEX,531,Curaçao,CUW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9322,,,,9322,,15398,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,25322,,,,25322,,217805,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,579,Norway,NOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,30,,,,30,,1255,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,46,,,,46,,1674,,,4
+H3,2011,2011,2011,4,0,2,Export,484,Mexico,MEX,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1803,,,,1803,,2495,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,604,Peru,PER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,834,,,,834,,9896,,,4
+H3,2011,2011,2011,4,0,2,Export,484,Mexico,MEX,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8483,,,,8483,,20913,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,461739,,,,461739,,1965008,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4050,,,,4050,,18863,,,4
+H3,2011,2011,2011,4,0,2,Export,484,Mexico,MEX,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,32,,,,32,,38884,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,786,,,,786,,7284,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,155599,,,,155599,,635197,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,13785967,,,,13785967,,59785789,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1268,,,,1268,,8094,,,4
+H3,2011,2011,2011,4,0,2,Export,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,63,,,,63,,1510,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5400,,,,5400,,8266,,,4
+H3,2011,2011,2011,4,0,2,Export,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8858,,,,8858,,27524,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3170108,,,,3170108,,10656490,,,4
+H3,2011,2011,2011,4,0,2,Export,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,212199,,,,212199,,854514,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,109289,,,,109289,,442542,,,4
+H3,2011,2011,2011,4,0,1,Import,484,Mexico,MEX,862,Venezuela,VEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,230,,,,230,,3708,,,4
+H3,2011,2011,2011,4,0,2,Export,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,22036,,,,22036,,884573,,,4
+H4,2015,2015,2015,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,223910147,,,0
+H4,2015,2015,2015,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,4842819,,,6
+H4,2015,2015,2015,4,0,1,Import,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,23003156,,,0
+H4,2015,2015,2015,4,0,1,Import,484,Mexico,MEX,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,1082804,,,0
+H4,2015,2015,2015,4,0,1,Import,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,57442,,,0
+H4,2015,2015,2015,4,0,2,Export,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,404507,,,0
+H4,2015,2015,2015,4,0,1,Import,484,Mexico,MEX,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,39351729,,,0
+H4,2015,2015,2015,4,0,1,Import,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,40156895,,,0
+H4,2015,2015,2015,4,0,2,Export,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16094,,,,14195,,59745,,,6
+H4,2015,2015,2015,4,0,1,Import,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,1624224,,,0
+H4,2015,2015,2015,4,0,2,Export,484,Mexico,MEX,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,840,,,,741,,3119,,,6
+H4,2015,2015,2015,4,0,1,Import,484,Mexico,MEX,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,34275,,,0
+H4,2015,2015,2015,4,0,1,Import,484,Mexico,MEX,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,19998,,,0
+H4,2015,2015,2015,4,0,1,Import,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,30857774,,,0
+H4,2015,2015,2015,4,0,2,Export,484,Mexico,MEX,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,2616569,,,0
+H4,2015,2015,2015,4,0,1,Import,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,1398760,,,0
+H4,2015,2015,2015,4,0,1,Import,484,Mexico,MEX,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,304997,,,0
+H4,2015,2015,2015,4,0,1,Import,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,66484764,,,0
+H4,2015,2015,2015,4,0,1,Import,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,19192663,,,0
+H4,2015,2015,2015,4,0,2,Export,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,1403393,,,0
+H4,2015,2015,2015,4,0,1,Import,484,Mexico,MEX,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,340666,,,0
+H4,2015,2015,2015,4,0,2,Export,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,355486,,,0
+H4,2016,2016,2016,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,235858610,,,0
+H4,2016,2016,2016,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,5058746,,,6
+H4,2016,2016,2016,4,0,1,Import,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,28339151,,,0
+H4,2016,2016,2016,4,0,1,Import,484,Mexico,MEX,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,1023924,,,0
+H4,2016,2016,2016,4,0,1,Import,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,43497,,,0
+H4,2016,2016,2016,4,0,1,Import,484,Mexico,MEX,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,41145359,,,0
+H4,2016,2016,2016,4,0,2,Export,484,Mexico,MEX,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,13386,,,0
+H4,2016,2016,2016,4,0,1,Import,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,40598119,,,0
+H4,2016,2016,2016,4,0,2,Export,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25312,,,,21550,,89988,,,6
+H4,2016,2016,2016,4,0,1,Import,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,1293017,,,0
+H4,2016,2016,2016,4,0,1,Import,484,Mexico,MEX,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,57322,,,0
+H4,2016,2016,2016,4,0,1,Import,484,Mexico,MEX,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,51556,,,0
+H4,2016,2016,2016,4,0,1,Import,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,36267227,,,0
+H4,2016,2016,2016,4,0,2,Export,484,Mexico,MEX,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,2073665,,,0
+H4,2016,2016,2016,4,0,1,Import,484,Mexico,MEX,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,486442,,,0
+H4,2016,2016,2016,4,0,1,Import,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,1271745,,,0
+H4,2016,2016,2016,4,0,1,Import,484,Mexico,MEX,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,205537,,,0
+H4,2016,2016,2016,4,0,1,Import,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,66802301,,,0
+H4,2016,2016,2016,4,0,2,Export,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,48996,,,0
+H4,2016,2016,2016,4,0,1,Import,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,17899267,,,0
+H4,2016,2016,2016,4,0,2,Export,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,2444699,,,6
+H4,2016,2016,2016,4,0,1,Import,484,Mexico,MEX,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,374146,,,0
+H4,2016,2016,2016,4,0,2,Export,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,388012,,,0
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,249018940,,,0
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,6349565,,,6
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,20157165,,,0
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,1032574,,,0
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,30447,,,0
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,65645,,,,61306,,272327,,,6
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,42995659,,,0
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,5301,,,0
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,46956852,,,0
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25589,,,,23898,,106157,,,6
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,1878796,,,0
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,16910,,,0
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,41388503,,,0
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,2142795,,,0
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,1693407,,,0
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,576866,,,0
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,72812787,,,0
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,9455,,,0
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,34602,,,,32314,,143545,,,6
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,19107606,,,0
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,3675286,,,6
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,366067,,,0
+H4,2018,2018,2018,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,271125775,,,0
+H4,2018,2018,2018,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,4753310,,,6
+H4,2018,2018,2018,4,0,1,Import,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,22993967,,,0
+H4,2018,2018,2018,4,0,1,Import,484,Mexico,MEX,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,1310482,,,0
+H4,2018,2018,2018,4,0,2,Export,484,Mexico,MEX,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5975,,,,5805,,24895,,,6
+H4,2018,2018,2018,4,0,1,Import,484,Mexico,MEX,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,41947,,,0
+H4,2018,2018,2018,4,0,2,Export,484,Mexico,MEX,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22061,,,,21435,,91917,,,6
+H4,2018,2018,2018,4,0,2,Export,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,54120,,,,52585,,225493,,,6
+H4,2018,2018,2018,4,0,1,Import,484,Mexico,MEX,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,48210046,,,0
+H4,2018,2018,2018,4,0,2,Export,484,Mexico,MEX,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2485,,,,2414,,10355,,,6
+H4,2018,2018,2018,4,0,1,Import,484,Mexico,MEX,191,Croatia,HRV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,45243,,,0
+H4,2018,2018,2018,4,0,1,Import,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,47809107,,,0
+H4,2018,2018,2018,4,0,2,Export,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,67063,,,0
+H4,2018,2018,2018,4,0,1,Import,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,1442156,,,0
+H4,2018,2018,2018,4,0,2,Export,484,Mexico,MEX,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,31890,,,0
+H4,2018,2018,2018,4,0,1,Import,484,Mexico,MEX,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,9966,,,0
+H4,2018,2018,2018,4,0,1,Import,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,44312437,,,0
+H4,2018,2018,2018,4,0,2,Export,484,Mexico,MEX,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,1321169,,,6
+H4,2018,2018,2018,4,0,1,Import,484,Mexico,MEX,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,526538,,,0
+H4,2018,2018,2018,4,0,1,Import,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,1553359,,,0
+H4,2018,2018,2018,4,0,1,Import,484,Mexico,MEX,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,683737,,,0
+H4,2018,2018,2018,4,0,1,Import,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,79178902,,,0
+H4,2018,2018,2018,4,0,2,Export,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,43973,,,0
+H4,2018,2018,2018,4,0,2,Export,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15254,,,,14822,,63559,,,6
+H4,2018,2018,2018,4,0,2,Export,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,68328,,,0
+H4,2018,2018,2018,4,0,1,Import,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,20969703,,,0
+H4,2018,2018,2018,4,0,2,Export,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,2804668,,,6
+H4,2018,2018,2018,4,0,1,Import,484,Mexico,MEX,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,2038185,,,0
+H4,2019,2019,2019,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,271185117,,,0
+H4,2019,2019,2019,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,4850627,,,6
+H4,2019,2019,2019,4,0,1,Import,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,23538949,,,0
+H4,2019,2019,2019,4,0,1,Import,484,Mexico,MEX,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,1451590,,,0
+H4,2019,2019,2019,4,0,2,Export,484,Mexico,MEX,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,34373,,,0
+H4,2019,2019,2019,4,0,1,Import,484,Mexico,MEX,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,102992,,,0
+H4,2019,2019,2019,4,0,2,Export,484,Mexico,MEX,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,118367,,,0
+H4,2019,2019,2019,4,0,1,Import,484,Mexico,MEX,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,46303156,,,0
+H4,2019,2019,2019,4,0,1,Import,484,Mexico,MEX,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,9970,,,0
+H4,2019,2019,2019,4,0,2,Export,484,Mexico,MEX,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3624,,,,3534,,14946,,,6
+H4,2019,2019,2019,4,0,1,Import,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,46450525,,,0
+H4,2019,2019,2019,4,0,2,Export,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,86306,,,0
+H4,2019,2019,2019,4,0,1,Import,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,1575446,,,0
+H4,2019,2019,2019,4,0,2,Export,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,8470,,,0
+H4,2019,2019,2019,4,0,2,Export,484,Mexico,MEX,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,62319,,,6
+H4,2019,2019,2019,4,0,2,Export,484,Mexico,MEX,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15,,,,15,,64,,,6
+H4,2019,2019,2019,4,0,1,Import,484,Mexico,MEX,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,35696,,,0
+H4,2019,2019,2019,4,0,1,Import,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,46130213,,,0
+H4,2019,2019,2019,4,0,2,Export,484,Mexico,MEX,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,1144060,,,0
+H4,2019,2019,2019,4,0,1,Import,484,Mexico,MEX,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,779534,,,0
+H4,2019,2019,2019,4,0,1,Import,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,1782322,,,0
+H4,2019,2019,2019,4,0,1,Import,484,Mexico,MEX,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,145437,,,0
+H4,2019,2019,2019,4,0,1,Import,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,79275098,,,0
+H4,2019,2019,2019,4,0,2,Export,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,19409,,,0
+H4,2019,2019,2019,4,0,2,Export,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15958,,,,15562,,65807,,,6
+H4,2019,2019,2019,4,0,2,Export,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,33194,,,0
+H4,2019,2019,2019,4,0,1,Import,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,22861272,,,0
+H4,2019,2019,2019,4,0,2,Export,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,798507,,,,780148,,3263312,,,6
+H4,2019,2019,2019,4,0,1,Import,484,Mexico,MEX,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,742917,,,0
+H5,2021,2021,2021,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,271633447,,,4
+H5,2021,2021,2021,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,5149062,,,0
+H5,2021,2021,2021,4,0,1,Import,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,25608921,,,0
+H5,2021,2021,2021,4,0,1,Import,484,Mexico,MEX,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,581459,,,0
+H5,2021,2021,2021,4,0,1,Import,484,Mexico,MEX,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,312192,,,4
+H5,2021,2021,2021,4,0,2,Export,484,Mexico,MEX,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45096,,,,45096,,2586,,,0
+H5,2021,2021,2021,4,0,1,Import,484,Mexico,MEX,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,39130953,,,4
+H5,2021,2021,2021,4,0,1,Import,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,41271873,,,0
+H5,2021,2021,2021,4,0,1,Import,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,1928329,,,0
+H5,2021,2021,2021,4,0,2,Export,484,Mexico,MEX,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4662,,,,4662,,17848,,,0
+H5,2021,2021,2021,4,0,1,Import,484,Mexico,MEX,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,559,,,,559,,14163,,,0
+H5,2021,2021,2021,4,0,1,Import,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,55825675,,,0
+H5,2021,2021,2021,4,0,1,Import,484,Mexico,MEX,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,511218,,,4
+H5,2021,2021,2021,4,0,2,Export,484,Mexico,MEX,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9633,,,,9633,,7841,,,0
+H5,2021,2021,2021,4,0,1,Import,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,1544870,,,0
+H5,2021,2021,2021,4,0,1,Import,484,Mexico,MEX,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,88607,,,0
+H5,2021,2021,2021,4,0,1,Import,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,77534223,,,0
+H5,2021,2021,2021,4,0,2,Export,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,114767,,,,114767,,36949,,,0
+H5,2021,2021,2021,4,0,1,Import,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,27098745,,,0
+H5,2021,2021,2021,4,0,2,Export,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,5083838,,,0
+H5,2021,2021,2021,4,0,1,Import,484,Mexico,MEX,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,182219,,,0
+H4,2020,2020,2020,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,221774200,,,0
+H4,2020,2020,2020,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,4549865,,,6
+H4,2020,2020,2020,4,0,1,Import,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,22878654,,,0
+H4,2020,2020,2020,4,0,1,Import,484,Mexico,MEX,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,1241167,,,0
+H4,2020,2020,2020,4,0,1,Import,484,Mexico,MEX,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,163312,,,0
+H4,2020,2020,2020,4,0,2,Export,484,Mexico,MEX,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,43718,,,0
+H4,2020,2020,2020,4,0,2,Export,484,Mexico,MEX,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,310,,,,314,,1314,,,6
+H4,2020,2020,2020,4,0,1,Import,484,Mexico,MEX,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,36119920,,,0
+H4,2020,2020,2020,4,0,2,Export,484,Mexico,MEX,222,El Salvador,SLV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,3789,,,0
+H4,2020,2020,2020,4,0,1,Import,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,29056357,,,0
+H4,2020,2020,2020,4,0,2,Export,484,Mexico,MEX,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,21745,,,,21997,,92030,,,6
+H4,2020,2020,2020,4,0,1,Import,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,1708447,,,0
+H4,2020,2020,2020,4,0,2,Export,484,Mexico,MEX,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,452,,,,457,,1915,,,6
+H4,2020,2020,2020,4,0,1,Import,484,Mexico,MEX,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,33333,,,0
+H4,2020,2020,2020,4,0,2,Export,484,Mexico,MEX,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,32478,,,0
+H4,2020,2020,2020,4,0,1,Import,484,Mexico,MEX,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,56398,,,0
+H4,2020,2020,2020,4,0,1,Import,484,Mexico,MEX,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,19520,,,0
+H4,2020,2020,2020,4,0,1,Import,484,Mexico,MEX,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,49359060,,,0
+H4,2020,2020,2020,4,0,2,Export,484,Mexico,MEX,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,868053,,,0
+H4,2020,2020,2020,4,0,1,Import,484,Mexico,MEX,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,516208,,,0
+H4,2020,2020,2020,4,0,1,Import,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,1335319,,,0
+H4,2020,2020,2020,4,0,1,Import,484,Mexico,MEX,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,131794,,,0
+H4,2020,2020,2020,4,0,1,Import,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,60173053,,,0
+H4,2020,2020,2020,4,0,2,Export,484,Mexico,MEX,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22139,,,,22396,,93697,,,6
+H4,2020,2020,2020,4,0,2,Export,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5861,,,,5929,,24807,,,6
+H4,2020,2020,2020,4,0,2,Export,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,26440,,,,26747,,111901,,,6
+H4,2020,2020,2020,4,0,1,Import,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,18837984,,,0
+H4,2020,2020,2020,4,0,2,Export,484,Mexico,MEX,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,3276163,,,6
+H4,2020,2020,2020,4,0,1,Import,484,Mexico,MEX,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,143674,,,0

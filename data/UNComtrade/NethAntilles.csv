@@ -1,0 +1,128 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1771820,,,,1771820,,3949939,,,2
+H2,2005,2005,2005,4,0,2,Export,530,Neth. Antilles,ANT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,238,,,,238,,2112,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,16,American Samoa,ASM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,24,,,,24,,302,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,20,Andorra,AND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18,,,,18,,115,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,34494,,,,34494,,42147,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2394,,,,2394,,16837,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,60,Bermuda,BMU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,765,,,,765,,2321,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,112,Belarus,BLR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,90,,,,90,,222,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,339040,,,,339040,,747961,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,863,,,,863,,1361,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1449,,,,1449,,4079,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,214,Dominican Rep.,DOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,2,,19,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,109957,,,,109957,,477427,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,607,,,,607,,1879,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,328,Guyana,GUY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27828,,,,27828,,10680,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12,,,,12,,292,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,50478,,,,50478,,134850,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,171,,,,171,,1087,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,81,,,,81,,200,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,235391,,,,235391,,757287,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,533,Aruba,ABW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,25470,,,,25470,,66329,,,2
+H2,2005,2005,2005,4,0,2,Export,530,Neth. Antilles,ANT,533,Aruba,ABW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,190,,,,190,,1615,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1568,,,,1568,,11920,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,604,Peru,PER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,35,,,,35,,179,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3475,,,,3475,,12740,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,78645,,,,78645,,130172,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,29524,,,,29524,,51845,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,740,Suriname,SUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13,,,,13,,42,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,99,,,,99,,2028,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,700,,,,700,,6544,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,123,,,,123,,416,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,682529,,,,682529,,1012993,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,862,Venezuela,VEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,52329,,,,52329,,135459,,,2
+H2,2005,2005,2005,4,0,2,Export,530,Neth. Antilles,ANT,862,Venezuela,VEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,48,,,,48,,497,,,2
+H2,2005,2005,2005,4,0,1,Import,530,Neth. Antilles,ANT,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,93646,,,,93646,,320204,,,2
+H2,2006,2006,2006,4,0,1,Import,530,Neth. Antilles,ANT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3559099,,,,3559099,,3971652,,,2
+H2,2006,2006,2006,4,0,2,Export,530,Neth. Antilles,ANT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,56,,,,56,,497,,,2
+H2,2006,2006,2006,4,0,1,Import,530,Neth. Antilles,ANT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1242278,,,,1242278,,36355,,,2
+H2,2006,2006,2006,4,0,1,Import,530,Neth. Antilles,ANT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5679,,,,5679,,31978,,,2
+H2,2006,2006,2006,4,0,1,Import,530,Neth. Antilles,ANT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16075,,,,16075,,20072,,,2
+H2,2006,2006,2006,4,0,1,Import,530,Neth. Antilles,ANT,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5469,,,,5469,,10342,,,2
+H2,2006,2006,2006,4,0,1,Import,530,Neth. Antilles,ANT,112,Belarus,BLR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,544,,,,544,,1749,,,2
+H2,2006,2006,2006,4,0,1,Import,530,Neth. Antilles,ANT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,428497,,,,428497,,738573,,,2
+H2,2006,2006,2006,4,0,1,Import,530,Neth. Antilles,ANT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2300,,,,2300,,2655,,,2
+H2,2006,2006,2006,4,0,1,Import,530,Neth. Antilles,ANT,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,35,,,2
+H2,2006,2006,2006,4,0,1,Import,530,Neth. Antilles,ANT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,47265,,,,47265,,315041,,,2
+H2,2006,2006,2006,4,0,1,Import,530,Neth. Antilles,ANT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2743,,,,2743,,10325,,,2
+H2,2006,2006,2006,4,0,1,Import,530,Neth. Antilles,ANT,328,Guyana,GUY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,56038,,,,56038,,21744,,,2
+H2,2006,2006,2006,4,0,1,Import,530,Neth. Antilles,ANT,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,67,,,,67,,365,,,2
+H2,2006,2006,2006,4,0,1,Import,530,Neth. Antilles,ANT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,38382,,,,38382,,130971,,,2
+H2,2006,2006,2006,4,0,1,Import,530,Neth. Antilles,ANT,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12954,,,,12954,,33712,,,2
+H2,2006,2006,2006,4,0,1,Import,530,Neth. Antilles,ANT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,283924,,,,283924,,796035,,,2
+H2,2006,2006,2006,4,0,2,Export,530,Neth. Antilles,ANT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,56,,,,56,,497,,,2
+H2,2006,2006,2006,4,0,1,Import,530,Neth. Antilles,ANT,533,Aruba,ABW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5343,,,,5343,,16530,,,2
+H2,2006,2006,2006,4,0,1,Import,530,Neth. Antilles,ANT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14332,,,,14332,,54677,,,2
+H2,2006,2006,2006,4,0,1,Import,530,Neth. Antilles,ANT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,70441,,,,70441,,116903,,,2
+H2,2006,2006,2006,4,0,1,Import,530,Neth. Antilles,ANT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5906,,,,5906,,16274,,,2
+H2,2006,2006,2006,4,0,1,Import,530,Neth. Antilles,ANT,740,Suriname,SUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1133,,,,1133,,2386,,,2
+H2,2006,2006,2006,4,0,1,Import,530,Neth. Antilles,ANT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,33851,,,,33851,,72809,,,2
+H2,2006,2006,2006,4,0,1,Import,530,Neth. Antilles,ANT,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,580,,,,580,,1480,,,2
+H2,2006,2006,2006,4,0,1,Import,530,Neth. Antilles,ANT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1323,,,,1323,,4017,,,2
+H2,2006,2006,2006,4,0,1,Import,530,Neth. Antilles,ANT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1098310,,,,1098310,,885609,,,2
+H2,2006,2006,2006,4,0,1,Import,530,Neth. Antilles,ANT,862,Venezuela,VEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,54614,,,,54614,,159154,,,2
+H2,2006,2006,2006,4,0,1,Import,530,Neth. Antilles,ANT,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,131042,,,,131042,,491860,,,2
+H2,2007,2007,2007,4,0,1,Import,530,Neth. Antilles,ANT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1961390,,,,1961390,,5267681,,,2
+H2,2007,2007,2007,4,0,2,Export,530,Neth. Antilles,ANT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13169,,,,13169,,58011,,,2
+H2,2007,2007,2007,4,0,1,Import,530,Neth. Antilles,ANT,20,Andorra,AND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,158,,,,158,,996,,,2
+H2,2007,2007,2007,4,0,1,Import,530,Neth. Antilles,ANT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22689,,,,22689,,48008,,,2
+H2,2007,2007,2007,4,0,1,Import,530,Neth. Antilles,ANT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5962,,,,5962,,36771,,,2
+H2,2007,2007,2007,4,0,1,Import,530,Neth. Antilles,ANT,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15945,,,,15945,,18634,,,2
+H2,2007,2007,2007,4,0,1,Import,530,Neth. Antilles,ANT,112,Belarus,BLR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15867,,,,15867,,30236,,,2
+H2,2007,2007,2007,4,0,1,Import,530,Neth. Antilles,ANT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,559297,,,,559297,,1345666,,,2
+H2,2007,2007,2007,4,0,1,Import,530,Neth. Antilles,ANT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,521,,,,521,,1782,,,2
+H2,2007,2007,2007,4,0,1,Import,530,Neth. Antilles,ANT,162,Christmas Isds,CXR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,500,,,,500,,1584,,,2
+H2,2007,2007,2007,4,0,1,Import,530,Neth. Antilles,ANT,214,Dominican Rep.,DOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,55,,,,55,,70,,,2
+H2,2007,2007,2007,4,0,1,Import,530,Neth. Antilles,ANT,218,Ecuador,ECU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4725,,,,4725,,12028,,,2
+H2,2007,2007,2007,4,0,1,Import,530,Neth. Antilles,ANT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,89523,,,,89523,,664311,,,2
+H2,2007,2007,2007,4,0,1,Import,530,Neth. Antilles,ANT,328,Guyana,GUY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,53852,,,,53852,,21355,,,2
+H2,2007,2007,2007,4,0,1,Import,530,Neth. Antilles,ANT,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,2,,17,,,2
+H2,2007,2007,2007,4,0,1,Import,530,Neth. Antilles,ANT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14446,,,,14446,,64712,,,2
+H2,2007,2007,2007,4,0,1,Import,530,Neth. Antilles,ANT,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17275,,,,17275,,64188,,,2
+H2,2007,2007,2007,4,0,2,Export,530,Neth. Antilles,ANT,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,145,,,,145,,3648,,,2
+H2,2007,2007,2007,4,0,1,Import,530,Neth. Antilles,ANT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,518081,,,,518081,,1488412,,,2
+H2,2007,2007,2007,4,0,2,Export,530,Neth. Antilles,ANT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10,,,,10,,37,,,2
+H2,2007,2007,2007,4,0,1,Import,530,Neth. Antilles,ANT,533,Aruba,ABW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,309,,,,309,,2673,,,2
+H2,2007,2007,2007,4,0,2,Export,530,Neth. Antilles,ANT,533,Aruba,ABW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5289,,,,5289,,14586,,,2
+H2,2007,2007,2007,4,0,1,Import,530,Neth. Antilles,ANT,604,Peru,PER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4,,,,4,,47,,,2
+H2,2007,2007,2007,4,0,1,Import,530,Neth. Antilles,ANT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14382,,,,14382,,35991,,,2
+H2,2007,2007,2007,4,0,1,Import,530,Neth. Antilles,ANT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,61321,,,,61321,,115727,,,2
+H2,2007,2007,2007,4,0,1,Import,530,Neth. Antilles,ANT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11488,,,,11488,,41677,,,2
+H2,2007,2007,2007,4,0,1,Import,530,Neth. Antilles,ANT,740,Suriname,SUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,113,,,,113,,5008,,,2
+H2,2007,2007,2007,4,0,1,Import,530,Neth. Antilles,ANT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17924,,,,17924,,28265,,,2
+H2,2007,2007,2007,4,0,1,Import,530,Neth. Antilles,ANT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,432823,,,,432823,,857764,,,2
+H2,2007,2007,2007,4,0,1,Import,530,Neth. Antilles,ANT,862,Venezuela,VEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21950,,,,21950,,64328,,,2
+H2,2007,2007,2007,4,0,2,Export,530,Neth. Antilles,ANT,862,Venezuela,VEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6857,,,,6857,,34583,,,2
+H2,2007,2007,2007,4,0,1,Import,530,Neth. Antilles,ANT,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,82178,,,,82178,,317431,,,2
+H2,2007,2007,2007,4,0,2,Export,530,Neth. Antilles,ANT,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,868,,,,868,,5158,,,2
+H2,2008,2008,2008,4,0,1,Import,530,Neth. Antilles,ANT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2019955,,,,2019955,,5593890,,,2
+H2,2008,2008,2008,4,0,2,Export,530,Neth. Antilles,ANT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9369,,,,9369,,13419,,,2
+H2,2008,2008,2008,4,0,1,Import,530,Neth. Antilles,ANT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,32559,,,,32559,,92664,,,2
+H2,2008,2008,2008,4,0,1,Import,530,Neth. Antilles,ANT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1218,,,,1218,,5675,,,2
+H2,2008,2008,2008,4,0,1,Import,530,Neth. Antilles,ANT,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,270,,,,270,,8449,,,2
+H2,2008,2008,2008,4,0,1,Import,530,Neth. Antilles,ANT,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7205,,,,7205,,9111,,,2
+H2,2008,2008,2008,4,0,1,Import,530,Neth. Antilles,ANT,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23,,,,23,,187,,,2
+H2,2008,2008,2008,4,0,1,Import,530,Neth. Antilles,ANT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,546096,,,,546096,,1361776,,,2
+H2,2008,2008,2008,4,0,1,Import,530,Neth. Antilles,ANT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,91,,,,91,,413,,,2
+H2,2008,2008,2008,4,0,1,Import,530,Neth. Antilles,ANT,214,Dominican Rep.,DOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17139,,,,17139,,38554,,,2
+H2,2008,2008,2008,4,0,1,Import,530,Neth. Antilles,ANT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,65433,,,,65433,,607852,,,2
+H2,2008,2008,2008,4,0,2,Export,530,Neth. Antilles,ANT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,61,,,,61,,324,,,2
+H2,2008,2008,2008,4,0,1,Import,530,Neth. Antilles,ANT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1925,,,,1925,,5509,,,2
+H2,2008,2008,2008,4,0,1,Import,530,Neth. Antilles,ANT,328,Guyana,GUY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,79045,,,,79045,,30740,,,2
+H2,2008,2008,2008,4,0,1,Import,530,Neth. Antilles,ANT,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,52,,,,52,,245,,,2
+H2,2008,2008,2008,4,0,1,Import,530,Neth. Antilles,ANT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,25245,,,,25245,,101336,,,2
+H2,2008,2008,2008,4,0,1,Import,530,Neth. Antilles,ANT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,443239,,,,443239,,1630367,,,2
+H2,2008,2008,2008,4,0,1,Import,530,Neth. Antilles,ANT,533,Aruba,ABW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8855,,,,8855,,47456,,,2
+H2,2008,2008,2008,4,0,2,Export,530,Neth. Antilles,ANT,533,Aruba,ABW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,400,,,,400,,3995,,,2
+H2,2008,2008,2008,4,0,1,Import,530,Neth. Antilles,ANT,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1141,,,,1141,,6605,,,2
+H2,2008,2008,2008,4,0,1,Import,530,Neth. Antilles,ANT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2902,,,,2902,,21264,,,2
+H2,2008,2008,2008,4,0,1,Import,530,Neth. Antilles,ANT,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,400,,,,400,,381,,,2
+H2,2008,2008,2008,4,0,1,Import,530,Neth. Antilles,ANT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,85467,,,,85467,,152749,,,2
+H2,2008,2008,2008,4,0,1,Import,530,Neth. Antilles,ANT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2739,,,,2739,,10933,,,2
+H2,2008,2008,2008,4,0,1,Import,530,Neth. Antilles,ANT,740,Suriname,SUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23,,,,23,,890,,,2
+H2,2008,2008,2008,4,0,1,Import,530,Neth. Antilles,ANT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,350,,,,350,,5808,,,2
+H2,2008,2008,2008,4,0,1,Import,530,Neth. Antilles,ANT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,613963,,,,613963,,1070988,,,2
+H2,2008,2008,2008,4,0,1,Import,530,Neth. Antilles,ANT,862,Venezuela,VEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,629,,,,629,,10254,,,2
+H2,2008,2008,2008,4,0,1,Import,530,Neth. Antilles,ANT,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,83946,,,,83946,,373683,,,2
+H2,2008,2008,2008,4,0,2,Export,530,Neth. Antilles,ANT,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8908,,,,8908,,9100,,,2

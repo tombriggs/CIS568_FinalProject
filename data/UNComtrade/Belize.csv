@@ -1,0 +1,532 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,172699,,,,172699,,868717,,,4
+H1,2000,2000,2000,4,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2109,,,,2109,,20432,,,4
+H1,2000,2000,2000,4,0,3,Re-Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2096,,,,2096,,20364,,,4
+H1,2000,2000,2000,4,0,1,Import,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,22276,,,,22276,,60287,,,4
+H1,2000,2000,2000,4,0,1,Import,84,Belize,BLZ,218,Ecuador,ECU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,423,,,,423,,1530,,,4
+H1,2000,2000,2000,4,0,1,Import,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15249,,,,15249,,178529,,,4
+H1,2000,2000,2000,4,0,2,Export,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,105,,,,105,,1123,,,4
+H1,2000,2000,2000,4,0,3,Re-Export,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,105,,,,105,,1123,,,4
+H1,2000,2000,2000,4,0,1,Import,84,Belize,BLZ,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16947,,,,16947,,41750,,,4
+H1,2000,2000,2000,4,0,1,Import,84,Belize,BLZ,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,62383,,,,62383,,326262,,,4
+H1,2000,2000,2000,4,0,2,Export,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1991,,,,1991,,19241,,,4
+H1,2000,2000,2000,4,0,3,Re-Export,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1991,,,,1991,,19241,,,4
+H1,2000,2000,2000,4,0,1,Import,84,Belize,BLZ,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5560,,,,5560,,15566,,,4
+H1,2000,2000,2000,4,0,1,Import,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,382,,,,382,,1936,,,4
+H1,2000,2000,2000,4,0,1,Import,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,49480,,,,49480,,242857,,,4
+H1,2000,2000,2000,4,0,2,Export,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,14,,,,14,,67,,,4
+H1,2001,2001,2001,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2755216,,,,675595,,7154041,,,2
+H1,2001,2001,2001,4,0,1,Import,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36339,,,,83636,,89655,,,2
+H1,2001,2001,2001,4,0,1,Import,84,Belize,BLZ,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13002,,,,31614,,32078,,,2
+H1,2001,2001,2001,4,0,1,Import,84,Belize,BLZ,212,Dominica,DMA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1002,,,,2366,,2473,,,2
+H1,2001,2001,2001,4,0,1,Import,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2498236,,,,121910,,6505496,,,2
+H1,2001,2001,2001,4,0,1,Import,84,Belize,BLZ,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1207,,,,4234,,3945,,,2
+H1,2001,2001,2001,4,0,1,Import,84,Belize,BLZ,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6325,,,,12860,,17114,,,2
+H1,2001,2001,2001,4,0,1,Import,84,Belize,BLZ,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,64468,,,,180376,,159047,,,2
+H1,2001,2001,2001,4,0,1,Import,84,Belize,BLZ,591,Panama,PAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,26,,,,93,,274,,,0
+H1,2001,2001,2001,4,0,1,Import,84,Belize,BLZ,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4,,,,20,,20,,,0
+H1,2001,2001,2001,4,0,1,Import,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1624,,,,3475,,4005,,,2
+H1,2001,2001,2001,4,0,1,Import,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,132983,,,,235011,,339935,,,2
+H1,2002,2002,2002,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,187388,,,,801418,,929624,,,2
+H1,2002,2002,2002,4,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18,,,,18,,54,,,2
+H1,2002,2002,2002,4,0,1,Import,84,Belize,BLZ,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15,,,,800,,366,,,0
+H1,2002,2002,2002,4,0,1,Import,84,Belize,BLZ,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,31,,,,88,,526,,,2
+H1,2002,2002,2002,4,0,2,Export,84,Belize,BLZ,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18,,,,18,,54,,,2
+H1,2002,2002,2002,4,0,1,Import,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,19962,,,,72214,,74398,,,0
+H1,2002,2002,2002,4,0,1,Import,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,19481,,,,90694,,263136,,,0
+H1,2002,2002,2002,4,0,1,Import,84,Belize,BLZ,364,Iran,IRN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,19,,,,148,,91,,,0
+H1,2002,2002,2002,4,0,1,Import,84,Belize,BLZ,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11699,,,,60973,,37633,,,0
+H1,2002,2002,2002,4,0,1,Import,84,Belize,BLZ,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,89243,,,,293356,,232237,,,0
+H1,2002,2002,2002,4,0,1,Import,84,Belize,BLZ,662,Saint Lucia,LCA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,30,,,,132,,141,,,0
+H1,2002,2002,2002,4,0,1,Import,84,Belize,BLZ,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1014,,,,6315,,7119,,,0
+H1,2002,2002,2002,4,0,1,Import,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,545,,,,2704,,4025,,,0
+H1,2002,2002,2002,4,0,1,Import,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,44224,,,,233062,,303456,,,0
+H1,2002,2002,2002,4,0,1,Import,84,Belize,BLZ,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1124,,,,40932,,6499,,,0
+H1,2003,2003,2003,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,56543,,,,878662,,1025826,,,0
+H1,2003,2003,2003,4,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,351,,,,1607,,16068,,,0
+H1,2003,2003,2003,4,0,3,Re-Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,333,,,,1517,,15967,,,0
+H1,2003,2003,2003,4,0,1,Import,84,Belize,BLZ,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,328,,,,5730,,7493,,,0
+H1,2003,2003,2003,4,0,1,Import,84,Belize,BLZ,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,254,,,,4572,,9685,,,0
+H1,2003,2003,2003,4,0,1,Import,84,Belize,BLZ,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2268,,,,37987,,22675,,,0
+H1,2003,2003,2003,4,0,1,Import,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10749,,,,146604,,168823,,,0
+H1,2003,2003,2003,4,0,2,Export,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,28,,,,298,,403,,,0
+H1,2003,2003,2003,4,0,3,Re-Export,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,28,,,,298,,403,,,0
+H1,2003,2003,2003,4,0,1,Import,84,Belize,BLZ,212,Dominica,DMA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,147,,,,2847,,3140,,,0
+H1,2003,2003,2003,4,0,1,Import,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6653,,,,118898,,257986,,,0
+H1,2003,2003,2003,4,0,2,Export,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7,,,,122,,1186,,,0
+H1,2003,2003,2003,4,0,3,Re-Export,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7,,,,122,,1186,,,0
+H1,2003,2003,2003,4,0,2,Export,84,Belize,BLZ,340,Honduras,HND,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2,,,,30,,111,,,0
+H1,2003,2003,2003,4,0,3,Re-Export,84,Belize,BLZ,340,Honduras,HND,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2,,,,30,,111,,,0
+H1,2003,2003,2003,4,0,1,Import,84,Belize,BLZ,352,Iceland,ISL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4,,,,298,,219,,,0
+H1,2003,2003,2003,4,0,1,Import,84,Belize,BLZ,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1592,,,,31346,,28665,,,0
+H1,2003,2003,2003,4,0,1,Import,84,Belize,BLZ,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,23381,,,,319742,,248563,,,0
+H1,2003,2003,2003,4,0,2,Export,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2,,,,67,,470,,,0
+H1,2003,2003,2003,4,0,3,Re-Export,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2,,,,67,,470,,,0
+H1,2003,2003,2003,4,0,1,Import,84,Belize,BLZ,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,488,,,,10877,,14698,,,0
+H1,2003,2003,2003,4,0,1,Import,84,Belize,BLZ,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,290,,,,5026,,5534,,,0
+H1,2003,2003,2003,4,0,1,Import,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,217,,,,5875,,12870,,,0
+H1,2003,2003,2003,4,0,1,Import,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10172,,,,188860,,245479,,,0
+H1,2003,2003,2003,4,0,2,Export,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,312,,,,1090,,13898,,,0
+H1,2003,2003,2003,4,0,3,Re-Export,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,294,,,,1000,,13797,,,0
+H1,2004,2004,2004,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,398360,,,,398360,,995946,,,2
+H1,2004,2004,2004,4,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1504,,,,1504,,7207,,,2
+H1,2004,2004,2004,4,0,3,Re-Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1483,,,,1483,,7160,,,2
+H1,2004,2004,2004,4,0,1,Import,84,Belize,BLZ,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1110,,,,1110,,2653,,,2
+H1,2004,2004,2004,4,0,1,Import,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,68638,,,,68638,,145968,,,2
+H1,2004,2004,2004,4,0,2,Export,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,238,,,,238,,445,,,2
+H1,2004,2004,2004,4,0,3,Re-Export,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,238,,,,238,,445,,,2
+H1,2004,2004,2004,4,0,1,Import,84,Belize,BLZ,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,141,,,,141,,228,,,2
+H1,2004,2004,2004,4,0,1,Import,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,24079,,,,24079,,153949,,,2
+H1,2004,2004,2004,4,0,2,Export,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,349,,,,349,,3911,,,2
+H1,2004,2004,2004,4,0,3,Re-Export,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,349,,,,349,,3911,,,2
+H1,2004,2004,2004,4,0,1,Import,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,238,,,,238,,1202,,,2
+H1,2004,2004,2004,4,0,1,Import,84,Belize,BLZ,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12019,,,,12019,,49774,,,2
+H1,2004,2004,2004,4,0,1,Import,84,Belize,BLZ,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,148330,,,,148330,,220577,,,2
+H1,2004,2004,2004,4,0,1,Import,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,61,,,,61,,520,,,2
+H1,2004,2004,2004,4,0,2,Export,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,820,,,,820,,1239,,,2
+H1,2004,2004,2004,4,0,3,Re-Export,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,820,,,,820,,1239,,,2
+H1,2004,2004,2004,4,0,1,Import,84,Belize,BLZ,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2491,,,,2491,,11000,,,2
+H1,2004,2004,2004,4,0,1,Import,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1795,,,,1795,,6913,,,2
+H1,2004,2004,2004,4,0,1,Import,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,139459,,,,139459,,403161,,,2
+H1,2004,2004,2004,4,0,2,Export,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,96,,,,96,,1612,,,2
+H1,2004,2004,2004,4,0,3,Re-Export,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,76,,,,76,,1564,,,2
+H2,2005,2005,2005,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,397448,,,,397448,,1182633,,,6
+H2,2005,2005,2005,4,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,276,,,,276,,706,,,6
+H2,2005,2005,2005,4,0,3,Re-Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,276,,,,276,,706,,,6
+H2,2005,2005,2005,4,0,1,Import,84,Belize,BLZ,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1425,,,,1425,,3128,,,6
+H2,2005,2005,2005,4,0,1,Import,84,Belize,BLZ,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2214,,,,2214,,4174,,,6
+H2,2005,2005,2005,4,0,1,Import,84,Belize,BLZ,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5523,,,,5523,,43356,,,6
+H2,2005,2005,2005,4,0,1,Import,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,57072,,,,57072,,154743,,,6
+H2,2005,2005,2005,4,0,1,Import,84,Belize,BLZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1780,,,,1780,,1566,,,6
+H2,2005,2005,2005,4,0,1,Import,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,42273,,,,42273,,227811,,,6
+H2,2005,2005,2005,4,0,1,Import,84,Belize,BLZ,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10,,,,10,,52,,,6
+H2,2005,2005,2005,4,0,1,Import,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,217,,,,217,,920,,,6
+H2,2005,2005,2005,4,0,1,Import,84,Belize,BLZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3447,,,,3447,,10302,,,6
+H2,2005,2005,2005,4,0,1,Import,84,Belize,BLZ,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,115479,,,,115479,,183324,,,6
+H2,2005,2005,2005,4,0,1,Import,84,Belize,BLZ,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1225,,,,1225,,1283,,,6
+H2,2005,2005,2005,4,0,1,Import,84,Belize,BLZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11670,,,,11670,,39921,,,6
+H2,2005,2005,2005,4,0,1,Import,84,Belize,BLZ,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22940,,,,22940,,60833,,,6
+H2,2005,2005,2005,4,0,1,Import,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,794,,,,794,,2510,,,6
+H2,2005,2005,2005,4,0,1,Import,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,131378,,,,131378,,448713,,,6
+H2,2005,2005,2005,4,0,2,Export,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,276,,,,276,,706,,,6
+H2,2005,2005,2005,4,0,3,Re-Export,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,276,,,,276,,706,,,6
+H2,2006,2006,2006,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,230947,,,,276853,,963941,,,0
+H2,2006,2006,2006,4,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9615,,,,10810,,33989,,,0
+H2,2006,2006,2006,4,0,3,Re-Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9615,,,,10810,,33989,,,0
+H2,2006,2006,2006,4,0,1,Import,84,Belize,BLZ,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1002,,,,1984,,3596,,,0
+H2,2006,2006,2006,4,0,1,Import,84,Belize,BLZ,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5080,,,,2212,,42044,,,0
+H2,2006,2006,2006,4,0,1,Import,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,54966,,,,75814,,229199,,,0
+H2,2006,2006,2006,4,0,2,Export,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9426,,,,10597,,33295,,,0
+H2,2006,2006,2006,4,0,3,Re-Export,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9426,,,,10597,,33295,,,0
+H2,2006,2006,2006,4,0,1,Import,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11255,,,,15858,,147779,,,0
+H2,2006,2006,2006,4,0,1,Import,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,76,,,,136,,178,,,0
+H2,2006,2006,2006,4,0,1,Import,84,Belize,BLZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7898,,,,22207,,57571,,,0
+H2,2006,2006,2006,4,0,1,Import,84,Belize,BLZ,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1113,,,,670,,3151,,,0
+H2,2006,2006,2006,4,0,1,Import,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5,,,,9,,45,,,0
+H2,2006,2006,2006,4,0,1,Import,84,Belize,BLZ,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9263,,,,8851,,45692,,,0
+H2,2006,2006,2006,4,0,1,Import,84,Belize,BLZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2237,,,,5109,,11040,,,0
+H2,2006,2006,2006,4,0,1,Import,84,Belize,BLZ,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7397,,,,6859,,31096,,,0
+H2,2006,2006,2006,4,0,2,Export,84,Belize,BLZ,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,189,,,,213,,694,,,0
+H2,2006,2006,2006,4,0,3,Re-Export,84,Belize,BLZ,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,189,,,,213,,694,,,0
+H2,2006,2006,2006,4,0,1,Import,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,130655,,,,137146,,392552,,,0
+H2,2007,2007,2007,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,50752,,,,380253,,1390691,,,0
+H2,2007,2007,2007,4,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2233,,,,14182,,33977,,,0
+H2,2007,2007,2007,4,0,3,Re-Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2233,,,,14182,,33977,,,0
+H2,2007,2007,2007,4,0,1,Import,84,Belize,BLZ,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,588,,,,3902,,10280,,,0
+H2,2007,2007,2007,4,0,1,Import,84,Belize,BLZ,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3,,,,21,,54,,,0
+H2,2007,2007,2007,4,0,1,Import,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9202,,,,68182,,171149,,,0
+H2,2007,2007,2007,4,0,2,Export,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1729,,,,10654,,26987,,,0
+H2,2007,2007,2007,4,0,3,Re-Export,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1729,,,,10654,,26987,,,0
+H2,2007,2007,2007,4,0,1,Import,84,Belize,BLZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,31,,,,445,,606,,,0
+H2,2007,2007,2007,4,0,1,Import,84,Belize,BLZ,222,El Salvador,SLV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20,,,,202,,1227,,,0
+H2,2007,2007,2007,4,0,1,Import,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4235,,,,48559,,207833,,,0
+H2,2007,2007,2007,4,0,1,Import,84,Belize,BLZ,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3,,,,39,,193,,,0
+H2,2007,2007,2007,4,0,1,Import,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,294,,,,1050,,6504,,,0
+H2,2007,2007,2007,4,0,1,Import,84,Belize,BLZ,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,15,,58,,,0
+H2,2007,2007,2007,4,0,1,Import,84,Belize,BLZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6231,,,,48027,,119044,,,0
+H2,2007,2007,2007,4,0,1,Import,84,Belize,BLZ,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1884,,,,11891,,19328,,,0
+H2,2007,2007,2007,4,0,1,Import,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3,,,,55,,559,,,0
+H2,2007,2007,2007,4,0,1,Import,84,Belize,BLZ,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,48,,,,384,,1862,,,0
+H2,2007,2007,2007,4,0,1,Import,84,Belize,BLZ,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5908,,,,35084,,174069,,,0
+H2,2007,2007,2007,4,0,1,Import,84,Belize,BLZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,216,,,,1729,,5837,,,0
+H2,2007,2007,2007,4,0,1,Import,84,Belize,BLZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1091,,,,10808,,36344,,,0
+H2,2007,2007,2007,4,0,2,Export,84,Belize,BLZ,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,504,,,,3528,,6990,,,0
+H2,2007,2007,2007,4,0,3,Re-Export,84,Belize,BLZ,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,504,,,,3528,,6990,,,0
+H2,2007,2007,2007,4,0,1,Import,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2220,,,,10091,,17941,,,0
+H2,2007,2007,2007,4,0,1,Import,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18774,,,,139770,,617807,,,0
+H2,2008,2008,2008,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,830649,,,,830649,,1180253,,,2
+H2,2008,2008,2008,4,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11,,,,11,,15,,,2
+H2,2008,2008,2008,4,0,1,Import,84,Belize,BLZ,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19259,,,,19259,,22417,,,2
+H2,2008,2008,2008,4,0,1,Import,84,Belize,BLZ,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,29657,,,,29657,,31849,,,2
+H2,2008,2008,2008,4,0,1,Import,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,212053,,,,212053,,235122,,,2
+H2,2008,2008,2008,4,0,1,Import,84,Belize,BLZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2834,,,,2834,,1023,,,2
+H2,2008,2008,2008,4,0,2,Export,84,Belize,BLZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11,,,,11,,15,,,2
+H2,2008,2008,2008,4,0,1,Import,84,Belize,BLZ,222,El Salvador,SLV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2469,,,,2469,,6057,,,2
+H2,2008,2008,2008,4,0,1,Import,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1244,,,,1244,,8548,,,2
+H2,2008,2008,2008,4,0,1,Import,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3590,,,,3590,,5849,,,2
+H2,2008,2008,2008,4,0,1,Import,84,Belize,BLZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,129748,,,,129748,,164280,,,2
+H2,2008,2008,2008,4,0,1,Import,84,Belize,BLZ,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,61,,,,61,,105,,,2
+H2,2008,2008,2008,4,0,1,Import,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,406,,,,406,,1018,,,2
+H2,2008,2008,2008,4,0,1,Import,84,Belize,BLZ,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23964,,,,23964,,99038,,,2
+H2,2008,2008,2008,4,0,1,Import,84,Belize,BLZ,600,Paraguay,PRY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2970,,,,2970,,5402,,,2
+H2,2008,2008,2008,4,0,1,Import,84,Belize,BLZ,604,Peru,PER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2127,,,,2127,,5511,,,2
+H2,2008,2008,2008,4,0,1,Import,84,Belize,BLZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2218,,,,2218,,1274,,,2
+H2,2008,2008,2008,4,0,1,Import,84,Belize,BLZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2112,,,,2112,,1904,,,2
+H2,2008,2008,2008,4,0,1,Import,84,Belize,BLZ,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,100,,,,100,,72,,,2
+H2,2008,2008,2008,4,0,1,Import,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,395836,,,,395836,,590789,,,2
+H2,2009,2009,2009,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,188813,,,,617710,,1257487,,,0
+H2,2009,2009,2009,4,0,1,Import,84,Belize,BLZ,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12113,,,,27317,,47640,,,0
+H2,2009,2009,2009,4,0,1,Import,84,Belize,BLZ,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3165,,,,11557,,27463,,,0
+H2,2009,2009,2009,4,0,1,Import,84,Belize,BLZ,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23,,,,20,,283,,,0
+H2,2009,2009,2009,4,0,1,Import,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,33148,,,,54571,,156418,,,0
+H2,2009,2009,2009,4,0,1,Import,84,Belize,BLZ,222,El Salvador,SLV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,480,,,,136,,1976,,,0
+H2,2009,2009,2009,4,0,1,Import,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8712,,,,20644,,92141,,,0
+H2,2009,2009,2009,4,0,1,Import,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1335,,,,2221,,13592,,,0
+H2,2009,2009,2009,4,0,1,Import,84,Belize,BLZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17361,,,,37764,,79009,,,0
+H2,2009,2009,2009,4,0,1,Import,84,Belize,BLZ,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,909,,,,2340,,3232,,,0
+H2,2009,2009,2009,4,0,1,Import,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1440,,,,2475,,14968,,,0
+H2,2009,2009,2009,4,0,1,Import,84,Belize,BLZ,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22,,,,21,,56,,,0
+H2,2009,2009,2009,4,0,1,Import,84,Belize,BLZ,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,237,,,,285,,989,,,0
+H2,2009,2009,2009,4,0,1,Import,84,Belize,BLZ,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3477,,,,5853,,40927,,,0
+H2,2009,2009,2009,4,0,1,Import,84,Belize,BLZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1098,,,,2417,,7334,,,0
+H2,2009,2009,2009,4,0,1,Import,84,Belize,BLZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,535,,,,1085,,10202,,,0
+H2,2009,2009,2009,4,0,1,Import,84,Belize,BLZ,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,106,,,,338,,828,,,0
+H2,2009,2009,2009,4,0,1,Import,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,104655,,,,448664,,760429,,,0
+H4,2014,2014,2014,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1665149,,,,1665149,,2504881,,,6
+H4,2014,2014,2014,4,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9234,,,,9234,,21681,,,2
+H4,2014,2014,2014,4,0,3,Re-Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9213,,,,9213,,21665,,,2
+H4,2014,2014,2014,4,0,2,Export,84,Belize,BLZ,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8,,,,8,,10,,,2
+H4,2014,2014,2014,4,0,1,Import,84,Belize,BLZ,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20186,,,,20186,,28272,,,2
+H4,2014,2014,2014,4,0,2,Export,84,Belize,BLZ,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2006,,,,2006,,3191,,,2
+H4,2014,2014,2014,4,0,3,Re-Export,84,Belize,BLZ,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2006,,,,2006,,3191,,,2
+H4,2014,2014,2014,4,0,1,Import,84,Belize,BLZ,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,21297,,,,21297,,24013,,,2
+H4,2014,2014,2014,4,0,1,Import,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,519449,,,,519449,,656238,,,2
+H4,2014,2014,2014,4,0,2,Export,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2645,,,,2645,,4409,,,2
+H4,2014,2014,2014,4,0,3,Re-Export,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2645,,,,2645,,4409,,,2
+H4,2014,2014,2014,4,0,1,Import,84,Belize,BLZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,357412,,,,357412,,337308,,,2
+H4,2014,2014,2014,4,0,2,Export,84,Belize,BLZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1071,,,,1071,,3530,,,2
+H4,2014,2014,2014,4,0,3,Re-Export,84,Belize,BLZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1071,,,,1071,,3530,,,2
+H4,2014,2014,2014,4,0,1,Import,84,Belize,BLZ,222,El Salvador,SLV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,71,,,,71,,406,,,2
+H4,2014,2014,2014,4,0,1,Import,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,68404,,,,68404,,153433,,,2
+H4,2014,2014,2014,4,0,2,Export,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,136,,,,136,,190,,,2
+H4,2014,2014,2014,4,0,3,Re-Export,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,136,,,,136,,190,,,2
+H4,2014,2014,2014,4,0,1,Import,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22643,,,,22643,,19340,,,6
+H4,2014,2014,2014,4,0,1,Import,84,Belize,BLZ,340,Honduras,HND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1167,,,,1167,,4001,,,6
+H4,2014,2014,2014,4,0,1,Import,84,Belize,BLZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,147186,,,,147186,,191285,,,2
+H4,2014,2014,2014,4,0,1,Import,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17841,,,,17841,,118291,,,6
+H4,2014,2014,2014,4,0,2,Export,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2737,,,,2737,,4087,,,2
+H4,2014,2014,2014,4,0,3,Re-Export,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2737,,,,2737,,4087,,,2
+H4,2014,2014,2014,4,0,1,Import,84,Belize,BLZ,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,34876,,,,34876,,81941,,,2
+H4,2014,2014,2014,4,0,1,Import,84,Belize,BLZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,254,,,,254,,1254,,,2
+H4,2014,2014,2014,4,0,1,Import,84,Belize,BLZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22393,,,,22393,,34809,,,2
+H4,2014,2014,2014,4,0,1,Import,84,Belize,BLZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,26106,,,,26106,,35167,,,2
+H4,2014,2014,2014,4,0,1,Import,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,515,,,,515,,874,,,2
+H4,2014,2014,2014,4,0,2,Export,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,50,,,,50,,240,,,2
+H4,2014,2014,2014,4,0,3,Re-Export,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,50,,,,50,,240,,,2
+H4,2014,2014,2014,4,0,1,Import,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,405349,,,,405349,,818249,,,6
+H4,2014,2014,2014,4,0,2,Export,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,582,,,,582,,6024,,,2
+H4,2014,2014,2014,4,0,3,Re-Export,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,568,,,,568,,6017,,,2
+H3,2010,2010,2010,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,69580,,,,543579,,1528331,,,0
+H3,2010,2010,2010,4,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,129,,,,540,,1982,,,0
+H3,2010,2010,2010,4,0,1,Import,84,Belize,BLZ,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1384,,,,10530,,21889,,,0
+H3,2010,2010,2010,4,0,2,Export,84,Belize,BLZ,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8,,,,29,,121,,,0
+H3,2010,2010,2010,4,0,1,Import,84,Belize,BLZ,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,79,,,,673,,3412,,,0
+H3,2010,2010,2010,4,0,1,Import,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2130,,,,17647,,54294,,,0
+H3,2010,2010,2010,4,0,1,Import,84,Belize,BLZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15438,,,,152835,,278488,,,0
+H3,2010,2010,2010,4,0,1,Import,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,307,,,,2072,,4804,,,0
+H3,2010,2010,2010,4,0,1,Import,84,Belize,BLZ,340,Honduras,HND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,659,,,,1198,,7323,,,0
+H3,2010,2010,2010,4,0,1,Import,84,Belize,BLZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9486,,,,85515,,179554,,,0
+H3,2010,2010,2010,4,0,1,Import,84,Belize,BLZ,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4120,,,,31355,,70649,,,0
+H3,2010,2010,2010,4,0,1,Import,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,587,,,,3034,,19067,,,0
+H3,2010,2010,2010,4,0,1,Import,84,Belize,BLZ,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,63,,,,285,,989,,,0
+H3,2010,2010,2010,4,0,1,Import,84,Belize,BLZ,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,789,,,,7434,,16818,,,0
+H3,2010,2010,2010,4,0,1,Import,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,34539,,,,231002,,871044,,,0
+H3,2010,2010,2010,4,0,2,Export,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,121,,,,511,,1861,,,0
+H3,2011,2011,2011,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,786629,,1303736,,,4
+H3,2011,2011,2011,4,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,48592,,88814,,,0
+H3,2011,2011,2011,4,0,3,Re-Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,48592,,88814,,,0
+H3,2011,2011,2011,4,0,1,Import,84,Belize,BLZ,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,37220,,37790,,,0
+H3,2011,2011,2011,4,0,1,Import,84,Belize,BLZ,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,27313,,55946,,,0
+H3,2011,2011,2011,4,0,1,Import,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,237098,,239134,,,0
+H3,2011,2011,2011,4,0,1,Import,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,117621,,206988,,,0
+H3,2011,2011,2011,4,0,2,Export,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,44,,100,,,0
+H3,2011,2011,2011,4,0,3,Re-Export,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,44,,100,,,0
+H3,2011,2011,2011,4,0,1,Import,84,Belize,BLZ,340,Honduras,HND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,1190,,2221,,,4
+H3,2011,2011,2011,4,0,2,Export,84,Belize,BLZ,340,Honduras,HND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,912,,2008,,,0
+H3,2011,2011,2011,4,0,3,Re-Export,84,Belize,BLZ,340,Honduras,HND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,912,,2008,,,0
+H3,2011,2011,2011,4,0,2,Export,84,Belize,BLZ,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,435,,30310,,,0
+H3,2011,2011,2011,4,0,3,Re-Export,84,Belize,BLZ,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,435,,30310,,,0
+H3,2011,2011,2011,4,0,1,Import,84,Belize,BLZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,47751,,67140,,,0
+H3,2011,2011,2011,4,0,1,Import,84,Belize,BLZ,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,8894,,8886,,,0
+H3,2011,2011,2011,4,0,1,Import,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,8940,,10072,,,0
+H3,2011,2011,2011,4,0,2,Export,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,42819,,34571,,,0
+H3,2011,2011,2011,4,0,3,Re-Export,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,42819,,34571,,,0
+H3,2011,2011,2011,4,0,1,Import,84,Belize,BLZ,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,1720,,5179,,,0
+H3,2011,2011,2011,4,0,1,Import,84,Belize,BLZ,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,4807,,22463,,,0
+H3,2011,2011,2011,4,0,1,Import,84,Belize,BLZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,623,,1841,,,0
+H3,2011,2011,2011,4,0,1,Import,84,Belize,BLZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,10186,,15387,,,0
+H3,2011,2011,2011,4,0,1,Import,84,Belize,BLZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,19281,,33188,,,0
+H3,2011,2011,2011,4,0,1,Import,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,40,,70,,,0
+H3,2011,2011,2011,4,0,1,Import,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,262859,,596386,,,0
+H3,2011,2011,2011,4,0,2,Export,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,1016,,1794,,,0
+H3,2011,2011,2011,4,0,3,Re-Export,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,1016,,1794,,,0
+H3,2011,2011,2011,4,0,1,Import,84,Belize,BLZ,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,1086,,1045,,,0
+H3,2011,2011,2011,4,0,2,Export,84,Belize,BLZ,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,3366,,20031,,,0
+H3,2011,2011,2011,4,0,3,Re-Export,84,Belize,BLZ,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,3366,,20031,,,0
+H3,2012,2012,2012,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1191278,,,,1191278,,1949111,,,2
+H3,2012,2012,2012,4,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18940,,,,18940,,43602,,,2
+H3,2012,2012,2012,4,0,3,Re-Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18855,,,,18855,,43162,,,2
+H3,2012,2012,2012,4,0,1,Import,84,Belize,BLZ,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,104679,,,,104679,,136202,,,2
+H3,2012,2012,2012,4,0,1,Import,84,Belize,BLZ,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,30450,,,,30450,,40940,,,2
+H3,2012,2012,2012,4,0,1,Import,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,338202,,,,338202,,410699,,,2
+H3,2012,2012,2012,4,0,2,Export,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5731,,,,5731,,9094,,,2
+H3,2012,2012,2012,4,0,3,Re-Export,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5731,,,,5731,,9094,,,2
+H3,2012,2012,2012,4,0,1,Import,84,Belize,BLZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10913,,,,10913,,35952,,,2
+H3,2012,2012,2012,4,0,2,Export,84,Belize,BLZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,428,,,,428,,1387,,,2
+H3,2012,2012,2012,4,0,3,Re-Export,84,Belize,BLZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,397,,,,397,,1307,,,2
+H3,2012,2012,2012,4,0,1,Import,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,57113,,,,57113,,99791,,,2
+H3,2012,2012,2012,4,0,2,Export,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1500,,,,1500,,2053,,,2
+H3,2012,2012,2012,4,0,3,Re-Export,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1500,,,,1500,,2053,,,2
+H3,2012,2012,2012,4,0,1,Import,84,Belize,BLZ,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,41,,,,41,,152,,,2
+H3,2012,2012,2012,4,0,1,Import,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,871,,,,871,,2934,,,2
+H3,2012,2012,2012,4,0,2,Export,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,330,,,,330,,7313,,,2
+H3,2012,2012,2012,4,0,3,Re-Export,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,330,,,,330,,7313,,,2
+H3,2012,2012,2012,4,0,1,Import,84,Belize,BLZ,340,Honduras,HND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1480,,,,1480,,3500,,,2
+H3,2012,2012,2012,4,0,1,Import,84,Belize,BLZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,87752,,,,87752,,175329,,,2
+H3,2012,2012,2012,4,0,1,Import,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5964,,,,5964,,52967,,,2
+H3,2012,2012,2012,4,0,2,Export,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,596,,,,596,,2611,,,2
+H3,2012,2012,2012,4,0,3,Re-Export,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,596,,,,596,,2611,,,2
+H3,2012,2012,2012,4,0,1,Import,84,Belize,BLZ,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,466,,,,466,,2800,,,2
+H3,2012,2012,2012,4,0,1,Import,84,Belize,BLZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,131,,,,131,,1643,,,2
+H3,2012,2012,2012,4,0,1,Import,84,Belize,BLZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9705,,,,9705,,13654,,,2
+H3,2012,2012,2012,4,0,1,Import,84,Belize,BLZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,41236,,,,41236,,52294,,,2
+H3,2012,2012,2012,4,0,1,Import,84,Belize,BLZ,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2744,,,,2744,,404,,,2
+H3,2012,2012,2012,4,0,1,Import,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,16372,,,,16372,,9304,,,2
+H3,2012,2012,2012,4,0,1,Import,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,482350,,,,482350,,908651,,,2
+H3,2012,2012,2012,4,0,2,Export,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10355,,,,10355,,21144,,,2
+H3,2012,2012,2012,4,0,3,Re-Export,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10301,,,,10301,,20784,,,2
+H3,2012,2012,2012,4,0,1,Import,84,Belize,BLZ,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,811,,,,811,,1897,,,2
+H3,2013,2013,2013,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,828112,,,,828112,,1359717,,,6
+H3,2013,2013,2013,4,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,23562,,,,23562,,36962,,,2
+H3,2013,2013,2013,4,0,3,Re-Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,22918,,,,22918,,35736,,,2
+H3,2013,2013,2013,4,0,1,Import,84,Belize,BLZ,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,42139,,,,42139,,60696,,,2
+H3,2013,2013,2013,4,0,1,Import,84,Belize,BLZ,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,29533,,,,29533,,50555,,,2
+H3,2013,2013,2013,4,0,1,Import,84,Belize,BLZ,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,38,,,,38,,213,,,2
+H3,2013,2013,2013,4,0,1,Import,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,251383,,,,251383,,255991,,,2
+H3,2013,2013,2013,4,0,2,Export,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,19832,,,,19832,,30677,,,2
+H3,2013,2013,2013,4,0,3,Re-Export,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,19832,,,,19832,,30677,,,2
+H3,2013,2013,2013,4,0,1,Import,84,Belize,BLZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,95,,,,95,,23,,,2
+H3,2013,2013,2013,4,0,1,Import,84,Belize,BLZ,222,El Salvador,SLV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,33,,,,33,,94,,,2
+H3,2013,2013,2013,4,0,1,Import,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,68969,,,,68969,,117607,,,2
+H3,2013,2013,2013,4,0,2,Export,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,375,,,,375,,513,,,2
+H3,2013,2013,2013,4,0,3,Re-Export,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,375,,,,375,,513,,,2
+H3,2013,2013,2013,4,0,1,Import,84,Belize,BLZ,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,40,,,,40,,198,,,2
+H3,2013,2013,2013,4,0,1,Import,84,Belize,BLZ,308,Grenada,GRD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2007,,,,2007,,5018,,,2
+H3,2013,2013,2013,4,0,1,Import,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5272,,,,5272,,7177,,,6
+H3,2013,2013,2013,4,0,1,Import,84,Belize,BLZ,340,Honduras,HND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1325,,,,1325,,1412,,,6
+H3,2013,2013,2013,4,0,1,Import,84,Belize,BLZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,32527,,,,32527,,66209,,,2
+H3,2013,2013,2013,4,0,1,Import,84,Belize,BLZ,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,209,,,,209,,243,,,2
+H3,2013,2013,2013,4,0,1,Import,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6369,,,,6369,,49968,,,6
+H3,2013,2013,2013,4,0,2,Export,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,38,,,,38,,80,,,2
+H3,2013,2013,2013,4,0,3,Re-Export,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,38,,,,38,,80,,,2
+H3,2013,2013,2013,4,0,1,Import,84,Belize,BLZ,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1476,,,,1476,,6233,,,2
+H3,2013,2013,2013,4,0,1,Import,84,Belize,BLZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,450,,,,450,,757,,,2
+H3,2013,2013,2013,4,0,1,Import,84,Belize,BLZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5595,,,,5595,,10134,,,2
+H3,2013,2013,2013,4,0,1,Import,84,Belize,BLZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,32106,,,,32106,,36045,,,2
+H3,2013,2013,2013,4,0,1,Import,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,348546,,,,348546,,691145,,,6
+H3,2013,2013,2013,4,0,2,Export,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3318,,,,3318,,5692,,,2
+H3,2013,2013,2013,4,0,3,Re-Export,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2674,,,,2674,,4466,,,2
+H5,2018,2018,2018,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1530825,,,,1530825,,2410935,,,2
+H5,2018,2018,2018,4,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19024,,,,19024,,6699,,,2
+H5,2018,2018,2018,4,0,3,Re-Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19024,,,,19024,,6699,,,2
+H5,2018,2018,2018,4,0,1,Import,84,Belize,BLZ,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19310,,,,19310,,27342,,,2
+H5,2018,2018,2018,4,0,1,Import,84,Belize,BLZ,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13163,,,,13163,,19327,,,2
+H5,2018,2018,2018,4,0,1,Import,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,400027,,,,400027,,329076,,,2
+H5,2018,2018,2018,4,0,2,Export,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2299,,,,2299,,2840,,,2
+H5,2018,2018,2018,4,0,3,Re-Export,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2299,,,,2299,,2840,,,2
+H5,2018,2018,2018,4,0,2,Export,84,Belize,BLZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,357,,,,357,,1176,,,2
+H5,2018,2018,2018,4,0,3,Re-Export,84,Belize,BLZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,357,,,,357,,1176,,,2
+H5,2018,2018,2018,4,0,1,Import,84,Belize,BLZ,222,El Salvador,SLV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15,,,,15,,134,,,2
+H5,2018,2018,2018,4,0,1,Import,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,75340,,,,75340,,169973,,,2
+H5,2018,2018,2018,4,0,1,Import,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8369,,,,8369,,18425,,,2
+H5,2018,2018,2018,4,0,1,Import,84,Belize,BLZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,98208,,,,98208,,113168,,,2
+H5,2018,2018,2018,4,0,2,Export,84,Belize,BLZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,56,,,,56,,164,,,2
+H5,2018,2018,2018,4,0,3,Re-Export,84,Belize,BLZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,56,,,,56,,164,,,2
+H5,2018,2018,2018,4,0,1,Import,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,47150,,,,47150,,96080,,,2
+H5,2018,2018,2018,4,0,2,Export,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15997,,,,15997,,688,,,2
+H5,2018,2018,2018,4,0,3,Re-Export,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15997,,,,15997,,688,,,2
+H5,2018,2018,2018,4,0,1,Import,84,Belize,BLZ,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,467,,,,467,,2125,,,2
+H5,2018,2018,2018,4,0,1,Import,84,Belize,BLZ,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,68457,,,,68457,,116388,,,2
+H5,2018,2018,2018,4,0,2,Export,84,Belize,BLZ,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,185,,,,185,,847,,,2
+H5,2018,2018,2018,4,0,3,Re-Export,84,Belize,BLZ,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,185,,,,185,,847,,,2
+H5,2018,2018,2018,4,0,1,Import,84,Belize,BLZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,402,,,,402,,806,,,2
+H5,2018,2018,2018,4,0,1,Import,84,Belize,BLZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13360,,,,13360,,16965,,,2
+H5,2018,2018,2018,4,0,1,Import,84,Belize,BLZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22521,,,,22521,,28894,,,2
+H5,2018,2018,2018,4,0,1,Import,84,Belize,BLZ,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5800,,,,5800,,7463,,,2
+H5,2018,2018,2018,4,0,1,Import,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,28693,,,,28693,,66841,,,2
+H5,2018,2018,2018,4,0,1,Import,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,729537,,,,729537,,1397919,,,2
+H5,2018,2018,2018,4,0,2,Export,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,128,,,,128,,981,,,2
+H5,2018,2018,2018,4,0,3,Re-Export,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,128,,,,128,,981,,,2
+H5,2019,2019,2019,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1570969,,,,1570982,,2530501,,,6
+H5,2019,2019,2019,4,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2223,,,,2223,,4587,,,2
+H5,2019,2019,2019,4,0,3,Re-Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2223,,,,2223,,4587,,,2
+H5,2019,2019,2019,4,0,1,Import,84,Belize,BLZ,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,50643,,,,50643,,78295,,,2
+H5,2019,2019,2019,4,0,1,Import,84,Belize,BLZ,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8088,,,,8088,,16432,,,2
+H5,2019,2019,2019,4,0,1,Import,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,359363,,,,359363,,362387,,,2
+H5,2019,2019,2019,4,0,2,Export,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1802,,,,1802,,2114,,,2
+H5,2019,2019,2019,4,0,3,Re-Export,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1802,,,,1802,,2114,,,2
+H5,2019,2019,2019,4,0,2,Export,84,Belize,BLZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,79,,,,79,,261,,,2
+H5,2019,2019,2019,4,0,3,Re-Export,84,Belize,BLZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,79,,,,79,,261,,,2
+H5,2019,2019,2019,4,0,1,Import,84,Belize,BLZ,222,El Salvador,SLV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11,,,,11,,88,,,2
+H5,2019,2019,2019,4,0,1,Import,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3707,,,,3707,,13312,,,2
+H5,2019,2019,2019,4,0,1,Import,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4568,,,,4568,,3574,,,2
+H5,2019,2019,2019,4,0,1,Import,84,Belize,BLZ,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,68,,,,68,,265,,,2
+H5,2019,2019,2019,4,0,1,Import,84,Belize,BLZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,228084,,,,228084,,257081,,,2
+H5,2019,2019,2019,4,0,1,Import,84,Belize,BLZ,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4969,,,,4969,,7273,,,2
+H5,2019,2019,2019,4,0,1,Import,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15656,,,,15659,,179135,,,6
+H5,2019,2019,2019,4,0,1,Import,84,Belize,BLZ,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1135,,,,1135,,1415,,,2
+H5,2019,2019,2019,4,0,1,Import,84,Belize,BLZ,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,56403,,,,56403,,104911,,,2
+H5,2019,2019,2019,4,0,2,Export,84,Belize,BLZ,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,74,,,,74,,1180,,,2
+H5,2019,2019,2019,4,0,3,Re-Export,84,Belize,BLZ,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,74,,,,74,,1180,,,2
+H5,2019,2019,2019,4,0,1,Import,84,Belize,BLZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13784,,,,13784,,18960,,,2
+H5,2019,2019,2019,4,0,1,Import,84,Belize,BLZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,963,,,,963,,1421,,,2
+H5,2019,2019,2019,4,0,1,Import,84,Belize,BLZ,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2147,,,,2147,,3040,,,2
+H5,2019,2019,2019,4,0,1,Import,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,32948,,,,32910,,78335,,,2
+H5,2019,2019,2019,4,0,1,Import,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,788425,,,,788473,,1404570,,,6
+H5,2019,2019,2019,4,0,2,Export,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,267,,,,267,,1031,,,2
+H5,2019,2019,2019,4,0,3,Re-Export,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,267,,,,267,,1031,,,2
+H4,2015,2015,2015,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1422467,,,,1422467,,2237573,,,6
+H4,2015,2015,2015,4,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6377,,,,6377,,15062,,,2
+H4,2015,2015,2015,4,0,3,Re-Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6377,,,,6377,,15062,,,2
+H4,2015,2015,2015,4,0,1,Import,84,Belize,BLZ,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,77754,,,,77754,,108554,,,2
+H4,2015,2015,2015,4,0,2,Export,84,Belize,BLZ,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,75,,,,75,,119,,,2
+H4,2015,2015,2015,4,0,3,Re-Export,84,Belize,BLZ,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,75,,,,75,,119,,,2
+H4,2015,2015,2015,4,0,1,Import,84,Belize,BLZ,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18988,,,,18988,,33778,,,2
+H4,2015,2015,2015,4,0,1,Import,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,343389,,,,343389,,419183,,,2
+H4,2015,2015,2015,4,0,2,Export,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2565,,,,2565,,2405,,,2
+H4,2015,2015,2015,4,0,3,Re-Export,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2565,,,,2565,,2405,,,2
+H4,2015,2015,2015,4,0,1,Import,84,Belize,BLZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,113727,,,,113727,,92028,,,2
+H4,2015,2015,2015,4,0,2,Export,84,Belize,BLZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,317,,,,317,,1046,,,2
+H4,2015,2015,2015,4,0,3,Re-Export,84,Belize,BLZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,317,,,,317,,1046,,,2
+H4,2015,2015,2015,4,0,1,Import,84,Belize,BLZ,222,El Salvador,SLV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,28,,,,28,,43,,,6
+H4,2015,2015,2015,4,0,1,Import,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,97240,,,,97240,,194312,,,2
+H4,2015,2015,2015,4,0,1,Import,84,Belize,BLZ,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12,,,,12,,181,,,2
+H4,2015,2015,2015,4,0,1,Import,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,23801,,,,23801,,26854,,,6
+H4,2015,2015,2015,4,0,1,Import,84,Belize,BLZ,340,Honduras,HND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12,,,,12,,42,,,2
+H4,2015,2015,2015,4,0,1,Import,84,Belize,BLZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,149292,,,,149292,,166923,,,2
+H4,2015,2015,2015,4,0,1,Import,84,Belize,BLZ,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,278,,,,278,,1419,,,2
+H4,2015,2015,2015,4,0,1,Import,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9735,,,,9735,,12605,,,6
+H4,2015,2015,2015,4,0,1,Import,84,Belize,BLZ,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,95,,,,95,,82,,,2
+H4,2015,2015,2015,4,0,1,Import,84,Belize,BLZ,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10921,,,,10921,,55867,,,2
+H4,2015,2015,2015,4,0,2,Export,84,Belize,BLZ,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,139,,,,139,,579,,,2
+H4,2015,2015,2015,4,0,3,Re-Export,84,Belize,BLZ,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,139,,,,139,,579,,,2
+H4,2015,2015,2015,4,0,1,Import,84,Belize,BLZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,211,,,,211,,148,,,2
+H4,2015,2015,2015,4,0,1,Import,84,Belize,BLZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8383,,,,8383,,11770,,,2
+H4,2015,2015,2015,4,0,1,Import,84,Belize,BLZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,29369,,,,29369,,51214,,,2
+H4,2015,2015,2015,4,0,2,Export,84,Belize,BLZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25,,,,25,,65,,,2
+H4,2015,2015,2015,4,0,3,Re-Export,84,Belize,BLZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25,,,,25,,65,,,2
+H4,2015,2015,2015,4,0,1,Import,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1036,,,,1036,,697,,,2
+H4,2015,2015,2015,4,0,2,Export,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25,,,,25,,120,,,2
+H4,2015,2015,2015,4,0,3,Re-Export,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25,,,,25,,120,,,2
+H4,2015,2015,2015,4,0,1,Import,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,538196,,,,538196,,1061874,,,6
+H4,2015,2015,2015,4,0,2,Export,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3232,,,,3232,,10727,,,2
+H4,2015,2015,2015,4,0,3,Re-Export,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3232,,,,3232,,10727,,,2
+H4,2016,2016,2016,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1309145,,,,1309145,,1999292,,,6
+H4,2016,2016,2016,4,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5375,,,,5375,,27850,,,2
+H4,2016,2016,2016,4,0,3,Re-Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5375,,,,5375,,27850,,,2
+H4,2016,2016,2016,4,0,1,Import,84,Belize,BLZ,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,67318,,,,67318,,92968,,,2
+H4,2016,2016,2016,4,0,1,Import,84,Belize,BLZ,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13500,,,,13500,,20003,,,2
+H4,2016,2016,2016,4,0,1,Import,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,425700,,,,425700,,418471,,,2
+H4,2016,2016,2016,4,0,2,Export,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1975,,,,1975,,2335,,,2
+H4,2016,2016,2016,4,0,3,Re-Export,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1975,,,,1975,,2335,,,2
+H4,2016,2016,2016,4,0,1,Import,84,Belize,BLZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1178,,,,1178,,2647,,,2
+H4,2016,2016,2016,4,0,2,Export,84,Belize,BLZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,337,,,,337,,1111,,,2
+H4,2016,2016,2016,4,0,3,Re-Export,84,Belize,BLZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,337,,,,337,,1111,,,2
+H4,2016,2016,2016,4,0,1,Import,84,Belize,BLZ,222,El Salvador,SLV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24,,,,24,,184,,,2
+H4,2016,2016,2016,4,0,1,Import,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,54910,,,,54910,,101843,,,2
+H4,2016,2016,2016,4,0,1,Import,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18864,,,,18864,,28787,,,6
+H4,2016,2016,2016,4,0,1,Import,84,Belize,BLZ,340,Honduras,HND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2,,,,2,,65,,,2
+H4,2016,2016,2016,4,0,1,Import,84,Belize,BLZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,120083,,,,120083,,162860,,,2
+H4,2016,2016,2016,4,0,1,Import,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15766,,,,15766,,119201,,,6
+H4,2016,2016,2016,4,0,1,Import,84,Belize,BLZ,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,807,,,,807,,1388,,,2
+H4,2016,2016,2016,4,0,1,Import,84,Belize,BLZ,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,54684,,,,54684,,99094,,,2
+H4,2016,2016,2016,4,0,2,Export,84,Belize,BLZ,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2594,,,,2594,,19953,,,2
+H4,2016,2016,2016,4,0,3,Re-Export,84,Belize,BLZ,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2594,,,,2594,,19953,,,2
+H4,2016,2016,2016,4,0,1,Import,84,Belize,BLZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1094,,,,1094,,3522,,,2
+H4,2016,2016,2016,4,0,1,Import,84,Belize,BLZ,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11791,,,,11791,,15328,,,2
+H4,2016,2016,2016,4,0,1,Import,84,Belize,BLZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19939,,,,19939,,33337,,,2
+H4,2016,2016,2016,4,0,1,Import,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,802,,,,802,,1304,,,2
+H4,2016,2016,2016,4,0,1,Import,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,501960,,,,501960,,895875,,,6
+H4,2016,2016,2016,4,0,2,Export,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,469,,,,469,,4451,,,2
+H4,2016,2016,2016,4,0,3,Re-Export,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,469,,,,469,,4451,,,2
+H4,2016,2016,2016,4,0,1,Import,84,Belize,BLZ,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,723,,,,723,,2416,,,2
+H4,2017,2017,2017,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1530683,,,,1530683,,2325638,,,2
+H4,2017,2017,2017,4,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5305,,,,5305,,13154,,,2
+H4,2017,2017,2017,4,0,3,Re-Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5305,,,,5305,,13154,,,2
+H4,2017,2017,2017,4,0,1,Import,84,Belize,BLZ,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,95544,,,,95544,,155116,,,2
+H4,2017,2017,2017,4,0,1,Import,84,Belize,BLZ,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1408,,,,1408,,2699,,,2
+H4,2017,2017,2017,4,0,1,Import,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,456914,,,,456914,,489755,,,2
+H4,2017,2017,2017,4,0,2,Export,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2280,,,,2280,,2685,,,2
+H4,2017,2017,2017,4,0,3,Re-Export,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2280,,,,2280,,2685,,,2
+H4,2017,2017,2017,4,0,2,Export,84,Belize,BLZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,357,,,,357,,1176,,,2
+H4,2017,2017,2017,4,0,3,Re-Export,84,Belize,BLZ,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,357,,,,357,,1176,,,2
+H4,2017,2017,2017,4,0,1,Import,84,Belize,BLZ,222,El Salvador,SLV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,87,,,,87,,326,,,2
+H4,2017,2017,2017,4,0,1,Import,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,64370,,,,64370,,148485,,,2
+H4,2017,2017,2017,4,0,1,Import,84,Belize,BLZ,304,Greenland,GRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22778,,,,22778,,10414,,,2
+H4,2017,2017,2017,4,0,1,Import,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13789,,,,13789,,31225,,,2
+H4,2017,2017,2017,4,0,1,Import,84,Belize,BLZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,203463,,,,203463,,287341,,,2
+H4,2017,2017,2017,4,0,1,Import,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5397,,,,5397,,85930,,,2
+H4,2017,2017,2017,4,0,1,Import,84,Belize,BLZ,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1832,,,,1832,,2370,,,2
+H4,2017,2017,2017,4,0,1,Import,84,Belize,BLZ,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,80062,,,,80062,,103880,,,2
+H4,2017,2017,2017,4,0,2,Export,84,Belize,BLZ,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1614,,,,1614,,4677,,,2
+H4,2017,2017,2017,4,0,3,Re-Export,84,Belize,BLZ,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1614,,,,1614,,4677,,,2
+H4,2017,2017,2017,4,0,1,Import,84,Belize,BLZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,35,,,,35,,56,,,2
+H4,2017,2017,2017,4,0,1,Import,84,Belize,BLZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,57473,,,,57473,,48512,,,2
+H4,2017,2017,2017,4,0,1,Import,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,538,,,,538,,739,,,2
+H4,2017,2017,2017,4,0,1,Import,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,526988,,,,526988,,958784,,,2
+H4,2017,2017,2017,4,0,2,Export,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1053,,,,1053,,4615,,,2
+H4,2017,2017,2017,4,0,3,Re-Export,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1053,,,,1053,,4615,,,2
+H5,2020,2020,2020,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,880657,,,,880657,,1520230,,,2
+H5,2020,2020,2020,4,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,28264,,,,28264,,57649,,,2
+H5,2020,2020,2020,4,0,3,Re-Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22811,,,,22811,,55549,,,2
+H5,2020,2020,2020,4,0,2,Export,84,Belize,BLZ,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,31,,,,31,,36,,,2
+H5,2020,2020,2020,4,0,3,Re-Export,84,Belize,BLZ,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,31,,,,31,,36,,,2
+H5,2020,2020,2020,4,0,1,Import,84,Belize,BLZ,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4979,,,,4979,,11166,,,2
+H5,2020,2020,2020,4,0,1,Import,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,224970,,,,224970,,253354,,,2
+H5,2020,2020,2020,4,0,1,Import,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,85043,,,,85043,,229499,,,2
+H5,2020,2020,2020,4,0,2,Export,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22,,,,22,,183,,,2
+H5,2020,2020,2020,4,0,3,Re-Export,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22,,,,22,,183,,,2
+H5,2020,2020,2020,4,0,1,Import,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8,,,,8,,635,,,2
+H5,2020,2020,2020,4,0,1,Import,84,Belize,BLZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,195727,,,,195727,,233253,,,2
+H5,2020,2020,2020,4,0,2,Export,84,Belize,BLZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36,,,,36,,23,,,2
+H5,2020,2020,2020,4,0,3,Re-Export,84,Belize,BLZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36,,,,36,,23,,,2
+H5,2020,2020,2020,4,0,1,Import,84,Belize,BLZ,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2124,,,,2124,,4537,,,2
+H5,2020,2020,2020,4,0,1,Import,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13109,,,,13109,,103071,,,2
+H5,2020,2020,2020,4,0,1,Import,84,Belize,BLZ,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1339,,,,1339,,3014,,,2
+H5,2020,2020,2020,4,0,1,Import,84,Belize,BLZ,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,32665,,,,32665,,72391,,,2
+H5,2020,2020,2020,4,0,2,Export,84,Belize,BLZ,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22720,,,,22720,,55306,,,2
+H5,2020,2020,2020,4,0,3,Re-Export,84,Belize,BLZ,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22720,,,,22720,,55306,,,2
+H5,2020,2020,2020,4,0,1,Import,84,Belize,BLZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,44,,,,44,,114,,,2
+H5,2020,2020,2020,4,0,1,Import,84,Belize,BLZ,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,450,,,,450,,1125,,,2
+H5,2020,2020,2020,4,0,1,Import,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,781,,,,781,,1878,,,2
+H5,2020,2020,2020,4,0,1,Import,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,319413,,,,319413,,606185,,,2
+H5,2020,2020,2020,4,0,2,Export,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5453,,,,5453,,2100,,,2
+H5,2021,2021,2021,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,857652,,,,858318,,1411944,,,6
+H5,2021,2021,2021,4,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4653,,,,4653,,33748,,,2
+H5,2021,2021,2021,4,0,3,Re-Export,84,Belize,BLZ,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4653,,,,4653,,33748,,,2
+H5,2021,2021,2021,4,0,1,Import,84,Belize,BLZ,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12500,,,,12500,,17830,,,2
+H5,2021,2021,2021,4,0,1,Import,84,Belize,BLZ,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4990,,,,4990,,12710,,,2
+H5,2021,2021,2021,4,0,1,Import,84,Belize,BLZ,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,149442,,,,149442,,123220,,,2
+H5,2021,2021,2021,4,0,1,Import,84,Belize,BLZ,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90576,,,,90576,,100244,,,2
+H5,2021,2021,2021,4,0,1,Import,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,145,,,,145,,7660,,,2
+H5,2021,2021,2021,4,0,2,Export,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,108,,,,108,,7535,,,2
+H5,2021,2021,2021,4,0,3,Re-Export,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,108,,,,108,,7535,,,2
+H5,2021,2021,2021,4,0,1,Import,84,Belize,BLZ,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,112438,,,,112438,,136896,,,2
+H5,2021,2021,2021,4,0,1,Import,84,Belize,BLZ,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7934,,,,7934,,5588,,,2
+H5,2021,2021,2021,4,0,1,Import,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12253,,,,12318,,17117,,,6
+H5,2021,2021,2021,4,0,1,Import,84,Belize,BLZ,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,83496,,,,83496,,235431,,,2
+H5,2021,2021,2021,4,0,1,Import,84,Belize,BLZ,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,23,,,,23,,201,,,2
+H5,2021,2021,2021,4,0,1,Import,84,Belize,BLZ,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18688,,,,18688,,31468,,,2
+H5,2021,2021,2021,4,0,1,Import,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,365164,,,,365764,,723574,,,6
+H5,2021,2021,2021,4,0,2,Export,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4545,,,,4545,,26213,,,2
+H5,2021,2021,2021,4,0,3,Re-Export,84,Belize,BLZ,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4545,,,,4545,,26213,,,2

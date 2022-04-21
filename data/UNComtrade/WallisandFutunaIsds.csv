@@ -1,0 +1,57 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,2000,2000,2000,4,0,1,Import,876,Wallis and Futuna Isds,WLF,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,115193,,,,115193,,271505,,,2
+H0,2000,2000,2000,4,0,1,Import,876,Wallis and Futuna Isds,WLF,12,Algeria,DZA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,145,,,,145,,408,,,2
+H0,2000,2000,2000,4,0,1,Import,876,Wallis and Futuna Isds,WLF,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,16,,,,16,,62,,,2
+H0,2000,2000,2000,4,0,1,Import,876,Wallis and Futuna Isds,WLF,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,5140,,,,5140,,8036,,,2
+H0,2000,2000,2000,4,0,1,Import,876,Wallis and Futuna Isds,WLF,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,31,,,,31,,104,,,2
+H0,2000,2000,2000,4,0,1,Import,876,Wallis and Futuna Isds,WLF,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,76329,,,,76329,,225253,,,2
+H0,2000,2000,2000,4,0,1,Import,876,Wallis and Futuna Isds,WLF,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,215,,,,215,,571,,,2
+H0,2000,2000,2000,4,0,1,Import,876,Wallis and Futuna Isds,WLF,504,Morocco,MAR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,90,,,,90,,223,,,2
+H0,2000,2000,2000,4,0,1,Import,876,Wallis and Futuna Isds,WLF,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,91,,,,91,,397,,,2
+H0,2000,2000,2000,4,0,1,Import,876,Wallis and Futuna Isds,WLF,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,32453,,,,32453,,33650,,,2
+H0,2000,2000,2000,4,0,1,Import,876,Wallis and Futuna Isds,WLF,788,Tunisia,TUN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,32,,,,32,,90,,,2
+H0,2000,2000,2000,4,0,1,Import,876,Wallis and Futuna Isds,WLF,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,32,,,,32,,79,,,2
+H0,2000,2000,2000,4,0,1,Import,876,Wallis and Futuna Isds,WLF,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,619,,,,619,,2633,,,2
+H0,2001,2001,2001,4,0,1,Import,876,Wallis and Futuna Isds,WLF,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,103650,,,,103650,,268608,,,2
+H0,2001,2001,2001,4,0,1,Import,876,Wallis and Futuna Isds,WLF,12,Algeria,DZA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,110,,,,110,,150,,,2
+H0,2001,2001,2001,4,0,1,Import,876,Wallis and Futuna Isds,WLF,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,100,,,,100,,446,,,2
+H0,2001,2001,2001,4,0,1,Import,876,Wallis and Futuna Isds,WLF,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,75,,,,75,,173,,,2
+H0,2001,2001,2001,4,0,1,Import,876,Wallis and Futuna Isds,WLF,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,61150,,,,61150,,217422,,,2
+H0,2001,2001,2001,4,0,1,Import,876,Wallis and Futuna Isds,WLF,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,50,,,,50,,245,,,2
+H0,2001,2001,2001,4,0,1,Import,876,Wallis and Futuna Isds,WLF,504,Morocco,MAR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,105,,,,105,,134,,,2
+H0,2001,2001,2001,4,0,1,Import,876,Wallis and Futuna Isds,WLF,540,New Caledonia,NCL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,6,,,,6,,127,,,2
+H0,2001,2001,2001,4,0,1,Import,876,Wallis and Futuna Isds,WLF,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,90,,,,90,,452,,,2
+H0,2001,2001,2001,4,0,1,Import,876,Wallis and Futuna Isds,WLF,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,41880,,,,41880,,48843,,,2
+H0,2001,2001,2001,4,0,1,Import,876,Wallis and Futuna Isds,WLF,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,84,,,,84,,616,,,2
+H0,2002,2002,2002,4,0,1,Import,876,Wallis and Futuna Isds,WLF,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,119397,,,,119397,,264814,,,2
+H0,2002,2002,2002,4,0,1,Import,876,Wallis and Futuna Isds,WLF,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,225,,,,225,,350,,,2
+H0,2002,2002,2002,4,0,1,Import,876,Wallis and Futuna Isds,WLF,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,71096,,,,71096,,208128,,,2
+H0,2002,2002,2002,4,0,1,Import,876,Wallis and Futuna Isds,WLF,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,152,,,,152,,421,,,2
+H0,2002,2002,2002,4,0,1,Import,876,Wallis and Futuna Isds,WLF,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,67,,,,67,,332,,,2
+H0,2002,2002,2002,4,0,1,Import,876,Wallis and Futuna Isds,WLF,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,47857,,,,47857,,55583,,,2
+H0,2003,2003,2003,4,0,1,Import,876,Wallis and Futuna Isds,WLF,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,104019,,,,104019,,202936,,,2
+H0,2003,2003,2003,4,0,1,Import,876,Wallis and Futuna Isds,WLF,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,78705,,,,78705,,174672,,,2
+H0,2003,2003,2003,4,0,1,Import,876,Wallis and Futuna Isds,WLF,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,160,,,,160,,336,,,2
+H0,2003,2003,2003,4,0,1,Import,876,Wallis and Futuna Isds,WLF,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,56,,,,56,,262,,,2
+H0,2003,2003,2003,4,0,1,Import,876,Wallis and Futuna Isds,WLF,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,24823,,,,24823,,23968,,,2
+H0,2003,2003,2003,4,0,1,Import,876,Wallis and Futuna Isds,WLF,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,275,,,,275,,3699,,,2
+H0,2004,2004,2004,4,0,1,Import,876,Wallis and Futuna Isds,WLF,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,91010,,,,91010,,274400,,,6
+H0,2004,2004,2004,4,0,1,Import,876,Wallis and Futuna Isds,WLF,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,90677,,,,90677,,273256,,,2
+H0,2004,2004,2004,4,0,1,Import,876,Wallis and Futuna Isds,WLF,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,27,,,,27,,119,,,2
+H0,2004,2004,2004,4,0,1,Import,876,Wallis and Futuna Isds,WLF,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,54,,,,54,,436,,,2
+H0,2004,2004,2004,4,0,1,Import,876,Wallis and Futuna Isds,WLF,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,215,,,,215,,393,,,2
+H0,2004,2004,2004,4,0,1,Import,876,Wallis and Futuna Isds,WLF,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,37,,,,37,,196,,,6
+H0,2005,2005,2005,4,0,1,Import,876,Wallis and Futuna Isds,WLF,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,88352,,,,88352,,296349,,,2
+H0,2005,2005,2005,4,0,1,Import,876,Wallis and Futuna Isds,WLF,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,72,,,,72,,244,,,2
+H0,2005,2005,2005,4,0,1,Import,876,Wallis and Futuna Isds,WLF,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,87824,,,,87824,,294356,,,2
+H0,2005,2005,2005,4,0,1,Import,876,Wallis and Futuna Isds,WLF,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,105,,,,105,,201,,,2
+H0,2005,2005,2005,4,0,1,Import,876,Wallis and Futuna Isds,WLF,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,327,,,,327,,1366,,,2
+H0,2005,2005,2005,4,0,1,Import,876,Wallis and Futuna Isds,WLF,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,23,,,,23,,174,,,2
+H0,2005,2005,2005,4,0,1,Import,876,Wallis and Futuna Isds,WLF,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1,,,,1,,7,,,2
+H0,2006,2006,2006,4,0,1,Import,876,Wallis and Futuna Isds,WLF,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,103741,,,,103741,,372505,,,2
+H0,2006,2006,2006,4,0,1,Import,876,Wallis and Futuna Isds,WLF,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,101501,,,,101501,,368365,,,2
+H0,2006,2006,2006,4,0,1,Import,876,Wallis and Futuna Isds,WLF,540,New Caledonia,NCL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1760,,,,1760,,1756,,,2
+H0,2006,2006,2006,4,0,1,Import,876,Wallis and Futuna Isds,WLF,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,225,,,,225,,1376,,,2
+H0,2006,2006,2006,4,0,1,Import,876,Wallis and Futuna Isds,WLF,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,167,,,,167,,772,,,2
+H0,2006,2006,2006,4,0,1,Import,876,Wallis and Futuna Isds,WLF,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,68,,,,68,,156,,,2
+H0,2006,2006,2006,4,0,1,Import,876,Wallis and Futuna Isds,WLF,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,20,,,,20,,80,,,2

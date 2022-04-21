@@ -1,0 +1,353 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,4,0,1,Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,14727102,,,,14727102,,25059577,,,2
+H1,2000,2000,2000,4,0,2,Export,862,Venezuela,VEN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,193591,,,,193591,,124942,,,2
+H1,2000,2000,2000,4,0,1,Import,862,Venezuela,VEN,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,196063,,,,196063,,465237,,,2
+H1,2000,2000,2000,4,0,1,Import,862,Venezuela,VEN,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,105792,,,,105792,,969240,,,2
+H1,2000,2000,2000,4,0,1,Import,862,Venezuela,VEN,76,Brazil,BRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,300,,,,300,,2956,,,2
+H1,2000,2000,2000,4,0,1,Import,862,Venezuela,VEN,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15422,,,,15422,,8831,,,2
+H1,2000,2000,2000,4,0,1,Import,862,Venezuela,VEN,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,68075,,,,68075,,70433,,,2
+H1,2000,2000,2000,4,0,1,Import,862,Venezuela,VEN,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6465125,,,,6465125,,10501377,,,2
+H1,2000,2000,2000,4,0,1,Import,862,Venezuela,VEN,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,66430,,,,66430,,90483,,,2
+H1,2000,2000,2000,4,0,1,Import,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,24799,,,,24799,,22678,,,2
+H1,2000,2000,2000,4,0,2,Export,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,270,,,,270,,511,,,2
+H1,2000,2000,2000,4,0,1,Import,862,Venezuela,VEN,196,Cyprus,CYP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,14786,,,,14786,,18643,,,2
+H1,2000,2000,2000,4,0,1,Import,862,Venezuela,VEN,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9,,,,9,,345,,,2
+H1,2000,2000,2000,4,0,1,Import,862,Venezuela,VEN,214,Dominican Rep.,DOM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3,,,,3,,4,,,2
+H1,2000,2000,2000,4,0,2,Export,862,Venezuela,VEN,218,Ecuador,ECU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,34020,,,,34020,,46200,,,2
+H1,2000,2000,2000,4,0,1,Import,862,Venezuela,VEN,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1468793,,,,1468793,,3373841,,,2
+H1,2000,2000,2000,4,0,1,Import,862,Venezuela,VEN,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1149895,,,,1149895,,1484457,,,2
+H1,2000,2000,2000,4,0,1,Import,862,Venezuela,VEN,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15192,,,,15192,,145009,,,2
+H1,2000,2000,2000,4,0,1,Import,862,Venezuela,VEN,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5209,,,,5209,,31335,,,2
+H1,2000,2000,2000,4,0,1,Import,862,Venezuela,VEN,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1128160,,,,1128160,,1587936,,,2
+H1,2000,2000,2000,4,0,1,Import,862,Venezuela,VEN,422,Lebanon,LBN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15620,,,,15620,,28287,,,2
+H1,2000,2000,2000,4,0,1,Import,862,Venezuela,VEN,430,Liberia,LBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16000,,,,16000,,33089,,,2
+H1,2000,2000,2000,4,0,1,Import,862,Venezuela,VEN,484,Mexico,MEX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18072,,,,18072,,43511,,,2
+H1,2000,2000,2000,4,0,1,Import,862,Venezuela,VEN,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,351109,,,,351109,,340263,,,2
+H1,2000,2000,2000,4,0,2,Export,862,Venezuela,VEN,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,144000,,,,144000,,60480,,,2
+H1,2000,2000,2000,4,0,2,Export,862,Venezuela,VEN,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,160,,,,160,,447,,,2
+H1,2000,2000,2000,4,0,1,Import,862,Venezuela,VEN,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,30,,,,30,,38,,,2
+H1,2000,2000,2000,4,0,1,Import,862,Venezuela,VEN,591,Panama,PAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,24034,,,,24034,,42732,,,2
+H1,2000,2000,2000,4,0,1,Import,862,Venezuela,VEN,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,664349,,,,664349,,947998,,,2
+H1,2000,2000,2000,4,0,1,Import,862,Venezuela,VEN,699,India,IND,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2,,,,2,,30,,,2
+H1,2000,2000,2000,4,0,1,Import,862,Venezuela,VEN,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8452,,,,8452,,17643,,,2
+H1,2000,2000,2000,4,0,1,Import,862,Venezuela,VEN,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1785430,,,,1785430,,3087391,,,2
+H1,2000,2000,2000,4,0,1,Import,862,Venezuela,VEN,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,267,,,,267,,6217,,,2
+H1,2000,2000,2000,4,0,1,Import,862,Venezuela,VEN,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,214544,,,,214544,,303524,,,2
+H1,2000,2000,2000,4,0,1,Import,862,Venezuela,VEN,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,905140,,,,905140,,1436049,,,2
+H1,2000,2000,2000,4,0,2,Export,862,Venezuela,VEN,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15141,,,,15141,,17304,,,2
+H1,2001,2001,2001,4,0,1,Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,19350709,,,,19350709,,30082369,,,2
+H1,2001,2001,2001,4,0,2,Export,862,Venezuela,VEN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3663,,,,3663,,15893,,,2
+H1,2001,2001,2001,4,0,1,Import,862,Venezuela,VEN,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,165955,,,,165955,,339289,,,2
+H1,2001,2001,2001,4,0,1,Import,862,Venezuela,VEN,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,61547,,,,61547,,214102,,,2
+H1,2001,2001,2001,4,0,1,Import,862,Venezuela,VEN,76,Brazil,BRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,54,,,,54,,201,,,2
+H1,2001,2001,2001,4,0,1,Import,862,Venezuela,VEN,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,21700,,,,21700,,8590,,,2
+H1,2001,2001,2001,4,0,1,Import,862,Venezuela,VEN,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8411600,,,,8411600,,12433850,,,2
+H1,2001,2001,2001,4,0,1,Import,862,Venezuela,VEN,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5407,,,,5407,,10649,,,2
+H1,2001,2001,2001,4,0,1,Import,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7399,,,,7399,,6112,,,2
+H1,2001,2001,2001,4,0,2,Export,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2106,,,,2106,,10495,,,2
+H1,2001,2001,2001,4,0,1,Import,862,Venezuela,VEN,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1991225,,,,1991225,,5161462,,,2
+H1,2001,2001,2001,4,0,1,Import,862,Venezuela,VEN,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1753949,,,,1753949,,1988221,,,2
+H1,2001,2001,2001,4,0,1,Import,862,Venezuela,VEN,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16000,,,,16000,,18331,,,2
+H1,2001,2001,2001,4,0,1,Import,862,Venezuela,VEN,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1553870,,,,1553870,,2043182,,,2
+H1,2001,2001,2001,4,0,1,Import,862,Venezuela,VEN,484,Mexico,MEX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2,,,,2,,30,,,2
+H1,2001,2001,2001,4,0,1,Import,862,Venezuela,VEN,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,319402,,,,319402,,298913,,,2
+H1,2001,2001,2001,4,0,1,Import,862,Venezuela,VEN,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2448,,,,2448,,3423,,,2
+H1,2001,2001,2001,4,0,2,Export,862,Venezuela,VEN,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,797,,,,797,,4733,,,2
+H1,2001,2001,2001,4,0,2,Export,862,Venezuela,VEN,533,Aruba,ABW,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,760,,,,760,,665,,,2
+H1,2001,2001,2001,4,0,1,Import,862,Venezuela,VEN,591,Panama,PAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7034,,,,7034,,34120,,,2
+H1,2001,2001,2001,4,0,1,Import,862,Venezuela,VEN,604,Peru,PER,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7,,,,7,,10,,,2
+H1,2001,2001,2001,4,0,1,Import,862,Venezuela,VEN,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,998463,,,,998463,,1338233,,,2
+H1,2001,2001,2001,4,0,1,Import,862,Venezuela,VEN,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6,,,,6,,6,,,2
+H1,2001,2001,2001,4,0,1,Import,862,Venezuela,VEN,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2539281,,,,2539281,,4221567,,,2
+H1,2001,2001,2001,4,0,1,Import,862,Venezuela,VEN,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,239190,,,,239190,,406450,,,2
+H1,2001,2001,2001,4,0,1,Import,862,Venezuela,VEN,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1256170,,,,1256170,,1555628,,,2
+H1,2002,2002,2002,4,0,1,Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9705698,,,,9705698,,16144110,,,2
+H1,2002,2002,2002,4,0,2,Export,862,Venezuela,VEN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15525,,,,15525,,15125,,,2
+H1,2002,2002,2002,4,0,1,Import,862,Venezuela,VEN,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,214450,,,,214450,,507042,,,2
+H1,2002,2002,2002,4,0,1,Import,862,Venezuela,VEN,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10477,,,,10477,,7379,,,2
+H1,2002,2002,2002,4,0,1,Import,862,Venezuela,VEN,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,297,,,,297,,773,,,2
+H1,2002,2002,2002,4,0,1,Import,862,Venezuela,VEN,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4628365,,,,4628365,,6727662,,,2
+H1,2002,2002,2002,4,0,1,Import,862,Venezuela,VEN,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,17370,,,,17370,,22403,,,2
+H1,2002,2002,2002,4,0,1,Import,862,Venezuela,VEN,192,Cuba,CUB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,38,,,,38,,36,,,2
+H1,2002,2002,2002,4,0,1,Import,862,Venezuela,VEN,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1152229,,,,1152229,,3104092,,,2
+H1,2002,2002,2002,4,0,1,Import,862,Venezuela,VEN,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,657853,,,,657853,,994445,,,2
+H1,2002,2002,2002,4,0,1,Import,862,Venezuela,VEN,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,988192,,,,988192,,1339321,,,2
+H1,2002,2002,2002,4,0,2,Export,862,Venezuela,VEN,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,20,,,,20,,55,,,2
+H1,2002,2002,2002,4,0,1,Import,862,Venezuela,VEN,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,199119,,,,199119,,189061,,,2
+H1,2002,2002,2002,4,0,1,Import,862,Venezuela,VEN,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1084,,,,1084,,7081,,,2
+H1,2002,2002,2002,4,0,2,Export,862,Venezuela,VEN,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9480,,,,9480,,6070,,,2
+H1,2002,2002,2002,4,0,1,Import,862,Venezuela,VEN,591,Panama,PAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5805,,,,5805,,71602,,,2
+H1,2002,2002,2002,4,0,2,Export,862,Venezuela,VEN,604,Peru,PER,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6025,,,,6025,,9000,,,2
+H1,2002,2002,2002,4,0,1,Import,862,Venezuela,VEN,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,342418,,,,342418,,529998,,,2
+H1,2002,2002,2002,4,0,1,Import,862,Venezuela,VEN,642,Romania,ROU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5000,,,,5000,,797,,,2
+H1,2002,2002,2002,4,0,1,Import,862,Venezuela,VEN,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,800961,,,,800961,,1576123,,,2
+H1,2002,2002,2002,4,0,1,Import,862,Venezuela,VEN,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,112411,,,,112411,,211766,,,2
+H1,2002,2002,2002,4,0,1,Import,862,Venezuela,VEN,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,561439,,,,561439,,846551,,,2
+H1,2002,2002,2002,4,0,1,Import,862,Venezuela,VEN,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8190,,,,8190,,7978,,,2
+H1,2003,2003,2003,4,0,1,Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8177983,,,,8177983,,12253313,,,2
+H1,2003,2003,2003,4,0,2,Export,862,Venezuela,VEN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,67665,,,,67665,,184319,,,2
+H1,2003,2003,2003,4,0,1,Import,862,Venezuela,VEN,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,151726,,,,151726,,283321,,,2
+H1,2003,2003,2003,4,0,1,Import,862,Venezuela,VEN,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13328,,,,13328,,33894,,,2
+H1,2003,2003,2003,4,0,2,Export,862,Venezuela,VEN,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,48,,,,48,,245,,,2
+H1,2003,2003,2003,4,0,1,Import,862,Venezuela,VEN,68,Bolivia (Plurinational State of),BOL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,648,,,,648,,3168,,,2
+H1,2003,2003,2003,4,0,1,Import,862,Venezuela,VEN,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6330,,,,6330,,7574,,,2
+H1,2003,2003,2003,4,0,1,Import,862,Venezuela,VEN,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4362518,,,,4362518,,5919319,,,2
+H1,2003,2003,2003,4,0,2,Export,862,Venezuela,VEN,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,23,,,,23,,4273,,,2
+H1,2003,2003,2003,4,0,1,Import,862,Venezuela,VEN,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,14659,,,,14659,,17284,,,2
+H1,2003,2003,2003,4,0,2,Export,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,63300,,,,63300,,9341,,,2
+H1,2003,2003,2003,4,0,1,Import,862,Venezuela,VEN,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,724192,,,,724192,,1567216,,,2
+H1,2003,2003,2003,4,0,1,Import,862,Venezuela,VEN,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,484309,,,,484309,,620049,,,2
+H1,2003,2003,2003,4,0,1,Import,862,Venezuela,VEN,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,678097,,,,678097,,988915,,,2
+H1,2003,2003,2003,4,0,1,Import,862,Venezuela,VEN,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,167466,,,,167466,,206098,,,2
+H1,2003,2003,2003,4,0,1,Import,862,Venezuela,VEN,591,Panama,PAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5990,,,,5990,,86526,,,2
+H1,2003,2003,2003,4,0,1,Import,862,Venezuela,VEN,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,385542,,,,385542,,558049,,,2
+H1,2003,2003,2003,4,0,1,Import,862,Venezuela,VEN,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18000,,,,18000,,10811,,,2
+H1,2003,2003,2003,4,0,1,Import,862,Venezuela,VEN,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,755623,,,,755623,,1360121,,,2
+H1,2003,2003,2003,4,0,2,Export,862,Venezuela,VEN,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5,,,,5,,174,,,2
+H1,2003,2003,2003,4,0,1,Import,862,Venezuela,VEN,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,104053,,,,104053,,145112,,,2
+H1,2003,2003,2003,4,0,1,Import,862,Venezuela,VEN,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,268517,,,,268517,,411357,,,2
+H1,2003,2003,2003,4,0,2,Export,862,Venezuela,VEN,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4289,,,,4289,,170286,,,2
+H1,2003,2003,2003,4,0,1,Import,862,Venezuela,VEN,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36985,,,,36985,,34499,,,2
+H1,2004,2004,2004,4,0,1,Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11015714,,,,11015714,,17714613,,,2
+H1,2004,2004,2004,4,0,2,Export,862,Venezuela,VEN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,21689,,,,21689,,74210,,,2
+H1,2004,2004,2004,4,0,1,Import,862,Venezuela,VEN,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,236091,,,,236091,,402150,,,2
+H1,2004,2004,2004,4,0,1,Import,862,Venezuela,VEN,68,Bolivia (Plurinational State of),BOL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,200,,,,200,,960,,,2
+H1,2004,2004,2004,4,0,1,Import,862,Venezuela,VEN,76,Brazil,BRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,153,,,,153,,2243,,,2
+H1,2004,2004,2004,4,0,1,Import,862,Venezuela,VEN,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7000977,,,,7000977,,10411125,,,2
+H1,2004,2004,2004,4,0,2,Export,862,Venezuela,VEN,192,Cuba,CUB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12605,,,,12605,,33776,,,2
+H1,2004,2004,2004,4,0,1,Import,862,Venezuela,VEN,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,787202,,,,787202,,1780248,,,2
+H1,2004,2004,2004,4,0,2,Export,862,Venezuela,VEN,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,42,,,,42,,92,,,2
+H1,2004,2004,2004,4,0,1,Import,862,Venezuela,VEN,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,217799,,,,217799,,275399,,,2
+H1,2004,2004,2004,4,0,1,Import,862,Venezuela,VEN,308,Grenada,GRD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10,,,,10,,92,,,2
+H1,2004,2004,2004,4,0,2,Export,862,Venezuela,VEN,308,Grenada,GRD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,28,,,,28,,79,,,2
+H1,2004,2004,2004,4,0,1,Import,862,Venezuela,VEN,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,556676,,,,556676,,978424,,,2
+H1,2004,2004,2004,4,0,1,Import,862,Venezuela,VEN,484,Mexico,MEX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15124,,,,15124,,31725,,,2
+H1,2004,2004,2004,4,0,1,Import,862,Venezuela,VEN,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,24860,,,,24860,,50635,,,2
+H1,2004,2004,2004,4,0,1,Import,862,Venezuela,VEN,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,76,,,,76,,500,,,2
+H1,2004,2004,2004,4,0,2,Export,862,Venezuela,VEN,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,372,,,,372,,385,,,2
+H1,2004,2004,2004,4,0,2,Export,862,Venezuela,VEN,533,Aruba,ABW,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,60,,,,60,,65,,,2
+H1,2004,2004,2004,4,0,1,Import,862,Venezuela,VEN,591,Panama,PAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,25192,,,,25192,,276047,,,2
+H1,2004,2004,2004,4,0,1,Import,862,Venezuela,VEN,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,444046,,,,444046,,755500,,,2
+H1,2004,2004,2004,4,0,1,Import,862,Venezuela,VEN,642,Romania,ROU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1666,,,,1666,,344,,,2
+H1,2004,2004,2004,4,0,1,Import,862,Venezuela,VEN,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10601,,,,10601,,9492,,,2
+H1,2004,2004,2004,4,0,1,Import,862,Venezuela,VEN,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1501952,,,,1501952,,2323446,,,2
+H1,2004,2004,2004,4,0,2,Export,862,Venezuela,VEN,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8200,,,,8200,,37450,,,2
+H1,2004,2004,2004,4,0,1,Import,862,Venezuela,VEN,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,79,,,,79,,440,,,2
+H1,2004,2004,2004,4,0,1,Import,862,Venezuela,VEN,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,250,,,,250,,7720,,,2
+H1,2004,2004,2004,4,0,1,Import,862,Venezuela,VEN,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,43727,,,,43727,,129634,,,2
+H1,2004,2004,2004,4,0,1,Import,862,Venezuela,VEN,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,131666,,,,131666,,245609,,,2
+H1,2004,2004,2004,4,0,2,Export,862,Venezuela,VEN,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,130,,,,130,,2305,,,2
+H1,2004,2004,2004,4,0,1,Import,862,Venezuela,VEN,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,17367,,,,17367,,32880,,,2
+H1,2004,2004,2004,4,0,2,Export,862,Venezuela,VEN,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,252,,,,252,,58,,,2
+H2,2006,2006,2006,4,0,1,Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18097213,,,,18097213,,29476003,,,2
+H2,2006,2006,2006,4,0,2,Export,862,Venezuela,VEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,216,,,,216,,840,,,2
+H2,2006,2006,2006,4,0,1,Import,862,Venezuela,VEN,4,Afghanistan,AFG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23,,,,23,,171,,,2
+H2,2006,2006,2006,4,0,1,Import,862,Venezuela,VEN,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1319854,,,,1319854,,2335915,,,2
+H2,2006,2006,2006,4,0,1,Import,862,Venezuela,VEN,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10098,,,,10098,,19481,,,2
+H2,2006,2006,2006,4,0,1,Import,862,Venezuela,VEN,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13121304,,,,13121304,,18677039,,,2
+H2,2006,2006,2006,4,0,1,Import,862,Venezuela,VEN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,42209,,,,42209,,95520,,,2
+H2,2006,2006,2006,4,0,1,Import,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,34200,,,,34200,,34646,,,2
+H2,2006,2006,2006,4,0,1,Import,862,Venezuela,VEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,851166,,,,851166,,2589281,,,2
+H2,2006,2006,2006,4,0,1,Import,862,Venezuela,VEN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,157061,,,,157061,,245040,,,2
+H2,2006,2006,2006,4,0,1,Import,862,Venezuela,VEN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,519654,,,,519654,,812916,,,2
+H2,2006,2006,2006,4,0,2,Export,862,Venezuela,VEN,530,Neth. Antilles,ANT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,200,,,,200,,638,,,2
+H2,2006,2006,2006,4,0,1,Import,862,Venezuela,VEN,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22240,,,,22240,,446478,,,2
+H2,2006,2006,2006,4,0,1,Import,862,Venezuela,VEN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,390817,,,,390817,,760335,,,2
+H2,2006,2006,2006,4,0,2,Export,862,Venezuela,VEN,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16,,,,16,,202,,,2
+H2,2006,2006,2006,4,0,1,Import,862,Venezuela,VEN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19851,,,,19851,,22202,,,2
+H2,2006,2006,2006,4,0,1,Import,862,Venezuela,VEN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1471377,,,,1471377,,3155937,,,2
+H2,2006,2006,2006,4,0,1,Import,862,Venezuela,VEN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5540,,,,5540,,14342,,,2
+H2,2006,2006,2006,4,0,1,Import,862,Venezuela,VEN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,113933,,,,113933,,230097,,,2
+H2,2006,2006,2006,4,0,1,Import,862,Venezuela,VEN,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7310,,,,7310,,5574,,,2
+H2,2006,2006,2006,4,0,1,Import,862,Venezuela,VEN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10576,,,,10576,,31029,,,2
+H2,2007,2007,2007,4,0,1,Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18500007,,,,18500007,,34316605,,,2
+H2,2007,2007,2007,4,0,4,Re-Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21847,,,,21847,,49248,,,2
+H2,2007,2007,2007,4,0,1,Import,862,Venezuela,VEN,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1535158,,,,1535158,,2609598,,,2
+H2,2007,2007,2007,4,0,1,Import,862,Venezuela,VEN,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9981,,,,9981,,22125,,,2
+H2,2007,2007,2007,4,0,1,Import,862,Venezuela,VEN,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,43,,,2
+H2,2007,2007,2007,4,0,1,Import,862,Venezuela,VEN,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,29895,,,,29895,,31965,,,2
+H2,2007,2007,2007,4,0,1,Import,862,Venezuela,VEN,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14329189,,,,14329189,,22815806,,,2
+H2,2007,2007,2007,4,0,1,Import,862,Venezuela,VEN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,68,,,,68,,219,,,2
+H2,2007,2007,2007,4,0,1,Import,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7000,,,,7000,,8634,,,2
+H2,2007,2007,2007,4,0,1,Import,862,Venezuela,VEN,214,Dominican Rep.,DOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,109,,,,109,,140,,,2
+H2,2007,2007,2007,4,0,1,Import,862,Venezuela,VEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,514756,,,,514756,,2581353,,,2
+H2,2007,2007,2007,4,0,1,Import,862,Venezuela,VEN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,151667,,,,151667,,283117,,,2
+H2,2007,2007,2007,4,0,1,Import,862,Venezuela,VEN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,488483,,,,488483,,1343192,,,2
+H2,2007,2007,2007,4,0,1,Import,862,Venezuela,VEN,530,Neth. Antilles,ANT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,378,,,,378,,1457,,,2
+H2,2007,2007,2007,4,0,1,Import,862,Venezuela,VEN,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8893,,,,8893,,106511,,,2
+H2,2007,2007,2007,4,0,1,Import,862,Venezuela,VEN,604,Peru,PER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,0,,,,0,,3,,,2
+H2,2007,2007,2007,4,0,1,Import,862,Venezuela,VEN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,334972,,,,334972,,848646,,,2
+H2,2007,2007,2007,4,0,1,Import,862,Venezuela,VEN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19800,,,,19800,,22462,,,2
+H2,2007,2007,2007,4,0,1,Import,862,Venezuela,VEN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,856259,,,,856259,,3074852,,,2
+H2,2007,2007,2007,4,0,1,Import,862,Venezuela,VEN,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17496,,,,17496,,25128,,,2
+H2,2007,2007,2007,4,0,1,Import,862,Venezuela,VEN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11476,,,,11476,,165254,,,2
+H2,2007,2007,2007,4,0,1,Import,862,Venezuela,VEN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,147305,,,,147305,,296068,,,2
+H2,2007,2007,2007,4,0,1,Import,862,Venezuela,VEN,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15265,,,,15265,,30784,,,2
+H2,2007,2007,2007,4,0,1,Import,862,Venezuela,VEN,862,Venezuela,VEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21847,,,,21847,,49248,,,2
+H2,2007,2007,2007,4,0,4,Re-Import,862,Venezuela,VEN,862,Venezuela,VEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21847,,,,21847,,49248,,,2
+H2,2008,2008,2008,4,0,1,Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,25328902,,,,25328902,,54804443,,,6
+H2,2008,2008,2008,4,0,2,Export,862,Venezuela,VEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11719,,,,11719,,39833,,,2
+H2,2008,2008,2008,4,0,3,Re-Export,862,Venezuela,VEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9450,,,,9450,,33960,,,2
+H2,2008,2008,2008,4,0,1,Import,862,Venezuela,VEN,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4697804,,,,4697804,,10731339,,,2
+H2,2008,2008,2008,4,0,1,Import,862,Venezuela,VEN,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9900,,,,9900,,22940,,,2
+H2,2008,2008,2008,4,0,1,Import,862,Venezuela,VEN,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,305,,,,305,,2369,,,2
+H2,2008,2008,2008,4,0,1,Import,862,Venezuela,VEN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2645,,,,2645,,3411,,,2
+H2,2008,2008,2008,4,0,1,Import,862,Venezuela,VEN,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7446,,,,7446,,49397,,,2
+H2,2008,2008,2008,4,0,1,Import,862,Venezuela,VEN,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17797887,,,,17797887,,32391085,,,2
+H2,2008,2008,2008,4,0,1,Import,862,Venezuela,VEN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2300,,,,2300,,17659,,,2
+H2,2008,2008,2008,4,0,1,Import,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,200,,,,200,,4830,,,2
+H2,2008,2008,2008,4,0,2,Export,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2000,,,,2000,,4308,,,2
+H2,2008,2008,2008,4,0,1,Import,862,Venezuela,VEN,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,2,,10,,,2
+H2,2008,2008,2008,4,0,1,Import,862,Venezuela,VEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,816582,,,,816582,,4892136,,,2
+H2,2008,2008,2008,4,0,1,Import,862,Venezuela,VEN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,94388,,,,94388,,184203,,,2
+H2,2008,2008,2008,4,0,2,Export,862,Venezuela,VEN,328,Guyana,GUY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,225,,,,225,,1310,,,2
+H2,2008,2008,2008,4,0,1,Import,862,Venezuela,VEN,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,106,,,,106,,362,,,2
+H2,2008,2008,2008,4,0,1,Import,862,Venezuela,VEN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,333068,,,,333068,,1191492,,,2
+H2,2008,2008,2008,4,0,2,Export,862,Venezuela,VEN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9450,,,,9450,,33960,,,2
+H2,2008,2008,2008,4,0,3,Re-Export,862,Venezuela,VEN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9450,,,,9450,,33960,,,2
+H2,2008,2008,2008,4,0,1,Import,862,Venezuela,VEN,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3051,,,,3051,,27124,,,2
+H2,2008,2008,2008,4,0,1,Import,862,Venezuela,VEN,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3,,,,3,,7,,,6
+H2,2008,2008,2008,4,0,1,Import,862,Venezuela,VEN,530,Neth. Antilles,ANT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,32400,,,,32400,,55582,,,2
+H2,2008,2008,2008,4,0,2,Export,862,Venezuela,VEN,533,Aruba,ABW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,44,,,,44,,255,,,2
+H2,2008,2008,2008,4,0,1,Import,862,Venezuela,VEN,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19748,,,,19748,,121961,,,2
+H2,2008,2008,2008,4,0,1,Import,862,Venezuela,VEN,604,Peru,PER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7,,,,7,,63,,,2
+H2,2008,2008,2008,4,0,1,Import,862,Venezuela,VEN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,451597,,,,451597,,1163921,,,2
+H2,2008,2008,2008,4,0,1,Import,862,Venezuela,VEN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,29970,,,,29970,,42907,,,2
+H2,2008,2008,2008,4,0,1,Import,862,Venezuela,VEN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,653976,,,,653976,,2848168,,,2
+H2,2008,2008,2008,4,0,1,Import,862,Venezuela,VEN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10168,,,,10168,,50409,,,2
+H2,2008,2008,2008,4,0,1,Import,862,Venezuela,VEN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,336963,,,,336963,,879709,,,2
+H2,2008,2008,2008,4,0,1,Import,862,Venezuela,VEN,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,28386,,,,28386,,123359,,,2
+H2,2009,2009,2009,4,0,1,Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19770764,,,,19770764,,41862125,,,2
+H2,2009,2009,2009,4,0,2,Export,862,Venezuela,VEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15500,,,,15500,,37394,,,2
+H2,2009,2009,2009,4,0,1,Import,862,Venezuela,VEN,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2723504,,,,2723504,,5837006,,,2
+H2,2009,2009,2009,4,0,1,Import,862,Venezuela,VEN,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,233,,,,233,,536,,,2
+H2,2009,2009,2009,4,0,1,Import,862,Venezuela,VEN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,96,,,,96,,1343,,,2
+H2,2009,2009,2009,4,0,1,Import,862,Venezuela,VEN,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14455080,,,,14455080,,26041211,,,2
+H2,2009,2009,2009,4,0,1,Import,862,Venezuela,VEN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14553,,,,14553,,45926,,,2
+H2,2009,2009,2009,4,0,2,Export,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15500,,,,15500,,37394,,,2
+H2,2009,2009,2009,4,0,1,Import,862,Venezuela,VEN,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6,,,,6,,40,,,2
+H2,2009,2009,2009,4,0,1,Import,862,Venezuela,VEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,595060,,,,595060,,3318103,,,2
+H2,2009,2009,2009,4,0,1,Import,862,Venezuela,VEN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,123273,,,,123273,,246252,,,2
+H2,2009,2009,2009,4,0,1,Import,862,Venezuela,VEN,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3520,,,,3520,,135819,,,2
+H2,2009,2009,2009,4,0,1,Import,862,Venezuela,VEN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,314167,,,,314167,,1119339,,,2
+H2,2009,2009,2009,4,0,1,Import,862,Venezuela,VEN,450,Madagascar,MDG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,43,,,,43,,497,,,2
+H2,2009,2009,2009,4,0,1,Import,862,Venezuela,VEN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1889,,,,1889,,1872,,,2
+H2,2009,2009,2009,4,0,1,Import,862,Venezuela,VEN,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11055,,,,11055,,89949,,,2
+H2,2009,2009,2009,4,0,1,Import,862,Venezuela,VEN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,491363,,,,491363,,1244008,,,2
+H2,2009,2009,2009,4,0,1,Import,862,Venezuela,VEN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,812975,,,,812975,,3060566,,,2
+H2,2009,2009,2009,4,0,1,Import,862,Venezuela,VEN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,210132,,,,210132,,656528,,,2
+H2,2009,2009,2009,4,0,1,Import,862,Venezuela,VEN,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13815,,,,13815,,63130,,,2
+H1,2005,2005,2005,4,0,1,Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16385671,,,,16385671,,26424484,,,2
+H1,2005,2005,2005,4,0,2,Export,862,Venezuela,VEN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3031,,,,3031,,8922,,,2
+H1,2005,2005,2005,4,0,4,Re-Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,72751,,,,72751,,157324,,,2
+H1,2005,2005,2005,4,0,1,Import,862,Venezuela,VEN,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,465524,,,,465524,,789761,,,2
+H1,2005,2005,2005,4,0,1,Import,862,Venezuela,VEN,76,Brazil,BRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16,,,,16,,196,,,2
+H1,2005,2005,2005,4,0,1,Import,862,Venezuela,VEN,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10315741,,,,10315741,,15566916,,,2
+H1,2005,2005,2005,4,0,1,Import,862,Venezuela,VEN,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,19782,,,,19782,,55886,,,2
+H1,2005,2005,2005,4,0,1,Import,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,56000,,,,56000,,75586,,,2
+H1,2005,2005,2005,4,0,2,Export,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1350,,,,1350,,3633,,,2
+H1,2005,2005,2005,4,0,1,Import,862,Venezuela,VEN,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,857420,,,,857420,,2716081,,,2
+H1,2005,2005,2005,4,0,1,Import,862,Venezuela,VEN,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,249360,,,,249360,,327994,,,2
+H1,2005,2005,2005,4,0,1,Import,862,Venezuela,VEN,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,625301,,,,625301,,1136017,,,2
+H1,2005,2005,2005,4,0,1,Import,862,Venezuela,VEN,484,Mexico,MEX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10,,,,10,,904,,,2
+H1,2005,2005,2005,4,0,1,Import,862,Venezuela,VEN,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16247,,,,16247,,30740,,,2
+H1,2005,2005,2005,4,0,1,Import,862,Venezuela,VEN,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,71,,,,71,,500,,,2
+H1,2005,2005,2005,4,0,2,Export,862,Venezuela,VEN,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,285,,,,285,,289,,,2
+H1,2005,2005,2005,4,0,1,Import,862,Venezuela,VEN,591,Panama,PAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,23536,,,,23536,,201378,,,2
+H1,2005,2005,2005,4,0,1,Import,862,Venezuela,VEN,604,Peru,PER,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6,,,,6,,49,,,2
+H1,2005,2005,2005,4,0,1,Import,862,Venezuela,VEN,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,514956,,,,514956,,802252,,,2
+H1,2005,2005,2005,4,0,1,Import,862,Venezuela,VEN,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,28521,,,,28521,,22734,,,2
+H1,2005,2005,2005,4,0,1,Import,862,Venezuela,VEN,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2665750,,,,2665750,,3858820,,,2
+H1,2005,2005,2005,4,0,1,Import,862,Venezuela,VEN,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,63181,,,,63181,,100167,,,2
+H1,2005,2005,2005,4,0,1,Import,862,Venezuela,VEN,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,411498,,,,411498,,581179,,,2
+H1,2005,2005,2005,4,0,2,Export,862,Venezuela,VEN,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1396,,,,1396,,5000,,,2
+H1,2005,2005,2005,4,0,1,Import,862,Venezuela,VEN,862,Venezuela,VEN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,72751,,,,72751,,157324,,,2
+H1,2005,2005,2005,4,0,4,Re-Import,862,Venezuela,VEN,862,Venezuela,VEN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,72751,,,,72751,,157324,,,2
+H2,2010,2010,2010,4,0,1,Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9992357,,,,9992357,,21183593,,,2
+H2,2010,2010,2010,4,0,2,Export,862,Venezuela,VEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,54709,,,,54709,,796440,,,2
+H2,2010,2010,2010,4,0,1,Import,862,Venezuela,VEN,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1341940,,,,1341940,,3170797,,,2
+H2,2010,2010,2010,4,0,1,Import,862,Venezuela,VEN,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,176,,,,176,,777,,,2
+H2,2010,2010,2010,4,0,1,Import,862,Venezuela,VEN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,58,,,,58,,951,,,2
+H2,2010,2010,2010,4,0,1,Import,862,Venezuela,VEN,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12,,,,12,,218,,,2
+H2,2010,2010,2010,4,0,1,Import,862,Venezuela,VEN,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6999181,,,,6999181,,12262937,,,2
+H2,2010,2010,2010,4,0,1,Import,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,32,,,,32,,865,,,2
+H2,2010,2010,2010,4,0,2,Export,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,54700,,,,54700,,796350,,,2
+H2,2010,2010,2010,4,0,1,Import,862,Venezuela,VEN,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,82,,,,82,,30,,,2
+H2,2010,2010,2010,4,0,1,Import,862,Venezuela,VEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,254808,,,,254808,,1328243,,,2
+H2,2010,2010,2010,4,0,1,Import,862,Venezuela,VEN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,54188,,,,54188,,135541,,,2
+H2,2010,2010,2010,4,0,1,Import,862,Venezuela,VEN,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,34,,,,34,,110,,,2
+H2,2010,2010,2010,4,0,1,Import,862,Venezuela,VEN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,297741,,,,297741,,919996,,,2
+H2,2010,2010,2010,4,0,1,Import,862,Venezuela,VEN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,630,,,,630,,28258,,,2
+H2,2010,2010,2010,4,0,1,Import,862,Venezuela,VEN,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5025,,,,5025,,46201,,,2
+H2,2010,2010,2010,4,0,1,Import,862,Venezuela,VEN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,379143,,,,379143,,882790,,,2
+H2,2010,2010,2010,4,0,1,Import,862,Venezuela,VEN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,578191,,,,578191,,2163836,,,2
+H2,2010,2010,2010,4,0,2,Export,862,Venezuela,VEN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,90,,,2
+H2,2010,2010,2010,4,0,1,Import,862,Venezuela,VEN,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,661,,,,661,,22268,,,2
+H2,2010,2010,2010,4,0,1,Import,862,Venezuela,VEN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,650,,,,650,,5968,,,2
+H2,2010,2010,2010,4,0,1,Import,862,Venezuela,VEN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,57578,,,,57578,,160958,,,2
+H2,2010,2010,2010,4,0,1,Import,862,Venezuela,VEN,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22226,,,,22226,,52850,,,2
+H2,2011,2011,2011,4,0,1,Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18664505,,,,18664505,,45053051,,,6
+H2,2011,2011,2011,4,0,2,Export,862,Venezuela,VEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,26705,,,,26705,,170289,,,2
+H2,2011,2011,2011,4,0,1,Import,862,Venezuela,VEN,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2412647,,,,2412647,,7016314,,,2
+H2,2011,2011,2011,4,0,1,Import,862,Venezuela,VEN,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,107,,,,107,,381,,,2
+H2,2011,2011,2011,4,0,1,Import,862,Venezuela,VEN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,109,,,,109,,2349,,,2
+H2,2011,2011,2011,4,0,1,Import,862,Venezuela,VEN,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5,,,,5,,41,,,2
+H2,2011,2011,2011,4,0,1,Import,862,Venezuela,VEN,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16,,,,16,,500,,,2
+H2,2011,2011,2011,4,0,1,Import,862,Venezuela,VEN,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12894493,,,,12894493,,26082394,,,2
+H2,2011,2011,2011,4,0,1,Import,862,Venezuela,VEN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1800,,,,1800,,35340,,,2
+H2,2011,2011,2011,4,0,1,Import,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,0,,,,0,,1,,,6
+H2,2011,2011,2011,4,0,2,Export,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,26700,,,,26700,,170120,,,2
+H2,2011,2011,2011,4,0,1,Import,862,Venezuela,VEN,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36,,,,36,,122,,,2
+H2,2011,2011,2011,4,0,2,Export,862,Venezuela,VEN,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5,,,,5,,169,,,2
+H2,2011,2011,2011,4,0,1,Import,862,Venezuela,VEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,628665,,,,628665,,2805757,,,2
+H2,2011,2011,2011,4,0,1,Import,862,Venezuela,VEN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,112620,,,,112620,,261538,,,2
+H2,2011,2011,2011,4,0,1,Import,862,Venezuela,VEN,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,200,,,,200,,4298,,,2
+H2,2011,2011,2011,4,0,1,Import,862,Venezuela,VEN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,488033,,,,488033,,1756216,,,2
+H2,2011,2011,2011,4,0,1,Import,862,Venezuela,VEN,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1449,,,,1449,,12109,,,2
+H2,2011,2011,2011,4,0,1,Import,862,Venezuela,VEN,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7832,,,,7832,,100347,,,2
+H2,2011,2011,2011,4,0,1,Import,862,Venezuela,VEN,604,Peru,PER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18,,,,18,,71,,,2
+H2,2011,2011,2011,4,0,1,Import,862,Venezuela,VEN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,697629,,,,697629,,1975872,,,2
+H2,2011,2011,2011,4,0,1,Import,862,Venezuela,VEN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1150212,,,,1150212,,4502984,,,2
+H2,2011,2011,2011,4,0,1,Import,862,Venezuela,VEN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1624,,,,1624,,5306,,,2
+H2,2011,2011,2011,4,0,1,Import,862,Venezuela,VEN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,231556,,,,231556,,357255,,,2
+H2,2011,2011,2011,4,0,1,Import,862,Venezuela,VEN,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,35454,,,,35454,,133856,,,2
+H2,2012,2012,2012,4,0,1,Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22401007,,,,22401007,,58305679,,,2
+H2,2012,2012,2012,4,0,1,Import,862,Venezuela,VEN,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4012195,,,,4012195,,11386663,,,2
+H2,2012,2012,2012,4,0,1,Import,862,Venezuela,VEN,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,110,,,,110,,305,,,2
+H2,2012,2012,2012,4,0,1,Import,862,Venezuela,VEN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2184,,,,2184,,1884,,,2
+H2,2012,2012,2012,4,0,1,Import,862,Venezuela,VEN,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,1,,11,,,2
+H2,2012,2012,2012,4,0,1,Import,862,Venezuela,VEN,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13790706,,,,13790706,,30434861,,,2
+H2,2012,2012,2012,4,0,1,Import,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,143135,,,,143135,,483785,,,2
+H2,2012,2012,2012,4,0,1,Import,862,Venezuela,VEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,759547,,,,759547,,3502607,,,2
+H2,2012,2012,2012,4,0,1,Import,862,Venezuela,VEN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,137921,,,,137921,,297789,,,2
+H2,2012,2012,2012,4,0,1,Import,862,Venezuela,VEN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,842922,,,,842922,,2832813,,,2
+H2,2012,2012,2012,4,0,1,Import,862,Venezuela,VEN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,950,,,,950,,33834,,,2
+H2,2012,2012,2012,4,0,1,Import,862,Venezuela,VEN,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1800,,,,1800,,21094,,,2
+H2,2012,2012,2012,4,0,1,Import,862,Venezuela,VEN,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,32979,,,,32979,,418112,,,2
+H2,2012,2012,2012,4,0,1,Import,862,Venezuela,VEN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1012287,,,,1012287,,2418827,,,2
+H2,2012,2012,2012,4,0,1,Import,862,Venezuela,VEN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1434126,,,,1434126,,5934055,,,2
+H2,2012,2012,2012,4,0,1,Import,862,Venezuela,VEN,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16203,,,,16203,,29616,,,2
+H2,2012,2012,2012,4,0,1,Import,862,Venezuela,VEN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,500,,,,500,,8364,,,2
+H2,2012,2012,2012,4,0,1,Import,862,Venezuela,VEN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,174751,,,,174751,,376430,,,2
+H2,2012,2012,2012,4,0,1,Import,862,Venezuela,VEN,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,38690,,,,38690,,124629,,,2
+H2,2013,2013,2013,4,0,1,Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10412517,,,,10412517,,27826362,,,2
+H2,2013,2013,2013,4,0,2,Export,862,Venezuela,VEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6000,,,,6000,,11629,,,2
+H2,2013,2013,2013,4,0,1,Import,862,Venezuela,VEN,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1838719,,,,1838719,,4288463,,,2
+H2,2013,2013,2013,4,0,1,Import,862,Venezuela,VEN,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2475,,,,2475,,16947,,,2
+H2,2013,2013,2013,4,0,1,Import,862,Venezuela,VEN,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6064106,,,,6064106,,14038731,,,2
+H2,2013,2013,2013,4,0,1,Import,862,Venezuela,VEN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14382,,,,14382,,19826,,,2
+H2,2013,2013,2013,4,0,2,Export,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6000,,,,6000,,11629,,,2
+H2,2013,2013,2013,4,0,1,Import,862,Venezuela,VEN,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,125,,,,125,,1168,,,2
+H2,2013,2013,2013,4,0,1,Import,862,Venezuela,VEN,218,Ecuador,ECU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,2,,97,,,2
+H2,2013,2013,2013,4,0,1,Import,862,Venezuela,VEN,222,El Salvador,SLV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10,,,,10,,121,,,2
+H2,2013,2013,2013,4,0,1,Import,862,Venezuela,VEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,413093,,,,413093,,2444049,,,2
+H2,2013,2013,2013,4,0,1,Import,862,Venezuela,VEN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,81903,,,,81903,,198348,,,2
+H2,2013,2013,2013,4,0,1,Import,862,Venezuela,VEN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,596475,,,,596475,,2053659,,,2
+H2,2013,2013,2013,4,0,1,Import,862,Venezuela,VEN,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,239,,,,239,,600,,,2
+H2,2013,2013,2013,4,0,1,Import,862,Venezuela,VEN,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1134,,,,1134,,13608,,,2
+H2,2013,2013,2013,4,0,1,Import,862,Venezuela,VEN,531,Curaçao,CUW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,40,,,,40,,698,,,2
+H2,2013,2013,2013,4,0,1,Import,862,Venezuela,VEN,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1155,,,,1155,,52335,,,2
+H2,2013,2013,2013,4,0,1,Import,862,Venezuela,VEN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,401889,,,,401889,,993430,,,2
+H2,2013,2013,2013,4,0,1,Import,862,Venezuela,VEN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,897710,,,,897710,,3434626,,,2
+H2,2013,2013,2013,4,0,1,Import,862,Venezuela,VEN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,780,,,,780,,93695,,,2
+H2,2013,2013,2013,4,0,1,Import,862,Venezuela,VEN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,98280,,,,98280,,175961,,,2

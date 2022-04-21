@@ -1,0 +1,37 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2002,2002,2002,4,0,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,114549,,,0
+H2,2002,2002,2002,4,0,1,Import,184,Cook Isds,COK,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4553,,,,,,17292,,,0
+H2,2002,2002,2002,4,0,1,Import,184,Cook Isds,COK,242,Fiji,FJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14,,,,,,39,,,0
+H2,2002,2002,2002,4,0,1,Import,184,Cook Isds,COK,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3,,,,,,8,,,0
+H2,2002,2002,2002,4,0,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17809,,,,,,97210,,,0
+H2,2003,2003,2003,4,0,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,246264,,,0
+H2,2003,2003,2003,4,0,1,Import,184,Cook Isds,COK,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5753,,,,,,27427,,,0
+H2,2003,2003,2003,4,0,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,26862,,,,,,218707,,,0
+H2,2003,2003,2003,4,0,1,Import,184,Cook Isds,COK,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8,,,,,,129,,,0
+H2,2004,2004,2004,4,0,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,495067,,,0
+H2,2004,2004,2004,4,0,1,Import,184,Cook Isds,COK,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10556,,,,,,94615,,,0
+H2,2004,2004,2004,4,0,1,Import,184,Cook Isds,COK,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,157,,,,,,1216,,,0
+H2,2004,2004,2004,4,0,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,44247,,,,,,395551,,,0
+H2,2004,2004,2004,4,0,1,Import,184,Cook Isds,COK,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,545,,,,,,3685,,,0
+H1,2001,2001,2001,4,0,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,,,,,,,216247,,,0
+H1,2001,2001,2001,4,0,1,Import,184,Cook Isds,COK,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,21323,,,,,,66933,,,0
+H1,2001,2001,2001,4,0,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,33933,,,,,,148767,,,0
+H1,2001,2001,2001,4,0,1,Import,184,Cook Isds,COK,598,Papua New Guinea,PNG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,243,,,,,,548,,,0
+H2,2005,2005,2005,4,0,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,174792,,,,174792,,543374,,,4
+H2,2005,2005,2005,4,0,1,Import,184,Cook Isds,COK,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,25956,,,,25956,,126158,,,4
+H2,2005,2005,2005,4,0,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,148836,,,,148836,,417217,,,4
+H0,2007,2007,2007,4,0,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,101633,,,,102154,,695036,,,6
+H0,2007,2007,2007,4,0,1,Import,184,Cook Isds,COK,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,21621,,,,21621,,123835,,,4
+H0,2007,2007,2007,4,0,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,80012,,,,80533,,571201,,,6
+H0,2009,2009,2009,4,0,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,87909,,,,87909,,576605,,,4
+H0,2009,2009,2009,4,0,1,Import,184,Cook Isds,COK,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,35853,,,,35853,,205899,,,4
+H0,2009,2009,2009,4,0,1,Import,184,Cook Isds,COK,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,81,,,,81,,1047,,,4
+H0,2009,2009,2009,4,0,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,51975,,,,51975,,369659,,,4
+H0,2010,2010,2010,4,0,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,103614,,,,103614,,724652,,,4
+H0,2010,2010,2010,4,0,1,Import,184,Cook Isds,COK,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,18838,,,,18838,,103500,,,4
+H0,2010,2010,2010,4,0,1,Import,184,Cook Isds,COK,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,396,,,,396,,4174,,,4
+H0,2010,2010,2010,4,0,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,84381,,,,84381,,616978,,,4
+H0,2011,2011,2011,4,0,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,113615,,,,113615,,636575,,,4
+H0,2011,2011,2011,4,0,1,Import,184,Cook Isds,COK,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,48137,,,,48137,,110311,,,4
+H0,2011,2011,2011,4,0,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,63985,,,,63985,,501905,,,4
+H0,2011,2011,2011,4,0,1,Import,184,Cook Isds,COK,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1492,,,,1492,,24359,,,4

@@ -1,0 +1,167 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2002,2002,2002,4,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,50528,,,0
+H2,2002,2002,2002,4,0,1,Import,90,Solomon Isds,SLB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18538,,,,,,46662,,,0
+H2,2002,2002,2002,4,0,1,Import,90,Solomon Isds,SLB,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15,,,,,,30,,,0
+H2,2002,2002,2002,4,0,1,Import,90,Solomon Isds,SLB,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1134,,,,,,3666,,,0
+H2,2002,2002,2002,4,0,1,Import,90,Solomon Isds,SLB,598,Papua New Guinea,PNG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36,,,,,,171,,,0
+H2,2003,2003,2003,4,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,117698,,,0
+H2,2003,2003,2003,4,0,1,Import,90,Solomon Isds,SLB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,29424,,,,,,107494,,,0
+H2,2003,2003,2003,4,0,1,Import,90,Solomon Isds,SLB,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20,,,,,,19,,,0
+H2,2003,2003,2003,4,0,1,Import,90,Solomon Isds,SLB,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1799,,,,,,7968,,,0
+H2,2003,2003,2003,4,0,1,Import,90,Solomon Isds,SLB,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,571,,,,,,2216,,,0
+H2,2004,2004,2004,4,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,29385,,,0
+H2,2004,2004,2004,4,0,1,Import,90,Solomon Isds,SLB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5857,,,,,,29385,,,0
+H2,2005,2005,2005,4,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,83382,,,0
+H2,2005,2005,2005,4,0,2,Export,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,189,,,0
+H2,2005,2005,2005,4,0,1,Import,90,Solomon Isds,SLB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8996,,,,,,77608,,,0
+H2,2005,2005,2005,4,0,1,Import,90,Solomon Isds,SLB,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4470,,,,,,5774,,,0
+H2,2005,2005,2005,4,0,2,Export,90,Solomon Isds,SLB,598,Papua New Guinea,PNG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45,,,,,,189,,,0
+H2,2006,2006,2006,4,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,359661,,,0
+H2,2006,2006,2006,4,0,2,Export,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,289,,,0
+H2,2006,2006,2006,4,0,3,Re-Export,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,289,,,0
+H2,2006,2006,2006,4,0,1,Import,90,Solomon Isds,SLB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,812961,,,,,,355073,,,0
+H2,2006,2006,2006,4,0,1,Import,90,Solomon Isds,SLB,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,86,,,,,,2111,,,0
+H2,2006,2006,2006,4,0,2,Export,90,Solomon Isds,SLB,548,Vanuatu,VUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,289,,,0
+H2,2006,2006,2006,4,0,3,Re-Export,90,Solomon Isds,SLB,548,Vanuatu,VUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,289,,,0
+H2,2006,2006,2006,4,0,1,Import,90,Solomon Isds,SLB,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15,,,,,,890,,,0
+H2,2006,2006,2006,4,0,1,Import,90,Solomon Isds,SLB,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,29,,,,,,280,,,0
+H2,2006,2006,2006,4,0,1,Import,90,Solomon Isds,SLB,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,270,,,,,,1307,,,0
+H2,2007,2007,2007,4,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,404590,,,0
+H2,2007,2007,2007,4,0,1,Import,90,Solomon Isds,SLB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,64913,,,,,,393717,,,0
+H2,2007,2007,2007,4,0,1,Import,90,Solomon Isds,SLB,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10,,,,,,570,,,0
+H2,2007,2007,2007,4,0,1,Import,90,Solomon Isds,SLB,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1440,,,,,,10302,,,0
+H2,2008,2008,2008,4,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,178541,,,0
+H2,2008,2008,2008,4,0,1,Import,90,Solomon Isds,SLB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,194786,,,,,,163151,,,0
+H2,2008,2008,2008,4,0,1,Import,90,Solomon Isds,SLB,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18,,,,,,398,,,0
+H2,2008,2008,2008,4,0,1,Import,90,Solomon Isds,SLB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,158,,,,,,3250,,,0
+H2,2008,2008,2008,4,0,1,Import,90,Solomon Isds,SLB,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,666,,,,,,7947,,,0
+H2,2008,2008,2008,4,0,1,Import,90,Solomon Isds,SLB,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10,,,,,,209,,,0
+H2,2008,2008,2008,4,0,1,Import,90,Solomon Isds,SLB,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,150,,,,,,2131,,,0
+H2,2008,2008,2008,4,0,1,Import,90,Solomon Isds,SLB,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,342,,,,,,1455,,,0
+H2,2009,2009,2009,4,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,84175,,,6
+H2,2009,2009,2009,4,0,1,Import,90,Solomon Isds,SLB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,80869,,,6
+H2,2009,2009,2009,4,0,1,Import,90,Solomon Isds,SLB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,233,,,0
+H2,2009,2009,2009,4,0,1,Import,90,Solomon Isds,SLB,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,2915,,,6
+H2,2009,2009,2009,4,0,1,Import,90,Solomon Isds,SLB,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,22,,107,,,6
+H2,2009,2009,2009,4,0,1,Import,90,Solomon Isds,SLB,598,Papua New Guinea,PNG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,10,,49,,,6
+H2,2010,2010,2010,4,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,282229,,,0
+H2,2010,2010,2010,4,0,2,Export,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,372,,,0
+H2,2010,2010,2010,4,0,1,Import,90,Solomon Isds,SLB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9836,,,,,,239335,,,0
+H2,2010,2010,2010,4,0,2,Export,90,Solomon Isds,SLB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,52,,,,,,372,,,0
+H2,2010,2010,2010,4,0,1,Import,90,Solomon Isds,SLB,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,70,,,,,,825,,,0
+H2,2010,2010,2010,4,0,1,Import,90,Solomon Isds,SLB,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,145,,,,,,395,,,0
+H2,2010,2010,2010,4,0,1,Import,90,Solomon Isds,SLB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,319,,,,,,258,,,0
+H2,2010,2010,2010,4,0,1,Import,90,Solomon Isds,SLB,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,185,,,,,,4991,,,0
+H2,2010,2010,2010,4,0,1,Import,90,Solomon Isds,SLB,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,932,,,,,,36151,,,0
+H2,2010,2010,2010,4,0,1,Import,90,Solomon Isds,SLB,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14,,,,,,275,,,0
+H2,2011,2011,2011,4,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,300200,,,0
+H2,2011,2011,2011,4,0,1,Import,90,Solomon Isds,SLB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,271773,,,0
+H2,2011,2011,2011,4,0,1,Import,90,Solomon Isds,SLB,50,Bangladesh,BGD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18,,,,18,,785,,,0
+H2,2011,2011,2011,4,0,1,Import,90,Solomon Isds,SLB,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,126,,,0
+H2,2011,2011,2011,4,0,1,Import,90,Solomon Isds,SLB,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,165,,,0
+H2,2011,2011,2011,4,0,1,Import,90,Solomon Isds,SLB,360,Indonesia,IDN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5,,,,5,,155,,,0
+H2,2011,2011,2011,4,0,1,Import,90,Solomon Isds,SLB,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,12528,,,0
+H2,2011,2011,2011,4,0,1,Import,90,Solomon Isds,SLB,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,10033,,,0
+H2,2011,2011,2011,4,0,1,Import,90,Solomon Isds,SLB,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,682,,,0
+H2,2011,2011,2011,4,0,1,Import,90,Solomon Isds,SLB,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3,,,,3,,345,,,0
+H2,2011,2011,2011,4,0,1,Import,90,Solomon Isds,SLB,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,130,,,,130,,3605,,,0
+H2,2012,2012,2012,4,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,327075,,,0
+H2,2012,2012,2012,4,0,1,Import,90,Solomon Isds,SLB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,285253,,,0
+H2,2012,2012,2012,4,0,1,Import,90,Solomon Isds,SLB,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,68,,,0
+H2,2012,2012,2012,4,0,1,Import,90,Solomon Isds,SLB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,60,,,,60,,121,,,0
+H2,2012,2012,2012,4,0,1,Import,90,Solomon Isds,SLB,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,18125,,,0
+H2,2012,2012,2012,4,0,1,Import,90,Solomon Isds,SLB,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,32,,,0
+H2,2012,2012,2012,4,0,1,Import,90,Solomon Isds,SLB,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,24,,,,24,,26,,,0
+H2,2012,2012,2012,4,0,1,Import,90,Solomon Isds,SLB,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,18028,,,0
+H2,2012,2012,2012,4,0,1,Import,90,Solomon Isds,SLB,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,5418,,,0
+H2,2013,2013,2013,4,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,459970,,,0
+H2,2013,2013,2013,4,0,1,Import,90,Solomon Isds,SLB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,419772,,,0
+H2,2013,2013,2013,4,0,1,Import,90,Solomon Isds,SLB,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,19,,,0
+H2,2013,2013,2013,4,0,1,Import,90,Solomon Isds,SLB,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,72,,,,72,,1418,,,0
+H2,2013,2013,2013,4,0,1,Import,90,Solomon Isds,SLB,242,Fiji,FJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,1607,,,0
+H2,2013,2013,2013,4,0,1,Import,90,Solomon Isds,SLB,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,80,,,,80,,115,,,0
+H2,2013,2013,2013,4,0,1,Import,90,Solomon Isds,SLB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,552,,,0
+H2,2013,2013,2013,4,0,1,Import,90,Solomon Isds,SLB,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,32589,,,0
+H2,2013,2013,2013,4,0,1,Import,90,Solomon Isds,SLB,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,188,,,,188,,1917,,,0
+H2,2013,2013,2013,4,0,1,Import,90,Solomon Isds,SLB,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,1504,,,0
+H2,2013,2013,2013,4,0,1,Import,90,Solomon Isds,SLB,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,472,,,0
+H2,2014,2014,2014,4,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,503510,,,0
+H2,2014,2014,2014,4,0,1,Import,90,Solomon Isds,SLB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,423986,,,0
+H2,2014,2014,2014,4,0,1,Import,90,Solomon Isds,SLB,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,676,,,0
+H2,2014,2014,2014,4,0,1,Import,90,Solomon Isds,SLB,242,Fiji,FJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,450,,,,450,,1973,,,0
+H2,2014,2014,2014,4,0,1,Import,90,Solomon Isds,SLB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16,,,,16,,4279,,,0
+H2,2014,2014,2014,4,0,1,Import,90,Solomon Isds,SLB,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,1087,,,0
+H2,2014,2014,2014,4,0,1,Import,90,Solomon Isds,SLB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,37,,,0
+H2,2014,2014,2014,4,0,1,Import,90,Solomon Isds,SLB,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3,,,,3,,1211,,,0
+H2,2014,2014,2014,4,0,1,Import,90,Solomon Isds,SLB,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,100,,,,100,,2977,,,0
+H2,2014,2014,2014,4,0,1,Import,90,Solomon Isds,SLB,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2721,,,,2721,,67280,,,0
+H4,2015,2015,2015,4,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,109265,,,,109265,,809650,,,4
+H4,2015,2015,2015,4,0,2,Export,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,80,,,,80,,326,,,4
+H4,2015,2015,2015,4,0,3,Re-Export,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,27,,,,27,,106,,,4
+H4,2015,2015,2015,4,0,1,Import,90,Solomon Isds,SLB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,103012,,,,103012,,714536,,,4
+H4,2015,2015,2015,4,0,2,Export,90,Solomon Isds,SLB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,53,,,,53,,193,,,4
+H4,2015,2015,2015,4,0,3,Re-Export,90,Solomon Isds,SLB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,23,,,,23,,69,,,4
+H4,2015,2015,2015,4,0,1,Import,90,Solomon Isds,SLB,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90,,,,90,,552,,,4
+H4,2015,2015,2015,4,0,1,Import,90,Solomon Isds,SLB,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,124,,,,124,,1987,,,4
+H4,2015,2015,2015,4,0,1,Import,90,Solomon Isds,SLB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,145,,,,145,,7478,,,4
+H4,2015,2015,2015,4,0,1,Import,90,Solomon Isds,SLB,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,167,,,,167,,116,,,4
+H4,2015,2015,2015,4,0,1,Import,90,Solomon Isds,SLB,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18,,,,18,,39,,,4
+H4,2015,2015,2015,4,0,2,Export,90,Solomon Isds,SLB,548,Vanuatu,VUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9,,,,9,,82,,,4
+H4,2015,2015,2015,4,0,3,Re-Export,90,Solomon Isds,SLB,548,Vanuatu,VUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5,,,,5,,37,,,4
+H4,2015,2015,2015,4,0,1,Import,90,Solomon Isds,SLB,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5676,,,,5676,,84674,,,4
+H4,2015,2015,2015,4,0,1,Import,90,Solomon Isds,SLB,570,Niue,NIU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14,,,,14,,133,,,4
+H4,2015,2015,2015,4,0,2,Export,90,Solomon Isds,SLB,598,Papua New Guinea,PNG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18,,,,18,,51,,,4
+H4,2015,2015,2015,4,0,1,Import,90,Solomon Isds,SLB,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,21,,,,21,,134,,,4
+H4,2016,2016,2016,4,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,294450,,795936,,,4
+H4,2016,2016,2016,4,0,2,Export,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,30,,179,,,4
+H4,2016,2016,2016,4,0,3,Re-Export,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,19,,,0
+H4,2016,2016,2016,4,0,1,Import,90,Solomon Isds,SLB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,268145,,721151,,,4
+H4,2016,2016,2016,4,0,1,Import,90,Solomon Isds,SLB,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,7,,29,,,4
+H4,2016,2016,2016,4,0,1,Import,90,Solomon Isds,SLB,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,2393,,4925,,,4
+H4,2016,2016,2016,4,0,1,Import,90,Solomon Isds,SLB,242,Fiji,FJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,111,,127,,,4
+H4,2016,2016,2016,4,0,1,Import,90,Solomon Isds,SLB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,2231,,8691,,,4
+H4,2016,2016,2016,4,0,1,Import,90,Solomon Isds,SLB,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,27,,104,,,4
+H4,2016,2016,2016,4,0,1,Import,90,Solomon Isds,SLB,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,1809,,3989,,,4
+H4,2016,2016,2016,4,0,1,Import,90,Solomon Isds,SLB,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,30,,119,,,4
+H4,2016,2016,2016,4,0,2,Export,90,Solomon Isds,SLB,540,New Caledonia,NCL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,3,,19,,,4
+H4,2016,2016,2016,4,0,3,Re-Export,90,Solomon Isds,SLB,540,New Caledonia,NCL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,19,,,0
+H4,2016,2016,2016,4,0,2,Export,90,Solomon Isds,SLB,548,Vanuatu,VUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,27,,159,,,4
+H4,2016,2016,2016,4,0,1,Import,90,Solomon Isds,SLB,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,13065,,49186,,,4
+H4,2016,2016,2016,4,0,1,Import,90,Solomon Isds,SLB,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,6631,,7615,,,4
+H4,2017,2017,2017,4,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,155956,,,,159993,,1011139,,,4
+H4,2017,2017,2017,4,0,2,Export,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10,,,,10,,45,,,0
+H4,2017,2017,2017,4,0,3,Re-Export,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10,,,,10,,45,,,0
+H4,2017,2017,2017,4,0,1,Import,90,Solomon Isds,SLB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,142431,,,,146468,,929103,,,4
+H4,2017,2017,2017,4,0,1,Import,90,Solomon Isds,SLB,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,50,,,,50,,1017,,,0
+H4,2017,2017,2017,4,0,1,Import,90,Solomon Isds,SLB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,103,,,,103,,4890,,,0
+H4,2017,2017,2017,4,0,1,Import,90,Solomon Isds,SLB,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,75,,,,75,,2777,,,0
+H4,2017,2017,2017,4,0,1,Import,90,Solomon Isds,SLB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11,,,,11,,236,,,0
+H4,2017,2017,2017,4,0,1,Import,90,Solomon Isds,SLB,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,129,,,,129,,1211,,,0
+H4,2017,2017,2017,4,0,2,Export,90,Solomon Isds,SLB,548,Vanuatu,VUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10,,,,10,,45,,,0
+H4,2017,2017,2017,4,0,3,Re-Export,90,Solomon Isds,SLB,548,Vanuatu,VUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10,,,,10,,45,,,0
+H4,2017,2017,2017,4,0,1,Import,90,Solomon Isds,SLB,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3603,,,,3603,,39579,,,0
+H4,2017,2017,2017,4,0,1,Import,90,Solomon Isds,SLB,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11,,,,11,,10544,,,0
+H4,2017,2017,2017,4,0,1,Import,90,Solomon Isds,SLB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9540,,,,9540,,21779,,,0
+H4,2018,2018,2018,4,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,162085,,,,162085,,981698,,,0
+H4,2018,2018,2018,4,0,2,Export,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,352,,,,352,,1699,,,0
+H4,2018,2018,2018,4,0,3,Re-Export,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,340,,,,340,,1558,,,0
+H4,2018,2018,2018,4,0,1,Import,90,Solomon Isds,SLB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,149885,,,,149885,,868245,,,0
+H4,2018,2018,2018,4,0,2,Export,90,Solomon Isds,SLB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,28,,,,28,,100,,,0
+H4,2018,2018,2018,4,0,3,Re-Export,90,Solomon Isds,SLB,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,28,,,,28,,100,,,0
+H4,2018,2018,2018,4,0,1,Import,90,Solomon Isds,SLB,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,30,,,,30,,603,,,0
+H4,2018,2018,2018,4,0,1,Import,90,Solomon Isds,SLB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,751,,,,751,,24457,,,0
+H4,2018,2018,2018,4,0,1,Import,90,Solomon Isds,SLB,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12,,,,12,,48,,,0
+H4,2018,2018,2018,4,0,1,Import,90,Solomon Isds,SLB,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4,,,,4,,114,,,0
+H4,2018,2018,2018,4,0,1,Import,90,Solomon Isds,SLB,408,Dem. People's Rep. of Korea,PRK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,69,,,,69,,667,,,0
+H4,2018,2018,2018,4,0,2,Export,90,Solomon Isds,SLB,548,Vanuatu,VUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,94,,,,94,,293,,,0
+H4,2018,2018,2018,4,0,3,Re-Export,90,Solomon Isds,SLB,548,Vanuatu,VUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,94,,,,94,,293,,,0
+H4,2018,2018,2018,4,0,1,Import,90,Solomon Isds,SLB,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6111,,,,6111,,67379,,,0
+H4,2018,2018,2018,4,0,2,Export,90,Solomon Isds,SLB,583,FS Micronesia,FSM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12,,,,12,,140,,,0
+H4,2018,2018,2018,4,0,2,Export,90,Solomon Isds,SLB,585,Palau,PLW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22,,,,22,,188,,,0
+H4,2018,2018,2018,4,0,3,Re-Export,90,Solomon Isds,SLB,585,Palau,PLW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22,,,,22,,188,,,0
+H4,2018,2018,2018,4,0,1,Import,90,Solomon Isds,SLB,598,Papua New Guinea,PNG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,1,,5,,,0
+H4,2018,2018,2018,4,0,2,Export,90,Solomon Isds,SLB,598,Papua New Guinea,PNG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,195,,,,195,,976,,,0
+H4,2018,2018,2018,4,0,3,Re-Export,90,Solomon Isds,SLB,598,Papua New Guinea,PNG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,195,,,,195,,976,,,0
+H4,2018,2018,2018,4,0,1,Import,90,Solomon Isds,SLB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5040,,,,5040,,14596,,,0
+H4,2018,2018,2018,4,0,1,Import,90,Solomon Isds,SLB,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,156,,,,156,,5262,,,0
+H4,2018,2018,2018,4,0,1,Import,90,Solomon Isds,SLB,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24,,,,24,,319,,,0

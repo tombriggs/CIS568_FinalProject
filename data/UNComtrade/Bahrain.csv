@@ -1,0 +1,654 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2002,2002,2002,4,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1445102,,,,1444087,,4419642,,,0
+H2,2002,2002,2002,4,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8734,,,,8734,,66330,,,0
+H2,2002,2002,2002,4,0,3,Re-Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8734,,,,8734,,66330,,,0
+H2,2002,2002,2002,4,0,1,Import,48,Bahrain,BHR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,247,,,,247,,987,,,0
+H2,2002,2002,2002,4,0,1,Import,48,Bahrain,BHR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,360057,,,,358975,,619201,,,0
+H2,2002,2002,2002,4,0,1,Import,48,Bahrain,BHR,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,819,,,,819,,2848,,,0
+H2,2002,2002,2002,4,0,1,Import,48,Bahrain,BHR,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,73,,,,73,,176,,,0
+H2,2002,2002,2002,4,0,1,Import,48,Bahrain,BHR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17657,,,,17657,,62292,,,0
+H2,2002,2002,2002,4,0,1,Import,48,Bahrain,BHR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,548518,,,,548590,,2272972,,,0
+H2,2002,2002,2002,4,0,1,Import,48,Bahrain,BHR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2825,,,,2825,,8191,,,0
+H2,2002,2002,2002,4,0,1,Import,48,Bahrain,BHR,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2676,,,,2676,,17210,,,0
+H2,2002,2002,2002,4,0,1,Import,48,Bahrain,BHR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,164371,,,,164371,,444760,,,0
+H2,2002,2002,2002,4,0,1,Import,48,Bahrain,BHR,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5490,,,,5490,,27769,,,0
+H2,2002,2002,2002,4,0,1,Import,48,Bahrain,BHR,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,295,,,,295,,3112,,,0
+H2,2002,2002,2002,4,0,1,Import,48,Bahrain,BHR,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1134,,,,1134,,4370,,,0
+H2,2002,2002,2002,4,0,1,Import,48,Bahrain,BHR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,535,,,,548,,1840,,,0
+H2,2002,2002,2002,4,0,1,Import,48,Bahrain,BHR,579,Norway,NOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,108,,,,108,,457,,,0
+H2,2002,2002,2002,4,0,1,Import,48,Bahrain,BHR,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15,,,,15,,319,,,0
+H2,2002,2002,2002,4,0,1,Import,48,Bahrain,BHR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2401,,,,2401,,10949,,,0
+H2,2002,2002,2002,4,0,2,Export,48,Bahrain,BHR,634,Qatar,QAT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6810,,,,6810,,57274,,,0
+H2,2002,2002,2002,4,0,3,Re-Export,48,Bahrain,BHR,634,Qatar,QAT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6810,,,,6810,,57274,,,0
+H2,2002,2002,2002,4,0,1,Import,48,Bahrain,BHR,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7731,,,,7731,,25628,,,0
+H2,2002,2002,2002,4,0,1,Import,48,Bahrain,BHR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,166875,,,,166856,,337808,,,0
+H2,2002,2002,2002,4,0,1,Import,48,Bahrain,BHR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3176,,,,3176,,12019,,,0
+H2,2002,2002,2002,4,0,1,Import,48,Bahrain,BHR,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4,,,,4,,80,,,0
+H2,2002,2002,2002,4,0,1,Import,48,Bahrain,BHR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,110060,,,,110061,,315662,,,0
+H2,2002,2002,2002,4,0,2,Export,48,Bahrain,BHR,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1924,,,,1924,,9056,,,0
+H2,2002,2002,2002,4,0,3,Re-Export,48,Bahrain,BHR,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1924,,,,1924,,9056,,,0
+H2,2002,2002,2002,4,0,1,Import,48,Bahrain,BHR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,50035,,,,50035,,250992,,,0
+H2,2003,2003,2003,4,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1218962,,,,1218387,,3767361,,,0
+H2,2003,2003,2003,4,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,41610,,,,36585,,99359,,,0
+H2,2003,2003,2003,4,0,3,Re-Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,41610,,,,36585,,99359,,,0
+H2,2003,2003,2003,4,0,1,Import,48,Bahrain,BHR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,207,,,,207,,1838,,,0
+H2,2003,2003,2003,4,0,1,Import,48,Bahrain,BHR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,317389,,,,317281,,617092,,,0
+H2,2003,2003,2003,4,0,1,Import,48,Bahrain,BHR,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,90,,,,90,,737,,,0
+H2,2003,2003,2003,4,0,1,Import,48,Bahrain,BHR,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,300,,,,300,,2521,,,0
+H2,2003,2003,2003,4,0,1,Import,48,Bahrain,BHR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17316,,,,17291,,65598,,,0
+H2,2003,2003,2003,4,0,1,Import,48,Bahrain,BHR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,359649,,,,359517,,1847909,,,0
+H2,2003,2003,2003,4,0,1,Import,48,Bahrain,BHR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1356,,,,1356,,6649,,,0
+H2,2003,2003,2003,4,0,1,Import,48,Bahrain,BHR,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21,,,,21,,104,,,0
+H2,2003,2003,2003,4,0,2,Export,48,Bahrain,BHR,368,Iraq,IRQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,108,,,,108,,479,,,0
+H2,2003,2003,2003,4,0,3,Re-Export,48,Bahrain,BHR,368,Iraq,IRQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,108,,,,108,,479,,,0
+H2,2003,2003,2003,4,0,1,Import,48,Bahrain,BHR,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1687,,,,1687,,10183,,,0
+H2,2003,2003,2003,4,0,1,Import,48,Bahrain,BHR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,105228,,,,105069,,390853,,,0
+H2,2003,2003,2003,4,0,1,Import,48,Bahrain,BHR,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,495,,,,495,,2745,,,0
+H2,2003,2003,2003,4,0,1,Import,48,Bahrain,BHR,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6660,,,,6660,,27726,,,0
+H2,2003,2003,2003,4,0,1,Import,48,Bahrain,BHR,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3055,,,,3055,,11968,,,0
+H2,2003,2003,2003,4,0,1,Import,48,Bahrain,BHR,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,26808,,,,26795,,25460,,,0
+H2,2003,2003,2003,4,0,1,Import,48,Bahrain,BHR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,294,,,,294,,1282,,,0
+H2,2003,2003,2003,4,0,1,Import,48,Bahrain,BHR,579,Norway,NOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,216,,,,216,,1628,,,0
+H2,2003,2003,2003,4,0,1,Import,48,Bahrain,BHR,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4,,,,4,,51,,,0
+H2,2003,2003,2003,4,0,1,Import,48,Bahrain,BHR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1159,,,,1155,,7074,,,0
+H2,2003,2003,2003,4,0,2,Export,48,Bahrain,BHR,634,Qatar,QAT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5123,,,,5123,,43138,,,0
+H2,2003,2003,2003,4,0,3,Re-Export,48,Bahrain,BHR,634,Qatar,QAT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5123,,,,5123,,43138,,,0
+H2,2003,2003,2003,4,0,1,Import,48,Bahrain,BHR,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,625,,,,621,,934,,,0
+H2,2003,2003,2003,4,0,1,Import,48,Bahrain,BHR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,268564,,,,268490,,329005,,,0
+H2,2003,2003,2003,4,0,1,Import,48,Bahrain,BHR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1389,,,,1385,,7364,,,0
+H2,2003,2003,2003,4,0,1,Import,48,Bahrain,BHR,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,410,,,,410,,1609,,,0
+H2,2003,2003,2003,4,0,1,Import,48,Bahrain,BHR,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,59,,,,59,,258,,,0
+H2,2003,2003,2003,4,0,1,Import,48,Bahrain,BHR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,55165,,,,55143,,179558,,,0
+H2,2003,2003,2003,4,0,2,Export,48,Bahrain,BHR,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36379,,,,31354,,55742,,,0
+H2,2003,2003,2003,4,0,3,Re-Export,48,Bahrain,BHR,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36379,,,,31354,,55742,,,0
+H2,2003,2003,2003,4,0,1,Import,48,Bahrain,BHR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,50816,,,,50786,,227215,,,0
+H2,2004,2004,2004,4,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1406390,,,,1406094,,5531557,,,0
+H2,2004,2004,2004,4,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10680,,,,10680,,35064,,,0
+H2,2004,2004,2004,4,0,3,Re-Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10680,,,,10680,,35064,,,0
+H2,2004,2004,2004,4,0,1,Import,48,Bahrain,BHR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1176,,,,1176,,2691,,,0
+H2,2004,2004,2004,4,0,1,Import,48,Bahrain,BHR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,348472,,,,348403,,913895,,,0
+H2,2004,2004,2004,4,0,1,Import,48,Bahrain,BHR,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,81,,,,81,,790,,,0
+H2,2004,2004,2004,4,0,1,Import,48,Bahrain,BHR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,30594,,,,30585,,105768,,,0
+H2,2004,2004,2004,4,0,1,Import,48,Bahrain,BHR,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1500,,,,1500,,12511,,,0
+H2,2004,2004,2004,4,0,1,Import,48,Bahrain,BHR,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,540,,,,540,,2122,,,0
+H2,2004,2004,2004,4,0,1,Import,48,Bahrain,BHR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,460813,,,,460818,,2492573,,,0
+H2,2004,2004,2004,4,0,2,Export,48,Bahrain,BHR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,240,,,,240,,441,,,0
+H2,2004,2004,2004,4,0,3,Re-Export,48,Bahrain,BHR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,240,,,,240,,441,,,0
+H2,2004,2004,2004,4,0,1,Import,48,Bahrain,BHR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4213,,,,4213,,17436,,,0
+H2,2004,2004,2004,4,0,2,Export,48,Bahrain,BHR,368,Iraq,IRQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7407,,,,7407,,26995,,,0
+H2,2004,2004,2004,4,0,3,Re-Export,48,Bahrain,BHR,368,Iraq,IRQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7407,,,,7407,,26995,,,0
+H2,2004,2004,2004,4,0,1,Import,48,Bahrain,BHR,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5437,,,,5437,,26907,,,0
+H2,2004,2004,2004,4,0,1,Import,48,Bahrain,BHR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,121942,,,,121880,,526127,,,0
+H2,2004,2004,2004,4,0,1,Import,48,Bahrain,BHR,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7639,,,,7634,,31500,,,0
+H2,2004,2004,2004,4,0,1,Import,48,Bahrain,BHR,400,Jordan,JOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,800,,,,800,,1537,,,0
+H2,2004,2004,2004,4,0,1,Import,48,Bahrain,BHR,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7813,,,,7813,,58210,,,0
+H2,2004,2004,2004,4,0,1,Import,48,Bahrain,BHR,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10868,,,,10865,,25628,,,0
+H2,2004,2004,2004,4,0,1,Import,48,Bahrain,BHR,512,Oman,OMN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,112,,,,112,,380,,,0
+H2,2004,2004,2004,4,0,1,Import,48,Bahrain,BHR,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6549,,,,6549,,27965,,,0
+H2,2004,2004,2004,4,0,1,Import,48,Bahrain,BHR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45,,,,45,,745,,,0
+H2,2004,2004,2004,4,0,1,Import,48,Bahrain,BHR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1496,,,,1486,,8412,,,0
+H2,2004,2004,2004,4,0,1,Import,48,Bahrain,BHR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,183619,,,,183556,,416518,,,0
+H2,2004,2004,2004,4,0,1,Import,48,Bahrain,BHR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8319,,,,8319,,41870,,,0
+H2,2004,2004,2004,4,0,1,Import,48,Bahrain,BHR,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,145,,,,145,,904,,,0
+H2,2004,2004,2004,4,0,1,Import,48,Bahrain,BHR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,109501,,,,109455,,476494,,,0
+H2,2004,2004,2004,4,0,2,Export,48,Bahrain,BHR,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3033,,,,3033,,7628,,,0
+H2,2004,2004,2004,4,0,3,Re-Export,48,Bahrain,BHR,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3033,,,,3033,,7628,,,0
+H2,2004,2004,2004,4,0,1,Import,48,Bahrain,BHR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,94716,,,,94682,,340574,,,0
+H0,2000,2000,2000,4,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1170218,,,,1170385,,3742871,,,0
+H0,2000,2000,2000,4,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,51196,,,,52125,,198614,,,0
+H0,2000,2000,2000,4,0,3,Re-Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,51196,,,,52125,,198614,,,0
+H0,2000,2000,2000,4,0,1,Import,48,Bahrain,BHR,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,233799,,,,233799,,444396,,,0
+H0,2000,2000,2000,4,0,1,Import,48,Bahrain,BHR,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,12145,,,,12145,,35077,,,0
+H0,2000,2000,2000,4,0,1,Import,48,Bahrain,BHR,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,4635,,,,4635,,30907,,,0
+H0,2000,2000,2000,4,0,1,Import,48,Bahrain,BHR,246,Finland,FIN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,450,,,,450,,1641,,,0
+H0,2000,2000,2000,4,0,1,Import,48,Bahrain,BHR,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,452127,,,,452200,,1677258,,,0
+H0,2000,2000,2000,4,0,1,Import,48,Bahrain,BHR,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,32054,,,,32054,,69423,,,0
+H0,2000,2000,2000,4,0,1,Import,48,Bahrain,BHR,372,Ireland,IRL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2712,,,,2712,,20745,,,0
+H0,2000,2000,2000,4,0,1,Import,48,Bahrain,BHR,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,143736,,,,143737,,422997,,,0
+H0,2000,2000,2000,4,0,1,Import,48,Bahrain,BHR,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,6695,,,,6695,,26878,,,0
+H0,2000,2000,2000,4,0,1,Import,48,Bahrain,BHR,400,Jordan,JOR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,630,,,,630,,2465,,,0
+H0,2000,2000,2000,4,0,1,Import,48,Bahrain,BHR,422,Lebanon,LBN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,153,,,,153,,553,,,0
+H0,2000,2000,2000,4,0,1,Import,48,Bahrain,BHR,484,Mexico,MEX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1170,,,,1170,,5617,,,0
+H0,2000,2000,2000,4,0,1,Import,48,Bahrain,BHR,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,10323,,,,10323,,33875,,,0
+H0,2000,2000,2000,4,0,1,Import,48,Bahrain,BHR,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,99,,,,99,,739,,,0
+H0,2000,2000,2000,4,0,1,Import,48,Bahrain,BHR,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,7489,,,,7482,,31955,,,0
+H0,2000,2000,2000,4,0,2,Export,48,Bahrain,BHR,634,Qatar,QAT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,8741,,,,8741,,56907,,,0
+H0,2000,2000,2000,4,0,3,Re-Export,48,Bahrain,BHR,634,Qatar,QAT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,8741,,,,8741,,56907,,,0
+H0,2000,2000,2000,4,0,1,Import,48,Bahrain,BHR,699,India,IND,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,270,,,,270,,415,,,0
+H0,2000,2000,2000,4,0,1,Import,48,Bahrain,BHR,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,9,,,,9,,168,,,0
+H0,2000,2000,2000,4,0,1,Import,48,Bahrain,BHR,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,122429,,,,122429,,269829,,,0
+H0,2000,2000,2000,4,0,1,Import,48,Bahrain,BHR,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,10698,,,,10698,,43183,,,0
+H0,2000,2000,2000,4,0,1,Import,48,Bahrain,BHR,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1200,,,,1200,,4673,,,0
+H0,2000,2000,2000,4,0,1,Import,48,Bahrain,BHR,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,61285,,,,61285,,315848,,,0
+H0,2000,2000,2000,4,0,2,Export,48,Bahrain,BHR,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,10295,,,,10304,,44253,,,0
+H0,2000,2000,2000,4,0,3,Re-Export,48,Bahrain,BHR,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,10295,,,,10304,,44253,,,0
+H0,2000,2000,2000,4,0,2,Export,48,Bahrain,BHR,837,Bunkers,,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,20277,,,,21175,,73380,,,0
+H0,2000,2000,2000,4,0,3,Re-Export,48,Bahrain,BHR,837,Bunkers,,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,20277,,,,21175,,73380,,,0
+H0,2000,2000,2000,4,0,1,Import,48,Bahrain,BHR,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,66110,,,,66210,,304231,,,0
+H0,2000,2000,2000,4,0,2,Export,48,Bahrain,BHR,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,11883,,,,11905,,24074,,,0
+H0,2000,2000,2000,4,0,3,Re-Export,48,Bahrain,BHR,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,11883,,,,11905,,24074,,,0
+H0,2001,2001,2001,4,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1182522,,,,1182721,,3839267,,,0
+H0,2001,2001,2001,4,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,8238,,,,8238,,46963,,,0
+H0,2001,2001,2001,4,0,3,Re-Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,8238,,,,8238,,46963,,,0
+H0,2001,2001,2001,4,0,1,Import,48,Bahrain,BHR,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1197,,,,1197,,4705,,,0
+H0,2001,2001,2001,4,0,1,Import,48,Bahrain,BHR,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,236786,,,,236786,,421047,,,0
+H0,2001,2001,2001,4,0,1,Import,48,Bahrain,BHR,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,45,,,,45,,213,,,0
+H0,2001,2001,2001,4,0,1,Import,48,Bahrain,BHR,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,17,,,,17,,176,,,0
+H0,2001,2001,2001,4,0,1,Import,48,Bahrain,BHR,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,45,,,,45,,293,,,0
+H0,2001,2001,2001,4,0,1,Import,48,Bahrain,BHR,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,14402,,,,14402,,46984,,,0
+H0,2001,2001,2001,4,0,1,Import,48,Bahrain,BHR,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,90,,,,90,,545,,,0
+H0,2001,2001,2001,4,0,1,Import,48,Bahrain,BHR,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,916,,,,916,,6024,,,0
+H0,2001,2001,2001,4,0,1,Import,48,Bahrain,BHR,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,415683,,,,415858,,1765704,,,0
+H0,2001,2001,2001,4,0,1,Import,48,Bahrain,BHR,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,4325,,,,4325,,17130,,,0
+H0,2001,2001,2001,4,0,1,Import,48,Bahrain,BHR,364,Iran,IRN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,4,,,,4,,24,,,0
+H0,2001,2001,2001,4,0,1,Import,48,Bahrain,BHR,372,Ireland,IRL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,849,,,,849,,3912,,,0
+H0,2001,2001,2001,4,0,1,Import,48,Bahrain,BHR,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,160028,,,,160028,,485611,,,0
+H0,2001,2001,2001,4,0,1,Import,48,Bahrain,BHR,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,8596,,,,8596,,35513,,,0
+H0,2001,2001,2001,4,0,1,Import,48,Bahrain,BHR,400,Jordan,JOR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,360,,,,360,,1537,,,0
+H0,2001,2001,2001,4,0,1,Import,48,Bahrain,BHR,408,Dem. People's Rep. of Korea,PRK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,432,,,,432,,1316,,,0
+H0,2001,2001,2001,4,0,1,Import,48,Bahrain,BHR,422,Lebanon,LBN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,3801,,,,3801,,18306,,,0
+H0,2001,2001,2001,4,0,1,Import,48,Bahrain,BHR,484,Mexico,MEX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,420,,,,420,,1149,,,0
+H0,2001,2001,2001,4,0,1,Import,48,Bahrain,BHR,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,3140,,,,3140,,9319,,,0
+H0,2001,2001,2001,4,0,1,Import,48,Bahrain,BHR,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,168,,,,168,,1199,,,0
+H0,2001,2001,2001,4,0,1,Import,48,Bahrain,BHR,579,Norway,NOR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,28,,,,28,,391,,,0
+H0,2001,2001,2001,4,0,1,Import,48,Bahrain,BHR,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2256,,,,2260,,13346,,,0
+H0,2001,2001,2001,4,0,2,Export,48,Bahrain,BHR,634,Qatar,QAT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,4125,,,,4125,,38707,,,0
+H0,2001,2001,2001,4,0,3,Re-Export,48,Bahrain,BHR,634,Qatar,QAT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,4125,,,,4125,,38707,,,0
+H0,2001,2001,2001,4,0,1,Import,48,Bahrain,BHR,699,India,IND,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,10800,,,,10800,,12936,,,0
+H0,2001,2001,2001,4,0,1,Import,48,Bahrain,BHR,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,142678,,,,142678,,314603,,,0
+H0,2001,2001,2001,4,0,1,Import,48,Bahrain,BHR,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1834,,,,1834,,9721,,,0
+H0,2001,2001,2001,4,0,1,Import,48,Bahrain,BHR,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,495,,,,495,,3460,,,0
+H0,2001,2001,2001,4,0,2,Export,48,Bahrain,BHR,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,4113,,,,4113,,8255,,,0
+H0,2001,2001,2001,4,0,3,Re-Export,48,Bahrain,BHR,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,4113,,,,4113,,8255,,,0
+H0,2001,2001,2001,4,0,1,Import,48,Bahrain,BHR,818,Egypt,EGY,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1500,,,,1500,,8824,,,0
+H0,2001,2001,2001,4,0,1,Import,48,Bahrain,BHR,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,101499,,,,101519,,331329,,,0
+H0,2001,2001,2001,4,0,1,Import,48,Bahrain,BHR,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,70128,,,,70128,,323949,,,0
+H3,2009,2009,2009,4,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2681347,,,,2675822,,10589413,,,0
+H3,2009,2009,2009,4,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,50365,,,,50366,,89872,,,0
+H3,2009,2009,2009,4,0,3,Re-Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,50365,,,,50366,,89872,,,0
+H3,2009,2009,2009,4,0,1,Import,48,Bahrain,BHR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,11501,,,,11501,,71146,,,0
+H3,2009,2009,2009,4,0,1,Import,48,Bahrain,BHR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,457095,,,,455910,,1192317,,,0
+H3,2009,2009,2009,4,0,1,Import,48,Bahrain,BHR,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,615,,,,615,,1218,,,0
+H3,2009,2009,2009,4,0,1,Import,48,Bahrain,BHR,44,Bahamas,BHS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1613,,,,1613,,6787,,,0
+H3,2009,2009,2009,4,0,1,Import,48,Bahrain,BHR,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,25457,,,,25457,,141654,,,0
+H3,2009,2009,2009,4,0,1,Import,48,Bahrain,BHR,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,105,,,,115,,362,,,0
+H3,2009,2009,2009,4,0,1,Import,48,Bahrain,BHR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,97353,,,,97447,,320308,,,0
+H3,2009,2009,2009,4,0,1,Import,48,Bahrain,BHR,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,631,,,,631,,5657,,,0
+H3,2009,2009,2009,4,0,1,Import,48,Bahrain,BHR,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2116,,,,2116,,10168,,,0
+H3,2009,2009,2009,4,0,1,Import,48,Bahrain,BHR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,667267,,,,667941,,3890597,,,0
+H3,2009,2009,2009,4,0,1,Import,48,Bahrain,BHR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,91209,,,,91068,,457653,,,0
+H3,2009,2009,2009,4,0,2,Export,48,Bahrain,BHR,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,60,,,,60,,4186,,,0
+H3,2009,2009,2009,4,0,3,Re-Export,48,Bahrain,BHR,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,60,,,,60,,4186,,,0
+H3,2009,2009,2009,4,0,1,Import,48,Bahrain,BHR,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,460,,,,460,,1678,,,0
+H3,2009,2009,2009,4,0,1,Import,48,Bahrain,BHR,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2890,,,,2890,,12936,,,0
+H3,2009,2009,2009,4,0,1,Import,48,Bahrain,BHR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,258297,,,,258297,,1112897,,,0
+H3,2009,2009,2009,4,0,1,Import,48,Bahrain,BHR,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10392,,,,10363,,82846,,,0
+H3,2009,2009,2009,4,0,1,Import,48,Bahrain,BHR,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12856,,,,12856,,52521,,,0
+H3,2009,2009,2009,4,0,1,Import,48,Bahrain,BHR,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6168,,,,6210,,47226,,,0
+H3,2009,2009,2009,4,0,1,Import,48,Bahrain,BHR,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,44608,,,,44608,,137590,,,0
+H3,2009,2009,2009,4,0,1,Import,48,Bahrain,BHR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15938,,,,15949,,79694,,,0
+H3,2009,2009,2009,4,0,1,Import,48,Bahrain,BHR,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2772,,,,2772,,13449,,,0
+H3,2009,2009,2009,4,0,1,Import,48,Bahrain,BHR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,19438,,,,19435,,61649,,,0
+H3,2009,2009,2009,4,0,1,Import,48,Bahrain,BHR,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3421,,,,3721,,6202,,,0
+H3,2009,2009,2009,4,0,1,Import,48,Bahrain,BHR,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2663,,,,2563,,10061,,,0
+H3,2009,2009,2009,4,0,1,Import,48,Bahrain,BHR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,548332,,,,543695,,1226126,,,0
+H3,2009,2009,2009,4,0,1,Import,48,Bahrain,BHR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,50738,,,,50778,,210335,,,0
+H3,2009,2009,2009,4,0,1,Import,48,Bahrain,BHR,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,210,,,,210,,1391,,,0
+H3,2009,2009,2009,4,0,1,Import,48,Bahrain,BHR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,203816,,,,203790,,786004,,,0
+H3,2009,2009,2009,4,0,2,Export,48,Bahrain,BHR,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,50305,,,,50306,,85686,,,0
+H3,2009,2009,2009,4,0,3,Re-Export,48,Bahrain,BHR,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,50305,,,,50306,,85686,,,0
+H3,2009,2009,2009,4,0,1,Import,48,Bahrain,BHR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,143386,,,,142811,,648940,,,0
+H2,2005,2005,2005,4,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2332007,,,,2332369,,7947402,,,0
+H2,2005,2005,2005,4,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,32086,,,,32086,,112138,,,0
+H2,2005,2005,2005,4,0,3,Re-Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,32086,,,,32086,,112138,,,0
+H2,2005,2005,2005,4,0,1,Import,48,Bahrain,BHR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,467743,,,,468037,,1035325,,,0
+H2,2005,2005,2005,4,0,2,Export,48,Bahrain,BHR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,220,,,,220,,1729,,,0
+H2,2005,2005,2005,4,0,3,Re-Export,48,Bahrain,BHR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,220,,,,220,,1729,,,0
+H2,2005,2005,2005,4,0,1,Import,48,Bahrain,BHR,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,38,,,,38,,61,,,0
+H2,2005,2005,2005,4,0,1,Import,48,Bahrain,BHR,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12168,,,,12168,,17359,,,0
+H2,2005,2005,2005,4,0,1,Import,48,Bahrain,BHR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15347,,,,15347,,55298,,,0
+H2,2005,2005,2005,4,0,1,Import,48,Bahrain,BHR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,686126,,,,685976,,3826818,,,0
+H2,2005,2005,2005,4,0,1,Import,48,Bahrain,BHR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,70669,,,,70769,,128375,,,0
+H2,2005,2005,2005,4,0,1,Import,48,Bahrain,BHR,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2250,,,,2250,,5114,,,0
+H2,2005,2005,2005,4,0,2,Export,48,Bahrain,BHR,368,Iraq,IRQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,220,,,,220,,404,,,0
+H2,2005,2005,2005,4,0,3,Re-Export,48,Bahrain,BHR,368,Iraq,IRQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,220,,,,220,,404,,,0
+H2,2005,2005,2005,4,0,1,Import,48,Bahrain,BHR,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4572,,,,4572,,32630,,,0
+H2,2005,2005,2005,4,0,1,Import,48,Bahrain,BHR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,501295,,,,501287,,1182650,,,0
+H2,2005,2005,2005,4,0,1,Import,48,Bahrain,BHR,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7242,,,,7242,,32851,,,0
+H2,2005,2005,2005,4,0,1,Import,48,Bahrain,BHR,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2808,,,,2808,,16580,,,0
+H2,2005,2005,2005,4,0,1,Import,48,Bahrain,BHR,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,90,,,,90,,590,,,0
+H2,2005,2005,2005,4,0,1,Import,48,Bahrain,BHR,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13283,,,,13283,,66040,,,0
+H2,2005,2005,2005,4,0,1,Import,48,Bahrain,BHR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3848,,,,3848,,4662,,,0
+H2,2005,2005,2005,4,0,1,Import,48,Bahrain,BHR,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,30,,,,30,,45,,,0
+H2,2005,2005,2005,4,0,1,Import,48,Bahrain,BHR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7944,,,,7944,,32944,,,0
+H2,2005,2005,2005,4,0,1,Import,48,Bahrain,BHR,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9400,,,,9400,,11683,,,0
+H2,2005,2005,2005,4,0,1,Import,48,Bahrain,BHR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,219703,,,,219624,,459324,,,0
+H2,2005,2005,2005,4,0,1,Import,48,Bahrain,BHR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10528,,,,10528,,44933,,,0
+H2,2005,2005,2005,4,0,1,Import,48,Bahrain,BHR,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11932,,,,11932,,97901,,,0
+H2,2005,2005,2005,4,0,1,Import,48,Bahrain,BHR,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,270,,,,270,,2250,,,0
+H2,2005,2005,2005,4,0,1,Import,48,Bahrain,BHR,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4,,,,4,,3,,,0
+H2,2005,2005,2005,4,0,1,Import,48,Bahrain,BHR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,150985,,,,150515,,551467,,,0
+H2,2005,2005,2005,4,0,2,Export,48,Bahrain,BHR,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,31646,,,,31646,,110005,,,0
+H2,2005,2005,2005,4,0,3,Re-Export,48,Bahrain,BHR,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,31646,,,,31646,,110005,,,0
+H2,2005,2005,2005,4,0,1,Import,48,Bahrain,BHR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,133732,,,,134407,,342497,,,0
+H2,2006,2006,2006,4,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1805022,,,,1804991,,6107402,,,0
+H2,2006,2006,2006,4,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10657,,,,10657,,27543,,,0
+H2,2006,2006,2006,4,0,3,Re-Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10657,,,,10657,,27543,,,0
+H2,2006,2006,2006,4,0,1,Import,48,Bahrain,BHR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8320,,,,8320,,23300,,,0
+H2,2006,2006,2006,4,0,1,Import,48,Bahrain,BHR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,460194,,,,460192,,1050708,,,0
+H2,2006,2006,2006,4,0,1,Import,48,Bahrain,BHR,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,433,,,,433,,1923,,,0
+H2,2006,2006,2006,4,0,2,Export,48,Bahrain,BHR,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,504,,,,504,,1559,,,0
+H2,2006,2006,2006,4,0,3,Re-Export,48,Bahrain,BHR,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,504,,,,504,,1559,,,0
+H2,2006,2006,2006,4,0,1,Import,48,Bahrain,BHR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22088,,,,22092,,82378,,,0
+H2,2006,2006,2006,4,0,1,Import,48,Bahrain,BHR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,572339,,,,572323,,2755381,,,0
+H2,2006,2006,2006,4,0,1,Import,48,Bahrain,BHR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7286,,,,7286,,40189,,,0
+H2,2006,2006,2006,4,0,1,Import,48,Bahrain,BHR,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6025,,,,6025,,70851,,,0
+H2,2006,2006,2006,4,0,1,Import,48,Bahrain,BHR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,134096,,,,134078,,620073,,,0
+H2,2006,2006,2006,4,0,1,Import,48,Bahrain,BHR,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6660,,,,6660,,29992,,,0
+H2,2006,2006,2006,4,0,1,Import,48,Bahrain,BHR,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5746,,,,5746,,34710,,,0
+H2,2006,2006,2006,4,0,1,Import,48,Bahrain,BHR,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45,,,,45,,295,,,0
+H2,2006,2006,2006,4,0,1,Import,48,Bahrain,BHR,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6008,,,,6008,,30149,,,0
+H2,2006,2006,2006,4,0,1,Import,48,Bahrain,BHR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,859,,,,859,,6545,,,0
+H2,2006,2006,2006,4,0,1,Import,48,Bahrain,BHR,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,84,,,,84,,154,,,0
+H2,2006,2006,2006,4,0,1,Import,48,Bahrain,BHR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1681,,,,1681,,10426,,,0
+H2,2006,2006,2006,4,0,1,Import,48,Bahrain,BHR,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45,,,,45,,213,,,0
+H2,2006,2006,2006,4,0,1,Import,48,Bahrain,BHR,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6200,,,,6280,,10944,,,0
+H2,2006,2006,2006,4,0,1,Import,48,Bahrain,BHR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,214822,,,,214824,,376061,,,0
+H2,2006,2006,2006,4,0,2,Export,48,Bahrain,BHR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,270,,,,270,,1245,,,0
+H2,2006,2006,2006,4,0,3,Re-Export,48,Bahrain,BHR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,270,,,,270,,1245,,,0
+H2,2006,2006,2006,4,0,1,Import,48,Bahrain,BHR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12870,,,,12870,,55423,,,0
+H2,2006,2006,2006,4,0,1,Import,48,Bahrain,BHR,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2016,,,,2016,,13061,,,0
+H2,2006,2006,2006,4,0,1,Import,48,Bahrain,BHR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,101133,,,,101052,,447861,,,0
+H2,2006,2006,2006,4,0,2,Export,48,Bahrain,BHR,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9883,,,,9883,,24739,,,0
+H2,2006,2006,2006,4,0,3,Re-Export,48,Bahrain,BHR,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9883,,,,9883,,24739,,,0
+H2,2006,2006,2006,4,0,1,Import,48,Bahrain,BHR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,236072,,,,236072,,446765,,,0
+H2,2007,2007,2007,4,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2152422,,,,2152666,,8375632,,,0
+H2,2007,2007,2007,4,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13181,,,,13181,,21729,,,0
+H2,2007,2007,2007,4,0,3,Re-Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13181,,,,13181,,21729,,,0
+H2,2007,2007,2007,4,0,1,Import,48,Bahrain,BHR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2562,,,,2562,,11433,,,0
+H2,2007,2007,2007,4,0,1,Import,48,Bahrain,BHR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,516220,,,,516271,,1503710,,,0
+H2,2007,2007,2007,4,0,1,Import,48,Bahrain,BHR,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10300,,,,10300,,180207,,,0
+H2,2007,2007,2007,4,0,1,Import,48,Bahrain,BHR,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,68,,,,70,,287,,,0
+H2,2007,2007,2007,4,0,1,Import,48,Bahrain,BHR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,29417,,,,29417,,122018,,,0
+H2,2007,2007,2007,4,0,1,Import,48,Bahrain,BHR,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36,,,,36,,202,,,0
+H2,2007,2007,2007,4,0,1,Import,48,Bahrain,BHR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,549946,,,,550046,,3220548,,,0
+H2,2007,2007,2007,4,0,1,Import,48,Bahrain,BHR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17283,,,,17283,,66242,,,0
+H2,2007,2007,2007,4,0,2,Export,48,Bahrain,BHR,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,500,,,,500,,1992,,,0
+H2,2007,2007,2007,4,0,3,Re-Export,48,Bahrain,BHR,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,500,,,,500,,1992,,,0
+H2,2007,2007,2007,4,0,1,Import,48,Bahrain,BHR,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3384,,,,3384,,21870,,,0
+H2,2007,2007,2007,4,0,1,Import,48,Bahrain,BHR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,159303,,,,159305,,786661,,,0
+H2,2007,2007,2007,4,0,1,Import,48,Bahrain,BHR,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10529,,,,10529,,49433,,,0
+H2,2007,2007,2007,4,0,1,Import,48,Bahrain,BHR,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10375,,,,10375,,53973,,,0
+H2,2007,2007,2007,4,0,1,Import,48,Bahrain,BHR,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9283,,,,9283,,30221,,,0
+H2,2007,2007,2007,4,0,1,Import,48,Bahrain,BHR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18776,,,,18776,,115838,,,0
+H2,2007,2007,2007,4,0,1,Import,48,Bahrain,BHR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1536,,,,1536,,6630,,,0
+H2,2007,2007,2007,4,0,1,Import,48,Bahrain,BHR,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16440,,,,16440,,31633,,,0
+H2,2007,2007,2007,4,0,1,Import,48,Bahrain,BHR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,308563,,,,308562,,752871,,,0
+H2,2007,2007,2007,4,0,1,Import,48,Bahrain,BHR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22506,,,,22506,,94742,,,0
+H2,2007,2007,2007,4,0,1,Import,48,Bahrain,BHR,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3000,,,,3000,,13548,,,0
+H2,2007,2007,2007,4,0,2,Export,48,Bahrain,BHR,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45,,,,45,,646,,,0
+H2,2007,2007,2007,4,0,3,Re-Export,48,Bahrain,BHR,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45,,,,45,,646,,,0
+H2,2007,2007,2007,4,0,1,Import,48,Bahrain,BHR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,380945,,,,381035,,1049062,,,0
+H2,2007,2007,2007,4,0,2,Export,48,Bahrain,BHR,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12636,,,,12636,,19090,,,0
+H2,2007,2007,2007,4,0,3,Re-Export,48,Bahrain,BHR,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12636,,,,12636,,19090,,,0
+H2,2007,2007,2007,4,0,1,Import,48,Bahrain,BHR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,81950,,,,81950,,264502,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2539527,,,,2534624,,10470014,,,0
+H2,2008,2008,2008,4,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,61704,,,,61704,,121614,,,0
+H2,2008,2008,2008,4,0,3,Re-Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,61704,,,,61704,,121614,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,808,,,,808,,2920,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,589356,,,,592127,,1508628,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,210,,,,210,,819,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,54731,,,,54734,,242893,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,54,,,,54,,157,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4433,,,,4433,,20782,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36925,,,,37224,,111811,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1620,,,,1620,,5548,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2454,,,,2454,,14606,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11,,,,11,,303,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,663162,,,,664319,,4037725,,,0
+H2,2008,2008,2008,4,0,2,Export,48,Bahrain,BHR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15,,,,15,,910,,,0
+H2,2008,2008,2008,4,0,3,Re-Export,48,Bahrain,BHR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15,,,,15,,910,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19068,,,,19045,,83574,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1303,,,,1303,,6995,,,0
+H2,2008,2008,2008,4,0,2,Export,48,Bahrain,BHR,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,82,,,,82,,580,,,0
+H2,2008,2008,2008,4,0,3,Re-Export,48,Bahrain,BHR,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,82,,,,82,,580,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8934,,,,8934,,83431,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,207183,,,,206596,,962645,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7522,,,,7520,,35995,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,400,Jordan,JOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,52,,,,52,,74,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5040,,,,5040,,8785,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8557,,,,8508,,45343,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,126,,,,126,,1793,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,90,,,,90,,426,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16724,,,,16225,,122981,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15598,,,,15617,,79665,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14385,,,,14385,,39997,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,240,,,,240,,1774,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,523675,,,,516027,,1076139,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,33318,,,,33353,,123593,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,449,,,,449,,6444,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,130,,,,130,,1051,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,748,,,,748,,1495,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,191372,,,,190937,,1361040,,,0
+H2,2008,2008,2008,4,0,2,Export,48,Bahrain,BHR,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,61607,,,,61607,,120125,,,0
+H2,2008,2008,2008,4,0,3,Re-Export,48,Bahrain,BHR,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,61607,,,,61607,,120125,,,0
+H2,2008,2008,2008,4,0,1,Import,48,Bahrain,BHR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,131249,,,,131305,,480584,,,0
+H4,2013,2013,2013,4,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2532620,,,,1388821,,5676265,,,0
+H4,2013,2013,2013,4,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1271,,,,1368,,4941,,,0
+H4,2013,2013,2013,4,0,3,Re-Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1271,,,,1368,,4941,,,0
+H4,2013,2013,2013,4,0,1,Import,48,Bahrain,BHR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5161,,,,5150,,30538,,,0
+H4,2013,2013,2013,4,0,1,Import,48,Bahrain,BHR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,197850,,,,202579,,609430,,,0
+H4,2013,2013,2013,4,0,1,Import,48,Bahrain,BHR,70,Bosnia Herzegovina,BIH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5000,,,,5000,,7505,,,0
+H4,2013,2013,2013,4,0,1,Import,48,Bahrain,BHR,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,214,,,,236,,3780,,,0
+H4,2013,2013,2013,4,0,1,Import,48,Bahrain,BHR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,80681,,,,83101,,370805,,,0
+H4,2013,2013,2013,4,0,1,Import,48,Bahrain,BHR,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,40,,19,,,0
+H4,2013,2013,2013,4,0,1,Import,48,Bahrain,BHR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1464324,,,,291221,,2061102,,,0
+H4,2013,2013,2013,4,0,2,Export,48,Bahrain,BHR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,27,,,,30,,78,,,0
+H4,2013,2013,2013,4,0,3,Re-Export,48,Bahrain,BHR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,27,,,,30,,78,,,0
+H4,2013,2013,2013,4,0,1,Import,48,Bahrain,BHR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3610,,,,3610,,17950,,,0
+H4,2013,2013,2013,4,0,1,Import,48,Bahrain,BHR,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12,,,,12,,328,,,0
+H4,2013,2013,2013,4,0,1,Import,48,Bahrain,BHR,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,60,,,,60,,623,,,0
+H4,2013,2013,2013,4,0,1,Import,48,Bahrain,BHR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,148787,,,,151342,,785989,,,0
+H4,2013,2013,2013,4,0,1,Import,48,Bahrain,BHR,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4763,,,,4763,,30535,,,0
+H4,2013,2013,2013,4,0,1,Import,48,Bahrain,BHR,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5613,,,,5613,,38493,,,0
+H4,2013,2013,2013,4,0,1,Import,48,Bahrain,BHR,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,842,,,,945,,6625,,,0
+H4,2013,2013,2013,4,0,1,Import,48,Bahrain,BHR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12672,,,,14703,,105065,,,0
+H4,2013,2013,2013,4,0,1,Import,48,Bahrain,BHR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,23841,,,,23941,,88180,,,0
+H4,2013,2013,2013,4,0,1,Import,48,Bahrain,BHR,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,205,,,,205,,1454,,,0
+H4,2013,2013,2013,4,0,1,Import,48,Bahrain,BHR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,393355,,,,396151,,1005091,,,0
+H4,2013,2013,2013,4,0,1,Import,48,Bahrain,BHR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,50980,,,,51018,,259420,,,0
+H4,2013,2013,2013,4,0,1,Import,48,Bahrain,BHR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24147,,,,39073,,51597,,,0
+H4,2013,2013,2013,4,0,1,Import,48,Bahrain,BHR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,110502,,,,110058,,201735,,,0
+H4,2013,2013,2013,4,0,2,Export,48,Bahrain,BHR,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1244,,,,1338,,4864,,,0
+H4,2013,2013,2013,4,0,3,Re-Export,48,Bahrain,BHR,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1244,,,,1338,,4864,,,0
+H4,2014,2014,2014,4,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1322891,,,,1306781,,5808826,,,0
+H4,2014,2014,2014,4,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17090,,,,17090,,24490,,,0
+H4,2014,2014,2014,4,0,3,Re-Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17090,,,,17090,,24490,,,0
+H4,2014,2014,2014,4,0,1,Import,48,Bahrain,BHR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9452,,,,11072,,41968,,,0
+H4,2014,2014,2014,4,0,1,Import,48,Bahrain,BHR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,188543,,,,187639,,573632,,,0
+H4,2014,2014,2014,4,0,1,Import,48,Bahrain,BHR,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18,,,,18,,106,,,0
+H4,2014,2014,2014,4,0,1,Import,48,Bahrain,BHR,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,42,,,,42,,1359,,,0
+H4,2014,2014,2014,4,0,1,Import,48,Bahrain,BHR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,158636,,,,158809,,649481,,,0
+H4,2014,2014,2014,4,0,1,Import,48,Bahrain,BHR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,229228,,,,237477,,1873250,,,0
+H4,2014,2014,2014,4,0,1,Import,48,Bahrain,BHR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2140,,,,2378,,9981,,,0
+H4,2014,2014,2014,4,0,1,Import,48,Bahrain,BHR,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12,,,,12,,546,,,0
+H4,2014,2014,2014,4,0,1,Import,48,Bahrain,BHR,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,333,,,,320,,8307,,,0
+H4,2014,2014,2014,4,0,1,Import,48,Bahrain,BHR,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,405,,,,405,,1907,,,0
+H4,2014,2014,2014,4,0,1,Import,48,Bahrain,BHR,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,210,,,,210,,3849,,,0
+H4,2014,2014,2014,4,0,1,Import,48,Bahrain,BHR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,120124,,,,124453,,865028,,,0
+H4,2014,2014,2014,4,0,1,Import,48,Bahrain,BHR,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,842,,,,842,,5558,,,0
+H4,2014,2014,2014,4,0,1,Import,48,Bahrain,BHR,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9000,,,,9000,,16808,,,0
+H4,2014,2014,2014,4,0,1,Import,48,Bahrain,BHR,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7210,,,,7220,,48501,,,0
+H4,2014,2014,2014,4,0,1,Import,48,Bahrain,BHR,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,27,,,,27,,482,,,0
+H4,2014,2014,2014,4,0,1,Import,48,Bahrain,BHR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7974,,,,8232,,74408,,,0
+H4,2014,2014,2014,4,0,1,Import,48,Bahrain,BHR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,23699,,,,23749,,103947,,,0
+H4,2014,2014,2014,4,0,1,Import,48,Bahrain,BHR,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,300,,,,150,,723,,,0
+H4,2014,2014,2014,4,0,1,Import,48,Bahrain,BHR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,393943,,,,393943,,932956,,,0
+H4,2014,2014,2014,4,0,2,Export,48,Bahrain,BHR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17000,,,,17000,,24149,,,0
+H4,2014,2014,2014,4,0,3,Re-Export,48,Bahrain,BHR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17000,,,,17000,,24149,,,0
+H4,2014,2014,2014,4,0,1,Import,48,Bahrain,BHR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,72679,,,,52471,,305404,,,0
+H4,2014,2014,2014,4,0,1,Import,48,Bahrain,BHR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1594,,,,1604,,10408,,,0
+H4,2014,2014,2014,4,0,1,Import,48,Bahrain,BHR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,96480,,,,86708,,280217,,,0
+H4,2014,2014,2014,4,0,2,Export,48,Bahrain,BHR,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90,,,,90,,341,,,0
+H4,2014,2014,2014,4,0,3,Re-Export,48,Bahrain,BHR,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90,,,,90,,341,,,0
+H3,2010,2010,2010,4,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2488276,,,,2490420,,9425505,,,0
+H3,2010,2010,2010,4,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,45105,,,,45147,,82668,,,0
+H3,2010,2010,2010,4,0,3,Re-Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,45105,,,,45147,,82668,,,0
+H3,2010,2010,2010,4,0,1,Import,48,Bahrain,BHR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15229,,,,15229,,37727,,,0
+H3,2010,2010,2010,4,0,1,Import,48,Bahrain,BHR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,453810,,,,453859,,1169686,,,0
+H3,2010,2010,2010,4,0,1,Import,48,Bahrain,BHR,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,352,,,,352,,1086,,,0
+H3,2010,2010,2010,4,0,1,Import,48,Bahrain,BHR,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1304,,,,1304,,59600,,,0
+H3,2010,2010,2010,4,0,1,Import,48,Bahrain,BHR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,92903,,,,92903,,342815,,,0
+H3,2010,2010,2010,4,0,1,Import,48,Bahrain,BHR,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,34,,,,34,,2276,,,0
+H3,2010,2010,2010,4,0,1,Import,48,Bahrain,BHR,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2925,,,,2925,,17870,,,0
+H3,2010,2010,2010,4,0,1,Import,48,Bahrain,BHR,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3105,,,,3105,,9896,,,0
+H3,2010,2010,2010,4,0,1,Import,48,Bahrain,BHR,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,68,,,,68,,641,,,0
+H3,2010,2010,2010,4,0,1,Import,48,Bahrain,BHR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,596425,,,,597751,,3415614,,,0
+H3,2010,2010,2010,4,0,1,Import,48,Bahrain,BHR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,19163,,,,19163,,113844,,,0
+H3,2010,2010,2010,4,0,1,Import,48,Bahrain,BHR,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,372,,,,372,,6372,,,0
+H3,2010,2010,2010,4,0,1,Import,48,Bahrain,BHR,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,180,,,,180,,617,,,0
+H3,2010,2010,2010,4,0,1,Import,48,Bahrain,BHR,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1872,,,,1872,,19987,,,0
+H3,2010,2010,2010,4,0,1,Import,48,Bahrain,BHR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,208681,,,,208685,,913676,,,0
+H3,2010,2010,2010,4,0,1,Import,48,Bahrain,BHR,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,11591,,,,11591,,62989,,,0
+H3,2010,2010,2010,4,0,1,Import,48,Bahrain,BHR,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,13957,,,,13957,,13393,,,0
+H3,2010,2010,2010,4,0,1,Import,48,Bahrain,BHR,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,17213,,,,17213,,60091,,,0
+H3,2010,2010,2010,4,0,1,Import,48,Bahrain,BHR,470,Malta,MLT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3030,,,,3030,,14348,,,0
+H3,2010,2010,2010,4,0,1,Import,48,Bahrain,BHR,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15649,,,,15649,,76270,,,0
+H3,2010,2010,2010,4,0,1,Import,48,Bahrain,BHR,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,39044,,,,39024,,244835,,,0
+H3,2010,2010,2010,4,0,1,Import,48,Bahrain,BHR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,35042,,,,35042,,193589,,,0
+H3,2010,2010,2010,4,0,1,Import,48,Bahrain,BHR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9711,,,,9746,,35699,,,0
+H3,2010,2010,2010,4,0,1,Import,48,Bahrain,BHR,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1743,,,,1743,,3550,,,0
+H3,2010,2010,2010,4,0,1,Import,48,Bahrain,BHR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,756693,,,,757423,,1449633,,,0
+H3,2010,2010,2010,4,0,1,Import,48,Bahrain,BHR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,34626,,,,34646,,144233,,,0
+H3,2010,2010,2010,4,0,1,Import,48,Bahrain,BHR,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1003,,,,1003,,1885,,,0
+H3,2010,2010,2010,4,0,1,Import,48,Bahrain,BHR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,90172,,,,90172,,525174,,,0
+H3,2010,2010,2010,4,0,2,Export,48,Bahrain,BHR,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,45105,,,,45147,,82668,,,0
+H3,2010,2010,2010,4,0,3,Re-Export,48,Bahrain,BHR,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,45105,,,,45147,,82668,,,0
+H3,2010,2010,2010,4,0,1,Import,48,Bahrain,BHR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,62380,,,,62380,,488106,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2498950,,,,2778313,,11059881,,,0
+H3,2011,2011,2011,4,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,44370,,,,44370,,87500,,,0
+H3,2011,2011,2011,4,0,3,Re-Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,44370,,,,44370,,87500,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,13553,,,,16846,,83417,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,437336,,,,438423,,1295895,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,261,,,,187,,1829,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,312,,,,346,,10207,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,42,,,,42,,511,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,421,,,,421,,3098,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,144,Sri Lanka,LKA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1,,,,5,,24,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,91302,,,,104031,,472456,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,480,,,,640,,2442,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,17248,,,,17248,,21508,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,270,,,,270,,1476,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,520764,,,,587097,,3931298,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,64801,,,,70292,,215230,,,0
+H3,2011,2011,2011,4,0,2,Export,48,Bahrain,BHR,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,400,,,,400,,6176,,,0
+H3,2011,2011,2011,4,0,3,Re-Export,48,Bahrain,BHR,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,400,,,,400,,6176,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,180,,,,243,,581,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3552,,,,3552,,41633,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,213465,,,,294563,,1209215,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8790,,,,11818,,55386,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,14400,,,,21069,,25100,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,17687,,,,19468,,94920,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,22515,,,,24534,,151844,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,498,Rep. of Moldova,MDA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,420,,,,438,,1881,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,29140,,,,30036,,179438,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,37253,,,,43225,,258061,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,14614,,,,16410,,69818,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,105,,,,126,,388,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,90,,,,90,,798,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2990,,,,2990,,10808,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,704,Viet Nam,VNM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,148,,,,148,,633,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,655713,,,,715481,,1515725,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,104811,,,,115778,,526078,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1,,,,12,,80,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1037,,,,1387,,4446,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,105021,,,,113583,,330602,,,0
+H3,2011,2011,2011,4,0,1,Import,48,Bahrain,BHR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,120230,,,,127516,,543052,,,0
+H3,2011,2011,2011,4,0,2,Export,48,Bahrain,BHR,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,43970,,,,43970,,81324,,,0
+H3,2011,2011,2011,4,0,3,Re-Export,48,Bahrain,BHR,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,43970,,,,43970,,81324,,,0
+H3,2012,2012,2012,4,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2114673,,,,2664612,,6337684,,,0
+H3,2012,2012,2012,4,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15473,,,,15473,,28949,,,0
+H3,2012,2012,2012,4,0,3,Re-Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15473,,,,15473,,28949,,,0
+H3,2012,2012,2012,4,0,1,Import,48,Bahrain,BHR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4703,,,,16677,,25606,,,0
+H3,2012,2012,2012,4,0,1,Import,48,Bahrain,BHR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,237786,,,,456809,,843690,,,0
+H3,2012,2012,2012,4,0,1,Import,48,Bahrain,BHR,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,385,,,,385,,1309,,,0
+H3,2012,2012,2012,4,0,1,Import,48,Bahrain,BHR,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,222,,,,218,,4646,,,0
+H3,2012,2012,2012,4,0,1,Import,48,Bahrain,BHR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,85378,,,,127664,,348603,,,0
+H3,2012,2012,2012,4,0,2,Export,48,Bahrain,BHR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,82,,,,82,,218,,,0
+H3,2012,2012,2012,4,0,3,Re-Export,48,Bahrain,BHR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,82,,,,82,,218,,,0
+H3,2012,2012,2012,4,0,1,Import,48,Bahrain,BHR,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,600,,,,600,,1372,,,0
+H3,2012,2012,2012,4,0,1,Import,48,Bahrain,BHR,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,765,,,,765,,4912,,,0
+H3,2012,2012,2012,4,0,1,Import,48,Bahrain,BHR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,715814,,,,607544,,2099560,,,0
+H3,2012,2012,2012,4,0,1,Import,48,Bahrain,BHR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12674,,,,33078,,64979,,,0
+H3,2012,2012,2012,4,0,1,Import,48,Bahrain,BHR,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7770,,,,7770,,21141,,,0
+H3,2012,2012,2012,4,0,1,Import,48,Bahrain,BHR,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,615,,,,1923,,2394,,,0
+H3,2012,2012,2012,4,0,1,Import,48,Bahrain,BHR,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1386,,,,1386,,15705,,,0
+H3,2012,2012,2012,4,0,1,Import,48,Bahrain,BHR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,168496,,,,245609,,702709,,,0
+H3,2012,2012,2012,4,0,1,Import,48,Bahrain,BHR,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9675,,,,18025,,62585,,,0
+H3,2012,2012,2012,4,0,1,Import,48,Bahrain,BHR,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9452,,,,19771,,55284,,,0
+H3,2012,2012,2012,4,0,1,Import,48,Bahrain,BHR,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8271,,,,22212,,64191,,,0
+H3,2012,2012,2012,4,0,1,Import,48,Bahrain,BHR,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8655,,,,14534,,45933,,,0
+H3,2012,2012,2012,4,0,1,Import,48,Bahrain,BHR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,14655,,,,26826,,110614,,,0
+H3,2012,2012,2012,4,0,1,Import,48,Bahrain,BHR,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18,,,,35,,1614,,,0
+H3,2012,2012,2012,4,0,1,Import,48,Bahrain,BHR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12429,,,,12429,,29457,,,0
+H3,2012,2012,2012,4,0,1,Import,48,Bahrain,BHR,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1518,,,,1518,,694,,,0
+H3,2012,2012,2012,4,0,1,Import,48,Bahrain,BHR,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8,,,,10,,64,,,0
+H3,2012,2012,2012,4,0,1,Import,48,Bahrain,BHR,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1637,,,,1798,,5380,,,0
+H3,2012,2012,2012,4,0,1,Import,48,Bahrain,BHR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,589339,,,,751038,,1066288,,,0
+H3,2012,2012,2012,4,0,1,Import,48,Bahrain,BHR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,72180,,,,94548,,279843,,,0
+H3,2012,2012,2012,4,0,1,Import,48,Bahrain,BHR,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,168,,,,168,,1218,,,0
+H3,2012,2012,2012,4,0,1,Import,48,Bahrain,BHR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,79099,,,,126454,,169662,,,0
+H3,2012,2012,2012,4,0,1,Import,48,Bahrain,BHR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,70975,,,,74818,,308228,,,0
+H3,2012,2012,2012,4,0,2,Export,48,Bahrain,BHR,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15391,,,,15391,,28731,,,0
+H3,2012,2012,2012,4,0,3,Re-Export,48,Bahrain,BHR,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15391,,,,15391,,28731,,,0
+H5,2017,2017,2017,4,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2916114,,,,1457775,,5298655,,,0
+H5,2017,2017,2017,4,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15381,,,,15380,,76929,,,0
+H5,2017,2017,2017,4,0,3,Re-Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15381,,,,15380,,76929,,,0
+H5,2017,2017,2017,4,0,1,Import,48,Bahrain,BHR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18324,,,,26518,,77440,,,0
+H5,2017,2017,2017,4,0,1,Import,48,Bahrain,BHR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,223755,,,,243532,,494904,,,0
+H5,2017,2017,2017,4,0,1,Import,48,Bahrain,BHR,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9,,,,9,,73,,,0
+H5,2017,2017,2017,4,0,1,Import,48,Bahrain,BHR,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19,,,,33,,1119,,,0
+H5,2017,2017,2017,4,0,1,Import,48,Bahrain,BHR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,67213,,,,74618,,282671,,,0
+H5,2017,2017,2017,4,0,1,Import,48,Bahrain,BHR,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4517,,,,8010,,12051,,,0
+H5,2017,2017,2017,4,0,1,Import,48,Bahrain,BHR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1906295,,,,269245,,1757408,,,0
+H5,2017,2017,2017,4,0,2,Export,48,Bahrain,BHR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3330,,,,3330,,13147,,,0
+H5,2017,2017,2017,4,0,3,Re-Export,48,Bahrain,BHR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3330,,,,3330,,13147,,,0
+H5,2017,2017,2017,4,0,1,Import,48,Bahrain,BHR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,333,,,,343,,2649,,,0
+H5,2017,2017,2017,4,0,1,Import,48,Bahrain,BHR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,105157,,,,132608,,569467,,,0
+H5,2017,2017,2017,4,0,1,Import,48,Bahrain,BHR,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,869,,,,870,,5642,,,0
+H5,2017,2017,2017,4,0,1,Import,48,Bahrain,BHR,400,Jordan,JOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,60,,,,90,,547,,,0
+H5,2017,2017,2017,4,0,1,Import,48,Bahrain,BHR,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5607,,,,5769,,44242,,,0
+H5,2017,2017,2017,4,0,1,Import,48,Bahrain,BHR,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,108,,,,108,,2963,,,0
+H5,2017,2017,2017,4,0,1,Import,48,Bahrain,BHR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5939,,,,6736,,71011,,,0
+H5,2017,2017,2017,4,0,1,Import,48,Bahrain,BHR,604,Peru,PER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,135,,,,135,,1473,,,0
+H5,2017,2017,2017,4,0,1,Import,48,Bahrain,BHR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18007,,,,21079,,103020,,,0
+H5,2017,2017,2017,4,0,1,Import,48,Bahrain,BHR,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,180,,,,180,,956,,,0
+H5,2017,2017,2017,4,0,1,Import,48,Bahrain,BHR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,273498,,,,286456,,606390,,,0
+H5,2017,2017,2017,4,0,1,Import,48,Bahrain,BHR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,44328,,,,55413,,233051,,,0
+H5,2017,2017,2017,4,0,1,Import,48,Bahrain,BHR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7409,,,,8010,,39050,,,0
+H5,2017,2017,2017,4,0,2,Export,48,Bahrain,BHR,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,972,,,,971,,3257,,,0
+H5,2017,2017,2017,4,0,3,Re-Export,48,Bahrain,BHR,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,972,,,,971,,3257,,,0
+H5,2017,2017,2017,4,0,2,Export,48,Bahrain,BHR,838,Free Zones,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11079,,,,11079,,60524,,,0
+H5,2017,2017,2017,4,0,3,Re-Export,48,Bahrain,BHR,838,Free Zones,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11079,,,,11079,,60524,,,0
+H5,2017,2017,2017,4,0,1,Import,48,Bahrain,BHR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,234169,,,,317829,,990847,,,0
+H5,2017,2017,2017,4,0,1,Import,48,Bahrain,BHR,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,180,,,,180,,1670,,,0
+H5,2018,2018,2018,4,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1324177,,,,1549363,,5349886,,,0
+H5,2018,2018,2018,4,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13233,,,,13276,,67906,,,0
+H5,2018,2018,2018,4,0,3,Re-Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13233,,,,13276,,67906,,,0
+H5,2018,2018,2018,4,0,1,Import,48,Bahrain,BHR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,26972,,,,32331,,98091,,,0
+H5,2018,2018,2018,4,0,1,Import,48,Bahrain,BHR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,206752,,,,225195,,475457,,,0
+H5,2018,2018,2018,4,0,1,Import,48,Bahrain,BHR,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,252,,,,273,,1797,,,0
+H5,2018,2018,2018,4,0,1,Import,48,Bahrain,BHR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,91865,,,,122734,,370016,,,0
+H5,2018,2018,2018,4,0,1,Import,48,Bahrain,BHR,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,28,,,,28,,376,,,0
+H5,2018,2018,2018,4,0,1,Import,48,Bahrain,BHR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,205833,,,,277696,,1740712,,,0
+H5,2018,2018,2018,4,0,1,Import,48,Bahrain,BHR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2851,,,,2860,,7724,,,0
+H5,2018,2018,2018,4,0,1,Import,48,Bahrain,BHR,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,225,,,,225,,2452,,,0
+H5,2018,2018,2018,4,0,1,Import,48,Bahrain,BHR,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,89,,,,89,,4128,,,0
+H5,2018,2018,2018,4,0,2,Export,48,Bahrain,BHR,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,632,,,,672,,4927,,,0
+H5,2018,2018,2018,4,0,3,Re-Export,48,Bahrain,BHR,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,632,,,,672,,4927,,,0
+H5,2018,2018,2018,4,0,1,Import,48,Bahrain,BHR,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,48,,,,50,,2721,,,0
+H5,2018,2018,2018,4,0,1,Import,48,Bahrain,BHR,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,216,,,,216,,8901,,,0
+H5,2018,2018,2018,4,0,1,Import,48,Bahrain,BHR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,115241,,,,124240,,592964,,,0
+H5,2018,2018,2018,4,0,1,Import,48,Bahrain,BHR,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,918,,,,1016,,5597,,,0
+H5,2018,2018,2018,4,0,1,Import,48,Bahrain,BHR,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5130,,,,6584,,38073,,,0
+H5,2018,2018,2018,4,0,1,Import,48,Bahrain,BHR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17157,,,,8692,,81883,,,0
+H5,2018,2018,2018,4,0,1,Import,48,Bahrain,BHR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19504,,,,20501,,95265,,,0
+H5,2018,2018,2018,4,0,2,Export,48,Bahrain,BHR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6,,,,8,,79,,,0
+H5,2018,2018,2018,4,0,3,Re-Export,48,Bahrain,BHR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6,,,,8,,79,,,0
+H5,2018,2018,2018,4,0,1,Import,48,Bahrain,BHR,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,362,,,,390,,2151,,,0
+H5,2018,2018,2018,4,0,1,Import,48,Bahrain,BHR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,423726,,,,475860,,937122,,,0
+H5,2018,2018,2018,4,0,1,Import,48,Bahrain,BHR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,43507,,,,54419,,230204,,,0
+H5,2018,2018,2018,4,0,2,Export,48,Bahrain,BHR,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1328,,,,1328,,3468,,,0
+H5,2018,2018,2018,4,0,3,Re-Export,48,Bahrain,BHR,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1328,,,,1328,,3468,,,0
+H5,2018,2018,2018,4,0,1,Import,48,Bahrain,BHR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8961,,,,11358,,52126,,,0
+H5,2018,2018,2018,4,0,2,Export,48,Bahrain,BHR,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,477,,,,477,,1408,,,0
+H5,2018,2018,2018,4,0,3,Re-Export,48,Bahrain,BHR,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,477,,,,477,,1408,,,0
+H5,2018,2018,2018,4,0,2,Export,48,Bahrain,BHR,838,Free Zones,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10790,,,,10790,,58022,,,0
+H5,2018,2018,2018,4,0,3,Re-Export,48,Bahrain,BHR,838,Free Zones,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10790,,,,10790,,58022,,,0
+H5,2018,2018,2018,4,0,1,Import,48,Bahrain,BHR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,154535,,,,184598,,602117,,,0
+H5,2019,2019,2019,4,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1322721,,,,1765188,,6238701,,,0
+H5,2019,2019,2019,4,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,81994,,,,133801,,726141,,,0
+H5,2019,2019,2019,4,0,1,Import,48,Bahrain,BHR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18313,,,,25125,,87689,,,0
+H5,2019,2019,2019,4,0,1,Import,48,Bahrain,BHR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,222600,,,,269118,,572078,,,0
+H5,2019,2019,2019,4,0,1,Import,48,Bahrain,BHR,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,542,,,,641,,8889,,,0
+H5,2019,2019,2019,4,0,2,Export,48,Bahrain,BHR,144,Sri Lanka,LKA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7430,,,,7430,,16432,,,0
+H5,2019,2019,2019,4,0,1,Import,48,Bahrain,BHR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,92336,,,,126436,,378786,,,0
+H5,2019,2019,2019,4,0,2,Export,48,Bahrain,BHR,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,40,,,,40,,150,,,0
+H5,2019,2019,2019,4,0,1,Import,48,Bahrain,BHR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,206727,,,,338623,,2168827,,,0
+H5,2019,2019,2019,4,0,1,Import,48,Bahrain,BHR,268,Georgia,GEO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4330,,,,4553,,21182,,,0
+H5,2019,2019,2019,4,0,1,Import,48,Bahrain,BHR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1782,,,,2168,,9718,,,0
+H5,2019,2019,2019,4,0,1,Import,48,Bahrain,BHR,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,0,,,,277,,435,,,0
+H5,2019,2019,2019,4,0,1,Import,48,Bahrain,BHR,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,180,,,,189,,506,,,0
+H5,2019,2019,2019,4,0,1,Import,48,Bahrain,BHR,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16,,,,24,,620,,,0
+H5,2019,2019,2019,4,0,1,Import,48,Bahrain,BHR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,137508,,,,215914,,755631,,,0
+H5,2019,2019,2019,4,0,1,Import,48,Bahrain,BHR,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4449,,,,7270,,24950,,,0
+H5,2019,2019,2019,4,0,1,Import,48,Bahrain,BHR,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25950,,,,38196,,108629,,,0
+H5,2019,2019,2019,4,0,1,Import,48,Bahrain,BHR,470,Malta,MLT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6,,,,4,,26,,,0
+H5,2019,2019,2019,4,0,1,Import,48,Bahrain,BHR,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1071,,,,1924,,8376,,,0
+H5,2019,2019,2019,4,0,1,Import,48,Bahrain,BHR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12022,,,,18607,,107958,,,0
+H5,2019,2019,2019,4,0,1,Import,48,Bahrain,BHR,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9,,,,10,,41,,,0
+H5,2019,2019,2019,4,0,1,Import,48,Bahrain,BHR,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,594,,,,940,,3205,,,0
+H5,2019,2019,2019,4,0,1,Import,48,Bahrain,BHR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,21445,,,,24861,,104733,,,0
+H5,2019,2019,2019,4,0,1,Import,48,Bahrain,BHR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,375360,,,,467352,,848621,,,0
+H5,2019,2019,2019,4,0,1,Import,48,Bahrain,BHR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,55098,,,,64984,,279387,,,0
+H5,2019,2019,2019,4,0,1,Import,48,Bahrain,BHR,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1247,,,,1247,,9508,,,0
+H5,2019,2019,2019,4,0,1,Import,48,Bahrain,BHR,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2,,,,5,,50,,,0
+H5,2019,2019,2019,4,0,1,Import,48,Bahrain,BHR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15650,,,,15754,,75034,,,0
+H5,2019,2019,2019,4,0,2,Export,48,Bahrain,BHR,838,Free Zones,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,74524,,,,126331,,709559,,,0
+H5,2019,2019,2019,4,0,1,Import,48,Bahrain,BHR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,125477,,,,140959,,663809,,,0
+H4,2015,2015,2015,4,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1472138,,,,1301464,,6222589,,,0
+H4,2015,2015,2015,4,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2301,,,,2424,,9736,,,0
+H4,2015,2015,2015,4,0,3,Re-Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2301,,,,2424,,9736,,,0
+H4,2015,2015,2015,4,0,1,Import,48,Bahrain,BHR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5537,,,,5847,,38597,,,0
+H4,2015,2015,2015,4,0,1,Import,48,Bahrain,BHR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,160059,,,,162775,,465021,,,0
+H4,2015,2015,2015,4,0,1,Import,48,Bahrain,BHR,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14,,,,19,,484,,,0
+H4,2015,2015,2015,4,0,1,Import,48,Bahrain,BHR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,140558,,,,141194,,623220,,,0
+H4,2015,2015,2015,4,0,1,Import,48,Bahrain,BHR,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,98705,,,,13600,,22387,,,0
+H4,2015,2015,2015,4,0,1,Import,48,Bahrain,BHR,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,5,,268,,,0
+H4,2015,2015,2015,4,0,1,Import,48,Bahrain,BHR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,279995,,,,298691,,2290927,,,0
+H4,2015,2015,2015,4,0,1,Import,48,Bahrain,BHR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3937,,,,3937,,10510,,,0
+H4,2015,2015,2015,4,0,2,Export,48,Bahrain,BHR,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,282,,,,310,,2195,,,0
+H4,2015,2015,2015,4,0,3,Re-Export,48,Bahrain,BHR,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,282,,,,310,,2195,,,0
+H4,2015,2015,2015,4,0,1,Import,48,Bahrain,BHR,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,585,,,,585,,2409,,,0
+H4,2015,2015,2015,4,0,1,Import,48,Bahrain,BHR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,158333,,,,158988,,864479,,,0
+H4,2015,2015,2015,4,0,1,Import,48,Bahrain,BHR,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,594,,,,594,,3695,,,0
+H4,2015,2015,2015,4,0,1,Import,48,Bahrain,BHR,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5994,,,,6081,,46520,,,0
+H4,2015,2015,2015,4,0,1,Import,48,Bahrain,BHR,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,432,,,,432,,2710,,,0
+H4,2015,2015,2015,4,0,1,Import,48,Bahrain,BHR,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,72,,,,72,,435,,,0
+H4,2015,2015,2015,4,0,1,Import,48,Bahrain,BHR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12538,,,,12546,,123335,,,0
+H4,2015,2015,2015,4,0,1,Import,48,Bahrain,BHR,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,405,,,,450,,3828,,,0
+H4,2015,2015,2015,4,0,1,Import,48,Bahrain,BHR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13935,,,,14185,,70608,,,0
+H4,2015,2015,2015,4,0,1,Import,48,Bahrain,BHR,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45,,,,45,,166,,,0
+H4,2015,2015,2015,4,0,1,Import,48,Bahrain,BHR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,383457,,,,384765,,959237,,,0
+H4,2015,2015,2015,4,0,1,Import,48,Bahrain,BHR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,52923,,,,49459,,282362,,,0
+H4,2015,2015,2015,4,0,2,Export,48,Bahrain,BHR,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1984,,,,1984,,4401,,,0
+H4,2015,2015,2015,4,0,3,Re-Export,48,Bahrain,BHR,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1984,,,,1984,,4401,,,0
+H4,2015,2015,2015,4,0,1,Import,48,Bahrain,BHR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,106306,,,,6448,,67059,,,0
+H4,2015,2015,2015,4,0,2,Export,48,Bahrain,BHR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20,,,,40,,1581,,,0
+H4,2015,2015,2015,4,0,3,Re-Export,48,Bahrain,BHR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20,,,,40,,1581,,,0
+H4,2015,2015,2015,4,0,1,Import,48,Bahrain,BHR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,47709,,,,40739,,344321,,,0
+H4,2015,2015,2015,4,0,2,Export,48,Bahrain,BHR,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15,,,,90,,1558,,,0
+H4,2015,2015,2015,4,0,3,Re-Export,48,Bahrain,BHR,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15,,,,90,,1558,,,0
+H4,2016,2016,2016,4,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1201117,,,,1204463,,5156376,,,0
+H4,2016,2016,2016,4,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3276,,,,3276,,14642,,,0
+H4,2016,2016,2016,4,0,3,Re-Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3276,,,,3276,,14642,,,0
+H4,2016,2016,2016,4,0,1,Import,48,Bahrain,BHR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14178,,,,14212,,63161,,,0
+H4,2016,2016,2016,4,0,1,Import,48,Bahrain,BHR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,193337,,,,193682,,445361,,,0
+H4,2016,2016,2016,4,0,1,Import,48,Bahrain,BHR,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1200,,,,1200,,9522,,,0
+H4,2016,2016,2016,4,0,1,Import,48,Bahrain,BHR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,71908,,,,73675,,314670,,,0
+H4,2016,2016,2016,4,0,1,Import,48,Bahrain,BHR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,185330,,,,183505,,1410365,,,0
+H4,2016,2016,2016,4,0,1,Import,48,Bahrain,BHR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1685,,,,1685,,7281,,,0
+H4,2016,2016,2016,4,0,1,Import,48,Bahrain,BHR,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,438,,,,438,,2940,,,0
+H4,2016,2016,2016,4,0,1,Import,48,Bahrain,BHR,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,1,,26,,,0
+H4,2016,2016,2016,4,0,1,Import,48,Bahrain,BHR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,89609,,,,91789,,493180,,,0
+H4,2016,2016,2016,4,0,1,Import,48,Bahrain,BHR,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4968,,,,4968,,28098,,,0
+H4,2016,2016,2016,4,0,1,Import,48,Bahrain,BHR,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3510,,,,3510,,26285,,,0
+H4,2016,2016,2016,4,0,1,Import,48,Bahrain,BHR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6534,,,,6624,,76447,,,0
+H4,2016,2016,2016,4,0,1,Import,48,Bahrain,BHR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19221,,,,19847,,82714,,,0
+H4,2016,2016,2016,4,0,1,Import,48,Bahrain,BHR,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,540,,,,567,,1471,,,0
+H4,2016,2016,2016,4,0,1,Import,48,Bahrain,BHR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,337693,,,,337005,,835538,,,0
+H4,2016,2016,2016,4,0,1,Import,48,Bahrain,BHR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,69258,,,,68825,,209033,,,0
+H4,2016,2016,2016,4,0,1,Import,48,Bahrain,BHR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8430,,,,8547,,68162,,,0
+H4,2016,2016,2016,4,0,1,Import,48,Bahrain,BHR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,193273,,,,194378,,1082114,,,0
+H4,2016,2016,2016,4,0,2,Export,48,Bahrain,BHR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3276,,,,3276,,14642,,,0
+H4,2016,2016,2016,4,0,3,Re-Export,48,Bahrain,BHR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3276,,,,3276,,14642,,,0

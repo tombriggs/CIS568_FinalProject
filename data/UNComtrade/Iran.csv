@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2005,2005,2005,4,0,2,Export,364,Iran,IRN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,41194,,,,41194,,78198,,,6
+H2,2005,2005,2005,4,0,2,Export,364,Iran,IRN,31,Azerbaijan,AZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21394,,,,21394,,74238,,,6
+H2,2005,2005,2005,4,0,2,Export,364,Iran,IRN,586,Pakistan,PAK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19800,,,,19800,,3960,,,6
+H2,2006,2006,2006,4,0,2,Export,364,Iran,IRN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,72720,,,,72720,,48046,,,2
+H2,2006,2006,2006,4,0,2,Export,364,Iran,IRN,368,Iraq,IRQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,35700,,,,35700,,26998,,,2
+H2,2006,2006,2006,4,0,2,Export,364,Iran,IRN,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36540,,,,36540,,20208,,,2
+H2,2006,2006,2006,4,0,2,Export,364,Iran,IRN,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,480,,,,480,,840,,,2
+H4,2014,2014,2014,4,0,2,Export,364,Iran,IRN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3594,,,,3594,,18317,,,2
+H4,2014,2014,2014,4,0,2,Export,364,Iran,IRN,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,396,,,,396,,713,,,2
+H4,2014,2014,2014,4,0,2,Export,364,Iran,IRN,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3198,,,,3198,,17604,,,2

@@ -1,0 +1,860 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2002,2002,2002,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4045126,,,,6461529,,10136746,,,2
+H2,2002,2002,2002,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,39334,,,,65653,,136667,,,0
+H2,2002,2002,2002,4,0,1,Import,604,Peru,PER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,694450,,,,1253348,,1740403,,,2
+H2,2002,2002,2002,4,0,1,Import,604,Peru,PER,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3039,,,,1918,,4645,,,2
+H2,2002,2002,2002,4,0,1,Import,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1739052,,,,3243015,,4316551,,,2
+H2,2002,2002,2002,4,0,1,Import,604,Peru,PER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3662,,,,758,,3613,,,2
+H2,2002,2002,2002,4,0,2,Export,604,Peru,PER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,144,,,,231,,892,,,0
+H2,2002,2002,2002,4,0,2,Export,604,Peru,PER,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,252,,,,420,,833,,,0
+H2,2002,2002,2002,4,0,2,Export,604,Peru,PER,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,55,,,,55,,201,,,0
+H2,2002,2002,2002,4,0,2,Export,604,Peru,PER,222,El Salvador,SLV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,135,,,,135,,495,,,0
+H2,2002,2002,2002,4,0,1,Import,604,Peru,PER,232,Eritrea,ERI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2498,,,,1713,,6468,,,2
+H2,2002,2002,2002,4,0,1,Import,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,148617,,,,300761,,453802,,,2
+H2,2002,2002,2002,4,0,2,Export,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3600,,,,5640,,16856,,,0
+H2,2002,2002,2002,4,0,1,Import,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,126622,,,,217730,,333488,,,2
+H2,2002,2002,2002,4,0,2,Export,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27,,,,31,,35,,,0
+H2,2002,2002,2002,4,0,1,Import,604,Peru,PER,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6598,,,,9527,,20548,,,2
+H2,2002,2002,2002,4,0,1,Import,604,Peru,PER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,249883,,,,318278,,713317,,,2
+H2,2002,2002,2002,4,0,2,Export,604,Peru,PER,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1800,,,,3000,,7684,,,0
+H2,2002,2002,2002,4,0,2,Export,604,Peru,PER,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,384,,,,384,,751,,,0
+H2,2002,2002,2002,4,0,1,Import,604,Peru,PER,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,898,,,,360,,2326,,,2
+H2,2002,2002,2002,4,0,2,Export,604,Peru,PER,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,162,,,,252,,956,,,0
+H2,2002,2002,2002,4,0,1,Import,604,Peru,PER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,624,,,,95,,1381,,,2
+H2,2002,2002,2002,4,0,1,Import,604,Peru,PER,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,296,,,,112,,767,,,2
+H2,2002,2002,2002,4,0,1,Import,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,824894,,,,737195,,2123828,,,2
+H2,2002,2002,2002,4,0,1,Import,604,Peru,PER,748,Eswatini,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4847,,,,7284,,12550,,,2
+H2,2002,2002,2002,4,0,1,Import,604,Peru,PER,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1809,,,,990,,4685,,,2
+H2,2002,2002,2002,4,0,2,Export,604,Peru,PER,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16,,,,16,,61,,,0
+H2,2002,2002,2002,4,0,1,Import,604,Peru,PER,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1321,,,,438,,3421,,,2
+H2,2002,2002,2002,4,0,1,Import,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,175368,,,,293081,,333212,,,2
+H2,2002,2002,2002,4,0,2,Export,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,32760,,,,55490,,107903,,,0
+H2,2002,2002,2002,4,0,1,Import,604,Peru,PER,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,56953,,,,68900,,52177,,,2
+H2,2002,2002,2002,4,0,1,Import,604,Peru,PER,862,Venezuela,VEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3694,,,,6026,,9564,,,2
+H2,2003,2003,2003,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3755128,,,,6079297,,10673696,,,2
+H2,2003,2003,2003,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36302,,,,49484,,134162,,,0
+H2,2003,2003,2003,4,0,1,Import,604,Peru,PER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,845744,,,,1536880,,2362736,,,2
+H2,2003,2003,2003,4,0,2,Export,604,Peru,PER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,73,,,,73,,367,,,0
+H2,2003,2003,2003,4,0,1,Import,604,Peru,PER,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18748,,,,12122,,51998,,,2
+H2,2003,2003,2003,4,0,1,Import,604,Peru,PER,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,903,,,,2930,,2628,,,2
+H2,2003,2003,2003,4,0,2,Export,604,Peru,PER,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45,,,,15,,36,,,0
+H2,2003,2003,2003,4,0,1,Import,604,Peru,PER,68,Bolivia (Plurinational State of),BOL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14350,,,,21900,,41783,,,2
+H2,2003,2003,2003,4,0,2,Export,604,Peru,PER,68,Bolivia (Plurinational State of),BOL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,246,,,,659,,2829,,,0
+H2,2003,2003,2003,4,0,2,Export,604,Peru,PER,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,81,,,,79,,431,,,0
+H2,2003,2003,2003,4,0,1,Import,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1572395,,,,3043998,,4480768,,,2
+H2,2003,2003,2003,4,0,2,Export,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,300,,,,511,,2680,,,0
+H2,2003,2003,2003,4,0,1,Import,604,Peru,PER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1988,,,,2237,,2995,,,2
+H2,2003,2003,2003,4,0,2,Export,604,Peru,PER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,216,,,,210,,1124,,,0
+H2,2003,2003,2003,4,0,2,Export,604,Peru,PER,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,333,,,,324,,1525,,,0
+H2,2003,2003,2003,4,0,2,Export,604,Peru,PER,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,471,,,,471,,1216,,,0
+H2,2003,2003,2003,4,0,2,Export,604,Peru,PER,222,El Salvador,SLV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,90,,,,88,,722,,,0
+H2,2003,2003,2003,4,0,1,Import,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,150427,,,,205486,,508831,,,2
+H2,2003,2003,2003,4,0,1,Import,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,81342,,,,166498,,239229,,,2
+H2,2003,2003,2003,4,0,2,Export,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,68,,,,68,,428,,,0
+H2,2003,2003,2003,4,0,2,Export,604,Peru,PER,360,Indonesia,IDN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,225,,,,219,,1476,,,0
+H2,2003,2003,2003,4,0,1,Import,604,Peru,PER,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,37,,,,36,,107,,,2
+H2,2003,2003,2003,4,0,2,Export,604,Peru,PER,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,99,,,,96,,612,,,0
+H2,2003,2003,2003,4,0,1,Import,604,Peru,PER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,166705,,,,253152,,547447,,,2
+H2,2003,2003,2003,4,0,2,Export,604,Peru,PER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45,,,,159,,135,,,0
+H2,2003,2003,2003,4,0,2,Export,604,Peru,PER,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1997,,,,1935,,8995,,,0
+H2,2003,2003,2003,4,0,2,Export,604,Peru,PER,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,126,,,,123,,691,,,0
+H2,2003,2003,2003,4,0,1,Import,604,Peru,PER,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,275,,,,93,,800,,,2
+H2,2003,2003,2003,4,0,2,Export,604,Peru,PER,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,108,,,,105,,717,,,0
+H2,2003,2003,2003,4,0,1,Import,604,Peru,PER,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1087,,,,495,,3164,,,2
+H2,2003,2003,2003,4,0,2,Export,604,Peru,PER,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,558,,,,543,,3103,,,0
+H2,2003,2003,2003,4,0,2,Export,604,Peru,PER,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,81,,,,144,,511,,,0
+H2,2003,2003,2003,4,0,2,Export,604,Peru,PER,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,1,,,0
+H2,2003,2003,2003,4,0,2,Export,604,Peru,PER,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,522,,,,505,,2863,,,0
+H2,2003,2003,2003,4,0,2,Export,604,Peru,PER,600,Paraguay,PRY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,54,,,,54,,304,,,0
+H2,2003,2003,2003,4,0,1,Import,604,Peru,PER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,531,,,,234,,1546,,,2
+H2,2003,2003,2003,4,0,1,Import,604,Peru,PER,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4298,,,,5347,,12514,,,2
+H2,2003,2003,2003,4,0,2,Export,604,Peru,PER,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,81,,,,78,,690,,,0
+H2,2003,2003,2003,4,0,1,Import,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,743603,,,,625321,,2124381,,,2
+H2,2003,2003,2003,4,0,2,Export,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45,,,,45,,175,,,0
+H2,2003,2003,2003,4,0,1,Import,604,Peru,PER,748,Eswatini,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5158,,,,8709,,15018,,,2
+H2,2003,2003,2003,4,0,2,Export,604,Peru,PER,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,315,,,,518,,1656,,,0
+H2,2003,2003,2003,4,0,1,Import,604,Peru,PER,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6731,,,,7882,,19067,,,2
+H2,2003,2003,2003,4,0,2,Export,604,Peru,PER,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,125,,266,,,0
+H2,2003,2003,2003,4,0,1,Import,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,124345,,,,162085,,240073,,,2
+H2,2003,2003,2003,4,0,2,Export,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,29819,,,,41848,,99463,,,0
+H2,2003,2003,2003,4,0,1,Import,604,Peru,PER,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16462,,,,23892,,18611,,,2
+H2,2003,2003,2003,4,0,2,Export,604,Peru,PER,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,288,,,,480,,1148,,,0
+H2,2004,2004,2004,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5499137,,,,6292277,,11817844,,,0
+H2,2004,2004,2004,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,59068,,,,86303,,189592,,,0
+H2,2004,2004,2004,4,0,1,Import,604,Peru,PER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1421801,,,,1593438,,3137785,,,0
+H2,2004,2004,2004,4,0,1,Import,604,Peru,PER,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10435,,,,16293,,53035,,,0
+H2,2004,2004,2004,4,0,2,Export,604,Peru,PER,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,279,,,,495,,828,,,0
+H2,2004,2004,2004,4,0,1,Import,604,Peru,PER,68,Bolivia (Plurinational State of),BOL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,25200,,,,41940,,48195,,,0
+H2,2004,2004,2004,4,0,2,Export,604,Peru,PER,68,Bolivia (Plurinational State of),BOL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,324,,,,315,,1658,,,0
+H2,2004,2004,2004,4,0,1,Import,604,Peru,PER,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3,,,,3,,98,,,0
+H2,2004,2004,2004,4,0,2,Export,604,Peru,PER,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,419,,,,417,,2557,,,0
+H2,2004,2004,2004,4,0,2,Export,604,Peru,PER,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,461,,,,603,,3688,,,0
+H2,2004,2004,2004,4,0,1,Import,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3033431,,,,3332837,,4906525,,,0
+H2,2004,2004,2004,4,0,2,Export,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,54,,,,53,,421,,,0
+H2,2004,2004,2004,4,0,1,Import,604,Peru,PER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3042,,,,3604,,4526,,,0
+H2,2004,2004,2004,4,0,2,Export,604,Peru,PER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,224,,,,389,,2050,,,0
+H2,2004,2004,2004,4,0,2,Export,604,Peru,PER,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,504,,,,490,,2586,,,0
+H2,2004,2004,2004,4,0,2,Export,604,Peru,PER,222,El Salvador,SLV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,99,,,,129,,485,,,0
+H2,2004,2004,2004,4,0,1,Import,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,85750,,,,123887,,398975,,,0
+H2,2004,2004,2004,4,0,2,Export,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3276,,,,3639,,15199,,,0
+H2,2004,2004,2004,4,0,1,Import,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,78035,,,,94081,,191067,,,0
+H2,2004,2004,2004,4,0,1,Import,604,Peru,PER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,162357,,,,247068,,530500,,,0
+H2,2004,2004,2004,4,0,1,Import,604,Peru,PER,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,2,,47,,,0
+H2,2004,2004,2004,4,0,1,Import,604,Peru,PER,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1050,,,,1050,,3671,,,0
+H2,2004,2004,2004,4,0,2,Export,604,Peru,PER,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,144,,,,140,,794,,,0
+H2,2004,2004,2004,4,0,2,Export,604,Peru,PER,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,72,,,,68,,473,,,0
+H2,2004,2004,2004,4,0,2,Export,604,Peru,PER,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,531,,,,518,,2272,,,0
+H2,2004,2004,2004,4,0,1,Import,604,Peru,PER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1998,,,,2026,,11491,,,0
+H2,2004,2004,2004,4,0,1,Import,604,Peru,PER,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5400,,,,5400,,12684,,,0
+H2,2004,2004,2004,4,0,2,Export,604,Peru,PER,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27,,,,26,,214,,,0
+H2,2004,2004,2004,4,0,1,Import,604,Peru,PER,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10746,,,,10699,,41282,,,0
+H2,2004,2004,2004,4,0,1,Import,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,480486,,,,609852,,2160075,,,0
+H2,2004,2004,2004,4,0,2,Export,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,40,,,0
+H2,2004,2004,2004,4,0,1,Import,604,Peru,PER,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4050,,,,7249,,20065,,,0
+H2,2004,2004,2004,4,0,2,Export,604,Peru,PER,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1112,,,,2532,,7312,,,0
+H2,2004,2004,2004,4,0,2,Export,604,Peru,PER,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,342,,,,330,,2190,,,0
+H2,2004,2004,2004,4,0,1,Import,604,Peru,PER,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3060,,,,7500,,4714,,,0
+H2,2004,2004,2004,4,0,1,Import,604,Peru,PER,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,90,,,,89,,1934,,,0
+H2,2004,2004,2004,4,0,1,Import,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,171972,,,,195035,,290343,,,0
+H2,2004,2004,2004,4,0,2,Export,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,51160,,,,75870,,145476,,,0
+H2,2004,2004,2004,4,0,1,Import,604,Peru,PER,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,229,,,,225,,831,,,0
+H2,2004,2004,2004,4,0,2,Export,604,Peru,PER,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,32,,,,280,,1347,,,0
+H1,2000,2000,2000,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3909638,,,,5186824,,9444454,,,2
+H1,2000,2000,2000,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,33952,,,,33952,,99260,,,2
+H1,2000,2000,2000,4,0,1,Import,604,Peru,PER,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,759671,,,,823156,,1679528,,,2
+H1,2000,2000,2000,4,0,1,Import,604,Peru,PER,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12057,,,,7016,,30456,,,2
+H1,2000,2000,2000,4,0,2,Export,604,Peru,PER,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1250,,,,1250,,2583,,,2
+H1,2000,2000,2000,4,0,2,Export,604,Peru,PER,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1687,,,,1687,,6004,,,2
+H1,2000,2000,2000,4,0,1,Import,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1460052,,,,2419469,,3708667,,,2
+H1,2000,2000,2000,4,0,2,Export,604,Peru,PER,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1250,,,,1250,,2974,,,2
+H1,2000,2000,2000,4,0,2,Export,604,Peru,PER,188,Costa Rica,CRI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,660,,,,660,,3204,,,2
+H1,2000,2000,2000,4,0,2,Export,604,Peru,PER,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,277,,,,277,,4379,,,2
+H1,2000,2000,2000,4,0,2,Export,604,Peru,PER,218,Ecuador,ECU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,519,,,,519,,1944,,,2
+H1,2000,2000,2000,4,0,1,Import,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,382308,,,,595838,,1000791,,,2
+H1,2000,2000,2000,4,0,1,Import,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,136694,,,,190118,,342519,,,2
+H1,2000,2000,2000,4,0,1,Import,604,Peru,PER,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9623,,,,9618,,23955,,,2
+H1,2000,2000,2000,4,0,1,Import,604,Peru,PER,348,Hungary,HUN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6806,,,,9144,,17633,,,2
+H1,2000,2000,2000,4,0,1,Import,604,Peru,PER,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,183560,,,,228374,,452973,,,2
+H1,2000,2000,2000,4,0,2,Export,604,Peru,PER,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8562,,,,8562,,23819,,,2
+H1,2000,2000,2000,4,0,2,Export,604,Peru,PER,408,Dem. People's Rep. of Korea,PRK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,671,,,,671,,1976,,,2
+H1,2000,2000,2000,4,0,1,Import,604,Peru,PER,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1250,,,,172,,3157,,,2
+H1,2000,2000,2000,4,0,1,Import,604,Peru,PER,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,644,,,,456,,1626,,,2
+H1,2000,2000,2000,4,0,2,Export,604,Peru,PER,579,Norway,NOR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16023,,,,16023,,43024,,,2
+H1,2000,2000,2000,4,0,2,Export,604,Peru,PER,600,Paraguay,PRY,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,222,,,,222,,987,,,2
+H1,2000,2000,2000,4,0,1,Import,604,Peru,PER,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2089,,,,1215,,5277,,,2
+H1,2000,2000,2000,4,0,1,Import,604,Peru,PER,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3460,,,,2384,,8700,,,2
+H1,2000,2000,2000,4,0,1,Import,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,669196,,,,475596,,1653135,,,2
+H1,2000,2000,2000,4,0,1,Import,604,Peru,PER,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5874,,,,1623,,8764,,,2
+H1,2000,2000,2000,4,0,1,Import,604,Peru,PER,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,610,,,,489,,1893,,,2
+H1,2000,2000,2000,4,0,1,Import,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,242231,,,,376146,,470760,,,2
+H1,2000,2000,2000,4,0,2,Export,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2187,,,,2187,,6325,,,2
+H1,2000,2000,2000,4,0,1,Import,604,Peru,PER,858,Uruguay,URY,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,33514,,,,46010,,34620,,,2
+H1,2000,2000,2000,4,0,2,Export,604,Peru,PER,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,644,,,,644,,2041,,,2
+H1,2001,2001,2001,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4162971,,,,5609721,,9780578,,,2
+H1,2001,2001,2001,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,104129,,,,85323,,186997,,,2
+H1,2001,2001,2001,4,0,1,Import,604,Peru,PER,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,753188,,,,864174,,1745004,,,2
+H1,2001,2001,2001,4,0,1,Import,604,Peru,PER,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6010,,,,4291,,14662,,,2
+H1,2001,2001,2001,4,0,1,Import,604,Peru,PER,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2232,,,,1851,,5506,,,2
+H1,2001,2001,2001,4,0,2,Export,604,Peru,PER,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,99,,,,75,,237,,,2
+H1,2001,2001,2001,4,0,1,Import,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1562288,,,,2730761,,3773130,,,2
+H1,2001,2001,2001,4,0,2,Export,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11,,,,9,,10,,,2
+H1,2001,2001,2001,4,0,1,Import,604,Peru,PER,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3128,,,,2977,,7718,,,2
+H1,2001,2001,2001,4,0,2,Export,604,Peru,PER,170,Colombia,COL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,499,,,,595,,1195,,,2
+H1,2001,2001,2001,4,0,1,Import,604,Peru,PER,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,53827,,,,8421,,63634,,,2
+H1,2001,2001,2001,4,0,1,Import,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,252876,,,,425930,,624634,,,2
+H1,2001,2001,2001,4,0,2,Export,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,214,,,,87,,607,,,2
+H1,2001,2001,2001,4,0,1,Import,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,162643,,,,260295,,402779,,,2
+H1,2001,2001,2001,4,0,2,Export,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,904,,,,215,,2166,,,2
+H1,2001,2001,2001,4,0,1,Import,604,Peru,PER,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16528,,,,13994,,40777,,,2
+H1,2001,2001,2001,4,0,2,Export,604,Peru,PER,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,115,,,,60,,275,,,2
+H1,2001,2001,2001,4,0,1,Import,604,Peru,PER,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,270187,,,,327721,,713539,,,2
+H1,2001,2001,2001,4,0,2,Export,604,Peru,PER,533,Aruba,ABW,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,27,,,,24,,24,,,2
+H1,2001,2001,2001,4,0,1,Import,604,Peru,PER,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,790,,,,324,,1950,,,2
+H1,2001,2001,2001,4,0,1,Import,604,Peru,PER,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6276,,,,4231,,15484,,,2
+H1,2001,2001,2001,4,0,1,Import,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,863990,,,,664362,,2030000,,,2
+H1,2001,2001,2001,4,0,2,Export,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,22896,,,,11830,,54856,,,2
+H1,2001,2001,2001,4,0,1,Import,604,Peru,PER,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3038,,,,1693,,7494,,,2
+H1,2001,2001,2001,4,0,1,Import,604,Peru,PER,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,221,,,,600,,546,,,2
+H1,2001,2001,2001,4,0,1,Import,604,Peru,PER,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,949,,,,900,,3041,,,2
+H1,2001,2001,2001,4,0,1,Import,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,204557,,,,297143,,330443,,,2
+H1,2001,2001,2001,4,0,2,Export,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,79364,,,,72428,,127627,,,2
+H1,2001,2001,2001,4,0,1,Import,604,Peru,PER,858,Uruguay,URY,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,244,,,,53,,237,,,2
+H3,2008,2008,2008,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8314025,,,,8900063,,22664474,,,0
+H3,2008,2008,2008,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,164637,,,,224353,,631542,,,0
+H3,2008,2008,2008,4,0,1,Import,604,Peru,PER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4126620,,,,4283253,,9440995,,,0
+H3,2008,2008,2008,4,0,1,Import,604,Peru,PER,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9873,,,,14953,,60394,,,0
+H3,2008,2008,2008,4,0,2,Export,604,Peru,PER,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,714,,,,697,,3697,,,0
+H3,2008,2008,2008,4,0,1,Import,604,Peru,PER,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,335,,,,736,,10663,,,0
+H3,2008,2008,2008,4,0,2,Export,604,Peru,PER,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10216,,,,15201,,45347,,,0
+H3,2008,2008,2008,4,0,1,Import,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3034656,,,,3127583,,6807512,,,0
+H3,2008,2008,2008,4,0,2,Export,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,270,,,,504,,5345,,,0
+H3,2008,2008,2008,4,0,2,Export,604,Peru,PER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,368,,,,702,,5952,,,0
+H3,2008,2008,2008,4,0,2,Export,604,Peru,PER,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,108,,,,108,,942,,,0
+H3,2008,2008,2008,4,0,2,Export,604,Peru,PER,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,90,,,,87,,499,,,0
+H3,2008,2008,2008,4,0,1,Import,604,Peru,PER,218,Ecuador,ECU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,21132,,,,36910,,22928,,,0
+H3,2008,2008,2008,4,0,2,Export,604,Peru,PER,218,Ecuador,ECU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,36,,,,64,,4,,,0
+H3,2008,2008,2008,4,0,1,Import,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,146100,,,,129796,,1145085,,,0
+H3,2008,2008,2008,4,0,2,Export,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1402,,,,1525,,9564,,,0
+H3,2008,2008,2008,4,0,1,Import,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,71212,,,,72240,,260043,,,0
+H3,2008,2008,2008,4,0,2,Export,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4670,,,,5793,,32584,,,0
+H3,2008,2008,2008,4,0,1,Import,604,Peru,PER,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,567,,,,563,,4122,,,0
+H3,2008,2008,2008,4,0,2,Export,604,Peru,PER,340,Honduras,HND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,72,,,,82,,340,,,0
+H3,2008,2008,2008,4,0,1,Import,604,Peru,PER,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5,,,,5,,134,,,0
+H3,2008,2008,2008,4,0,1,Import,604,Peru,PER,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4268,,,,6217,,14210,,,0
+H3,2008,2008,2008,4,0,1,Import,604,Peru,PER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,294631,,,,483559,,1399062,,,0
+H3,2008,2008,2008,4,0,2,Export,604,Peru,PER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,94,,,,109,,508,,,0
+H3,2008,2008,2008,4,0,2,Export,604,Peru,PER,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2891,,,,4783,,17221,,,0
+H3,2008,2008,2008,4,0,2,Export,604,Peru,PER,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9000,,,,6,,1,,,0
+H3,2008,2008,2008,4,0,2,Export,604,Peru,PER,533,Aruba,ABW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,53,,,,55,,175,,,0
+H3,2008,2008,2008,4,0,1,Import,604,Peru,PER,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,63,,,,53,,1637,,,0
+H3,2008,2008,2008,4,0,1,Import,604,Peru,PER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10694,,,,13216,,65653,,,0
+H3,2008,2008,2008,4,0,1,Import,604,Peru,PER,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3533,,,,5522,,7296,,,0
+H3,2008,2008,2008,4,0,1,Import,604,Peru,PER,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,81,,,,133,,6063,,,0
+H3,2008,2008,2008,4,0,1,Import,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,508605,,,,635662,,3137660,,,0
+H3,2008,2008,2008,4,0,2,Export,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,825,,,,813,,6561,,,0
+H3,2008,2008,2008,4,0,1,Import,604,Peru,PER,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,270,,,,268,,1803,,,0
+H3,2008,2008,2008,4,0,2,Export,604,Peru,PER,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5756,,,,8816,,31314,,,0
+H3,2008,2008,2008,4,0,2,Export,604,Peru,PER,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7245,,,,9224,,34676,,,0
+H3,2008,2008,2008,4,0,2,Export,604,Peru,PER,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6,,,,13,,4,,,0
+H3,2008,2008,2008,4,0,2,Export,604,Peru,PER,838,Free Zones,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,326,,,,2591,,13287,,,0
+H3,2008,2008,2008,4,0,1,Import,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,77431,,,,84822,,252676,,,0
+H3,2008,2008,2008,4,0,2,Export,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,120497,,,,173180,,423522,,,0
+H3,2008,2008,2008,4,0,1,Import,604,Peru,PER,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3951,,,,4572,,26538,,,0
+H3,2009,2009,2009,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7276376,,,,7835014,,20466615,,,0
+H3,2009,2009,2009,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,122878,,,,176170,,458836,,,0
+H3,2009,2009,2009,4,0,1,Import,604,Peru,PER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3796094,,,,3970510,,9593955,,,0
+H3,2009,2009,2009,4,0,1,Import,604,Peru,PER,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2079,,,,2832,,12374,,,0
+H3,2009,2009,2009,4,0,1,Import,604,Peru,PER,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,634,,,,638,,12233,,,0
+H3,2009,2009,2009,4,0,2,Export,604,Peru,PER,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18,,,,36,,58,,,0
+H3,2009,2009,2009,4,0,2,Export,604,Peru,PER,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1261,,,,1871,,10103,,,0
+H3,2009,2009,2009,4,0,2,Export,604,Peru,PER,68,Bolivia (Plurinational State of),BOL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1,,,,1,,10,,,0
+H3,2009,2009,2009,4,0,2,Export,604,Peru,PER,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10772,,,,14967,,51663,,,0
+H3,2009,2009,2009,4,0,1,Import,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2611642,,,,2716911,,5845616,,,0
+H3,2009,2009,2009,4,0,1,Import,604,Peru,PER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1914,,,,3596,,2598,,,0
+H3,2009,2009,2009,4,0,2,Export,604,Peru,PER,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,108,,,,77,,526,,,0
+H3,2009,2009,2009,4,0,1,Import,604,Peru,PER,218,Ecuador,ECU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3132,,,,7110,,6436,,,0
+H3,2009,2009,2009,4,0,1,Import,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,61116,,,,69823,,844790,,,0
+H3,2009,2009,2009,4,0,2,Export,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,354,,,,361,,2338,,,0
+H3,2009,2009,2009,4,0,1,Import,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,48493,,,,49730,,167172,,,0
+H3,2009,2009,2009,4,0,2,Export,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2394,,,,2774,,9665,,,0
+H3,2009,2009,2009,4,0,1,Import,604,Peru,PER,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,11,,,,11,,469,,,0
+H3,2009,2009,2009,4,0,1,Import,604,Peru,PER,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1329,,,,2229,,4701,,,0
+H3,2009,2009,2009,4,0,1,Import,604,Peru,PER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,276303,,,,468693,,1342334,,,0
+H3,2009,2009,2009,4,0,2,Export,604,Peru,PER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,180,,,,185,,1013,,,0
+H3,2009,2009,2009,4,0,2,Export,604,Peru,PER,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1361,,,,1693,,9655,,,0
+H3,2009,2009,2009,4,0,2,Export,604,Peru,PER,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,180,,,,180,,1530,,,0
+H3,2009,2009,2009,4,0,2,Export,604,Peru,PER,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,92,,,,92,,732,,,0
+H3,2009,2009,2009,4,0,2,Export,604,Peru,PER,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,110,,,,172,,1727,,,0
+H3,2009,2009,2009,4,0,2,Export,604,Peru,PER,530,Neth. Antilles,ANT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6,,,,3,,44,,,0
+H3,2009,2009,2009,4,0,2,Export,604,Peru,PER,533,Aruba,ABW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,106,,,,118,,433,,,0
+H3,2009,2009,2009,4,0,2,Export,604,Peru,PER,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18,,,,18,,150,,,0
+H3,2009,2009,2009,4,0,2,Export,604,Peru,PER,558,Nicaragua,NIC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,36,,,,19,,74,,,0
+H3,2009,2009,2009,4,0,2,Export,604,Peru,PER,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1980,,,,1980,,11094,,,0
+H3,2009,2009,2009,4,0,2,Export,604,Peru,PER,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,11,,,,19,,79,,,0
+H3,2009,2009,2009,4,0,1,Import,604,Peru,PER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9085,,,,11381,,51961,,,0
+H3,2009,2009,2009,4,0,1,Import,604,Peru,PER,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,11813,,,,18930,,24483,,,0
+H3,2009,2009,2009,4,0,2,Export,604,Peru,PER,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,90,,,,90,,716,,,0
+H3,2009,2009,2009,4,0,1,Import,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,364969,,,,424725,,2201207,,,0
+H3,2009,2009,2009,4,0,2,Export,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,30,,,,58,,128,,,0
+H3,2009,2009,2009,4,0,2,Export,604,Peru,PER,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,108,,,,187,,1212,,,0
+H3,2009,2009,2009,4,0,2,Export,604,Peru,PER,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,607,,,,691,,2923,,,0
+H3,2009,2009,2009,4,0,2,Export,604,Peru,PER,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8,,,,8,,61,,,0
+H3,2009,2009,2009,4,0,1,Import,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,81070,,,,81079,,302172,,,0
+H3,2009,2009,2009,4,0,2,Export,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,103048,,,,150569,,352902,,,0
+H3,2009,2009,2009,4,0,1,Import,604,Peru,PER,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6693,,,,6815,,54112,,,0
+H2,2005,2005,2005,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22649732,,,,6050903,,12434994,,,0
+H2,2005,2005,2005,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,100586,,,,105777,,328914,,,0
+H2,2005,2005,2005,4,0,1,Import,604,Peru,PER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1977093,,,,2100455,,4179595,,,0
+H2,2005,2005,2005,4,0,2,Export,604,Peru,PER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,24,,,,24,,148,,,0
+H2,2005,2005,2005,4,0,1,Import,604,Peru,PER,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20003,,,,31617,,97233,,,0
+H2,2005,2005,2005,4,0,2,Export,604,Peru,PER,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,81,,,,110,,458,,,0
+H2,2005,2005,2005,4,0,1,Import,604,Peru,PER,68,Bolivia (Plurinational State of),BOL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4200,,,,6900,,10118,,,0
+H2,2005,2005,2005,4,0,2,Export,604,Peru,PER,68,Bolivia (Plurinational State of),BOL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,297,,,,289,,1348,,,0
+H2,2005,2005,2005,4,0,2,Export,604,Peru,PER,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,250,,,,249,,1663,,,0
+H2,2005,2005,2005,4,0,2,Export,604,Peru,PER,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,299,,,,292,,1954,,,0
+H2,2005,2005,2005,4,0,1,Import,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2626107,,,,2719006,,4587907,,,0
+H2,2005,2005,2005,4,0,2,Export,604,Peru,PER,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,54,,,,53,,215,,,0
+H2,2005,2005,2005,4,0,2,Export,604,Peru,PER,214,Dominican Rep.,DOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,18,,12,,,0
+H2,2005,2005,2005,4,0,2,Export,604,Peru,PER,222,El Salvador,SLV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,54,,,,53,,542,,,0
+H2,2005,2005,2005,4,0,1,Import,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,76778,,,,107306,,499388,,,0
+H2,2005,2005,2005,4,0,2,Export,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,51,,,,121,,211,,,0
+H2,2005,2005,2005,4,0,1,Import,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,75807,,,,81090,,190352,,,0
+H2,2005,2005,2005,4,0,2,Export,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2759,,,,4984,,9086,,,0
+H2,2005,2005,2005,4,0,1,Import,604,Peru,PER,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5273,,,,5273,,17556,,,0
+H2,2005,2005,2005,4,0,2,Export,604,Peru,PER,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18,,,,10,,173,,,0
+H2,2005,2005,2005,4,0,2,Export,604,Peru,PER,360,Indonesia,IDN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45,,,,44,,426,,,0
+H2,2005,2005,2005,4,0,1,Import,604,Peru,PER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,180218,,,,270347,,605668,,,0
+H2,2005,2005,2005,4,0,2,Export,604,Peru,PER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,2,,1,,,0
+H2,2005,2005,2005,4,0,2,Export,604,Peru,PER,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5741,,,,5581,,26842,,,0
+H2,2005,2005,2005,4,0,2,Export,604,Peru,PER,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,102,,,0
+H2,2005,2005,2005,4,0,2,Export,604,Peru,PER,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,81,,,,79,,507,,,0
+H2,2005,2005,2005,4,0,2,Export,604,Peru,PER,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,720,,,,1080,,2285,,,0
+H2,2005,2005,2005,4,0,2,Export,604,Peru,PER,530,Neth. Antilles,ANT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,23,,44,,,0
+H2,2005,2005,2005,4,0,1,Import,604,Peru,PER,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,675,,,,1125,,3284,,,0
+H2,2005,2005,2005,4,0,2,Export,604,Peru,PER,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,360,,,,350,,1829,,,0
+H2,2005,2005,2005,4,0,1,Import,604,Peru,PER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1404,,,,1434,,8643,,,0
+H2,2005,2005,2005,4,0,1,Import,604,Peru,PER,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7200,,,,7200,,16157,,,0
+H2,2005,2005,2005,4,0,1,Import,604,Peru,PER,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6993,,,,9984,,28345,,,0
+H2,2005,2005,2005,4,0,1,Import,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17526231,,,,550544,,1913943,,,0
+H2,2005,2005,2005,4,0,2,Export,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8,,,,97,,280,,,0
+H2,2005,2005,2005,4,0,2,Export,604,Peru,PER,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1350,,,,1313,,8321,,,0
+H2,2005,2005,2005,4,0,1,Import,604,Peru,PER,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,450,,,,450,,3274,,,0
+H2,2005,2005,2005,4,0,2,Export,604,Peru,PER,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,610,,,,969,,2288,,,0
+H2,2005,2005,2005,4,0,1,Import,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,141302,,,,158173,,273531,,,0
+H2,2005,2005,2005,4,0,2,Export,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,87433,,,,89338,,268013,,,0
+H2,2005,2005,2005,4,0,2,Export,604,Peru,PER,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,171,,,,166,,902,,,0
+H2,2005,2005,2005,4,0,2,Export,604,Peru,PER,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,152,,,,524,,1267,,,0
+H2,2006,2006,2006,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7117279,,,,7117279,,15356624,,,2
+H2,2006,2006,2006,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,156922,,,,156922,,360222,,,2
+H2,2006,2006,2006,4,0,1,Import,604,Peru,PER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2880376,,,,2880376,,5654523,,,2
+H2,2006,2006,2006,4,0,1,Import,604,Peru,PER,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19336,,,,19336,,62584,,,2
+H2,2006,2006,2006,4,0,2,Export,604,Peru,PER,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,794,,,,794,,2880,,,2
+H2,2006,2006,2006,4,0,2,Export,604,Peru,PER,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,158,,,,158,,1022,,,2
+H2,2006,2006,2006,4,0,2,Export,604,Peru,PER,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1156,,,,1156,,6721,,,2
+H2,2006,2006,2006,4,0,1,Import,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2927478,,,,2927478,,5500283,,,2
+H2,2006,2006,2006,4,0,2,Export,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,64,,,,64,,291,,,2
+H2,2006,2006,2006,4,0,1,Import,604,Peru,PER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15207,,,,15207,,5047,,,2
+H2,2006,2006,2006,4,0,1,Import,604,Peru,PER,218,Ecuador,ECU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,29275,,,,29275,,17366,,,2
+H2,2006,2006,2006,4,0,2,Export,604,Peru,PER,222,El Salvador,SLV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,44,,,,44,,380,,,2
+H2,2006,2006,2006,4,0,2,Export,604,Peru,PER,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,31,,,,31,,126,,,2
+H2,2006,2006,2006,4,0,1,Import,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,120883,,,,120883,,601447,,,2
+H2,2006,2006,2006,4,0,2,Export,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,205,,,,205,,561,,,2
+H2,2006,2006,2006,4,0,1,Import,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,74288,,,,74288,,203806,,,2
+H2,2006,2006,2006,4,0,1,Import,604,Peru,PER,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,937,,,,937,,3986,,,2
+H2,2006,2006,2006,4,0,1,Import,604,Peru,PER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,340477,,,,340477,,770572,,,2
+H2,2006,2006,2006,4,0,2,Export,604,Peru,PER,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2081,,,,2081,,9849,,,2
+H2,2006,2006,2006,4,0,2,Export,604,Peru,PER,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,90,,,,90,,520,,,2
+H2,2006,2006,2006,4,0,2,Export,604,Peru,PER,533,Aruba,ABW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,20,,,2
+H2,2006,2006,2006,4,0,2,Export,604,Peru,PER,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,232,,,,232,,1375,,,2
+H2,2006,2006,2006,4,0,1,Import,604,Peru,PER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1386,,,,1386,,7875,,,2
+H2,2006,2006,2006,4,0,1,Import,604,Peru,PER,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15300,,,,15300,,33982,,,2
+H2,2006,2006,2006,4,0,1,Import,604,Peru,PER,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9078,,,,9078,,33336,,,2
+H2,2006,2006,2006,4,0,1,Import,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,603785,,,,603785,,2258920,,,2
+H2,2006,2006,2006,4,0,2,Export,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,53,,,,53,,59,,,2
+H2,2006,2006,2006,4,0,2,Export,604,Peru,PER,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,651,,,,651,,2307,,,2
+H2,2006,2006,2006,4,0,2,Export,604,Peru,PER,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,114,,,,114,,436,,,2
+H2,2006,2006,2006,4,0,2,Export,604,Peru,PER,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5600,,,,5600,,25535,,,2
+H2,2006,2006,2006,4,0,1,Import,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,76292,,,,76292,,184555,,,2
+H2,2006,2006,2006,4,0,2,Export,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,144091,,,,144091,,302740,,,2
+H2,2006,2006,2006,4,0,1,Import,604,Peru,PER,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3180,,,,3180,,18341,,,2
+H2,2006,2006,2006,4,0,2,Export,604,Peru,PER,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,70,,,,70,,473,,,2
+H2,2006,2006,2006,4,0,2,Export,604,Peru,PER,862,Venezuela,VEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,2,,11,,,2
+H2,2006,2006,2006,4,0,2,Export,604,Peru,PER,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1476,,,,1476,,4915,,,2
+H2,2007,2007,2007,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7418147,,,,7877607,,18168612,,,0
+H2,2007,2007,2007,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,201733,,,,279704,,651189,,,0
+H2,2007,2007,2007,4,0,1,Import,604,Peru,PER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3739526,,,,3856847,,7741734,,,0
+H2,2007,2007,2007,4,0,2,Export,604,Peru,PER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14,,,,14,,36,,,0
+H2,2007,2007,2007,4,0,1,Import,604,Peru,PER,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12452,,,,18730,,45018,,,0
+H2,2007,2007,2007,4,0,2,Export,604,Peru,PER,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,687,,,,1353,,2438,,,0
+H2,2007,2007,2007,4,0,2,Export,604,Peru,PER,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,90,,,,156,,972,,,0
+H2,2007,2007,2007,4,0,2,Export,604,Peru,PER,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13937,,,,18328,,70217,,,0
+H2,2007,2007,2007,4,0,1,Import,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2680382,,,,2824169,,5613388,,,0
+H2,2007,2007,2007,4,0,1,Import,604,Peru,PER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3,,,,10607,,3629,,,0
+H2,2007,2007,2007,4,0,2,Export,604,Peru,PER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,2,,7,,,0
+H2,2007,2007,2007,4,0,2,Export,604,Peru,PER,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,2,,2,,,0
+H2,2007,2007,2007,4,0,2,Export,604,Peru,PER,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,22,,77,,,0
+H2,2007,2007,2007,4,0,2,Export,604,Peru,PER,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,99,,,,110,,444,,,0
+H2,2007,2007,2007,4,0,1,Import,604,Peru,PER,218,Ecuador,ECU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8100,,,,13320,,7443,,,0
+H2,2007,2007,2007,4,0,1,Import,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,149447,,,,143831,,886693,,,0
+H2,2007,2007,2007,4,0,2,Export,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4627,,,,7157,,19516,,,0
+H2,2007,2007,2007,4,0,1,Import,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,57439,,,,64198,,194071,,,0
+H2,2007,2007,2007,4,0,2,Export,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1881,,,,2345,,7512,,,0
+H2,2007,2007,2007,4,0,1,Import,604,Peru,PER,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,248,,,,246,,2031,,,0
+H2,2007,2007,2007,4,0,2,Export,604,Peru,PER,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7200,,,,12000,,32200,,,0
+H2,2007,2007,2007,4,0,1,Import,604,Peru,PER,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,59,,,,59,,685,,,0
+H2,2007,2007,2007,4,0,1,Import,604,Peru,PER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,199461,,,,314484,,798789,,,0
+H2,2007,2007,2007,4,0,2,Export,604,Peru,PER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,90,,,,82,,344,,,0
+H2,2007,2007,2007,4,0,2,Export,604,Peru,PER,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4500,,,,7043,,22460,,,0
+H2,2007,2007,2007,4,0,2,Export,604,Peru,PER,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,90,,,,88,,922,,,0
+H2,2007,2007,2007,4,0,2,Export,604,Peru,PER,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,63,,,,63,,547,,,0
+H2,2007,2007,2007,4,0,2,Export,604,Peru,PER,530,Neth. Antilles,ANT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,1,,3,,,0
+H2,2007,2007,2007,4,0,2,Export,604,Peru,PER,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,66,,,,74,,228,,,0
+H2,2007,2007,2007,4,0,2,Export,604,Peru,PER,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,279,,,,280,,1466,,,0
+H2,2007,2007,2007,4,0,1,Import,604,Peru,PER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12987,,,,5029,,29940,,,0
+H2,2007,2007,2007,4,0,1,Import,604,Peru,PER,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1305,,,,1933,,2674,,,0
+H2,2007,2007,2007,4,0,1,Import,604,Peru,PER,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3227,,,,3461,,13568,,,0
+H2,2007,2007,2007,4,0,1,Import,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,445857,,,,514849,,2596343,,,0
+H2,2007,2007,2007,4,0,2,Export,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1664,,,,1726,,10146,,,0
+H2,2007,2007,2007,4,0,2,Export,604,Peru,PER,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,927,,,,1547,,4842,,,0
+H2,2007,2007,2007,4,0,1,Import,604,Peru,PER,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,531,,,,295,,1545,,,0
+H2,2007,2007,2007,4,0,2,Export,604,Peru,PER,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,265,,,,276,,853,,,0
+H2,2007,2007,2007,4,0,2,Export,604,Peru,PER,838,Free Zones,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,266,,,,1223,,3130,,,0
+H2,2007,2007,2007,4,0,1,Import,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,80337,,,,78215,,204768,,,0
+H2,2007,2007,2007,4,0,2,Export,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,164982,,,,225811,,472830,,,0
+H2,2007,2007,2007,4,0,1,Import,604,Peru,PER,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,26788,,,,27334,,26295,,,0
+H4,2012,2012,2012,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10020537,,,,10166211,,34624615,,,0
+H4,2012,2012,2012,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,246849,,,,384959,,996777,,,2
+H4,2012,2012,2012,4,0,1,Import,604,Peru,PER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3951528,,,,3948931,,14791941,,,0
+H4,2012,2012,2012,4,0,1,Import,604,Peru,PER,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15921,,,,24849,,126067,,,0
+H4,2012,2012,2012,4,0,2,Export,604,Peru,PER,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18,,,,18,,120,,,0
+H4,2012,2012,2012,4,0,2,Export,604,Peru,PER,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1080,,,,1071,,5629,,,0
+H4,2012,2012,2012,4,0,2,Export,604,Peru,PER,68,Bolivia (Plurinational State of),BOL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,52,,,,351,,1305,,,0
+H4,2012,2012,2012,4,0,2,Export,604,Peru,PER,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,189,,,,281,,1604,,,0
+H4,2012,2012,2012,4,0,2,Export,604,Peru,PER,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4491,,,,6326,,21868,,,0
+H4,2012,2012,2012,4,0,1,Import,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4207317,,,,3586356,,8714410,,,0
+H4,2012,2012,2012,4,0,2,Export,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,78,,,,41,,2181,,,0
+H4,2012,2012,2012,4,0,1,Import,604,Peru,PER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,33,,,,34,,761,,,0
+H4,2012,2012,2012,4,0,2,Export,604,Peru,PER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,48277,,,,91846,,231957,,,2
+H4,2012,2012,2012,4,0,2,Export,604,Peru,PER,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4095,,,,6395,,19421,,,0
+H4,2012,2012,2012,4,0,2,Export,604,Peru,PER,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45,,,,39,,691,,,0
+H4,2012,2012,2012,4,0,2,Export,604,Peru,PER,218,Ecuador,ECU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,180,,,,180,,852,,,0
+H4,2012,2012,2012,4,0,2,Export,604,Peru,PER,222,El Salvador,SLV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2277,,,,3552,,10552,,,0
+H4,2012,2012,2012,4,0,1,Import,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,115845,,,,173231,,1875170,,,0
+H4,2012,2012,2012,4,0,2,Export,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,79,,,,280,,1248,,,0
+H4,2012,2012,2012,4,0,1,Import,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36929,,,,39056,,173994,,,0
+H4,2012,2012,2012,4,0,2,Export,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10044,,,,20587,,54356,,,0
+H4,2012,2012,2012,4,0,2,Export,604,Peru,PER,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90,,,,90,,790,,,0
+H4,2012,2012,2012,4,0,2,Export,604,Peru,PER,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,765,,,,758,,5896,,,0
+H4,2012,2012,2012,4,0,1,Import,604,Peru,PER,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,32,,,,32,,1859,,,0
+H4,2012,2012,2012,4,0,1,Import,604,Peru,PER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,640455,,,,1182073,,4004828,,,0
+H4,2012,2012,2012,4,0,2,Export,604,Peru,PER,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7092,,,,12491,,38423,,,0
+H4,2012,2012,2012,4,0,2,Export,604,Peru,PER,531,Curaçao,CUW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5,,,,13,,28,,,0
+H4,2012,2012,2012,4,0,2,Export,604,Peru,PER,558,Nicaragua,NIC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,72,,,,72,,999,,,0
+H4,2012,2012,2012,4,0,1,Import,604,Peru,PER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12833,,,,19523,,77363,,,0
+H4,2012,2012,2012,4,0,2,Export,604,Peru,PER,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2970,,,,4900,,14136,,,0
+H4,2012,2012,2012,4,0,1,Import,604,Peru,PER,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13500,,,,13365,,105111,,,0
+H4,2012,2012,2012,4,0,2,Export,604,Peru,PER,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,61,,,,109,,948,,,0
+H4,2012,2012,2012,4,0,1,Import,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,956207,,,,1044647,,4426175,,,0
+H4,2012,2012,2012,4,0,2,Export,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,72,,,,0,,1,,,0
+H4,2012,2012,2012,4,0,1,Import,604,Peru,PER,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2,,,,0,,21,,,0
+H4,2012,2012,2012,4,0,2,Export,604,Peru,PER,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1323,,,,3701,,8574,,,0
+H4,2012,2012,2012,4,0,2,Export,604,Peru,PER,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,180,,,,180,,1180,,,0
+H4,2012,2012,2012,4,0,2,Export,604,Peru,PER,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13502,,,,5790,,28777,,,0
+H4,2012,2012,2012,4,0,1,Import,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,64575,,,,128998,,288173,,,0
+H4,2012,2012,2012,4,0,2,Export,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,149564,,,,225431,,542155,,,2
+H4,2012,2012,2012,4,0,1,Import,604,Peru,PER,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5357,,,,5110,,38735,,,0
+H4,2012,2012,2012,4,0,2,Export,604,Peru,PER,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2,,,,1,,26,,,0
+H4,2012,2012,2012,4,0,2,Export,604,Peru,PER,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,243,,,,450,,3048,,,0
+H4,2013,2013,2013,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8681883,,,,9538503,,34046935,,,2
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,312434,,1019728,,,2
+H4,2013,2013,2013,4,0,1,Import,604,Peru,PER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3614477,,,,3624549,,13647809,,,0
+H4,2013,2013,2013,4,0,1,Import,604,Peru,PER,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13455,,,,22848,,147306,,,0
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,360,,,,356,,3400,,,0
+H4,2013,2013,2013,4,0,1,Import,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3187385,,,,3361935,,8393075,,,0
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20700,,,,22225,,190900,,,0
+H4,2013,2013,2013,4,0,1,Import,604,Peru,PER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,540,,,,943,,590,,,0
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,200,,,,217,,2688,,,0
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,180,,,,153,,1288,,,0
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1890,,,,2191,,4599,,,0
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,135,,,,129,,1273,,,0
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,218,Ecuador,ECU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,287,,1272,,,2
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,222,El Salvador,SLV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1114,,,,2048,,6701,,,0
+H4,2013,2013,2013,4,0,1,Import,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,95870,,,,107789,,1721628,,,0
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1825,,,,2004,,10776,,,0
+H4,2013,2013,2013,4,0,1,Import,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20949,,,,20888,,102101,,,0
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2601,,,,3578,,11721,,,0
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,405,,,,265,,907,,,0
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,574,,,,568,,5238,,,0
+H4,2013,2013,2013,4,0,1,Import,604,Peru,PER,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,48,,,,48,,1176,,,0
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,360,Indonesia,IDN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,54,,,,54,,641,,,0
+H4,2013,2013,2013,4,0,1,Import,604,Peru,PER,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4007,,,,7298,,18346,,,0
+H4,2013,2013,2013,4,0,1,Import,604,Peru,PER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,778832,,,,1317497,,4703699,,,0
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22234,,,,25642,,100786,,,0
+H4,2013,2013,2013,4,0,1,Import,604,Peru,PER,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1575,,,,1575,,8288,,,0
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36,,,,69,,473,,,0
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,513,,,,523,,3587,,,0
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9,,,,21,,88,,,0
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2817,,,,4967,,11825,,,0
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,135,,,,135,,1611,,,0
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1944,,,,3722,,7897,,,0
+H4,2013,2013,2013,4,0,1,Import,604,Peru,PER,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1216,,,,1388,,11097,,,2
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,558,Nicaragua,NIC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,12,,35,,,0
+H4,2013,2013,2013,4,0,1,Import,604,Peru,PER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10394,,,,16272,,73894,,,0
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2970,,,,4880,,15682,,,0
+H4,2013,2013,2013,4,0,1,Import,604,Peru,PER,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13545,,,,19894,,92859,,,0
+H4,2013,2013,2013,4,0,1,Import,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,898992,,,,967020,,4821080,,,0
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3606,,,,3609,,21410,,,0
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,675,,,,2647,,7488,,,0
+H4,2013,2013,2013,4,0,1,Import,604,Peru,PER,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,450,,,,734,,8136,,,0
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,906,,,,2198,,8426,,,0
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7,,,,14,,171,,,0
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,108,,,,108,,708,,,0
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3957,,,,7599,,16718,,,0
+H4,2013,2013,2013,4,0,1,Import,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,38862,,,,65836,,283838,,,0
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,150685,,,,219943,,577084,,,0
+H4,2013,2013,2013,4,0,1,Import,604,Peru,PER,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1282,,,,1982,,12006,,,0
+H4,2013,2013,2013,4,0,2,Export,604,Peru,PER,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2816,,,,2260,,4322,,,0
+H4,2014,2014,2014,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9001990,,,,10183322,,36751661,,,0
+H4,2014,2014,2014,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,248356,,,,339764,,970865,,,2
+H4,2014,2014,2014,4,0,1,Import,604,Peru,PER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3445098,,,,3607110,,14224262,,,0
+H4,2014,2014,2014,4,0,1,Import,604,Peru,PER,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1827,,,,3063,,38027,,,0
+H4,2014,2014,2014,4,0,2,Export,604,Peru,PER,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,165,,,,136,,667,,,0
+H4,2014,2014,2014,4,0,1,Import,604,Peru,PER,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1242,,,,2072,,16195,,,0
+H4,2014,2014,2014,4,0,2,Export,604,Peru,PER,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6302,,,,1053,,5060,,,0
+H4,2014,2014,2014,4,0,2,Export,604,Peru,PER,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1908,,,,3618,,10182,,,0
+H4,2014,2014,2014,4,0,2,Export,604,Peru,PER,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5726,,,,7379,,26267,,,2
+H4,2014,2014,2014,4,0,1,Import,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3740783,,,,4007712,,9982735,,,0
+H4,2014,2014,2014,4,0,2,Export,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15,,,,20,,65,,,0
+H4,2014,2014,2014,4,0,2,Export,604,Peru,PER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9477,,,,17322,,56607,,,0
+H4,2014,2014,2014,4,0,2,Export,604,Peru,PER,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14152,,,,4516,,18943,,,0
+H4,2014,2014,2014,4,0,2,Export,604,Peru,PER,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1659,,,,2742,,12385,,,0
+H4,2014,2014,2014,4,0,2,Export,604,Peru,PER,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,72,,,,72,,966,,,0
+H4,2014,2014,2014,4,0,2,Export,604,Peru,PER,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,144,,,,144,,1598,,,0
+H4,2014,2014,2014,4,0,1,Import,604,Peru,PER,214,Dominican Rep.,DOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5958,,,,5958,,48392,,,0
+H4,2014,2014,2014,4,0,2,Export,604,Peru,PER,218,Ecuador,ECU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,279,,,,378,,1743,,,0
+H4,2014,2014,2014,4,0,1,Import,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,103423,,,,116723,,1617404,,,0
+H4,2014,2014,2014,4,0,2,Export,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1647,,,,1672,,10925,,,0
+H4,2014,2014,2014,4,0,1,Import,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,40533,,,,40578,,179733,,,0
+H4,2014,2014,2014,4,0,2,Export,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5310,,,,9152,,25514,,,0
+H4,2014,2014,2014,4,0,2,Export,604,Peru,PER,340,Honduras,HND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,76,,,,76,,228,,,0
+H4,2014,2014,2014,4,0,2,Export,604,Peru,PER,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,450,,,,450,,5999,,,0
+H4,2014,2014,2014,4,0,1,Import,604,Peru,PER,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,43,,,,67,,1391,,,0
+H4,2014,2014,2014,4,0,1,Import,604,Peru,PER,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3930,,,,5159,,13524,,,0
+H4,2014,2014,2014,4,0,1,Import,604,Peru,PER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,777625,,,,1415104,,5044208,,,0
+H4,2014,2014,2014,4,0,2,Export,604,Peru,PER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,756,,,,756,,3186,,,0
+H4,2014,2014,2014,4,0,2,Export,604,Peru,PER,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5238,,,,6001,,29798,,,0
+H4,2014,2014,2014,4,0,2,Export,604,Peru,PER,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3645,,,,6360,,15632,,,0
+H4,2014,2014,2014,4,0,2,Export,604,Peru,PER,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5904,,,,8534,,23715,,,0
+H4,2014,2014,2014,4,0,2,Export,604,Peru,PER,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5571,,,,5571,,25107,,,0
+H4,2014,2014,2014,4,0,2,Export,604,Peru,PER,531,Curaçao,CUW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2,,,,1,,38,,,0
+H4,2014,2014,2014,4,0,1,Import,604,Peru,PER,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1557,,,,1660,,19388,,,0
+H4,2014,2014,2014,4,0,2,Export,604,Peru,PER,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,747,,,,1138,,4667,,,0
+H4,2014,2014,2014,4,0,1,Import,604,Peru,PER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10933,,,,13567,,55244,,,0
+H4,2014,2014,2014,4,0,2,Export,604,Peru,PER,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45,,,,45,,232,,,0
+H4,2014,2014,2014,4,0,1,Import,604,Peru,PER,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8188,,,,9490,,62561,,,0
+H4,2014,2014,2014,4,0,1,Import,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,823812,,,,897094,,5147946,,,0
+H4,2014,2014,2014,4,0,2,Export,604,Peru,PER,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10125,,,,3216,,13280,,,0
+H4,2014,2014,2014,4,0,2,Export,604,Peru,PER,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16102,,,,23058,,51696,,,2
+H4,2014,2014,2014,4,0,1,Import,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,34461,,,,54712,,287074,,,0
+H4,2014,2014,2014,4,0,2,Export,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,152834,,,,236346,,626351,,,0
+H4,2014,2014,2014,4,0,1,Import,604,Peru,PER,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2574,,,,3247,,13570,,,0
+H3,2010,2010,2010,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8490169,,,,9021494,,24869848,,,0
+H3,2010,2010,2010,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1010734,,,,297650,,829611,,,0
+H3,2010,2010,2010,4,0,1,Import,604,Peru,PER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4561477,,,,4253067,,11873871,,,0
+H3,2010,2010,2010,4,0,1,Import,604,Peru,PER,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15306,,,,15313,,65366,,,0
+H3,2010,2010,2010,4,0,2,Export,604,Peru,PER,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,20,,,,20,,27,,,0
+H3,2010,2010,2010,4,0,2,Export,604,Peru,PER,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,356,,,,1822,,5250,,,0
+H3,2010,2010,2010,4,0,2,Export,604,Peru,PER,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,954,,,,1417,,7249,,,0
+H3,2010,2010,2010,4,0,2,Export,604,Peru,PER,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8184,,,,13217,,48919,,,0
+H3,2010,2010,2010,4,0,1,Import,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2692132,,,,2992189,,6306982,,,0
+H3,2010,2010,2010,4,0,2,Export,604,Peru,PER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,110,,,,125,,1496,,,0
+H3,2010,2010,2010,4,0,2,Export,604,Peru,PER,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,144,,,,144,,1459,,,0
+H3,2010,2010,2010,4,0,2,Export,604,Peru,PER,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,459,,,,459,,5593,,,0
+H3,2010,2010,2010,4,0,2,Export,604,Peru,PER,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,117,,,,117,,931,,,0
+H3,2010,2010,2010,4,0,2,Export,604,Peru,PER,212,Dominica,DMA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,16,,,,0,,1,,,0
+H3,2010,2010,2010,4,0,2,Export,604,Peru,PER,214,Dominican Rep.,DOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,0,,,,0,,5,,,0
+H3,2010,2010,2010,4,0,1,Import,604,Peru,PER,218,Ecuador,ECU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18450,,,,21086,,25641,,,0
+H3,2010,2010,2010,4,0,2,Export,604,Peru,PER,218,Ecuador,ECU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,333,,,,333,,2122,,,0
+H3,2010,2010,2010,4,0,1,Import,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,85398,,,,127857,,956541,,,0
+H3,2010,2010,2010,4,0,2,Export,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6474,,,,7487,,39395,,,0
+H3,2010,2010,2010,4,0,1,Import,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,55158,,,,54749,,176826,,,0
+H3,2010,2010,2010,4,0,2,Export,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,816982,,,,12108,,46689,,,0
+H3,2010,2010,2010,4,0,2,Export,604,Peru,PER,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1377,,,,929,,6563,,,0
+H3,2010,2010,2010,4,0,2,Export,604,Peru,PER,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15,,,,15,,379,,,0
+H3,2010,2010,2010,4,0,1,Import,604,Peru,PER,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1,,,,1,,8,,,0
+H3,2010,2010,2010,4,0,1,Import,604,Peru,PER,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2647,,,,3566,,4821,,,0
+H3,2010,2010,2010,4,0,1,Import,604,Peru,PER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,419447,,,,723917,,1953970,,,0
+H3,2010,2010,2010,4,0,2,Export,604,Peru,PER,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9990,,,,14418,,51943,,,0
+H3,2010,2010,2010,4,0,2,Export,604,Peru,PER,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,270,,,,270,,3383,,,0
+H3,2010,2010,2010,4,0,2,Export,604,Peru,PER,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,184,,,,278,,1202,,,0
+H3,2010,2010,2010,4,0,2,Export,604,Peru,PER,530,Neth. Antilles,ANT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9,,,,8,,45,,,0
+H3,2010,2010,2010,4,0,2,Export,604,Peru,PER,533,Aruba,ABW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,79,,,,81,,274,,,0
+H3,2010,2010,2010,4,0,1,Import,604,Peru,PER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9963,,,,10082,,49329,,,0
+H3,2010,2010,2010,4,0,1,Import,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,539714,,,,671639,,3102382,,,0
+H3,2010,2010,2010,4,0,2,Export,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8775,,,,8775,,32741,,,0
+H3,2010,2010,2010,4,0,2,Export,604,Peru,PER,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9504,,,,13200,,40550,,,0
+H3,2010,2010,2010,4,0,2,Export,604,Peru,PER,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,138,,,,246,,1664,,,0
+H3,2010,2010,2010,4,0,2,Export,604,Peru,PER,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,135,,,,135,,765,,,0
+H3,2010,2010,2010,4,0,1,Import,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,83936,,,,141430,,315526,,,0
+H3,2010,2010,2010,4,0,2,Export,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,146105,,,,222039,,530957,,,0
+H3,2010,2010,2010,4,0,1,Import,604,Peru,PER,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6535,,,,6594,,38579,,,0
+H3,2011,2011,2011,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18855285,,,,11939521,,32090669,,,0
+H3,2011,2011,2011,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,424953,,,,363654,,816801,,,0
+H3,2011,2011,2011,4,0,1,Import,604,Peru,PER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5607354,,,,5710908,,14186505,,,0
+H3,2011,2011,2011,4,0,2,Export,604,Peru,PER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,157,,,,157,,813,,,0
+H3,2011,2011,2011,4,0,1,Import,604,Peru,PER,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7376,,,,9220,,28186,,,0
+H3,2011,2011,2011,4,0,2,Export,604,Peru,PER,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,43,,,,63,,362,,,0
+H3,2011,2011,2011,4,0,1,Import,604,Peru,PER,68,Bolivia (Plurinational State of),BOL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,491,,,,837,,2746,,,0
+H3,2011,2011,2011,4,0,2,Export,604,Peru,PER,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,63,,,,63,,641,,,0
+H3,2011,2011,2011,4,0,2,Export,604,Peru,PER,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3627,,,,5492,,20463,,,0
+H3,2011,2011,2011,4,0,1,Import,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8893680,,,,4051418,,9010777,,,0
+H3,2011,2011,2011,4,0,2,Export,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10107,,,,10268,,32620,,,0
+H3,2011,2011,2011,4,0,2,Export,604,Peru,PER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,17195,,,,29089,,78407,,,0
+H3,2011,2011,2011,4,0,2,Export,604,Peru,PER,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,36,,,,21,,181,,,0
+H3,2011,2011,2011,4,0,2,Export,604,Peru,PER,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,27,,,,27,,203,,,0
+H3,2011,2011,2011,4,0,2,Export,604,Peru,PER,218,Ecuador,ECU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,225000,,,,261,,1608,,,0
+H3,2011,2011,2011,4,0,1,Import,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,88284,,,,118211,,1434093,,,0
+H3,2011,2011,2011,4,0,2,Export,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1359,,,,1370,,7472,,,0
+H3,2011,2011,2011,4,0,1,Import,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,66761,,,,67320,,240799,,,0
+H3,2011,2011,2011,4,0,2,Export,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,407,,,,4225,,15424,,,0
+H3,2011,2011,2011,4,0,2,Export,604,Peru,PER,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6999,,,,6999,,34431,,,0
+H3,2011,2011,2011,4,0,1,Import,604,Peru,PER,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2415,,,,4070,,5297,,,0
+H3,2011,2011,2011,4,0,1,Import,604,Peru,PER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,537668,,,,951840,,3056084,,,0
+H3,2011,2011,2011,4,0,2,Export,604,Peru,PER,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12240,,,,85114,,62539,,,0
+H3,2011,2011,2011,4,0,2,Export,604,Peru,PER,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1,,,,0,,24,,,0
+H3,2011,2011,2011,4,0,2,Export,604,Peru,PER,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,540,,,,802,,4884,,,0
+H3,2011,2011,2011,4,0,2,Export,604,Peru,PER,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,69,,,,69,,676,,,0
+H3,2011,2011,2011,4,0,2,Export,604,Peru,PER,531,Curaçao,CUW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1,,,,3,,51,,,0
+H3,2011,2011,2011,4,0,2,Export,604,Peru,PER,533,Aruba,ABW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,849,,,,1298,,2286,,,0
+H3,2011,2011,2011,4,0,1,Import,604,Peru,PER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10509,,,,11446,,40502,,,0
+H3,2011,2011,2011,4,0,2,Export,604,Peru,PER,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,72,,,,201,,1274,,,0
+H3,2011,2011,2011,4,0,1,Import,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3574857,,,,887742,,3755347,,,0
+H3,2011,2011,2011,4,0,2,Export,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2700,,,,4890,,14400,,,0
+H3,2011,2011,2011,4,0,2,Export,604,Peru,PER,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,459,,,,1332,,3114,,,0
+H3,2011,2011,2011,4,0,2,Export,604,Peru,PER,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,90,,,,90,,590,,,0
+H3,2011,2011,2011,4,0,2,Export,604,Peru,PER,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,990,,,,2889,,9545,,,0
+H3,2011,2011,2011,4,0,1,Import,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,63559,,,,124126,,314451,,,0
+H3,2011,2011,2011,4,0,2,Export,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,141920,,,,208921,,524784,,,0
+H3,2011,2011,2011,4,0,1,Import,604,Peru,PER,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2326,,,,2376,,15877,,,0
+H5,2017,2017,2017,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9641515,,,,11258991,,36788749,,,0
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,247223,,,,381530,,1168728,,,0
+H5,2017,2017,2017,4,0,1,Import,604,Peru,PER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3931755,,,,4095488,,14334838,,,0
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10,,,,27,,508,,,0
+H5,2017,2017,2017,4,0,1,Import,604,Peru,PER,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8006,,,,11703,,82090,,,0
+H5,2017,2017,2017,4,0,1,Import,604,Peru,PER,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1246,,,,1361,,12716,,,0
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4113,,,,7010,,22202,,,0
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3118,,,,5013,,15014,,,0
+H5,2017,2017,2017,4,0,1,Import,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3334138,,,,3943629,,8901786,,,0
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,228,,,,14919,,49769,,,0
+H5,2017,2017,2017,4,0,1,Import,604,Peru,PER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45192,,,,45192,,32109,,,0
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7965,,,,6966,,44831,,,0
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6615,,,,7542,,25927,,,0
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90,,,,171,,949,,,0
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,180,,,,323,,4800,,,0
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,214,Dominican Rep.,DOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36,,,,53,,440,,,0
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,72,,,,86,,272,,,0
+H5,2017,2017,2017,4,0,1,Import,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,114591,,,,144025,,2138616,,,0
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2869,,,,3813,,13458,,,0
+H5,2017,2017,2017,4,0,1,Import,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,34956,,,,34811,,144999,,,0
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19459,,,,30838,,93706,,,0
+H5,2017,2017,2017,4,0,1,Import,604,Peru,PER,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,264,,,,268,,10942,,,0
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,360,Indonesia,IDN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24,,,,24,,49,,,0
+H5,2017,2017,2017,4,0,1,Import,604,Peru,PER,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1170,,,,954,,3537,,,0
+H5,2017,2017,2017,4,0,1,Import,604,Peru,PER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,894349,,,,1585538,,4692135,,,0
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,450,,,,412,,2228,,,0
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6171,,,,10620,,36688,,,0
+H5,2017,2017,2017,4,0,1,Import,604,Peru,PER,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,157,,,,157,,4290,,,0
+H5,2017,2017,2017,4,0,1,Import,604,Peru,PER,499,Montenegro,MNE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,540,,,,893,,3915,,,0
+H5,2017,2017,2017,4,0,1,Import,604,Peru,PER,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2902,,,,3284,,38247,,,0
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,225,,,,213,,1375,,,0
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3690,,,,2631,,8000,,,0
+H5,2017,2017,2017,4,0,1,Import,604,Peru,PER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,26956,,,,33751,,151905,,,0
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19,,,,19,,63,,,0
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45,,,,45,,1119,,,0
+H5,2017,2017,2017,4,0,1,Import,604,Peru,PER,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12460,,,,20558,,92515,,,0
+H5,2017,2017,2017,4,0,1,Import,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1223614,,,,1326066,,5915981,,,0
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3314,,,,4968,,15748,,,0
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1788,,,,3183,,9697,,,0
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20394,,,,34745,,100731,,,0
+H5,2017,2017,2017,4,0,1,Import,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7293,,,,9424,,210172,,,0
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,166344,,,,247898,,721145,,,0
+H5,2017,2017,2017,4,0,1,Import,604,Peru,PER,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1921,,,,1882,,17946,,,0
+H5,2018,2018,2018,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10636660,,,,11635827,,37954921,,,6
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,297751,,,,435800,,1250098,,,0
+H5,2018,2018,2018,4,0,1,Import,604,Peru,PER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5434040,,,,5505573,,15466093,,,0
+H5,2018,2018,2018,4,0,1,Import,604,Peru,PER,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7337,,,,11598,,87132,,,0
+H5,2018,2018,2018,4,0,1,Import,604,Peru,PER,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1125,,,,1125,,13229,,,0
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,810,,,,975,,4240,,,0
+H5,2018,2018,2018,4,0,1,Import,604,Peru,PER,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1665,,,,1610,,4651,,,0
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,40,,,,89,,630,,,0
+H5,2018,2018,2018,4,0,1,Import,604,Peru,PER,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,877,,,,1651,,10037,,,0
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3474,,,,5682,,21350,,,0
+H5,2018,2018,2018,4,0,1,Import,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2881324,,,,3072304,,8265899,,,0
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,303,,,,411,,6995,,,0
+H5,2018,2018,2018,4,0,1,Import,604,Peru,PER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,62092,,,,63772,,45996,,,0
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11915,,,,20818,,85772,,,0
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10692,,,,10845,,29755,,,0
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,117,,,,234,,2313,,,0
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7,,,,7,,10,,,0
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1512,,,,2721,,8915,,,0
+H5,2018,2018,2018,4,0,1,Import,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,122716,,,,167381,,1928056,,,0
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10557,,,,15255,,47890,,,0
+H5,2018,2018,2018,4,0,1,Import,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18234,,,,18234,,92768,,,0
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10773,,,,18502,,47466,,,0
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,216,,,,903,,4959,,,0
+H5,2018,2018,2018,4,0,1,Import,604,Peru,PER,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,369,,,,362,,11833,,,0
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,360,Indonesia,IDN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,54,,,,90,,528,,,0
+H5,2018,2018,2018,4,0,1,Import,604,Peru,PER,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,720,,,,582,,2397,,,0
+H5,2018,2018,2018,4,0,1,Import,604,Peru,PER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,845017,,,,1382020,,4753456,,,0
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,72,,,,72,,11346,,,0
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10489,,,,17043,,58954,,,0
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6,,,,6,,24,,,0
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4599,,,,6773,,17642,,,0
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1417,,,,2726,,6741,,,0
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,533,Aruba,ABW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,612,,,,994,,3454,,,0
+H5,2018,2018,2018,4,0,1,Import,604,Peru,PER,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1192,,,,1341,,21205,,,0
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,180,,,,249,,1100,,,0
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5072,,,,7328,,23694,,,0
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9463,,,,11700,,35853,,,0
+H5,2018,2018,2018,4,0,1,Import,604,Peru,PER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,27037,,,,35865,,119039,,,0
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7,,,,5,,50,,,0
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9,,,,9,,408,,,0
+H5,2018,2018,2018,4,0,1,Import,604,Peru,PER,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1719,,,,2106,,9553,,,0
+H5,2018,2018,2018,4,0,1,Import,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1208021,,,,1339599,,6705657,,,6
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,900,,,,887,,3755,,,0
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,759,,,,653,,3935,,,0
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13,,,,17,,104,,,0
+H5,2018,2018,2018,4,0,1,Import,604,Peru,PER,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36,,,,142,,5259,,,0
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10179,,,,17977,,42307,,,0
+H5,2018,2018,2018,4,0,1,Import,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20097,,,,27480,,385810,,,0
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,203047,,,,292230,,776117,,,0
+H5,2018,2018,2018,4,0,1,Import,604,Peru,PER,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3037,,,,3075,,26842,,,0
+H5,2018,2018,2018,4,0,2,Export,604,Peru,PER,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,452,,,,587,,3780,,,0
+H5,2019,2019,2019,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9689818,,,,10871793,,37465410,,,0
+H5,2019,2019,2019,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,326281,,,,417945,,1305346,,,0
+H5,2019,2019,2019,4,0,1,Import,604,Peru,PER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4022519,,,,4286408,,14373545,,,0
+H5,2019,2019,2019,4,0,1,Import,604,Peru,PER,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3708,,,,5857,,21312,,,0
+H5,2019,2019,2019,4,0,1,Import,604,Peru,PER,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,832,,,,832,,8690,,,0
+H5,2019,2019,2019,4,0,2,Export,604,Peru,PER,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1260,,,,1325,,5278,,,0
+H5,2019,2019,2019,4,0,1,Import,604,Peru,PER,68,Bolivia (Plurinational State of),BOL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,135,,,,135,,2198,,,0
+H5,2019,2019,2019,4,0,1,Import,604,Peru,PER,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5701,,,,5745,,12071,,,0
+H5,2019,2019,2019,4,0,2,Export,604,Peru,PER,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,74,,,,78,,329,,,0
+H5,2019,2019,2019,4,0,1,Import,604,Peru,PER,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,243,,,,497,,2629,,,0
+H5,2019,2019,2019,4,0,2,Export,604,Peru,PER,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1305,,,,1210,,4310,,,0
+H5,2019,2019,2019,4,0,1,Import,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3104336,,,,3166106,,8497393,,,0
+H5,2019,2019,2019,4,0,1,Import,604,Peru,PER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,30478,,,,30478,,21874,,,0
+H5,2019,2019,2019,4,0,2,Export,604,Peru,PER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14067,,,,17159,,123464,,,0
+H5,2019,2019,2019,4,0,2,Export,604,Peru,PER,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2403,,,,3711,,9315,,,0
+H5,2019,2019,2019,4,0,2,Export,604,Peru,PER,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,21,,,,66,,717,,,0
+H5,2019,2019,2019,4,0,2,Export,604,Peru,PER,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3096,,,,6152,,18089,,,0
+H5,2019,2019,2019,4,0,1,Import,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,124551,,,,182484,,1769161,,,0
+H5,2019,2019,2019,4,0,2,Export,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25092,,,,42163,,116133,,,0
+H5,2019,2019,2019,4,0,1,Import,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17355,,,,17592,,67418,,,0
+H5,2019,2019,2019,4,0,2,Export,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6228,,,,7809,,23835,,,0
+H5,2019,2019,2019,4,0,1,Import,604,Peru,PER,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,556,,,,553,,15256,,,0
+H5,2019,2019,2019,4,0,1,Import,604,Peru,PER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,943018,,,,1576006,,5282266,,,0
+H5,2019,2019,2019,4,0,2,Export,604,Peru,PER,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4314,,,,3949,,27353,,,0
+H5,2019,2019,2019,4,0,2,Export,604,Peru,PER,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,450,,,,784,,4731,,,0
+H5,2019,2019,2019,4,0,1,Import,604,Peru,PER,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,141,,,,141,,5139,,,0
+H5,2019,2019,2019,4,0,2,Export,604,Peru,PER,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2286,,,,3199,,10368,,,0
+H5,2019,2019,2019,4,0,1,Import,604,Peru,PER,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45,,,,45,,1079,,,0
+H5,2019,2019,2019,4,0,2,Export,604,Peru,PER,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2472,,,,4020,,11206,,,0
+H5,2019,2019,2019,4,0,2,Export,604,Peru,PER,533,Aruba,ABW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,499,,,,873,,2661,,,0
+H5,2019,2019,2019,4,0,1,Import,604,Peru,PER,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1309,,,,1698,,19434,,,0
+H5,2019,2019,2019,4,0,2,Export,604,Peru,PER,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5481,,,,7718,,20619,,,0
+H5,2019,2019,2019,4,0,1,Import,604,Peru,PER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,27604,,,,38166,,136799,,,0
+H5,2019,2019,2019,4,0,2,Export,604,Peru,PER,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9,,,,23,,210,,,0
+H5,2019,2019,2019,4,0,1,Import,604,Peru,PER,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7816,,,,11937,,46013,,,0
+H5,2019,2019,2019,4,0,1,Import,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1376384,,,,1515744,,6809364,,,0
+H5,2019,2019,2019,4,0,2,Export,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5349,,,,3387,,14595,,,0
+H5,2019,2019,2019,4,0,2,Export,604,Peru,PER,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,35,,,,81,,147,,,0
+H5,2019,2019,2019,4,0,2,Export,604,Peru,PER,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,675,,,,1159,,3974,,,0
+H5,2019,2019,2019,4,0,2,Export,604,Peru,PER,800,Uganda,UGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13,,,,13,,142,,,0
+H5,2019,2019,2019,4,0,2,Export,604,Peru,PER,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25964,,,,15827,,34966,,,0
+H5,2019,2019,2019,4,0,1,Import,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18941,,,,24963,,337282,,,0
+H5,2019,2019,2019,4,0,2,Export,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,173441,,,,224456,,683000,,,0
+H5,2019,2019,2019,4,0,1,Import,604,Peru,PER,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4140,,,,6398,,36476,,,0
+H5,2019,2019,2019,4,0,2,Export,604,Peru,PER,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,51744,,,,72774,,189895,,,0
+H4,2015,2015,2015,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9516590,,,,10756454,,33635502,,,0
+H4,2015,2015,2015,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,193467,,,,295880,,839105,,,0
+H4,2015,2015,2015,4,0,1,Import,604,Peru,PER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3960248,,,,4169226,,12702744,,,0
+H4,2015,2015,2015,4,0,2,Export,604,Peru,PER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45,,,,8,,64,,,0
+H4,2015,2015,2015,4,0,1,Import,604,Peru,PER,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4518,,,,7263,,27397,,,0
+H4,2015,2015,2015,4,0,2,Export,604,Peru,PER,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,21,,,,21,,341,,,0
+H4,2015,2015,2015,4,0,2,Export,604,Peru,PER,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2043,,,,2046,,4677,,,0
+H4,2015,2015,2015,4,0,1,Import,604,Peru,PER,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18,,,,18,,454,,,0
+H4,2015,2015,2015,4,0,2,Export,604,Peru,PER,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,94,,,,91,,1074,,,0
+H4,2015,2015,2015,4,0,2,Export,604,Peru,PER,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3375,,,,5648,,22196,,,0
+H4,2015,2015,2015,4,0,1,Import,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3510205,,,,3711688,,8208440,,,0
+H4,2015,2015,2015,4,0,2,Export,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5953,,,,6715,,23440,,,0
+H4,2015,2015,2015,4,0,2,Export,604,Peru,PER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,388,,,,441,,4768,,,0
+H4,2015,2015,2015,4,0,2,Export,604,Peru,PER,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2443,,,,3215,,10637,,,0
+H4,2015,2015,2015,4,0,2,Export,604,Peru,PER,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,63,,,,133,,937,,,0
+H4,2015,2015,2015,4,0,2,Export,604,Peru,PER,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2025,,,,3960,,9531,,,0
+H4,2015,2015,2015,4,0,1,Import,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,107845,,,,127405,,1611542,,,0
+H4,2015,2015,2015,4,0,2,Export,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9,,,,22,,160,,,0
+H4,2015,2015,2015,4,0,1,Import,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,32239,,,,32239,,141296,,,0
+H4,2015,2015,2015,4,0,2,Export,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15730,,,,25063,,69250,,,0
+H4,2015,2015,2015,4,0,2,Export,604,Peru,PER,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,81,,,,172,,424,,,0
+H4,2015,2015,2015,4,0,2,Export,604,Peru,PER,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,120,,,,250,,387,,,0
+H4,2015,2015,2015,4,0,1,Import,604,Peru,PER,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,276,,,,281,,9687,,,0
+H4,2015,2015,2015,4,0,1,Import,604,Peru,PER,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2907,,,,3662,,7031,,,0
+H4,2015,2015,2015,4,0,1,Import,604,Peru,PER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,864754,,,,1564120,,5349316,,,0
+H4,2015,2015,2015,4,0,2,Export,604,Peru,PER,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9225,,,,12228,,55833,,,0
+H4,2015,2015,2015,4,0,2,Export,604,Peru,PER,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,81,,,,81,,854,,,0
+H4,2015,2015,2015,4,0,2,Export,604,Peru,PER,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3384,,,,4080,,12288,,,0
+H4,2015,2015,2015,4,0,2,Export,604,Peru,PER,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,135,,,,120,,694,,,0
+H4,2015,2015,2015,4,0,1,Import,604,Peru,PER,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1089,,,,1192,,24880,,,0
+H4,2015,2015,2015,4,0,2,Export,604,Peru,PER,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,180,,,,166,,720,,,0
+H4,2015,2015,2015,4,0,2,Export,604,Peru,PER,600,Paraguay,PRY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36,,,,36,,574,,,0
+H4,2015,2015,2015,4,0,1,Import,604,Peru,PER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17102,,,,19913,,85825,,,0
+H4,2015,2015,2015,4,0,1,Import,604,Peru,PER,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10233,,,,10784,,61904,,,0
+H4,2015,2015,2015,4,0,1,Import,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,962588,,,,1054529,,5100046,,,0
+H4,2015,2015,2015,4,0,2,Export,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45,,,,73,,764,,,0
+H4,2015,2015,2015,4,0,2,Export,604,Peru,PER,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,121,,,,87,,288,,,0
+H4,2015,2015,2015,4,0,2,Export,604,Peru,PER,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,864,,,,1338,,6485,,,0
+H4,2015,2015,2015,4,0,2,Export,604,Peru,PER,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,715,,,,962,,4017,,,0
+H4,2015,2015,2015,4,0,1,Import,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,41305,,,,52870,,296793,,,0
+H4,2015,2015,2015,4,0,2,Export,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,146170,,,,228755,,607972,,,0
+H4,2015,2015,2015,4,0,1,Import,604,Peru,PER,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1260,,,,1260,,8139,,,0
+H4,2015,2015,2015,4,0,2,Export,604,Peru,PER,862,Venezuela,VEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,117,,,,161,,719,,,0
+H4,2016,2016,2016,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8439823,,,,9270049,,31681664,,,0
+H4,2016,2016,2016,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,224611,,,,310618,,911556,,,0
+H4,2016,2016,2016,4,0,1,Import,604,Peru,PER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3286518,,,,3400876,,12186039,,,0
+H4,2016,2016,2016,4,0,1,Import,604,Peru,PER,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4855,,,,8242,,52929,,,0
+H4,2016,2016,2016,4,0,2,Export,604,Peru,PER,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,81,,,,81,,1320,,,0
+H4,2016,2016,2016,4,0,1,Import,604,Peru,PER,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1406,,,,3039,,25970,,,0
+H4,2016,2016,2016,4,0,2,Export,604,Peru,PER,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1407,,,,1865,,8612,,,0
+H4,2016,2016,2016,4,0,2,Export,604,Peru,PER,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36,,,,57,,266,,,0
+H4,2016,2016,2016,4,0,2,Export,604,Peru,PER,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6607,,,,5136,,28715,,,0
+H4,2016,2016,2016,4,0,1,Import,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3357498,,,,3471252,,8666717,,,0
+H4,2016,2016,2016,4,0,2,Export,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,301,,,,281,,1133,,,0
+H4,2016,2016,2016,4,0,1,Import,604,Peru,PER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45237,,,,45237,,33502,,,0
+H4,2016,2016,2016,4,0,2,Export,604,Peru,PER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45,,,,45,,497,,,0
+H4,2016,2016,2016,4,0,2,Export,604,Peru,PER,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4549,,,,7664,,22399,,,0
+H4,2016,2016,2016,4,0,2,Export,604,Peru,PER,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18,,,,10,,133,,,0
+H4,2016,2016,2016,4,0,2,Export,604,Peru,PER,218,Ecuador,ECU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90,,,,99,,669,,,0
+H4,2016,2016,2016,4,0,2,Export,604,Peru,PER,222,El Salvador,SLV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4167,,,,4957,,17404,,,0
+H4,2016,2016,2016,4,0,2,Export,604,Peru,PER,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22,,,,22,,60,,,0
+H4,2016,2016,2016,4,0,1,Import,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,88209,,,,109875,,1697175,,,0
+H4,2016,2016,2016,4,0,2,Export,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2674,,,,2746,,16520,,,0
+H4,2016,2016,2016,4,0,1,Import,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10222,,,,11139,,80368,,,0
+H4,2016,2016,2016,4,0,2,Export,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12739,,,,15849,,50620,,,0
+H4,2016,2016,2016,4,0,1,Import,604,Peru,PER,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,184,,,,186,,7325,,,0
+H4,2016,2016,2016,4,0,1,Import,604,Peru,PER,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,819,,,,1357,,1587,,,0
+H4,2016,2016,2016,4,0,1,Import,604,Peru,PER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,684242,,,,1168990,,4067812,,,0
+H4,2016,2016,2016,4,0,2,Export,604,Peru,PER,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6705,,,,9522,,34654,,,0
+H4,2016,2016,2016,4,0,2,Export,604,Peru,PER,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,431,,480,,,0
+H4,2016,2016,2016,4,0,2,Export,604,Peru,PER,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,162,,,,162,,2719,,,0
+H4,2016,2016,2016,4,0,1,Import,604,Peru,PER,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,846,,,,848,,15951,,,0
+H4,2016,2016,2016,4,0,2,Export,604,Peru,PER,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13509,,,,22654,,38381,,,0
+H4,2016,2016,2016,4,0,2,Export,604,Peru,PER,600,Paraguay,PRY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36,,,,54,,472,,,0
+H4,2016,2016,2016,4,0,1,Import,604,Peru,PER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12920,,,,14943,,61035,,,0
+H4,2016,2016,2016,4,0,1,Import,604,Peru,PER,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7731,,,,8290,,28611,,,0
+H4,2016,2016,2016,4,0,1,Import,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,903650,,,,982400,,4421746,,,0
+H4,2016,2016,2016,4,0,2,Export,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,243,,,,1002,,3121,,,0
+H4,2016,2016,2016,4,0,2,Export,604,Peru,PER,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1737,,,,2137,,8678,,,0
+H4,2016,2016,2016,4,0,2,Export,604,Peru,PER,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,306,,,,498,,3974,,,0
+H4,2016,2016,2016,4,0,2,Export,604,Peru,PER,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90,,,,90,,590,,,0
+H4,2016,2016,2016,4,0,1,Import,604,Peru,PER,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2615,,,,3176,,9580,,,0
+H4,2016,2016,2016,4,0,2,Export,604,Peru,PER,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2407,,,,3371,,12037,,,0
+H4,2016,2016,2016,4,0,1,Import,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,28372,,,,35110,,292086,,,0
+H4,2016,2016,2016,4,0,2,Export,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,166511,,,,231701,,657273,,,0
+H4,2016,2016,2016,4,0,1,Import,604,Peru,PER,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4492,,,,5081,,33222,,,0
+H4,2016,2016,2016,4,0,2,Export,604,Peru,PER,862,Venezuela,VEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,162,,,,173,,820,,,0
+H5,2020,2020,2020,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8550400,,,,9715361,,33873650,,,0
+H5,2020,2020,2020,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,251376,,,,334246,,969487,,,0
+H5,2020,2020,2020,4,0,1,Import,604,Peru,PER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3698508,,,,3871301,,13136039,,,0
+H5,2020,2020,2020,4,0,1,Import,604,Peru,PER,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1714,,,,2539,,12995,,,0
+H5,2020,2020,2020,4,0,1,Import,604,Peru,PER,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,594,,,,1092,,15741,,,0
+H5,2020,2020,2020,4,0,1,Import,604,Peru,PER,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1371,,,,1403,,4166,,,0
+H5,2020,2020,2020,4,0,2,Export,604,Peru,PER,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6561,,,,10802,,28207,,,0
+H5,2020,2020,2020,4,0,1,Import,604,Peru,PER,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4500,,,,4500,,8515,,,0
+H5,2020,2020,2020,4,0,2,Export,604,Peru,PER,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2277,,,,3324,,10507,,,0
+H5,2020,2020,2020,4,0,1,Import,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2522118,,,,2635922,,7469636,,,0
+H5,2020,2020,2020,4,0,2,Export,604,Peru,PER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,262,,,,282,,916,,,0
+H5,2020,2020,2020,4,0,1,Import,604,Peru,PER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,23427,,,,23427,,14909,,,0
+H5,2020,2020,2020,4,0,2,Export,604,Peru,PER,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3069,,,,4826,,13107,,,0
+H5,2020,2020,2020,4,0,1,Import,604,Peru,PER,191,Croatia,HRV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,792,,,,792,,6477,,,0
+H5,2020,2020,2020,4,0,1,Import,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,133493,,,,172885,,1594910,,,0
+H5,2020,2020,2020,4,0,2,Export,604,Peru,PER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5562,,,,9331,,27207,,,0
+H5,2020,2020,2020,4,0,1,Import,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15912,,,,16548,,57690,,,0
+H5,2020,2020,2020,4,0,2,Export,604,Peru,PER,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7758,,,,13179,,33717,,,0
+H5,2020,2020,2020,4,0,1,Import,604,Peru,PER,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,27,,,,27,,3262,,,0
+H5,2020,2020,2020,4,0,1,Import,604,Peru,PER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,909337,,,,1542190,,4579551,,,0
+H5,2020,2020,2020,4,0,2,Export,604,Peru,PER,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9243,,,,13586,,54476,,,0
+H5,2020,2020,2020,4,0,2,Export,604,Peru,PER,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1350,,,,2068,,4876,,,0
+H5,2020,2020,2020,4,0,2,Export,604,Peru,PER,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,0,,,,0,,5,,,0
+H5,2020,2020,2020,4,0,1,Import,604,Peru,PER,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1298,,,,2014,,22044,,,0
+H5,2020,2020,2020,4,0,2,Export,604,Peru,PER,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,126,,,,158,,770,,,0
+H5,2020,2020,2020,4,0,2,Export,604,Peru,PER,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2709,,,,4029,,9545,,,0
+H5,2020,2020,2020,4,0,1,Import,604,Peru,PER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,28175,,,,35833,,114388,,,0
+H5,2020,2020,2020,4,0,1,Import,604,Peru,PER,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4050,,,,4447,,18130,,,0
+H5,2020,2020,2020,4,0,1,Import,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1160209,,,,1332333,,6283072,,,0
+H5,2020,2020,2020,4,0,2,Export,604,Peru,PER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,751,,,,755,,3172,,,0
+H5,2020,2020,2020,4,0,2,Export,604,Peru,PER,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3288,,,,4972,,16312,,,0
+H5,2020,2020,2020,4,0,2,Export,604,Peru,PER,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2173,,,,4076,,10345,,,0
+H5,2020,2020,2020,4,0,1,Import,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,44565,,,,67490,,527346,,,0
+H5,2020,2020,2020,4,0,2,Export,604,Peru,PER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,187512,,,,241953,,699215,,,0
+H5,2020,2020,2020,4,0,1,Import,604,Peru,PER,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,306,,,,612,,4772,,,0
+H5,2020,2020,2020,4,0,2,Export,604,Peru,PER,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18733,,,,20900,,57105,,,0

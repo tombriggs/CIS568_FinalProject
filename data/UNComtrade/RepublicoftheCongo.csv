@@ -1,0 +1,371 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2007,2007,2007,4,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3764355,,,,3764355,,2471198,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,249623,,,,249623,,1838690,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9344,,,,9344,,81776,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,20,Andorra,AND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13713,,,,13713,,99970,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,24,Angola,AGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2101,,,,2101,,16086,,,2
+H2,2007,2007,2007,4,0,1,Import,178,Congo,COG,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,215,,,,215,,3330,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,58343,,,,58343,,336562,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,72,Botswana,BWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,55,,,,55,,689,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2372,,,,2372,,16840,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1396,,,,1396,,9585,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,108,Burundi,BDI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,312,,,,312,,3916,,,2
+H2,2007,2007,2007,4,0,1,Import,178,Congo,COG,120,Cameroon,CMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,418766,,,,418766,,221966,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,120,Cameroon,CMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1901,,,,1901,,14068,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,140,Central African Rep.,CAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9351,,,,9351,,83695,,,2
+H2,2007,2007,2007,4,0,1,Import,178,Congo,COG,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,981,,,,981,,225,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3823,,,,3823,,27670,,,2
+H2,2007,2007,2007,4,0,1,Import,178,Congo,COG,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,338,,,,338,,176,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6677,,,,6677,,52161,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1489,,,,1489,,9314,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,204,Benin,BEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2224,,,,2224,,16275,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1782,,,,1782,,13788,,,2
+H2,2007,2007,2007,4,0,1,Import,178,Congo,COG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,449304,,,,449304,,672861,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,29245,,,,29245,,273459,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,262,Djibouti,DJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3693,,,,3693,,21603,,,2
+H2,2007,2007,2007,4,0,1,Import,178,Congo,COG,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,493341,,,,493341,,489198,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4161,,,,4161,,30479,,,2
+H2,2007,2007,2007,4,0,1,Import,178,Congo,COG,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1003,,,,1003,,6556,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8368,,,,8368,,63357,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,288,Ghana,GHA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,506,,,,506,,4370,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,360,Indonesia,IDN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1653,,,,1653,,12506,,,2
+H2,2007,2007,2007,4,0,1,Import,178,Congo,COG,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4134,,,,4134,,13169,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10699,,,,10699,,85869,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4834,,,,4834,,33733,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,430,Liberia,LBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1044,,,,1044,,8354,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,434,Libya,LBY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4727,,,,4727,,35004,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,466,Mali,MLI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1000,,,,1000,,7335,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,103,,,,103,,1096,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1745,,,,1745,,18610,,,2
+H2,2007,2007,2007,4,0,1,Import,178,Congo,COG,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,243206,,,,243206,,110597,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17249,,,,17249,,135772,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,646,Rwanda,RWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,533,,,,533,,3258,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2920,,,,2920,,23605,,,2
+H2,2007,2007,2007,4,0,1,Import,178,Congo,COG,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,32,,,,32,,97,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11710,,,,11710,,86012,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,494,,,,494,,3016,,,2
+H2,2007,2007,2007,4,0,1,Import,178,Congo,COG,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2153034,,,,2153034,,953023,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20555,,,,20555,,141658,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,855,,,,855,,7013,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2018,,,,2018,,14293,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1319,,,,1319,,9202,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,756,,,,756,,6434,,,2
+H2,2007,2007,2007,4,0,2,Export,178,Congo,COG,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4555,,,,4555,,30259,,,2
+H2,2008,2008,2008,4,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4995473,,,,4995473,,4038250,,,2
+H2,2008,2008,2008,4,0,2,Export,178,Congo,COG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,520157,,,,520157,,3787310,,,2
+H2,2008,2008,2008,4,0,2,Export,178,Congo,COG,24,Angola,AGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5772,,,,5772,,36605,,,2
+H2,2008,2008,2008,4,0,1,Import,178,Congo,COG,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14633,,,,14633,,16226,,,2
+H2,2008,2008,2008,4,0,2,Export,178,Congo,COG,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16523,,,,16523,,127066,,,2
+H2,2008,2008,2008,4,0,2,Export,178,Congo,COG,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,577,,,,577,,4774,,,2
+H2,2008,2008,2008,4,0,2,Export,178,Congo,COG,108,Burundi,BDI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,416,,,,416,,2130,,,2
+H2,2008,2008,2008,4,0,1,Import,178,Congo,COG,120,Cameroon,CMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,721707,,,,721707,,182096,,,2
+H2,2008,2008,2008,4,0,2,Export,178,Congo,COG,120,Cameroon,CMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2722,,,,2722,,16499,,,2
+H2,2008,2008,2008,4,0,2,Export,178,Congo,COG,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5085,,,,5085,,35952,,,2
+H2,2008,2008,2008,4,0,1,Import,178,Congo,COG,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,170,,,,170,,204,,,2
+H2,2008,2008,2008,4,0,2,Export,178,Congo,COG,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18135,,,,18135,,196891,,,2
+H2,2008,2008,2008,4,0,2,Export,178,Congo,COG,204,Benin,BEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,351,,,,351,,2121,,,2
+H2,2008,2008,2008,4,0,1,Import,178,Congo,COG,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,795,,,,795,,1357,,,2
+H2,2008,2008,2008,4,0,1,Import,178,Congo,COG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,463958,,,,463958,,1314393,,,2
+H2,2008,2008,2008,4,0,2,Export,178,Congo,COG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,307691,,,,307691,,2114430,,,2
+H2,2008,2008,2008,4,0,1,Import,178,Congo,COG,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,735599,,,,735599,,947979,,,2
+H2,2008,2008,2008,4,0,1,Import,178,Congo,COG,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,443,,,,443,,1922,,,2
+H2,2008,2008,2008,4,0,1,Import,178,Congo,COG,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18669,,,,18669,,30108,,,2
+H2,2008,2008,2008,4,0,2,Export,178,Congo,COG,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12631,,,,12631,,84225,,,2
+H2,2008,2008,2008,4,0,2,Export,178,Congo,COG,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11742,,,,11742,,89786,,,2
+H2,2008,2008,2008,4,0,2,Export,178,Congo,COG,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20565,,,,20565,,185367,,,2
+H2,2008,2008,2008,4,0,1,Import,178,Congo,COG,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,478667,,,,478667,,244056,,,2
+H2,2008,2008,2008,4,0,2,Export,178,Congo,COG,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22187,,,,22187,,143872,,,2
+H2,2008,2008,2008,4,0,1,Import,178,Congo,COG,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11607,,,,11607,,19894,,,2
+H2,2008,2008,2008,4,0,2,Export,178,Congo,COG,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15179,,,,15179,,118218,,,2
+H2,2008,2008,2008,4,0,1,Import,178,Congo,COG,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2529081,,,,2529081,,1270320,,,2
+H2,2008,2008,2008,4,0,2,Export,178,Congo,COG,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15756,,,,15756,,181173,,,2
+H2,2008,2008,2008,4,0,1,Import,178,Congo,COG,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20142,,,,20142,,9696,,,2
+H2,2008,2008,2008,4,0,2,Export,178,Congo,COG,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,62933,,,,62933,,435847,,,2
+H2,2008,2008,2008,4,0,2,Export,178,Congo,COG,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1315,,,,1315,,8283,,,2
+H2,2008,2008,2008,4,0,2,Export,178,Congo,COG,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,302,,,,302,,2664,,,2
+H2,2008,2008,2008,4,0,2,Export,178,Congo,COG,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,275,,,,275,,1407,,,2
+H2,2009,2009,2009,4,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4688384,,,,4688384,,4321014,,,2
+H2,2009,2009,2009,4,0,2,Export,178,Congo,COG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,253775,,,,253775,,1986845,,,2
+H2,2009,2009,2009,4,0,1,Import,178,Congo,COG,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21977,,,,21977,,10870,,,2
+H2,2009,2009,2009,4,0,1,Import,178,Congo,COG,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,41970,,,,41970,,26061,,,2
+H2,2009,2009,2009,4,0,1,Import,178,Congo,COG,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,76976,,,,76976,,74294,,,2
+H2,2009,2009,2009,4,0,2,Export,178,Congo,COG,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,82999,,,,82999,,586658,,,2
+H2,2009,2009,2009,4,0,1,Import,178,Congo,COG,120,Cameroon,CMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,178058,,,,178058,,77107,,,2
+H2,2009,2009,2009,4,0,1,Import,178,Congo,COG,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3148,,,,3148,,4481,,,2
+H2,2009,2009,2009,4,0,1,Import,178,Congo,COG,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4836,,,,4836,,2840,,,2
+H2,2009,2009,2009,4,0,1,Import,178,Congo,COG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,671313,,,,671313,,932301,,,2
+H2,2009,2009,2009,4,0,2,Export,178,Congo,COG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,151413,,,,151413,,1206332,,,2
+H2,2009,2009,2009,4,0,1,Import,178,Congo,COG,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,830150,,,,830150,,1277199,,,2
+H2,2009,2009,2009,4,0,1,Import,178,Congo,COG,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,77932,,,,77932,,111879,,,2
+H2,2009,2009,2009,4,0,1,Import,178,Congo,COG,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3997,,,,3997,,3112,,,2
+H2,2009,2009,2009,4,0,1,Import,178,Congo,COG,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16837,,,,16837,,34437,,,2
+H2,2009,2009,2009,4,0,2,Export,178,Congo,COG,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2113,,,,2113,,23123,,,2
+H2,2009,2009,2009,4,0,2,Export,178,Congo,COG,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5151,,,,5151,,55278,,,2
+H2,2009,2009,2009,4,0,1,Import,178,Congo,COG,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17571,,,,17571,,12202,,,2
+H2,2009,2009,2009,4,0,2,Export,178,Congo,COG,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,982,,,,982,,9466,,,2
+H2,2009,2009,2009,4,0,1,Import,178,Congo,COG,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,371835,,,,371835,,219147,,,2
+H2,2009,2009,2009,4,0,1,Import,178,Congo,COG,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,162100,,,,162100,,209084,,,2
+H2,2009,2009,2009,4,0,1,Import,178,Congo,COG,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,41399,,,,41399,,65466,,,2
+H2,2009,2009,2009,4,0,1,Import,178,Congo,COG,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2166782,,,,2166782,,1259384,,,2
+H2,2009,2009,2009,4,0,2,Export,178,Congo,COG,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11116,,,,11116,,105989,,,2
+H2,2009,2009,2009,4,0,1,Import,178,Congo,COG,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1506,,,,1506,,1149,,,2
+H4,2014,2014,2014,4,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4188152,,,,4188152,,8608486,,,2
+H4,2014,2014,2014,4,0,2,Export,178,Congo,COG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,507346,,,,507346,,5155071,,,2
+H4,2014,2014,2014,4,0,1,Import,178,Congo,COG,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,30833,,,,30833,,181860,,,2
+H4,2014,2014,2014,4,0,1,Import,178,Congo,COG,120,Cameroon,CMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,46792,,,,46792,,8223,,,2
+H4,2014,2014,2014,4,0,1,Import,178,Congo,COG,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,23503,,,,23503,,14362,,,2
+H4,2014,2014,2014,4,0,1,Import,178,Congo,COG,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20155,,,,20155,,13042,,,2
+H4,2014,2014,2014,4,0,1,Import,178,Congo,COG,204,Benin,BEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,580,,,,580,,3037,,,2
+H4,2014,2014,2014,4,0,1,Import,178,Congo,COG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2098768,,,,2098768,,6464717,,,2
+H4,2014,2014,2014,4,0,2,Export,178,Congo,COG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,507346,,,,507346,,5155071,,,2
+H4,2014,2014,2014,4,0,1,Import,178,Congo,COG,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,208697,,,,208697,,341324,,,2
+H4,2014,2014,2014,4,0,1,Import,178,Congo,COG,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,73205,,,,73205,,154217,,,2
+H4,2014,2014,2014,4,0,1,Import,178,Congo,COG,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4117,,,,4117,,7260,,,2
+H4,2014,2014,2014,4,0,1,Import,178,Congo,COG,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13021,,,,13021,,226619,,,2
+H4,2014,2014,2014,4,0,1,Import,178,Congo,COG,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,75389,,,,75389,,77407,,,2
+H4,2014,2014,2014,4,0,1,Import,178,Congo,COG,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,65,,,,65,,1098,,,2
+H4,2014,2014,2014,4,0,1,Import,178,Congo,COG,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,78920,,,,78920,,206093,,,2
+H4,2014,2014,2014,4,0,1,Import,178,Congo,COG,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,34899,,,,34899,,103746,,,2
+H4,2014,2014,2014,4,0,1,Import,178,Congo,COG,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1466291,,,,1466291,,783869,,,2
+H4,2014,2014,2014,4,0,1,Import,178,Congo,COG,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11498,,,,11498,,6285,,,2
+H4,2014,2014,2014,4,0,1,Import,178,Congo,COG,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1361,,,,1361,,14355,,,2
+H4,2014,2014,2014,4,0,1,Import,178,Congo,COG,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,58,,,,58,,964,,,2
+H2,2010,2010,2010,4,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4944686,,,,4944686,,4456963,,,2
+H2,2010,2010,2010,4,0,2,Export,178,Congo,COG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,253521,,,,253521,,1885891,,,2
+H2,2010,2010,2010,4,0,1,Import,178,Congo,COG,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23178,,,,23178,,11212,,,2
+H2,2010,2010,2010,4,0,1,Import,178,Congo,COG,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,44264,,,,44264,,26881,,,2
+H2,2010,2010,2010,4,0,1,Import,178,Congo,COG,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,81184,,,,81184,,76632,,,2
+H2,2010,2010,2010,4,0,2,Export,178,Congo,COG,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,82916,,,,82916,,556849,,,2
+H2,2010,2010,2010,4,0,1,Import,178,Congo,COG,120,Cameroon,CMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,187792,,,,187792,,79533,,,2
+H2,2010,2010,2010,4,0,1,Import,178,Congo,COG,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3320,,,,3320,,4622,,,2
+H2,2010,2010,2010,4,0,1,Import,178,Congo,COG,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5100,,,,5100,,2930,,,2
+H2,2010,2010,2010,4,0,1,Import,178,Congo,COG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,708012,,,,708012,,961633,,,2
+H2,2010,2010,2010,4,0,2,Export,178,Congo,COG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,151262,,,,151262,,1145037,,,2
+H2,2010,2010,2010,4,0,1,Import,178,Congo,COG,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,875532,,,,875532,,1317382,,,2
+H2,2010,2010,2010,4,0,1,Import,178,Congo,COG,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,82192,,,,82192,,115399,,,2
+H2,2010,2010,2010,4,0,1,Import,178,Congo,COG,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4215,,,,4215,,3210,,,2
+H2,2010,2010,2010,4,0,1,Import,178,Congo,COG,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17757,,,,17757,,35521,,,2
+H2,2010,2010,2010,4,0,2,Export,178,Congo,COG,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2111,,,,2111,,21948,,,2
+H2,2010,2010,2010,4,0,2,Export,178,Congo,COG,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5146,,,,5146,,52469,,,2
+H2,2010,2010,2010,4,0,1,Import,178,Congo,COG,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18532,,,,18532,,12586,,,2
+H2,2010,2010,2010,4,0,2,Export,178,Congo,COG,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,981,,,,981,,8985,,,2
+H2,2010,2010,2010,4,0,1,Import,178,Congo,COG,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,392162,,,,392162,,226042,,,2
+H2,2010,2010,2010,4,0,1,Import,178,Congo,COG,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,170962,,,,170962,,215662,,,2
+H2,2010,2010,2010,4,0,1,Import,178,Congo,COG,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,43662,,,,43662,,67526,,,2
+H2,2010,2010,2010,4,0,1,Import,178,Congo,COG,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2285234,,,,2285234,,1299007,,,2
+H2,2010,2010,2010,4,0,2,Export,178,Congo,COG,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11105,,,,11105,,100604,,,2
+H2,2010,2010,2010,4,0,1,Import,178,Congo,COG,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1588,,,,1588,,1185,,,2
+H2,2011,2011,2011,4,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3847998,,,,3847998,,4846475,,,2
+H2,2011,2011,2011,4,0,2,Export,178,Congo,COG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,539760,,,,539760,,5017919,,,2
+H2,2011,2011,2011,4,0,1,Import,178,Congo,COG,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,24304,,,,24304,,9580,,,2
+H2,2011,2011,2011,4,0,1,Import,178,Congo,COG,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19090,,,,19090,,79616,,,2
+H2,2011,2011,2011,4,0,2,Export,178,Congo,COG,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,134303,,,,134303,,1436148,,,2
+H2,2011,2011,2011,4,0,2,Export,178,Congo,COG,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7763,,,,7763,,46778,,,2
+H2,2011,2011,2011,4,0,1,Import,178,Congo,COG,204,Benin,BEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1212,,,,1212,,1918,,,2
+H2,2011,2011,2011,4,0,1,Import,178,Congo,COG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1114008,,,,1114008,,2325278,,,2
+H2,2011,2011,2011,4,0,2,Export,178,Congo,COG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,286545,,,,286545,,2596117,,,2
+H2,2011,2011,2011,4,0,1,Import,178,Congo,COG,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,721911,,,,721911,,1140657,,,2
+H2,2011,2011,2011,4,0,1,Import,178,Congo,COG,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,40187,,,,40187,,137245,,,2
+H2,2011,2011,2011,4,0,2,Export,178,Congo,COG,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3142,,,,3142,,15641,,,2
+H2,2011,2011,2011,4,0,2,Export,178,Congo,COG,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,44425,,,,44425,,410523,,,2
+H2,2011,2011,2011,4,0,1,Import,178,Congo,COG,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,109443,,,,109443,,85550,,,2
+H2,2011,2011,2011,4,0,2,Export,178,Congo,COG,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14985,,,,14985,,112304,,,2
+H2,2011,2011,2011,4,0,1,Import,178,Congo,COG,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18551,,,,18551,,24665,,,2
+H2,2011,2011,2011,4,0,1,Import,178,Congo,COG,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1784470,,,,1784470,,1031287,,,2
+H2,2011,2011,2011,4,0,2,Export,178,Congo,COG,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,38618,,,,38618,,308331,,,2
+H2,2011,2011,2011,4,0,1,Import,178,Congo,COG,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9292,,,,9292,,4044,,,2
+H2,2011,2011,2011,4,0,1,Import,178,Congo,COG,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5530,,,,5530,,6636,,,2
+H2,2011,2011,2011,4,0,2,Export,178,Congo,COG,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9979,,,,9979,,92076,,,2
+H2,2012,2012,2012,4,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5650125,,,,5650125,,6449588,,,6
+H2,2012,2012,2012,4,0,2,Export,178,Congo,COG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,444168,,,,444168,,3784608,,,2
+H2,2012,2012,2012,4,0,1,Import,178,Congo,COG,24,Angola,AGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10200,,,,10200,,5676,,,2
+H2,2012,2012,2012,4,0,1,Import,178,Congo,COG,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,63660,,,,63660,,126939,,,2
+H2,2012,2012,2012,4,0,2,Export,178,Congo,COG,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,114327,,,,114327,,1087932,,,2
+H2,2012,2012,2012,4,0,1,Import,178,Congo,COG,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,312,,,,312,,368,,,2
+H2,2012,2012,2012,4,0,2,Export,178,Congo,COG,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,29439,,,,29439,,180443,,,2
+H2,2012,2012,2012,4,0,1,Import,178,Congo,COG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1629236,,,,1629236,,2926832,,,2
+H2,2012,2012,2012,4,0,2,Export,178,Congo,COG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,69371,,,,69371,,663038,,,2
+H2,2012,2012,2012,4,0,1,Import,178,Congo,COG,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,992966,,,,992966,,1585125,,,2
+H2,2012,2012,2012,4,0,2,Export,178,Congo,COG,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13364,,,,13364,,100221,,,2
+H2,2012,2012,2012,4,0,2,Export,178,Congo,COG,288,Ghana,GHA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1478,,,,1478,,27354,,,2
+H2,2012,2012,2012,4,0,1,Import,178,Congo,COG,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,63019,,,,63019,,134313,,,6
+H2,2012,2012,2012,4,0,2,Export,178,Congo,COG,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12711,,,,12711,,213090,,,2
+H2,2012,2012,2012,4,0,1,Import,178,Congo,COG,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1256,,,,1256,,2082,,,2
+H2,2012,2012,2012,4,0,2,Export,178,Congo,COG,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,53362,,,,53362,,390355,,,2
+H2,2012,2012,2012,4,0,1,Import,178,Congo,COG,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,147474,,,,147474,,110551,,,2
+H2,2012,2012,2012,4,0,2,Export,178,Congo,COG,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,28802,,,,28802,,208542,,,2
+H2,2012,2012,2012,4,0,1,Import,178,Congo,COG,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,47367,,,,47367,,37136,,,2
+H2,2012,2012,2012,4,0,1,Import,178,Congo,COG,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2667061,,,,2667061,,1508416,,,6
+H2,2012,2012,2012,4,0,2,Export,178,Congo,COG,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3315,,,,3315,,16629,,,2
+H2,2012,2012,2012,4,0,2,Export,178,Congo,COG,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,69122,,,,69122,,472497,,,2
+H2,2012,2012,2012,4,0,1,Import,178,Congo,COG,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4300,,,,4300,,1960,,,2
+H2,2012,2012,2012,4,0,2,Export,178,Congo,COG,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20389,,,,20389,,185372,,,2
+H2,2012,2012,2012,4,0,1,Import,178,Congo,COG,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23275,,,,23275,,10191,,,2
+H2,2012,2012,2012,4,0,2,Export,178,Congo,COG,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,28488,,,,28488,,239135,,,2
+H2,2013,2013,2013,4,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4504677,,,,4504677,,5542930,,,2
+H2,2013,2013,2013,4,0,2,Export,178,Congo,COG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,387772,,,,387772,,3752908,,,2
+H2,2013,2013,2013,4,0,1,Import,178,Congo,COG,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,89769,,,,89769,,226909,,,2
+H2,2013,2013,2013,4,0,2,Export,178,Congo,COG,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,39431,,,,39431,,318030,,,2
+H2,2013,2013,2013,4,0,2,Export,178,Congo,COG,120,Cameroon,CMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,28298,,,,28298,,163321,,,2
+H2,2013,2013,2013,4,0,1,Import,178,Congo,COG,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1306,,,,1306,,843,,,2
+H2,2013,2013,2013,4,0,2,Export,178,Congo,COG,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,48964,,,,48964,,678583,,,2
+H2,2013,2013,2013,4,0,1,Import,178,Congo,COG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1587818,,,,1587818,,2993646,,,2
+H2,2013,2013,2013,4,0,2,Export,178,Congo,COG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,98685,,,,98685,,1080869,,,2
+H2,2013,2013,2013,4,0,1,Import,178,Congo,COG,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,382018,,,,382018,,712120,,,2
+H2,2013,2013,2013,4,0,1,Import,178,Congo,COG,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4624,,,,4624,,24176,,,2
+H2,2013,2013,2013,4,0,2,Export,178,Congo,COG,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19231,,,,19231,,287562,,,2
+H2,2013,2013,2013,4,0,1,Import,178,Congo,COG,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16883,,,,16883,,48029,,,2
+H2,2013,2013,2013,4,0,2,Export,178,Congo,COG,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17871,,,,17871,,165307,,,2
+H2,2013,2013,2013,4,0,1,Import,178,Congo,COG,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4757,,,,4757,,5466,,,2
+H2,2013,2013,2013,4,0,2,Export,178,Congo,COG,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,52744,,,,52744,,370018,,,2
+H2,2013,2013,2013,4,0,1,Import,178,Congo,COG,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,68656,,,,68656,,47479,,,2
+H2,2013,2013,2013,4,0,2,Export,178,Congo,COG,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5895,,,,5895,,80062,,,2
+H2,2013,2013,2013,4,0,1,Import,178,Congo,COG,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,38854,,,,38854,,29316,,,2
+H2,2013,2013,2013,4,0,1,Import,178,Congo,COG,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2307932,,,,2307932,,1454026,,,2
+H2,2013,2013,2013,4,0,2,Export,178,Congo,COG,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,58,,,,58,,1953,,,2
+H2,2013,2013,2013,4,0,2,Export,178,Congo,COG,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,64368,,,,64368,,480094,,,2
+H2,2013,2013,2013,4,0,1,Import,178,Congo,COG,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2060,,,,2060,,919,,,2
+H2,2013,2013,2013,4,0,2,Export,178,Congo,COG,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12227,,,,12227,,127110,,,2
+H5,2018,2018,2018,4,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,1843019,,4067905,,,2
+H5,2018,2018,2018,4,0,2,Export,178,Congo,COG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,232618,,,,232618,,2183387,,,2
+H5,2018,2018,2018,4,0,1,Import,178,Congo,COG,24,Angola,AGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15600,,,,15600,,3598,,,2
+H5,2018,2018,2018,4,0,1,Import,178,Congo,COG,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,68142,,231516,,,2
+H5,2018,2018,2018,4,0,2,Export,178,Congo,COG,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,990,,,,990,,11532,,,2
+H5,2018,2018,2018,4,0,2,Export,178,Congo,COG,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9519,,,,9519,,221658,,,2
+H5,2018,2018,2018,4,0,1,Import,178,Congo,COG,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,28205,,,,28205,,19236,,,2
+H5,2018,2018,2018,4,0,2,Export,178,Congo,COG,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18133,,,,18133,,191480,,,2
+H5,2018,2018,2018,4,0,1,Import,178,Congo,COG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,981756,,3251310,,,2
+H5,2018,2018,2018,4,0,2,Export,178,Congo,COG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,133892,,,,133892,,1074708,,,2
+H5,2018,2018,2018,4,0,1,Import,178,Congo,COG,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5612,,,,5612,,7883,,,2
+H5,2018,2018,2018,4,0,2,Export,178,Congo,COG,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20768,,,,20768,,222526,,,2
+H5,2018,2018,2018,4,0,2,Export,178,Congo,COG,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10158,,,,10158,,49936,,,2
+H5,2018,2018,2018,4,0,1,Import,178,Congo,COG,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,50342,,86419,,,2
+H5,2018,2018,2018,4,0,2,Export,178,Congo,COG,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9830,,,,9830,,135360,,,2
+H5,2018,2018,2018,4,0,2,Export,178,Congo,COG,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14635,,,,14635,,86142,,,2
+H5,2018,2018,2018,4,0,1,Import,178,Congo,COG,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,300,,,,300,,616,,,2
+H5,2018,2018,2018,4,0,2,Export,178,Congo,COG,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,219,,,,219,,7755,,,2
+H5,2018,2018,2018,4,0,1,Import,178,Congo,COG,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,123573,,,,123573,,121833,,,2
+H5,2018,2018,2018,4,0,1,Import,178,Congo,COG,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,87633,,,,87633,,55097,,,2
+H5,2018,2018,2018,4,0,1,Import,178,Congo,COG,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3519,,,,3519,,6811,,,2
+H5,2018,2018,2018,4,0,1,Import,178,Congo,COG,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,401803,,,,401803,,225554,,,2
+H5,2018,2018,2018,4,0,1,Import,178,Congo,COG,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,50621,,,,50621,,38667,,,2
+H5,2018,2018,2018,4,0,1,Import,178,Congo,COG,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25911,,,,25911,,19359,,,2
+H5,2018,2018,2018,4,0,2,Export,178,Congo,COG,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11901,,,,11901,,175144,,,2
+H5,2018,2018,2018,4,0,2,Export,178,Congo,COG,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2571,,,,2571,,7140,,,2
+H5,2019,2019,2019,4,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,2277664,,4079907,,,2
+H5,2019,2019,2019,4,0,2,Export,178,Congo,COG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,146096,,1224647,,,2
+H5,2019,2019,2019,4,0,1,Import,178,Congo,COG,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,26950,,,,26950,,113737,,,2
+H5,2019,2019,2019,4,0,2,Export,178,Congo,COG,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,23984,,,,23984,,271666,,,2
+H5,2019,2019,2019,4,0,1,Import,178,Congo,COG,120,Cameroon,CMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,28021,,,,28021,,28673,,,2
+H5,2019,2019,2019,4,0,2,Export,178,Congo,COG,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2825,,,,2825,,84547,,,2
+H5,2019,2019,2019,4,0,2,Export,178,Congo,COG,140,Central African Rep.,CAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,792,,,,792,,888,,,2
+H5,2019,2019,2019,4,0,1,Import,178,Congo,COG,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16501,,,,16501,,15969,,,2
+H5,2019,2019,2019,4,0,1,Import,178,Congo,COG,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,70339,,,,70339,,31767,,,2
+H5,2019,2019,2019,4,0,2,Export,178,Congo,COG,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10137,,,,10137,,55986,,,2
+H5,2019,2019,2019,4,0,2,Export,178,Congo,COG,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3843,,,,3843,,2517,,,2
+H5,2019,2019,2019,4,0,1,Import,178,Congo,COG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,1322628,,3354310,,,2
+H5,2019,2019,2019,4,0,2,Export,178,Congo,COG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,101454,,,,101454,,741612,,,2
+H5,2019,2019,2019,4,0,1,Import,178,Congo,COG,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25735,,,,25735,,60195,,,2
+H5,2019,2019,2019,4,0,1,Import,178,Congo,COG,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4261,,,,4261,,2251,,,2
+H5,2019,2019,2019,4,0,2,Export,178,Congo,COG,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,279,,9382,,,2
+H5,2019,2019,2019,4,0,1,Import,178,Congo,COG,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,67450,,,,67450,,51169,,,2
+H5,2019,2019,2019,4,0,1,Import,178,Congo,COG,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5173,,,,5173,,3698,,,2
+H5,2019,2019,2019,4,0,1,Import,178,Congo,COG,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19118,,,,19118,,37577,,,2
+H5,2019,2019,2019,4,0,2,Export,178,Congo,COG,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1287,,,,1287,,36215,,,2
+H5,2019,2019,2019,4,0,1,Import,178,Congo,COG,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,643354,,,,643354,,323402,,,2
+H5,2019,2019,2019,4,0,2,Export,178,Congo,COG,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,358,,,,358,,9441,,,2
+H5,2019,2019,2019,4,0,2,Export,178,Congo,COG,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1137,,,,1137,,12388,,,2
+H5,2019,2019,2019,4,0,1,Import,178,Congo,COG,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12745,,,,12745,,6941,,,2
+H5,2019,2019,2019,4,0,1,Import,178,Congo,COG,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16020,,,,16020,,20017,,,2
+H5,2019,2019,2019,4,0,1,Import,178,Congo,COG,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19368,,,,19368,,30195,,,2
+H4,2015,2015,2015,4,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4168345,,,,4168345,,7652629,,,2
+H4,2015,2015,2015,4,0,2,Export,178,Congo,COG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,445722,,,,445722,,3537903,,,2
+H4,2015,2015,2015,4,0,1,Import,178,Congo,COG,24,Angola,AGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12100,,,,12100,,9567,,,2
+H4,2015,2015,2015,4,0,1,Import,178,Congo,COG,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,61,,,,61,,936,,,2
+H4,2015,2015,2015,4,0,1,Import,178,Congo,COG,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4423,,,,4423,,6359,,,2
+H4,2015,2015,2015,4,0,2,Export,178,Congo,COG,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,309,,,,309,,8006,,,2
+H4,2015,2015,2015,4,0,1,Import,178,Congo,COG,120,Cameroon,CMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,892,,,,892,,169,,,2
+H4,2015,2015,2015,4,0,2,Export,178,Congo,COG,120,Cameroon,CMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,250,,,,250,,333,,,2
+H4,2015,2015,2015,4,0,1,Import,178,Congo,COG,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1465,,,,1465,,6299,,,2
+H4,2015,2015,2015,4,0,1,Import,178,Congo,COG,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,79296,,,,79296,,37758,,,2
+H4,2015,2015,2015,4,0,1,Import,178,Congo,COG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2363317,,,,2363317,,6389660,,,2
+H4,2015,2015,2015,4,0,2,Export,178,Congo,COG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,445163,,,,445163,,3529563,,,2
+H4,2015,2015,2015,4,0,1,Import,178,Congo,COG,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10072,,,,10072,,15580,,,2
+H4,2015,2015,2015,4,0,1,Import,178,Congo,COG,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,33221,,,,33221,,64222,,,2
+H4,2015,2015,2015,4,0,1,Import,178,Congo,COG,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12513,,,,12513,,234094,,,2
+H4,2015,2015,2015,4,0,1,Import,178,Congo,COG,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,31620,,,,31620,,67820,,,2
+H4,2015,2015,2015,4,0,1,Import,178,Congo,COG,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10226,,,,10226,,28098,,,2
+H4,2015,2015,2015,4,0,1,Import,178,Congo,COG,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17097,,,,17097,,39690,,,2
+H4,2015,2015,2015,4,0,1,Import,178,Congo,COG,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1483289,,,,1483289,,701693,,,2
+H4,2015,2015,2015,4,0,1,Import,178,Congo,COG,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,108752,,,,108752,,50679,,,2
+H4,2016,2016,2016,4,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3093011,,,,3093011,,4834805,,,2
+H4,2016,2016,2016,4,0,2,Export,178,Congo,COG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,413961,,,,413961,,4153663,,,2
+H4,2016,2016,2016,4,0,1,Import,178,Congo,COG,24,Angola,AGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6500,,,,6500,,2161,,,2
+H4,2016,2016,2016,4,0,1,Import,178,Congo,COG,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,28,,,,28,,53,,,2
+H4,2016,2016,2016,4,0,1,Import,178,Congo,COG,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3613,,,,3613,,1862,,,2
+H4,2016,2016,2016,4,0,2,Export,178,Congo,COG,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,305,,,,305,,9624,,,2
+H4,2016,2016,2016,4,0,1,Import,178,Congo,COG,120,Cameroon,CMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,337,,,,337,,763,,,2
+H4,2016,2016,2016,4,0,1,Import,178,Congo,COG,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17643,,,,17643,,11311,,,2
+H4,2016,2016,2016,4,0,1,Import,178,Congo,COG,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,47232,,,,47232,,20958,,,2
+H4,2016,2016,2016,4,0,2,Export,178,Congo,COG,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1560,,,,1560,,986,,,2
+H4,2016,2016,2016,4,0,1,Import,178,Congo,COG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1572864,,,,1572864,,3811956,,,2
+H4,2016,2016,2016,4,0,2,Export,178,Congo,COG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,412096,,,,412096,,4143051,,,2
+H4,2016,2016,2016,4,0,1,Import,178,Congo,COG,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20053,,,,20053,,7903,,,2
+H4,2016,2016,2016,4,0,1,Import,178,Congo,COG,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20696,,,,20696,,39427,,,2
+H4,2016,2016,2016,4,0,1,Import,178,Congo,COG,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36,,,,36,,98,,,2
+H4,2016,2016,2016,4,0,1,Import,178,Congo,COG,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3180,,,,3180,,14111,,,2
+H4,2016,2016,2016,4,0,1,Import,178,Congo,COG,498,Rep. of Moldova,MDA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,44701,,,,44701,,36913,,,2
+H4,2016,2016,2016,4,0,1,Import,178,Congo,COG,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1100,,,,1100,,1737,,,2
+H4,2016,2016,2016,4,0,1,Import,178,Congo,COG,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10657,,,,10657,,178409,,,2
+H4,2016,2016,2016,4,0,1,Import,178,Congo,COG,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,109329,,,,109329,,68702,,,2
+H4,2016,2016,2016,4,0,1,Import,178,Congo,COG,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,78,,,,78,,1320,,,2
+H4,2016,2016,2016,4,0,1,Import,178,Congo,COG,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,52431,,,,52431,,51799,,,2
+H4,2016,2016,2016,4,0,1,Import,178,Congo,COG,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,164,,,,164,,870,,,2
+H4,2016,2016,2016,4,0,1,Import,178,Congo,COG,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1504,,,,1504,,820,,,2
+H4,2016,2016,2016,4,0,1,Import,178,Congo,COG,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15357,,,,15357,,25942,,,2
+H4,2016,2016,2016,4,0,1,Import,178,Congo,COG,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1037019,,,,1037019,,501533,,,2
+H4,2016,2016,2016,4,0,1,Import,178,Congo,COG,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,128358,,,,128358,,50817,,,2
+H4,2016,2016,2016,4,0,1,Import,178,Congo,COG,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,127,,,,127,,5328,,,2
+H4,2017,2017,2017,4,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1802738,,,,1802738,,4163629,,,2
+H4,2017,2017,2017,4,0,2,Export,178,Congo,COG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,344505,,,,344505,,2880074,,,2
+H4,2017,2017,2017,4,0,1,Import,178,Congo,COG,24,Angola,AGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13700,,,,13700,,3483,,,2
+H4,2017,2017,2017,4,0,1,Import,178,Congo,COG,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6750,,,,6750,,11495,,,2
+H4,2017,2017,2017,4,0,1,Import,178,Congo,COG,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,68592,,,,68592,,184121,,,2
+H4,2017,2017,2017,4,0,2,Export,178,Congo,COG,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24044,,,,24044,,263615,,,2
+H4,2017,2017,2017,4,0,1,Import,178,Congo,COG,120,Cameroon,CMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10270,,,,10270,,3564,,,2
+H4,2017,2017,2017,4,0,2,Export,178,Congo,COG,120,Cameroon,CMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,61845,,,,61845,,34914,,,2
+H4,2017,2017,2017,4,0,1,Import,178,Congo,COG,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18773,,,,18773,,9028,,,2
+H4,2017,2017,2017,4,0,2,Export,178,Congo,COG,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5440,,,,5440,,93453,,,2
+H4,2017,2017,2017,4,0,1,Import,178,Congo,COG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1021523,,,,1021523,,3465971,,,2
+H4,2017,2017,2017,4,0,2,Export,178,Congo,COG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,211641,,,,211641,,1931825,,,2
+H4,2017,2017,2017,4,0,1,Import,178,Congo,COG,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8038,,,,8038,,13208,,,2
+H4,2017,2017,2017,4,0,2,Export,178,Congo,COG,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,23998,,,,23998,,309944,,,2
+H4,2017,2017,2017,4,0,1,Import,178,Congo,COG,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,50189,,,,50189,,55321,,,2
+H4,2017,2017,2017,4,0,1,Import,178,Congo,COG,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1865,,,,1865,,588,,,2
+H4,2017,2017,2017,4,0,1,Import,178,Congo,COG,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,97212,,,,97212,,88557,,,2
+H4,2017,2017,2017,4,0,1,Import,178,Congo,COG,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,55692,,,,55692,,86054,,,2
+H4,2017,2017,2017,4,0,1,Import,178,Congo,COG,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,450132,,,,450132,,242233,,,2
+H4,2017,2017,2017,4,0,2,Export,178,Congo,COG,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17536,,,,17536,,246320,,,2
+H5,2020,2020,2020,4,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2123250,,,,2121940,,3009130,,,2
+H5,2020,2020,2020,4,0,2,Export,178,Congo,COG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,181123,,,,180724,,1578629,,,2
+H5,2020,2020,2020,4,0,1,Import,178,Congo,COG,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,68789,,,,68770,,147161,,,2
+H5,2020,2020,2020,4,0,1,Import,178,Congo,COG,120,Cameroon,CMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,306,,,,306,,130,,,2
+H5,2020,2020,2020,4,0,2,Export,178,Congo,COG,120,Cameroon,CMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,103,,,,103,,27,,,2
+H5,2020,2020,2020,4,0,2,Export,178,Congo,COG,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,62,,,,62,,7938,,,2
+H5,2020,2020,2020,4,0,1,Import,178,Congo,COG,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15860,,,,15860,,5308,,,2
+H5,2020,2020,2020,4,0,2,Export,178,Congo,COG,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,44353,,,,43954,,422279,,,2
+H5,2020,2020,2020,4,0,1,Import,178,Congo,COG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1161394,,,,1160291,,2311432,,,2
+H5,2020,2020,2020,4,0,2,Export,178,Congo,COG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,117947,,,,117947,,859527,,,2
+H5,2020,2020,2020,4,0,1,Import,178,Congo,COG,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12929,,,,12468,,30848,,,2
+H5,2020,2020,2020,4,0,2,Export,178,Congo,COG,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7271,,,,7271,,85942,,,2
+H5,2020,2020,2020,4,0,2,Export,178,Congo,COG,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,211,,,,211,,6140,,,2
+H5,2020,2020,2020,4,0,2,Export,178,Congo,COG,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1669,,,,1669,,22357,,,2
+H5,2020,2020,2020,4,0,1,Import,178,Congo,COG,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,180,,,,180,,164,,,2
+H5,2020,2020,2020,4,0,2,Export,178,Congo,COG,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,320,,,,320,,2737,,,2
+H5,2020,2020,2020,4,0,1,Import,178,Congo,COG,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,44467,,,,44739,,37993,,,2
+H5,2020,2020,2020,4,0,1,Import,178,Congo,COG,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11681,,,,11681,,12609,,,2
+H5,2020,2020,2020,4,0,1,Import,178,Congo,COG,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,737068,,,,737068,,389837,,,2
+H5,2020,2020,2020,4,0,2,Export,178,Congo,COG,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2968,,,,2968,,57149,,,2
+H5,2020,2020,2020,4,0,1,Import,178,Congo,COG,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24654,,,,24654,,14663,,,2
+H5,2020,2020,2020,4,0,1,Import,178,Congo,COG,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45920,,,,45920,,58981,,,2
+H5,2020,2020,2020,4,0,2,Export,178,Congo,COG,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6218,,,,6218,,114528,,,2

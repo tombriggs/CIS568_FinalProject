@@ -1,0 +1,60 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2002,2002,2002,4,0,1,Import,760,Syria,SYR,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,54000,,,,54000,,733988,,,2
+H1,2002,2002,2002,4,0,1,Import,760,Syria,SYR,422,Lebanon,LBN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,54000,,,,54000,,733988,,,2
+H1,2003,2003,2003,4,0,1,Import,760,Syria,SYR,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,105039,,,,105039,,1555204,,,2
+H1,2003,2003,2003,4,0,2,Export,760,Syria,SYR,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,606500,,,,606500,,607840,,,2
+H1,2003,2003,2003,4,0,2,Export,760,Syria,SYR,368,Iraq,IRQ,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,423000,,,,423000,,442929,,,2
+H1,2003,2003,2003,4,0,2,Export,760,Syria,SYR,400,Jordan,JOR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,183500,,,,183500,,164911,,,2
+H1,2003,2003,2003,4,0,1,Import,760,Syria,SYR,422,Lebanon,LBN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,102487,,,,102487,,1523973,,,2
+H1,2003,2003,2003,4,0,1,Import,760,Syria,SYR,568,"Other Europe, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2552,,,,2552,,31230,,,2
+H1,2004,2004,2004,4,0,1,Import,760,Syria,SYR,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,88000,,,,88000,,1680359,,,2
+H1,2004,2004,2004,4,0,1,Import,760,Syria,SYR,422,Lebanon,LBN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,88000,,,,88000,,1680359,,,2
+H3,2008,2008,2008,4,0,1,Import,760,Syria,SYR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,109561,,,,109561,,491858,,,2
+H3,2008,2008,2008,4,0,1,Import,760,Syria,SYR,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,99271,,,,99271,,422829,,,2
+H3,2008,2008,2008,4,0,1,Import,760,Syria,SYR,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10290,,,,10290,,69028,,,2
+H3,2009,2009,2009,4,0,1,Import,760,Syria,SYR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,263540,,,,263540,,851505,,,2
+H3,2009,2009,2009,4,0,2,Export,760,Syria,SYR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6240,,,,6240,,20709,,,2
+H3,2009,2009,2009,4,0,1,Import,760,Syria,SYR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,180,,,,180,,476,,,2
+H3,2009,2009,2009,4,0,1,Import,760,Syria,SYR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,300,,,,300,,782,,,2
+H3,2009,2009,2009,4,0,1,Import,760,Syria,SYR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,23120,,,,23120,,43802,,,2
+H3,2009,2009,2009,4,0,1,Import,760,Syria,SYR,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,182853,,,,182853,,588576,,,2
+H3,2009,2009,2009,4,0,2,Export,760,Syria,SYR,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6240,,,,6240,,20709,,,2
+H3,2009,2009,2009,4,0,1,Import,760,Syria,SYR,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1140,,,,1140,,3963,,,2
+H3,2009,2009,2009,4,0,1,Import,760,Syria,SYR,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,200,,,,200,,321,,,2
+H3,2009,2009,2009,4,0,1,Import,760,Syria,SYR,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,42505,,,,42505,,181750,,,2
+H3,2009,2009,2009,4,0,1,Import,760,Syria,SYR,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,40,,,,40,,203,,,2
+H3,2009,2009,2009,4,0,1,Import,760,Syria,SYR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,300,,,,300,,745,,,2
+H3,2009,2009,2009,4,0,1,Import,760,Syria,SYR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12902,,,,12902,,30888,,,2
+H2,2005,2005,2005,4,0,1,Import,760,Syria,SYR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,138000,,,,138000,,610303,,,2
+H2,2005,2005,2005,4,0,2,Export,760,Syria,SYR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15000,,,,15000,,61579,,,2
+H2,2005,2005,2005,4,0,1,Import,760,Syria,SYR,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,138000,,,,138000,,610303,,,2
+H2,2005,2005,2005,4,0,2,Export,760,Syria,SYR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15000,,,,15000,,61579,,,2
+H2,2006,2006,2006,4,0,1,Import,760,Syria,SYR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,131844,,,,131844,,577915,,,2
+H2,2006,2006,2006,4,0,2,Export,760,Syria,SYR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1175,,,,1175,,2566,,,2
+H2,2006,2006,2006,4,0,1,Import,760,Syria,SYR,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,400,,,,400,,2162,,,2
+H2,2006,2006,2006,4,0,1,Import,760,Syria,SYR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8545,,,,8545,,17561,,,2
+H2,2006,2006,2006,4,0,1,Import,760,Syria,SYR,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,102317,,,,102317,,482968,,,2
+H2,2006,2006,2006,4,0,2,Export,760,Syria,SYR,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27,,,,27,,31,,,2
+H2,2006,2006,2006,4,0,1,Import,760,Syria,SYR,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7369,,,,7369,,44981,,,2
+H2,2006,2006,2006,4,0,1,Import,760,Syria,SYR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12404,,,,12404,,22801,,,2
+H2,2006,2006,2006,4,0,2,Export,760,Syria,SYR,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1148,,,,1148,,2535,,,2
+H2,2006,2006,2006,4,0,1,Import,760,Syria,SYR,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,416,,,,416,,2982,,,2
+H2,2006,2006,2006,4,0,1,Import,760,Syria,SYR,838,Free Zones,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,393,,,,393,,4460,,,2
+H2,2007,2007,2007,4,0,1,Import,760,Syria,SYR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,99337,,,,99337,,494484,,,2
+H2,2007,2007,2007,4,0,1,Import,760,Syria,SYR,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,99337,,,,99337,,494484,,,2
+H3,2010,2010,2010,4,0,1,Import,760,Syria,SYR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,275195,,,,275195,,804328,,,2
+H3,2010,2010,2010,4,0,2,Export,760,Syria,SYR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,22580,,,,22580,,61665,,,2
+H3,2010,2010,2010,4,0,1,Import,760,Syria,SYR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,515,,,,515,,1412,,,2
+H3,2010,2010,2010,4,0,1,Import,760,Syria,SYR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,521,,,,521,,1039,,,2
+H3,2010,2010,2010,4,0,1,Import,760,Syria,SYR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,135,,,,135,,1018,,,2
+H3,2010,2010,2010,4,0,1,Import,760,Syria,SYR,214,Dominican Rep.,DOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,40,,,,40,,71,,,2
+H3,2010,2010,2010,4,0,1,Import,760,Syria,SYR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,32626,,,,32626,,76759,,,2
+H3,2010,2010,2010,4,0,1,Import,760,Syria,SYR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3651,,,,3651,,18738,,,2
+H3,2010,2010,2010,4,0,1,Import,760,Syria,SYR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8710,,,,8710,,31524,,,2
+H3,2010,2010,2010,4,0,2,Export,760,Syria,SYR,414,Kuwait,KWT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,420,,,,420,,363,,,2
+H3,2010,2010,2010,4,0,1,Import,760,Syria,SYR,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,196859,,,,196859,,574356,,,2
+H3,2010,2010,2010,4,0,2,Export,760,Syria,SYR,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,22160,,,,22160,,61301,,,2
+H3,2010,2010,2010,4,0,1,Import,760,Syria,SYR,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3111,,,,3111,,21596,,,2
+H3,2010,2010,2010,4,0,1,Import,760,Syria,SYR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,78,,,,78,,370,,,2
+H3,2010,2010,2010,4,0,1,Import,760,Syria,SYR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,28849,,,,28849,,55860,,,2
+H3,2010,2010,2010,4,0,1,Import,760,Syria,SYR,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,100,,,,100,,21584,,,2

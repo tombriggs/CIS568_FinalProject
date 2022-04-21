@@ -1,0 +1,518 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2002,2002,2002,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,25732,,,,40339,,293779,,,0
+H2,2002,2002,2002,4,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5139101,,,,9430617,,4484556,,,2
+H2,2002,2002,2002,4,0,2,Export,788,Tunisia,TUN,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14,,,,14,,63,,,2
+H2,2002,2002,2002,4,0,2,Export,788,Tunisia,TUN,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,270,,,,386,,494,,,2
+H2,2002,2002,2002,4,0,2,Export,788,Tunisia,TUN,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,28530,,,,41706,,25046,,,2
+H2,2002,2002,2002,4,0,2,Export,788,Tunisia,TUN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,51682,,,,79104,,82743,,,2
+H2,2002,2002,2002,4,0,2,Export,788,Tunisia,TUN,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,39000,,,,75000,,60635,,,2
+H2,2002,2002,2002,4,0,1,Import,788,Tunisia,TUN,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,90,,,,150,,862,,,0
+H2,2002,2002,2002,4,0,1,Import,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19989,,,,31548,,273389,,,0
+H2,2002,2002,2002,4,0,2,Export,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2544171,,,,4605274,,1409237,,,2
+H2,2002,2002,2002,4,0,1,Import,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,867,,,,201,,630,,,0
+H2,2002,2002,2002,4,0,2,Export,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,706746,,,,1088769,,629508,,,2
+H2,2002,2002,2002,4,0,2,Export,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,79280,,,,93000,,69600,,,2
+H2,2002,2002,2002,4,0,2,Export,788,Tunisia,TUN,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,981,,,,1708,,3628,,,2
+H2,2002,2002,2002,4,0,2,Export,788,Tunisia,TUN,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1140392,,,,2891788,,1001150,,,2
+H2,2002,2002,2002,4,0,2,Export,788,Tunisia,TUN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5265,,,,11466,,135246,,,0
+H2,2002,2002,2002,4,0,2,Export,788,Tunisia,TUN,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18000,,,,17400,,23445,,,2
+H2,2002,2002,2002,4,0,2,Export,788,Tunisia,TUN,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,94,,,,94,,419,,,2
+H2,2002,2002,2002,4,0,2,Export,788,Tunisia,TUN,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,60,,,,75,,42,,,2
+H2,2002,2002,2002,4,0,1,Import,788,Tunisia,TUN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4408,,,,7800,,18121,,,0
+H2,2002,2002,2002,4,0,2,Export,788,Tunisia,TUN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,81,,,,86,,63,,,2
+H2,2002,2002,2002,4,0,2,Export,788,Tunisia,TUN,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1408,,,,2480,,4789,,,2
+H2,2002,2002,2002,4,0,2,Export,788,Tunisia,TUN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5411,,,,9478,,15870,,,2
+H2,2002,2002,2002,4,0,2,Export,788,Tunisia,TUN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,103,,,,129,,118,,,2
+H2,2002,2002,2002,4,0,1,Import,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,378,,,,640,,778,,,0
+H2,2002,2002,2002,4,0,2,Export,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,517614,,,,512660,,1022459,,,2
+H2,2003,2003,2003,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36355,,,,62306,,754674,,,0
+H2,2003,2003,2003,4,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6162962,,,,1952914775,,8441739,,,2
+H2,2003,2003,2003,4,0,2,Export,788,Tunisia,TUN,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8,,,,15,,133,,,0
+H2,2003,2003,2003,4,0,2,Export,788,Tunisia,TUN,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1733,,,,1733,,2526,,,0
+H2,2003,2003,2003,4,0,2,Export,788,Tunisia,TUN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,65436,,,,111533,,201217,,,0
+H2,2003,2003,2003,4,0,2,Export,788,Tunisia,TUN,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,39000,,,,60000,,76786,,,0
+H2,2003,2003,2003,4,0,1,Import,788,Tunisia,TUN,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45,,,,60,,295,,,0
+H2,2003,2003,2003,4,0,2,Export,788,Tunisia,TUN,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,101721,,,,138390,,117889,,,2
+H2,2003,2003,2003,4,0,1,Import,788,Tunisia,TUN,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,60,,,,502,,1694,,,0
+H2,2003,2003,2003,4,0,1,Import,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,34180,,,,58882,,740791,,,0
+H2,2003,2003,2003,4,0,2,Export,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,329318,,,,515135,,547357,,,2
+H2,2003,2003,2003,4,0,1,Import,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2070,,,,2862,,11895,,,0
+H2,2003,2003,2003,4,0,2,Export,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,801845,,,,1522537,,883956,,,2
+H2,2003,2003,2003,4,0,2,Export,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1557974,,,,1943489066,,1603155,,,2
+H2,2003,2003,2003,4,0,2,Export,788,Tunisia,TUN,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,167,,,,260,,335,,,0
+H2,2003,2003,2003,4,0,2,Export,788,Tunisia,TUN,434,Libya,LBY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,194,,,,195,,1094,,,0
+H2,2003,2003,2003,4,0,2,Export,788,Tunisia,TUN,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2735610,,,,6463835,,3014723,,,2
+H2,2003,2003,2003,4,0,2,Export,788,Tunisia,TUN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23706,,,,43050,,555828,,,0
+H2,2003,2003,2003,4,0,2,Export,788,Tunisia,TUN,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14400,,,,14400,,30616,,,0
+H2,2003,2003,2003,4,0,2,Export,788,Tunisia,TUN,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2772,,,,5082,,12287,,,0
+H2,2003,2003,2003,4,0,2,Export,788,Tunisia,TUN,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,29496,,,,47535,,81609,,,0
+H2,2003,2003,2003,4,0,2,Export,788,Tunisia,TUN,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3600,,,,6400,,13251,,,0
+H2,2003,2003,2003,4,0,2,Export,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,455982,,,,495609,,1298975,,,2
+H2,2004,2004,2004,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27749,,,,41071,,454667,,,2
+H2,2004,2004,2004,4,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5525215,,,,38485227,,7615094,,,2
+H2,2004,2004,2004,4,0,2,Export,788,Tunisia,TUN,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,59,,,,30,,2003,,,0
+H2,2004,2004,2004,4,0,1,Import,788,Tunisia,TUN,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,189,,,,188,,2355,,,0
+H2,2004,2004,2004,4,0,1,Import,788,Tunisia,TUN,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,522,,,,641,,4445,,,0
+H2,2004,2004,2004,4,0,1,Import,788,Tunisia,TUN,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,108,,,,108,,3361,,,0
+H2,2004,2004,2004,4,0,2,Export,788,Tunisia,TUN,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7920,,,,11232,,17143,,,0
+H2,2004,2004,2004,4,0,2,Export,788,Tunisia,TUN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,78650,,,,123124,,290626,,,0
+H2,2004,2004,2004,4,0,2,Export,788,Tunisia,TUN,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,35082,,,,57470,,75382,,,0
+H2,2004,2004,2004,4,0,1,Import,788,Tunisia,TUN,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,126,,,,126,,1927,,,0
+H2,2004,2004,2004,4,0,1,Import,788,Tunisia,TUN,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,891,,,,368,,1847,,,0
+H2,2004,2004,2004,4,0,1,Import,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18984,,,,32321,,389704,,,2
+H2,2004,2004,2004,4,0,2,Export,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2482152,,,,31782928,,2400870,,,2
+H2,2004,2004,2004,4,0,1,Import,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,63,,,,63,,1393,,,0
+H2,2004,2004,2004,4,0,2,Export,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,759100,,,,1555868,,1073064,,,2
+H2,2004,2004,2004,4,0,1,Import,788,Tunisia,TUN,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,281,,,0
+H2,2004,2004,2004,4,0,2,Export,788,Tunisia,TUN,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,495,,,,880,,2862,,,0
+H2,2004,2004,2004,4,0,1,Import,788,Tunisia,TUN,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,275,,,,147,,2657,,,2
+H2,2004,2004,2004,4,0,1,Import,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1116,,,,2378,,12776,,,2
+H2,2004,2004,2004,4,0,2,Export,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,414807,,,,476005,,420439,,,2
+H2,2004,2004,2004,4,0,2,Export,788,Tunisia,TUN,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9000,,,,14000,,33098,,,0
+H2,2004,2004,2004,4,0,2,Export,788,Tunisia,TUN,434,Libya,LBY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,179,,,,189,,1166,,,0
+H2,2004,2004,2004,4,0,2,Export,788,Tunisia,TUN,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45,,,,21,,9,,,0
+H2,2004,2004,2004,4,0,2,Export,788,Tunisia,TUN,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1259538,,,,3952286,,1738306,,,2
+H2,2004,2004,2004,4,0,2,Export,788,Tunisia,TUN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6439,,,,6439,,9098,,,0
+H2,2004,2004,2004,4,0,1,Import,788,Tunisia,TUN,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45,,,,45,,1007,,,0
+H2,2004,2004,2004,4,0,2,Export,788,Tunisia,TUN,579,Norway,NOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1350,,,,2230,,7976,,,0
+H2,2004,2004,2004,4,0,2,Export,788,Tunisia,TUN,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14400,,,,16590,,25308,,,0
+H2,2004,2004,2004,4,0,2,Export,788,Tunisia,TUN,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18000,,,,32500,,66438,,,0
+H2,2004,2004,2004,4,0,1,Import,788,Tunisia,TUN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,249,,,,247,,5030,,,0
+H2,2004,2004,2004,4,0,1,Import,788,Tunisia,TUN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,81,,,,81,,1947,,,0
+H2,2004,2004,2004,4,0,1,Import,788,Tunisia,TUN,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,90,,,,90,,2506,,,0
+H2,2004,2004,2004,4,0,2,Export,788,Tunisia,TUN,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12627,,,,22045,,53652,,,0
+H2,2004,2004,2004,4,0,1,Import,788,Tunisia,TUN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,189,,,,189,,5283,,,0
+H2,2004,2004,2004,4,0,1,Import,788,Tunisia,TUN,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,179,,,0
+H2,2004,2004,2004,4,0,1,Import,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4803,,,,4061,,17968,,,0
+H2,2004,2004,2004,4,0,2,Export,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,425372,,,,431390,,1397656,,,2
+H1,2000,2000,2000,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,40298,,,,40298,,255500,,,6
+H1,2000,2000,2000,4,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,34022691,,,,34022691,,4974651,,,6
+H1,2000,2000,2000,4,0,2,Export,788,Tunisia,TUN,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,310,,,,310,,258,,,6
+H1,2000,2000,2000,4,0,2,Export,788,Tunisia,TUN,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,44528,,,,44528,,44706,,,6
+H1,2000,2000,2000,4,0,2,Export,788,Tunisia,TUN,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,83500,,,,83500,,86079,,,6
+H1,2000,2000,2000,4,0,2,Export,788,Tunisia,TUN,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,52875,,,,52875,,56010,,,6
+H1,2000,2000,2000,4,0,1,Import,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,38774,,,,38774,,245448,,,6
+H1,2000,2000,2000,4,0,2,Export,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2916604,,,,2916604,,996364,,,6
+H1,2000,2000,2000,4,0,2,Export,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,30232373,,,,30232373,,2735426,,,6
+H1,2000,2000,2000,4,0,2,Export,788,Tunisia,TUN,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,24380,,,,24380,,41537,,,6
+H1,2000,2000,2000,4,0,2,Export,788,Tunisia,TUN,434,Libya,LBY,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,721,,,,721,,6466,,,6
+H1,2000,2000,2000,4,0,2,Export,788,Tunisia,TUN,504,Morocco,MAR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,82900,,,,82900,,75553,,,6
+H1,2000,2000,2000,4,0,1,Import,788,Tunisia,TUN,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,300,,,,300,,998,,,6
+H1,2000,2000,2000,4,0,1,Import,788,Tunisia,TUN,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,140,,,,140,,197,,,6
+H1,2000,2000,2000,4,0,2,Export,788,Tunisia,TUN,752,Sweden,SWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10800,,,,10800,,12197,,,6
+H1,2000,2000,2000,4,0,2,Export,788,Tunisia,TUN,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,150300,,,,150300,,101083,,,6
+H1,2000,2000,2000,4,0,1,Import,788,Tunisia,TUN,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1082,,,,1082,,8827,,,6
+H1,2000,2000,2000,4,0,1,Import,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2,,,,2,,30,,,6
+H1,2000,2000,2000,4,0,2,Export,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,423400,,,,423400,,818972,,,6
+H1,2001,2001,2001,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,29591,,,,41386,,239889,,,2
+H1,2001,2001,2001,4,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5514279,,,,13128193,,5946868,,,2
+H1,2001,2001,2001,4,0,2,Export,788,Tunisia,TUN,12,Algeria,DZA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,84,,,,90,,900,,,2
+H1,2001,2001,2001,4,0,1,Import,788,Tunisia,TUN,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1853,,,,1420,,4271,,,2
+H1,2001,2001,2001,4,0,2,Export,788,Tunisia,TUN,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,24770,,,,41710,,21873,,,2
+H1,2001,2001,2001,4,0,2,Export,788,Tunisia,TUN,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,27945,,,,42500,,44427,,,2
+H1,2001,2001,2001,4,0,2,Export,788,Tunisia,TUN,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,22500,,,,37500,,37029,,,2
+H1,2001,2001,2001,4,0,1,Import,788,Tunisia,TUN,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,60,,,,110,,54,,,2
+H1,2001,2001,2001,4,0,2,Export,788,Tunisia,TUN,203,Czechia,CZE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10215,,,,17740,,15085,,,2
+H1,2001,2001,2001,4,0,2,Export,788,Tunisia,TUN,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15543,,,,25905,,27573,,,2
+H1,2001,2001,2001,4,0,2,Export,788,Tunisia,TUN,226,Equatorial Guinea,GNQ,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6963,,,,7600,,6456,,,2
+H1,2001,2001,2001,4,0,1,Import,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,27678,,,,39856,,235565,,,2
+H1,2001,2001,2001,4,0,2,Export,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1766611,,,,7299626,,1680907,,,2
+H1,2001,2001,2001,4,0,2,Export,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2527627,,,,4294609,,2223342,,,2
+H1,2001,2001,2001,4,0,2,Export,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,461337,,,,566008,,395268,,,2
+H1,2001,2001,2001,4,0,2,Export,788,Tunisia,TUN,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13149,,,,22885,,35091,,,2
+H1,2001,2001,2001,4,0,2,Export,788,Tunisia,TUN,434,Libya,LBY,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,91,,,,97,,547,,,2
+H1,2001,2001,2001,4,0,2,Export,788,Tunisia,TUN,504,Morocco,MAR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,17280,,,,28840,,28690,,,2
+H1,2001,2001,2001,4,0,2,Export,788,Tunisia,TUN,579,Norway,NOR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,738,,,,1100,,1328,,,2
+H1,2001,2001,2001,4,0,2,Export,788,Tunisia,TUN,616,Poland,POL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18000,,,,36000,,23578,,,2
+H1,2001,2001,2001,4,0,2,Export,788,Tunisia,TUN,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1,,,,1,,20,,,0
+H1,2001,2001,2001,4,0,2,Export,788,Tunisia,TUN,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10350,,,,18400,,21756,,,2
+H1,2001,2001,2001,4,0,2,Export,788,Tunisia,TUN,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,216,,,,288,,200,,,2
+H1,2001,2001,2001,4,0,2,Export,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,590860,,,,687294,,1382797,,,2
+H3,2008,2008,2008,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,31277,,,,38768,,634769,,,0
+H3,2008,2008,2008,4,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10019281,,,,10199498,,10018968,,,2
+H3,2008,2008,2008,4,0,2,Export,788,Tunisia,TUN,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,13,,,,13,,808,,,0
+H3,2008,2008,2008,4,0,1,Import,788,Tunisia,TUN,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,90,,,,90,,2179,,,0
+H3,2008,2008,2008,4,0,2,Export,788,Tunisia,TUN,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1161,,,,2013,,3178,,,0
+H3,2008,2008,2008,4,0,2,Export,788,Tunisia,TUN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,58308,,,,95602,,207504,,,0
+H3,2008,2008,2008,4,0,2,Export,788,Tunisia,TUN,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10809,,,,18150,,46619,,,0
+H3,2008,2008,2008,4,0,2,Export,788,Tunisia,TUN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12600,,,,21000,,28873,,,0
+H3,2008,2008,2008,4,0,2,Export,788,Tunisia,TUN,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,48000,,,,47758,,32432,,,0
+H3,2008,2008,2008,4,0,2,Export,788,Tunisia,TUN,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,14794,,,,21957,,57095,,,0
+H3,2008,2008,2008,4,0,2,Export,788,Tunisia,TUN,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4950,,,,8250,,18673,,,0
+H3,2008,2008,2008,4,0,1,Import,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,28075,,,,34535,,609347,,,0
+H3,2008,2008,2008,4,0,2,Export,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3390852,,,,3398509,,3837389,,,0
+H3,2008,2008,2008,4,0,2,Export,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,245500,,,,251240,,171946,,,0
+H3,2008,2008,2008,4,0,2,Export,788,Tunisia,TUN,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,653,,,,1131,,1122,,,0
+H3,2008,2008,2008,4,0,1,Import,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1316,,,,2335,,16071,,,0
+H3,2008,2008,2008,4,0,2,Export,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4410,,,,4410,,17938,,,0
+H3,2008,2008,2008,4,0,2,Export,788,Tunisia,TUN,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8947,,,,15834,,45036,,,0
+H3,2008,2008,2008,4,0,2,Export,788,Tunisia,TUN,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5400,,,,9000,,12989,,,0
+H3,2008,2008,2008,4,0,2,Export,788,Tunisia,TUN,434,Libya,LBY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,23,,,,23,,236,,,0
+H3,2008,2008,2008,4,0,2,Export,788,Tunisia,TUN,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2250,,,,4400,,17290,,,0
+H3,2008,2008,2008,4,0,2,Export,788,Tunisia,TUN,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3518347,,,,3722082,,2677349,,,0
+H3,2008,2008,2008,4,0,2,Export,788,Tunisia,TUN,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2161200,,,,2147812,,1122424,,,0
+H3,2008,2008,2008,4,0,2,Export,788,Tunisia,TUN,690,Seychelles,SYC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,450,,,,930,,3030,,,0
+H3,2008,2008,2008,4,0,2,Export,788,Tunisia,TUN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,168000,,,,16800,,87006,,,0
+H3,2008,2008,2008,4,0,2,Export,788,Tunisia,TUN,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6003,,,,6003,,27364,,,0
+H3,2008,2008,2008,4,0,2,Export,788,Tunisia,TUN,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,122830,,,,125937,,83934,,,0
+H3,2008,2008,2008,4,0,1,Import,788,Tunisia,TUN,760,Syria,SYR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1,,,,13,,21,,,0
+H3,2008,2008,2008,4,0,2,Export,788,Tunisia,TUN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8023,,,,8782,,19707,,,0
+H3,2008,2008,2008,4,0,2,Export,788,Tunisia,TUN,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6600,,,,6600,,30857,,,0
+H3,2008,2008,2008,4,0,1,Import,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1795,,,,1795,,7150,,,0
+H3,2008,2008,2008,4,0,2,Export,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,219158,,,,265262,,1468169,,,2
+H3,2009,2009,2009,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,24849,,,,32191,,529252,,,0
+H3,2009,2009,2009,4,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5435577,,,,5799390,,7078463,,,2
+H3,2009,2009,2009,4,0,2,Export,788,Tunisia,TUN,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,567,,,,983,,1558,,,0
+H3,2009,2009,2009,4,0,2,Export,788,Tunisia,TUN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,30420,,,,46552,,104980,,,0
+H3,2009,2009,2009,4,0,2,Export,788,Tunisia,TUN,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,17172,,,,29516,,75346,,,0
+H3,2009,2009,2009,4,0,2,Export,788,Tunisia,TUN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5508,,,,9818,,15226,,,0
+H3,2009,2009,2009,4,0,1,Import,788,Tunisia,TUN,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,40,,,,60,,418,,,0
+H3,2009,2009,2009,4,0,2,Export,788,Tunisia,TUN,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18113,,,,29567,,63181,,,0
+H3,2009,2009,2009,4,0,1,Import,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,22024,,,,28641,,517090,,,0
+H3,2009,2009,2009,4,0,2,Export,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1098959,,,,1166446,,2462253,,,2
+H3,2009,2009,2009,4,0,2,Export,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1781567,,,,1795498,,1115428,,,0
+H3,2009,2009,2009,4,0,1,Import,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,985,,,,990,,5224,,,0
+H3,2009,2009,2009,4,0,2,Export,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,47,,,,825,,1483,,,0
+H3,2009,2009,2009,4,0,2,Export,788,Tunisia,TUN,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,65000,,,,65000,,31775,,,0
+H3,2009,2009,2009,4,0,2,Export,788,Tunisia,TUN,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10278,,,,17720,,48514,,,0
+H3,2009,2009,2009,4,0,2,Export,788,Tunisia,TUN,434,Libya,LBY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,27,,,,27,,358,,,0
+H3,2009,2009,2009,4,0,2,Export,788,Tunisia,TUN,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1951426,,,,2158267,,1510562,,,0
+H3,2009,2009,2009,4,0,2,Export,788,Tunisia,TUN,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,48015,,,,47912,,33764,,,0
+H3,2009,2009,2009,4,0,2,Export,788,Tunisia,TUN,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,191847,,,,200634,,135220,,,0
+H3,2009,2009,2009,4,0,2,Export,788,Tunisia,TUN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2800,,,,4770,,12438,,,0
+H3,2009,2009,2009,4,0,2,Export,788,Tunisia,TUN,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,14450,,,,22605,,91460,,,0
+H3,2009,2009,2009,4,0,1,Import,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1800,,,,2500,,6520,,,0
+H3,2009,2009,2009,4,0,2,Export,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,199382,,,,203250,,1374917,,,2
+H2,2005,2005,2005,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,34866,,,,48171,,484292,,,2
+H2,2005,2005,2005,4,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12539572,,,,26479445,,9751491,,,2
+H2,2005,2005,2005,4,0,2,Export,788,Tunisia,TUN,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,168,,,,140,,5912,,,0
+H2,2005,2005,2005,4,0,1,Import,788,Tunisia,TUN,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,90,,,,99,,1184,,,2
+H2,2005,2005,2005,4,0,1,Import,788,Tunisia,TUN,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,486,,,,609,,7018,,,2
+H2,2005,2005,2005,4,0,2,Export,788,Tunisia,TUN,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9018,,,,9018,,25228,,,2
+H2,2005,2005,2005,4,0,2,Export,788,Tunisia,TUN,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1728,,,,2992,,6707,,,2
+H2,2005,2005,2005,4,0,2,Export,788,Tunisia,TUN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17984,,,,27334,,55379,,,2
+H2,2005,2005,2005,4,0,2,Export,788,Tunisia,TUN,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,43893,,,,74155,,103052,,,2
+H2,2005,2005,2005,4,0,1,Import,788,Tunisia,TUN,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,248,,,,541,,3114,,,2
+H2,2005,2005,2005,4,0,2,Export,788,Tunisia,TUN,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3333,,,,5476,,15277,,,2
+H2,2005,2005,2005,4,0,1,Import,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22077,,,,28540,,413653,,,2
+H2,2005,2005,2005,4,0,2,Export,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4753590,,,,18061307,,3277494,,,2
+H2,2005,2005,2005,4,0,2,Export,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1709914,,,,1731469,,1075677,,,2
+H2,2005,2005,2005,4,0,1,Import,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,606,,,,708,,6713,,,2
+H2,2005,2005,2005,4,0,2,Export,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,203539,,,,203539,,171346,,,2
+H2,2005,2005,2005,4,0,2,Export,788,Tunisia,TUN,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1350,,,,2520,,6498,,,2
+H2,2005,2005,2005,4,0,2,Export,788,Tunisia,TUN,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,189,,,,189,,533,,,2
+H2,2005,2005,2005,4,0,2,Export,788,Tunisia,TUN,434,Libya,LBY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23,,,,23,,251,,,2
+H2,2005,2005,2005,4,0,2,Export,788,Tunisia,TUN,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5227850,,,,5832999,,2803988,,,2
+H2,2005,2005,2005,4,0,2,Export,788,Tunisia,TUN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14985,,,,14985,,27694,,,2
+H2,2005,2005,2005,4,0,1,Import,788,Tunisia,TUN,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,10,,296,,,2
+H2,2005,2005,2005,4,0,2,Export,788,Tunisia,TUN,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,25056,,,,25056,,41011,,,2
+H2,2005,2005,2005,4,0,2,Export,788,Tunisia,TUN,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8611,,,,14396,,22013,,,2
+H2,2005,2005,2005,4,0,1,Import,788,Tunisia,TUN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,248,,,,703,,4324,,,2
+H2,2005,2005,2005,4,0,1,Import,788,Tunisia,TUN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18,,,,20,,408,,,2
+H2,2005,2005,2005,4,0,1,Import,788,Tunisia,TUN,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,768,,,,636,,6534,,,2
+H2,2005,2005,2005,4,0,2,Export,788,Tunisia,TUN,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19320,,,,21557,,85677,,,2
+H2,2005,2005,2005,4,0,1,Import,788,Tunisia,TUN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,270,,,,505,,679,,,2
+H2,2005,2005,2005,4,0,1,Import,788,Tunisia,TUN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36,,,,41,,928,,,2
+H2,2005,2005,2005,4,0,1,Import,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10010,,,,15759,,39442,,,2
+H2,2005,2005,2005,4,0,2,Export,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,499021,,,,452290,,2027753,,,2
+H2,2006,2006,2006,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36737,,,,52677,,436047,,,0
+H2,2006,2006,2006,4,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8062288,,,,8394686,,5868344,,,2
+H2,2006,2006,2006,4,0,2,Export,788,Tunisia,TUN,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5,,,,5,,180,,,0
+H2,2006,2006,2006,4,0,1,Import,788,Tunisia,TUN,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,135,,,,187,,2381,,,0
+H2,2006,2006,2006,4,0,1,Import,788,Tunisia,TUN,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,97,,,,205,,550,,,0
+H2,2006,2006,2006,4,0,2,Export,788,Tunisia,TUN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,46614,,,,73683,,151278,,,0
+H2,2006,2006,2006,4,0,2,Export,788,Tunisia,TUN,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,43740,,,,72357,,108128,,,0
+H2,2006,2006,2006,4,0,1,Import,788,Tunisia,TUN,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,225,,,,321,,2419,,,0
+H2,2006,2006,2006,4,0,2,Export,788,Tunisia,TUN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2790,,,,4650,,7306,,,0
+H2,2006,2006,2006,4,0,2,Export,788,Tunisia,TUN,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5813,,,,4107,,11818,,,0
+H2,2006,2006,2006,4,0,2,Export,788,Tunisia,TUN,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9900,,,,16500,,32022,,,0
+H2,2006,2006,2006,4,0,1,Import,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23582,,,,30436,,367955,,,0
+H2,2006,2006,2006,4,0,2,Export,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3694497,,,,3742287,,2069877,,,0
+H2,2006,2006,2006,4,0,2,Export,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1530700,,,,1541416,,814173,,,0
+H2,2006,2006,2006,4,0,1,Import,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1780,,,,2123,,16718,,,0
+H2,2006,2006,2006,4,0,2,Export,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13820,,,,14180,,44840,,,0
+H2,2006,2006,2006,4,0,2,Export,788,Tunisia,TUN,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13635,,,,22725,,33506,,,0
+H2,2006,2006,2006,4,0,2,Export,788,Tunisia,TUN,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,224,,,,224,,585,,,0
+H2,2006,2006,2006,4,0,2,Export,788,Tunisia,TUN,470,Malta,MLT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,360,,,,360,,967,,,0
+H2,2006,2006,2006,4,0,2,Export,788,Tunisia,TUN,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,230851,,,,230694,,119379,,,0
+H2,2006,2006,2006,4,0,2,Export,788,Tunisia,TUN,579,Norway,NOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,24000,,,,23904,,10050,,,0
+H2,2006,2006,2006,4,0,2,Export,788,Tunisia,TUN,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7150,,,,7150,,17113,,,0
+H2,2006,2006,2006,4,0,1,Import,788,Tunisia,TUN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5,,,,8,,14,,,0
+H2,2006,2006,2006,4,0,2,Export,788,Tunisia,TUN,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2069878,,,,2176410,,709340,,,2
+H2,2006,2006,2006,4,0,1,Import,788,Tunisia,TUN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,18,,25,,,0
+H2,2006,2006,2006,4,0,1,Import,788,Tunisia,TUN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,32,,,,51,,215,,,0
+H2,2006,2006,2006,4,0,2,Export,788,Tunisia,TUN,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9854,,,,14970,,19857,,,0
+H2,2006,2006,2006,4,0,1,Import,788,Tunisia,TUN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36,,,,24,,643,,,0
+H2,2006,2006,2006,4,0,2,Export,788,Tunisia,TUN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8910,,,,14850,,22500,,,0
+H2,2006,2006,2006,4,0,1,Import,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10836,,,,19304,,45127,,,0
+H2,2006,2006,2006,4,0,2,Export,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,349548,,,,434214,,1695423,,,2
+H2,2007,2007,2007,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,38267,,,,38267,,516263,,,2
+H2,2007,2007,2007,4,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9044084,,,,9044084,,7455978,,,2
+H2,2007,2007,2007,4,0,2,Export,788,Tunisia,TUN,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6,,,,6,,210,,,2
+H2,2007,2007,2007,4,0,2,Export,788,Tunisia,TUN,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4914,,,,4914,,8271,,,2
+H2,2007,2007,2007,4,0,2,Export,788,Tunisia,TUN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,136792,,,,136792,,286096,,,2
+H2,2007,2007,2007,4,0,2,Export,788,Tunisia,TUN,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,78228,,,,78228,,173727,,,2
+H2,2007,2007,2007,4,0,2,Export,788,Tunisia,TUN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21150,,,,21150,,30669,,,2
+H2,2007,2007,2007,4,0,2,Export,788,Tunisia,TUN,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16927,,,,16927,,46895,,,2
+H2,2007,2007,2007,4,0,2,Export,788,Tunisia,TUN,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16500,,,,16500,,34235,,,2
+H2,2007,2007,2007,4,0,1,Import,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,30240,,,,30240,,453789,,,2
+H2,2007,2007,2007,4,0,2,Export,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3258284,,,,3258284,,2392082,,,2
+H2,2007,2007,2007,4,0,1,Import,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4942,,,,4942,,39460,,,2
+H2,2007,2007,2007,4,0,2,Export,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,180,,,,180,,518,,,2
+H2,2007,2007,2007,4,0,2,Export,788,Tunisia,TUN,434,Libya,LBY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,97,,,,97,,1097,,,2
+H2,2007,2007,2007,4,0,2,Export,788,Tunisia,TUN,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,306603,,,,306603,,340440,,,2
+H2,2007,2007,2007,4,0,2,Export,788,Tunisia,TUN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6874,,,,6874,,11309,,,2
+H2,2007,2007,2007,4,0,2,Export,788,Tunisia,TUN,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8640,,,,8640,,25769,,,2
+H2,2007,2007,2007,4,0,2,Export,788,Tunisia,TUN,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4529634,,,,4529634,,1945395,,,2
+H2,2007,2007,2007,4,0,2,Export,788,Tunisia,TUN,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,624,,,,624,,2577,,,2
+H2,2007,2007,2007,4,0,2,Export,788,Tunisia,TUN,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,24,,,,24,,14,,,2
+H2,2007,2007,2007,4,0,2,Export,788,Tunisia,TUN,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,300,,,,300,,511,,,2
+H2,2007,2007,2007,4,0,2,Export,788,Tunisia,TUN,704,Viet Nam,VNM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17950,,,,17950,,14499,,,2
+H2,2007,2007,2007,4,0,2,Export,788,Tunisia,TUN,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,240935,,,,240935,,160709,,,2
+H2,2007,2007,2007,4,0,1,Import,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3085,,,,3085,,23014,,,2
+H2,2007,2007,2007,4,0,2,Export,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,399422,,,,399422,,1980953,,,2
+H4,2012,2012,2012,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,78399,,,,92977,,1303256,,,2
+H4,2012,2012,2012,4,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2710400,,,,2798678,,4040870,,,2
+H4,2012,2012,2012,4,0,1,Import,788,Tunisia,TUN,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,211,,,,180,,2448,,,2
+H4,2012,2012,2012,4,0,1,Import,788,Tunisia,TUN,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,627,,,,1153,,7270,,,2
+H4,2012,2012,2012,4,0,2,Export,788,Tunisia,TUN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15780,,,,23166,,60686,,,0
+H4,2012,2012,2012,4,0,2,Export,788,Tunisia,TUN,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9675,,,,17100,,43700,,,0
+H4,2012,2012,2012,4,0,2,Export,788,Tunisia,TUN,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5535,,,,9225,,28594,,,0
+H4,2012,2012,2012,4,0,2,Export,788,Tunisia,TUN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,495,,,,880,,379,,,0
+H4,2012,2012,2012,4,0,2,Export,788,Tunisia,TUN,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,104,,,,214,,583,,,0
+H4,2012,2012,2012,4,0,2,Export,788,Tunisia,TUN,204,Benin,BEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8406,,,,8406,,27632,,,0
+H4,2012,2012,2012,4,0,2,Export,788,Tunisia,TUN,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1000,,,,1732,,4629,,,0
+H4,2012,2012,2012,4,0,1,Import,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,48735,,,,61948,,1089956,,,0
+H4,2012,2012,2012,4,0,2,Export,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,573447,,,,600782,,1269425,,,0
+H4,2012,2012,2012,4,0,1,Import,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4540,,,,5651,,53771,,,2
+H4,2012,2012,2012,4,0,2,Export,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,624306,,,,629704,,382709,,,0
+H4,2012,2012,2012,4,0,1,Import,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3679,,,,3769,,40993,,,0
+H4,2012,2012,2012,4,0,2,Export,788,Tunisia,TUN,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1089300,,,,1083527,,841310,,,0
+H4,2012,2012,2012,4,0,2,Export,788,Tunisia,TUN,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17087,,,,29175,,81757,,,0
+H4,2012,2012,2012,4,0,1,Import,788,Tunisia,TUN,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,266,,,,372,,3090,,,2
+H4,2012,2012,2012,4,0,2,Export,788,Tunisia,TUN,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,216000,,,,215445,,150320,,,0
+H4,2012,2012,2012,4,0,1,Import,788,Tunisia,TUN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2701,,,,2760,,43669,,,0
+H4,2012,2012,2012,4,0,2,Export,788,Tunisia,TUN,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2563,,,,3699,,13983,,,0
+H4,2012,2012,2012,4,0,2,Export,788,Tunisia,TUN,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1755,,,,3120,,7682,,,0
+H4,2012,2012,2012,4,0,2,Export,788,Tunisia,TUN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2340,,,,4155,,9392,,,0
+H4,2012,2012,2012,4,0,1,Import,788,Tunisia,TUN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1945,,,,1417,,22573,,,2
+H4,2012,2012,2012,4,0,2,Export,788,Tunisia,TUN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2925,,,,2925,,11872,,,0
+H4,2012,2012,2012,4,0,1,Import,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15695,,,,15727,,39485,,,2
+H4,2012,2012,2012,4,0,2,Export,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,139682,,,,165423,,1106216,,,2
+H4,2013,2013,2013,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,137901,,,,155198,,1124443,,,2
+H4,2013,2013,2013,4,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1429889,,,,1516104,,2943432,,,2
+H4,2013,2013,2013,4,0,1,Import,788,Tunisia,TUN,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,311,,,,730,,4696,,,2
+H4,2013,2013,2013,4,0,2,Export,788,Tunisia,TUN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14304,,,,23118,,57636,,,0
+H4,2013,2013,2013,4,0,2,Export,788,Tunisia,TUN,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6453,,,,10755,,33439,,,0
+H4,2013,2013,2013,4,0,1,Import,788,Tunisia,TUN,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,426,,,,477,,6441,,,2
+H4,2013,2013,2013,4,0,1,Import,788,Tunisia,TUN,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,54,,,,140,,615,,,0
+H4,2013,2013,2013,4,0,1,Import,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,40878,,,,54111,,849753,,,0
+H4,2013,2013,2013,4,0,2,Export,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,754276,,,,786838,,1422105,,,0
+H4,2013,2013,2013,4,0,1,Import,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5925,,,,8507,,103279,,,2
+H4,2013,2013,2013,4,0,2,Export,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,528090,,,,533272,,353006,,,0
+H4,2013,2013,2013,4,0,2,Export,788,Tunisia,TUN,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5130,,,,8394,,26652,,,0
+H4,2013,2013,2013,4,0,2,Export,788,Tunisia,TUN,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,126,,,,224,,1199,,,0
+H4,2013,2013,2013,4,0,1,Import,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1422,,,,1432,,12122,,,0
+H4,2013,2013,2013,4,0,2,Export,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36,,,,36,,155,,,0
+H4,2013,2013,2013,4,0,2,Export,788,Tunisia,TUN,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6791,,,,11499,,35507,,,0
+H4,2013,2013,2013,4,0,2,Export,788,Tunisia,TUN,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17100,,,,28500,,57443,,,0
+H4,2013,2013,2013,4,0,1,Import,788,Tunisia,TUN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,88388,,,,89268,,139895,,,0
+H4,2013,2013,2013,4,0,1,Import,788,Tunisia,TUN,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,277,,,,270,,4181,,,2
+H4,2013,2013,2013,4,0,1,Import,788,Tunisia,TUN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,59,,,,85,,881,,,0
+H4,2013,2013,2013,4,0,1,Import,788,Tunisia,TUN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,28,,,,24,,423,,,2
+H4,2013,2013,2013,4,0,1,Import,788,Tunisia,TUN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,76,,,,144,,1304,,,0
+H4,2013,2013,2013,4,0,2,Export,788,Tunisia,TUN,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2250,,,,4000,,9051,,,0
+H4,2013,2013,2013,4,0,2,Export,788,Tunisia,TUN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,499,,,,888,,3172,,,0
+H4,2013,2013,2013,4,0,2,Export,788,Tunisia,TUN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,38,,,,64,,352,,,0
+H4,2013,2013,2013,4,0,1,Import,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,56,,,,10,,853,,,2
+H4,2013,2013,2013,4,0,2,Export,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,94796,,,,108516,,943714,,,2
+H4,2014,2014,2014,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,183279,,,,209669,,1464061,,,2
+H4,2014,2014,2014,4,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1947355,,,,1994012,,3736116,,,2
+H4,2014,2014,2014,4,0,1,Import,788,Tunisia,TUN,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,385,,,,376,,5123,,,2
+H4,2014,2014,2014,4,0,1,Import,788,Tunisia,TUN,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,722,,,,1481,,9610,,,2
+H4,2014,2014,2014,4,0,2,Export,788,Tunisia,TUN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18841,,,,25218,,71306,,,0
+H4,2014,2014,2014,4,0,2,Export,788,Tunisia,TUN,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9477,,,,16095,,46361,,,0
+H4,2014,2014,2014,4,0,1,Import,788,Tunisia,TUN,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,679,,,,635,,9038,,,2
+H4,2014,2014,2014,4,0,2,Export,788,Tunisia,TUN,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,105,,,,140,,516,,,0
+H4,2014,2014,2014,4,0,1,Import,788,Tunisia,TUN,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,396,,,,7406,,7048,,,0
+H4,2014,2014,2014,4,0,1,Import,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,44576,,,,58277,,963005,,,0
+H4,2014,2014,2014,4,0,2,Export,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1265792,,,,1287801,,2066083,,,0
+H4,2014,2014,2014,4,0,1,Import,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9368,,,,11573,,138853,,,2
+H4,2014,2014,2014,4,0,2,Export,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,552036,,,,556717,,452929,,,0
+H4,2014,2014,2014,4,0,1,Import,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4913,,,,5038,,69670,,,0
+H4,2014,2014,2014,4,0,2,Export,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,424,,,,424,,3162,,,0
+H4,2014,2014,2014,4,0,2,Export,788,Tunisia,TUN,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8401,,,,14604,,36909,,,0
+H4,2014,2014,2014,4,0,1,Import,788,Tunisia,TUN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,119845,,,,121042,,215490,,,0
+H4,2014,2014,2014,4,0,2,Export,788,Tunisia,TUN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,105,,,,90,,885,,,2
+H4,2014,2014,2014,4,0,1,Import,788,Tunisia,TUN,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,289,,,,520,,3851,,,2
+H4,2014,2014,2014,4,0,1,Import,788,Tunisia,TUN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1517,,,,1517,,26688,,,0
+H4,2014,2014,2014,4,0,2,Export,788,Tunisia,TUN,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,26000,,,,25904,,21017,,,0
+H4,2014,2014,2014,4,0,1,Import,788,Tunisia,TUN,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,247,,,,1390,,12805,,,0
+H4,2014,2014,2014,4,0,1,Import,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,342,,,,414,,2877,,,0
+H4,2014,2014,2014,4,0,2,Export,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,66174,,,,67019,,1036948,,,2
+H3,2010,2010,2010,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,79698,,1382436,,,0
+H3,2010,2010,2010,4,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,2523776,,4995161,,,0
+H3,2010,2010,2010,4,0,2,Export,788,Tunisia,TUN,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,1035,,2312,,,0
+H3,2010,2010,2010,4,0,2,Export,788,Tunisia,TUN,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,897,,2310,,,0
+H3,2010,2010,2010,4,0,2,Export,788,Tunisia,TUN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,58658,,147582,,,0
+H3,2010,2010,2010,4,0,2,Export,788,Tunisia,TUN,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,8490,,16125,,,0
+H3,2010,2010,2010,4,0,2,Export,788,Tunisia,TUN,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,36080,,107748,,,0
+H3,2010,2010,2010,4,0,1,Import,788,Tunisia,TUN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,117,,1760,,,0
+H3,2010,2010,2010,4,0,2,Export,788,Tunisia,TUN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,70,,28,,,0
+H3,2010,2010,2010,4,0,2,Export,788,Tunisia,TUN,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,176,,1102,,,0
+H3,2010,2010,2010,4,0,2,Export,788,Tunisia,TUN,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,74390,,150360,,,0
+H3,2010,2010,2010,4,0,1,Import,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,65263,,1302305,,,0
+H3,2010,2010,2010,4,0,2,Export,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,1464688,,2745294,,,0
+H3,2010,2010,2010,4,0,1,Import,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,315,,4920,,,0
+H3,2010,2010,2010,4,0,2,Export,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,235,,1536,,,0
+H3,2010,2010,2010,4,0,1,Import,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,2366,,28071,,,0
+H3,2010,2010,2010,4,0,2,Export,788,Tunisia,TUN,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,72000,,33146,,,0
+H3,2010,2010,2010,4,0,2,Export,788,Tunisia,TUN,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,16694,,41317,,,0
+H3,2010,2010,2010,4,0,2,Export,788,Tunisia,TUN,434,Libya,LBY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,54,,617,,,0
+H3,2010,2010,2010,4,0,2,Export,788,Tunisia,TUN,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,421624,,437950,,,0
+H3,2010,2010,2010,4,0,1,Import,788,Tunisia,TUN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,1229,,13832,,,0
+H3,2010,2010,2010,4,0,2,Export,788,Tunisia,TUN,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,8800,,20818,,,0
+H3,2010,2010,2010,4,0,2,Export,788,Tunisia,TUN,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,196492,,124215,,,0
+H3,2010,2010,2010,4,0,2,Export,788,Tunisia,TUN,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,1155,,2391,,,0
+H3,2010,2010,2010,4,0,2,Export,788,Tunisia,TUN,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,1827,,7135,,,0
+H3,2010,2010,2010,4,0,2,Export,788,Tunisia,TUN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,3520,,5731,,,0
+H3,2010,2010,2010,4,0,2,Export,788,Tunisia,TUN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,17550,,67262,,,0
+H3,2010,2010,2010,4,0,2,Export,788,Tunisia,TUN,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,7575,,29598,,,0
+H3,2010,2010,2010,4,0,1,Import,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,10408,,31548,,,0
+H3,2010,2010,2010,4,0,2,Export,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,131766,,1050583,,,0
+H3,2011,2011,2011,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,88921,,,,103515,,1786776,,,2
+H3,2011,2011,2011,4,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3657082,,,,2437031,,6849677,,,2
+H3,2011,2011,2011,4,0,1,Import,788,Tunisia,TUN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6188,,,,6183,,64964,,,0
+H3,2011,2011,2011,4,0,2,Export,788,Tunisia,TUN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,94911,,,,38149,,106797,,,0
+H3,2011,2011,2011,4,0,2,Export,788,Tunisia,TUN,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,20624,,,,36664,,77662,,,0
+H3,2011,2011,2011,4,0,1,Import,788,Tunisia,TUN,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,721,,,,999,,13684,,,2
+H3,2011,2011,2011,4,0,1,Import,788,Tunisia,TUN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,60,,,,110,,50,,,0
+H3,2011,2011,2011,4,0,2,Export,788,Tunisia,TUN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,451,,,,600,,905,,,0
+H3,2011,2011,2011,4,0,2,Export,788,Tunisia,TUN,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,405,,,,504,,2655,,,0
+H3,2011,2011,2011,4,0,2,Export,788,Tunisia,TUN,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,778,,,,1350,,3576,,,0
+H3,2011,2011,2011,4,0,1,Import,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,56926,,,,70558,,1602348,,,0
+H3,2011,2011,2011,4,0,2,Export,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2775524,,,,1548321,,4451098,,,0
+H3,2011,2011,2011,4,0,1,Import,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1469,,,,1607,,17908,,,2
+H3,2011,2011,2011,4,0,2,Export,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,432228,,,,436195,,278221,,,0
+H3,2011,2011,2011,4,0,2,Export,788,Tunisia,TUN,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1358,,,,1358,,7235,,,0
+H3,2011,2011,2011,4,0,1,Import,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1551,,,,1515,,22942,,,2
+H3,2011,2011,2011,4,0,2,Export,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1080,,,,1974,,6014,,,0
+H3,2011,2011,2011,4,0,2,Export,788,Tunisia,TUN,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2858,,,,4516,,17871,,,0
+H3,2011,2011,2011,4,0,2,Export,788,Tunisia,TUN,434,Libya,LBY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,36,,,,36,,176,,,0
+H3,2011,2011,2011,4,0,2,Export,788,Tunisia,TUN,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3600,,,,6000,,16126,,,0
+H3,2011,2011,2011,4,0,2,Export,788,Tunisia,TUN,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,491,,,,872,,4207,,,0
+H3,2011,2011,2011,4,0,2,Export,788,Tunisia,TUN,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,117545,,,,122186,,99874,,,0
+H3,2011,2011,2011,4,0,2,Export,788,Tunisia,TUN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1287,,,,2113,,3353,,,0
+H3,2011,2011,2011,4,0,2,Export,788,Tunisia,TUN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5850,,,,5850,,24680,,,0
+H3,2011,2011,2011,4,0,2,Export,788,Tunisia,TUN,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9450,,,,15750,,75391,,,0
+H3,2011,2011,2011,4,0,1,Import,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,22006,,,,22543,,64880,,,0
+H3,2011,2011,2011,4,0,2,Export,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,188606,,,,214593,,1673835,,,2
+H5,2018,2018,2018,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,153270,,,,153270,,1376587,,,2
+H5,2018,2018,2018,4,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,990658,,,,990658,,3526355,,,2
+H5,2018,2018,2018,4,0,1,Import,788,Tunisia,TUN,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,80,,,,80,,588,,,2
+H5,2018,2018,2018,4,0,2,Export,788,Tunisia,TUN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7935,,,,7935,,15355,,,2
+H5,2018,2018,2018,4,0,2,Export,788,Tunisia,TUN,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18735,,,,18735,,46299,,,2
+H5,2018,2018,2018,4,0,2,Export,788,Tunisia,TUN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11640,,,,11640,,17377,,,2
+H5,2018,2018,2018,4,0,1,Import,788,Tunisia,TUN,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,450,,,,450,,4932,,,2
+H5,2018,2018,2018,4,0,1,Import,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,37992,,,,37992,,660954,,,2
+H5,2018,2018,2018,4,0,2,Export,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,560236,,,,560236,,1538139,,,2
+H5,2018,2018,2018,4,0,1,Import,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,42340,,,,42340,,484025,,,2
+H5,2018,2018,2018,4,0,2,Export,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,218160,,,,218160,,166822,,,2
+H5,2018,2018,2018,4,0,1,Import,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2680,,,,2680,,14128,,,2
+H5,2018,2018,2018,4,0,2,Export,788,Tunisia,TUN,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12799,,,,12799,,35214,,,2
+H5,2018,2018,2018,4,0,1,Import,788,Tunisia,TUN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18273,,,,18273,,28535,,,2
+H5,2018,2018,2018,4,0,2,Export,788,Tunisia,TUN,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9832,,,,9832,,25275,,,2
+H5,2018,2018,2018,4,0,1,Import,788,Tunisia,TUN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,150,,,,150,,936,,,2
+H5,2018,2018,2018,4,0,2,Export,788,Tunisia,TUN,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,756,,,,756,,3396,,,2
+H5,2018,2018,2018,4,0,2,Export,788,Tunisia,TUN,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,33620,,,,33620,,153234,,,2
+H5,2018,2018,2018,4,0,1,Import,788,Tunisia,TUN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19501,,,,19501,,34713,,,2
+H5,2018,2018,2018,4,0,2,Export,788,Tunisia,TUN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10488,,,,10488,,41552,,,2
+H5,2018,2018,2018,4,0,1,Import,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,31804,,,,31804,,147772,,,2
+H5,2018,2018,2018,4,0,2,Export,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,106457,,,,106457,,1483688,,,2
+H5,2019,2019,2019,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,220360,,,,220360,,1810405,,,2
+H5,2019,2019,2019,4,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,427309,,,,427309,,2987384,,,2
+H5,2019,2019,2019,4,0,1,Import,788,Tunisia,TUN,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5885,,,,5885,,28562,,,2
+H5,2019,2019,2019,4,0,1,Import,788,Tunisia,TUN,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,160,,,,160,,370,,,2
+H5,2019,2019,2019,4,0,2,Export,788,Tunisia,TUN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10230,,,,10230,,20727,,,2
+H5,2019,2019,2019,4,0,2,Export,788,Tunisia,TUN,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5280,,,,5280,,12613,,,2
+H5,2019,2019,2019,4,0,1,Import,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,65240,,,,65240,,983825,,,2
+H5,2019,2019,2019,4,0,2,Export,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,256935,,,,256935,,1069954,,,2
+H5,2019,2019,2019,4,0,2,Export,788,Tunisia,TUN,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,450,,,,450,,2027,,,2
+H5,2019,2019,2019,4,0,1,Import,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,66444,,,,66444,,553831,,,2
+H5,2019,2019,2019,4,0,2,Export,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4125,,,,4125,,34512,,,2
+H5,2019,2019,2019,4,0,1,Import,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5282,,,,5282,,67740,,,2
+H5,2019,2019,2019,4,0,2,Export,788,Tunisia,TUN,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14815,,,,14815,,34202,,,2
+H5,2019,2019,2019,4,0,1,Import,788,Tunisia,TUN,470,Malta,MLT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1500,,,,1500,,4526,,,2
+H5,2019,2019,2019,4,0,2,Export,788,Tunisia,TUN,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1100,,,,1100,,4146,,,2
+H5,2019,2019,2019,4,0,1,Import,788,Tunisia,TUN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,61347,,,,61347,,108576,,,2
+H5,2019,2019,2019,4,0,1,Import,788,Tunisia,TUN,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,150,,,,150,,610,,,2
+H5,2019,2019,2019,4,0,2,Export,788,Tunisia,TUN,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1685,,,,1685,,6387,,,2
+H5,2019,2019,2019,4,0,1,Import,788,Tunisia,TUN,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,548,,,,548,,13447,,,2
+H5,2019,2019,2019,4,0,1,Import,788,Tunisia,TUN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,950,,,,950,,7604,,,2
+H5,2019,2019,2019,4,0,1,Import,788,Tunisia,TUN,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6542,,,,6542,,14104,,,2
+H5,2019,2019,2019,4,0,2,Export,788,Tunisia,TUN,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7552,,,,7552,,33640,,,2
+H5,2019,2019,2019,4,0,1,Import,788,Tunisia,TUN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,100,,,,100,,204,,,2
+H5,2019,2019,2019,4,0,1,Import,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6212,,,,6212,,27001,,,2
+H5,2019,2019,2019,4,0,2,Export,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,125137,,,,125137,,1769171,,,2
+H4,2015,2015,2015,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,102787,,,,133299,,1527494,,,2
+H4,2015,2015,2015,4,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1297734,,,,1464972,,3361478,,,2
+H4,2015,2015,2015,4,0,1,Import,788,Tunisia,TUN,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2833,,,,2594,,37565,,,2
+H4,2015,2015,2015,4,0,2,Export,788,Tunisia,TUN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9176,,,,14662,,41072,,,0
+H4,2015,2015,2015,4,0,2,Export,788,Tunisia,TUN,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8730,,,,15150,,37908,,,0
+H4,2015,2015,2015,4,0,2,Export,788,Tunisia,TUN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,51,,,,62,,58,,,0
+H4,2015,2015,2015,4,0,2,Export,788,Tunisia,TUN,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1080,,,,1950,,6673,,,0
+H4,2015,2015,2015,4,0,1,Import,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,43305,,,,49504,,952552,,,2
+H4,2015,2015,2015,4,0,2,Export,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1197777,,,,1239306,,2004387,,,0
+H4,2015,2015,2015,4,0,1,Import,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14510,,,,33758,,299814,,,2
+H4,2015,2015,2015,4,0,1,Import,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3807,,,,3902,,70701,,,2
+H4,2015,2015,2015,4,0,2,Export,788,Tunisia,TUN,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3162,,,,5113,,11945,,,0
+H4,2015,2015,2015,4,0,2,Export,788,Tunisia,TUN,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36,,,,80,,255,,,0
+H4,2015,2015,2015,4,0,1,Import,788,Tunisia,TUN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17772,,,,17950,,27483,,,0
+H4,2015,2015,2015,4,0,1,Import,788,Tunisia,TUN,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2002,,,,1469,,26546,,,2
+H4,2015,2015,2015,4,0,1,Import,788,Tunisia,TUN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90,,,,220,,1595,,,0
+H4,2015,2015,2015,4,0,1,Import,788,Tunisia,TUN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,446,,,,446,,6919,,,0
+H4,2015,2015,2015,4,0,1,Import,788,Tunisia,TUN,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9,,,,250,,2878,,,0
+H4,2015,2015,2015,4,0,2,Export,788,Tunisia,TUN,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17440,,,,22892,,95212,,,0
+H4,2015,2015,2015,4,0,1,Import,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18013,,,,23206,,101441,,,0
+H4,2015,2015,2015,4,0,2,Export,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,60282,,,,165757,,1163968,,,2
+H4,2016,2016,2016,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,148562,,,,180090,,1522038,,,2
+H4,2016,2016,2016,4,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,569321,,,,1719833,,3972064,,,2
+H4,2016,2016,2016,4,0,2,Export,788,Tunisia,TUN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5374,,,,8490,,17685,,,0
+H4,2016,2016,2016,4,0,2,Export,788,Tunisia,TUN,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10800,,,,19008,,47287,,,0
+H4,2016,2016,2016,4,0,2,Export,788,Tunisia,TUN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1887,,,,3440,,13240,,,0
+H4,2016,2016,2016,4,0,1,Import,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,40551,,,,48994,,819265,,,0
+H4,2016,2016,2016,4,0,2,Export,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,118493,,,,1221279,,1879009,,,0
+H4,2016,2016,2016,4,0,1,Import,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22567,,,,42961,,427722,,,2
+H4,2016,2016,2016,4,0,2,Export,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,312000,,,,315120,,229803,,,0
+H4,2016,2016,2016,4,0,2,Export,788,Tunisia,TUN,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,15,,109,,,0
+H4,2016,2016,2016,4,0,1,Import,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3601,,,,5392,,34951,,,2
+H4,2016,2016,2016,4,0,2,Export,788,Tunisia,TUN,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10283,,,,18261,,43292,,,0
+H4,2016,2016,2016,4,0,1,Import,788,Tunisia,TUN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,54631,,,,55177,,87798,,,0
+H4,2016,2016,2016,4,0,2,Export,788,Tunisia,TUN,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2430,,,,4490,,9845,,,0
+H4,2016,2016,2016,4,0,1,Import,788,Tunisia,TUN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,119,,,,138,,12535,,,0
+H4,2016,2016,2016,4,0,2,Export,788,Tunisia,TUN,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,900,,,,1600,,5152,,,0
+H4,2016,2016,2016,4,0,1,Import,788,Tunisia,TUN,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,819,,,,820,,4388,,,0
+H4,2016,2016,2016,4,0,2,Export,788,Tunisia,TUN,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,26868,,,,27244,,134582,,,0
+H4,2016,2016,2016,4,0,1,Import,788,Tunisia,TUN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36,,,,80,,1011,,,0
+H4,2016,2016,2016,4,0,1,Import,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,26238,,,,26528,,134368,,,2
+H4,2016,2016,2016,4,0,2,Export,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,80285,,,,100886,,1592060,,,2
+H4,2017,2017,2017,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,205871,,,,212489,,1729330,,,2
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,262910,,,,1595157,,3798683,,,2
+H4,2017,2017,2017,4,0,1,Import,788,Tunisia,TUN,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,247,,,,95,,2202,,,2
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12686,,,,17652,,36947,,,0
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13500,,,,23662,,54148,,,0
+H4,2017,2017,2017,4,0,1,Import,788,Tunisia,TUN,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1743,,,,673,,15532,,,2
+H4,2017,2017,2017,4,0,1,Import,788,Tunisia,TUN,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3,,,,270,,1722,,,0
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,765,,,,1420,,4627,,,0
+H4,2017,2017,2017,4,0,1,Import,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,65773,,,,67010,,851793,,,0
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,110065,,,,1179477,,2017085,,,2
+H4,2017,2017,2017,4,0,1,Import,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,29962,,,,36344,,524766,,,2
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2160,,,,217776,,163471,,,0
+H4,2017,2017,2017,4,0,1,Import,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4790,,,,3930,,78266,,,2
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6346,,,,10864,,25325,,,0
+H4,2017,2017,2017,4,0,1,Import,788,Tunisia,TUN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,54113,,,,54653,,81441,,,0
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14643,,,,27356,,61708,,,0
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,29794,,,,29794,,138391,,,0
+H4,2017,2017,2017,4,0,1,Import,788,Tunisia,TUN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19489,,,,19763,,31642,,,0
+H4,2017,2017,2017,4,0,1,Import,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,29751,,,,29751,,141963,,,0
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,72951,,,,87156,,1296977,,,2

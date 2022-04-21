@@ -1,0 +1,539 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,453520,,,,453520,,684527,,,2
+H1,2000,2000,2000,4,0,2,Export,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,136,,,,136,,1830,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,136,,,,136,,1830,,,2
+H1,2000,2000,2000,4,0,1,Import,308,Grenada,GRD,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4449,,,,4449,,14373,,,2
+H1,2000,2000,2000,4,0,1,Import,308,Grenada,GRD,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4950,,,,4950,,19584,,,2
+H1,2000,2000,2000,4,0,1,Import,308,Grenada,GRD,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,25,,,,25,,82,,,2
+H1,2000,2000,2000,4,0,1,Import,308,Grenada,GRD,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,183,,,,183,,764,,,2
+H1,2000,2000,2000,4,0,1,Import,308,Grenada,GRD,104,Myanmar,MMR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2,,,,2,,36,,,2
+H1,2000,2000,2000,4,0,1,Import,308,Grenada,GRD,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,89,,,,89,,154,,,2
+H1,2000,2000,2000,4,0,1,Import,308,Grenada,GRD,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,57474,,,,57474,,116011,,,2
+H1,2000,2000,2000,4,0,1,Import,308,Grenada,GRD,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,22,,,,22,,80,,,2
+H1,2000,2000,2000,4,0,1,Import,308,Grenada,GRD,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2,,,,2,,19,,,2
+H1,2000,2000,2000,4,0,1,Import,308,Grenada,GRD,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,54024,,,,54024,,96046,,,2
+H1,2000,2000,2000,4,0,1,Import,308,Grenada,GRD,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,358,,,,358,,616,,,2
+H1,2000,2000,2000,4,0,1,Import,308,Grenada,GRD,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,35845,,,,35845,,57127,,,2
+H1,2000,2000,2000,4,0,1,Import,308,Grenada,GRD,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9640,,,,9640,,20931,,,2
+H1,2000,2000,2000,4,0,1,Import,308,Grenada,GRD,404,Kenya,KEN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1,,,,1,,3,,,2
+H1,2000,2000,2000,4,0,2,Export,308,Grenada,GRD,579,Norway,NOR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,61,,,,61,,736,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,308,Grenada,GRD,579,Norway,NOR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,61,,,,61,,736,,,2
+H1,2000,2000,2000,4,0,1,Import,308,Grenada,GRD,591,Panama,PAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1,,,,1,,3,,,2
+H1,2000,2000,2000,4,0,1,Import,308,Grenada,GRD,662,Saint Lucia,LCA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,14095,,,,14095,,10409,,,2
+H1,2000,2000,2000,4,0,1,Import,308,Grenada,GRD,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5760,,,,5760,,7536,,,2
+H1,2000,2000,2000,4,0,1,Import,308,Grenada,GRD,682,Saudi Arabia,SAU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,28,,,,28,,3,,,2
+H1,2000,2000,2000,4,0,1,Import,308,Grenada,GRD,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,35437,,,,35437,,52597,,,2
+H1,2000,2000,2000,4,0,1,Import,308,Grenada,GRD,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8208,,,,8208,,11513,,,2
+H1,2000,2000,2000,4,0,2,Export,308,Grenada,GRD,752,Sweden,SWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,75,,,,75,,1094,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,308,Grenada,GRD,752,Sweden,SWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,75,,,,75,,1094,,,2
+H1,2000,2000,2000,4,0,1,Import,308,Grenada,GRD,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,75,,,,75,,1115,,,2
+H1,2000,2000,2000,4,0,1,Import,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4800,,,,4800,,7800,,,2
+H1,2000,2000,2000,4,0,1,Import,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13176,,,,13176,,24231,,,2
+H1,2000,2000,2000,4,0,1,Import,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,204876,,,,204876,,243493,,,2
+H1,2001,2001,2001,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,313573,,,,313573,,505344,,,2
+H1,2001,2001,2001,4,0,2,Export,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,31,,,,31,,927,,,2
+H1,2001,2001,2001,4,0,3,Re-Export,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,31,,,,31,,927,,,2
+H1,2001,2001,2001,4,0,1,Import,308,Grenada,GRD,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5,,,,5,,7,,,2
+H1,2001,2001,2001,4,0,1,Import,308,Grenada,GRD,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2263,,,,2263,,7004,,,2
+H1,2001,2001,2001,4,0,1,Import,308,Grenada,GRD,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3428,,,,3428,,16986,,,2
+H1,2001,2001,2001,4,0,1,Import,308,Grenada,GRD,60,Bermuda,BMU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,484,,,,484,,836,,,2
+H1,2001,2001,2001,4,0,1,Import,308,Grenada,GRD,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2177,,,,2177,,9510,,,2
+H1,2001,2001,2001,4,0,1,Import,308,Grenada,GRD,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,57911,,,,57911,,109163,,,2
+H1,2001,2001,2001,4,0,1,Import,308,Grenada,GRD,196,Cyprus,CYP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1,,,,1,,17,,,2
+H1,2001,2001,2001,4,0,2,Export,308,Grenada,GRD,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8,,,,8,,178,,,2
+H1,2001,2001,2001,4,0,3,Re-Export,308,Grenada,GRD,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8,,,,8,,178,,,2
+H1,2001,2001,2001,4,0,1,Import,308,Grenada,GRD,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,39678,,,,39678,,75181,,,2
+H1,2001,2001,2001,4,0,1,Import,308,Grenada,GRD,364,Iran,IRN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,120,,,,120,,1740,,,2
+H1,2001,2001,2001,4,0,1,Import,308,Grenada,GRD,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,34954,,,,34954,,54778,,,2
+H1,2001,2001,2001,4,0,1,Import,308,Grenada,GRD,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5220,,,,5220,,8311,,,2
+H1,2001,2001,2001,4,0,1,Import,308,Grenada,GRD,612,Pitcairn,PCN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,65,,,,65,,207,,,2
+H1,2001,2001,2001,4,0,1,Import,308,Grenada,GRD,662,Saint Lucia,LCA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,745,,,,745,,1554,,,2
+H1,2001,2001,2001,4,0,1,Import,308,Grenada,GRD,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10,,,,10,,24,,,2
+H1,2001,2001,2001,4,0,1,Import,308,Grenada,GRD,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,27302,,,,27302,,35690,,,2
+H1,2001,2001,2001,4,0,1,Import,308,Grenada,GRD,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6577,,,,6577,,18456,,,2
+H1,2001,2001,2001,4,0,1,Import,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2392,,,,2392,,8854,,,2
+H1,2001,2001,2001,4,0,1,Import,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3239,,,,3239,,4622,,,2
+H1,2001,2001,2001,4,0,1,Import,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,127002,,,,127002,,152402,,,2
+H1,2001,2001,2001,4,0,2,Export,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,23,,,,23,,750,,,2
+H1,2001,2001,2001,4,0,3,Re-Export,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,23,,,,23,,750,,,2
+H1,2002,2002,2002,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,172246,,,,172246,,466974,,,6
+H1,2002,2002,2002,4,0,2,Export,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,138,,,,138,,2451,,,2
+H1,2002,2002,2002,4,0,3,Re-Export,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,93,,,,93,,2184,,,2
+H1,2002,2002,2002,4,0,1,Import,308,Grenada,GRD,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,27,,,,27,,91,,,2
+H1,2002,2002,2002,4,0,1,Import,308,Grenada,GRD,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2839,,,,2839,,6861,,,2
+H1,2002,2002,2002,4,0,1,Import,308,Grenada,GRD,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2840,,,,2840,,10902,,,2
+H1,2002,2002,2002,4,0,1,Import,308,Grenada,GRD,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,898,,,,898,,2517,,,2
+H1,2002,2002,2002,4,0,2,Export,308,Grenada,GRD,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,45,,,,45,,267,,,2
+H1,2002,2002,2002,4,0,1,Import,308,Grenada,GRD,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,65,,,,65,,1228,,,2
+H1,2002,2002,2002,4,0,1,Import,308,Grenada,GRD,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,37173,,,,37173,,76437,,,2
+H1,2002,2002,2002,4,0,1,Import,308,Grenada,GRD,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,19553,,,,19553,,61305,,,6
+H1,2002,2002,2002,4,0,1,Import,308,Grenada,GRD,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1406,,,,1406,,6043,,,2
+H1,2002,2002,2002,4,0,1,Import,308,Grenada,GRD,328,Guyana,GUY,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5525,,,,5525,,3380,,,2
+H1,2002,2002,2002,4,0,1,Import,308,Grenada,GRD,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13130,,,,13130,,32859,,,2
+H1,2002,2002,2002,4,0,1,Import,308,Grenada,GRD,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,995,,,,995,,2877,,,2
+H1,2002,2002,2002,4,0,1,Import,308,Grenada,GRD,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,23,,,,23,,71,,,2
+H1,2002,2002,2002,4,0,1,Import,308,Grenada,GRD,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13,,,,13,,92,,,2
+H1,2002,2002,2002,4,0,1,Import,308,Grenada,GRD,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,205,,,,205,,813,,,2
+H1,2002,2002,2002,4,0,1,Import,308,Grenada,GRD,662,Saint Lucia,LCA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2756,,,,2756,,4063,,,2
+H1,2002,2002,2002,4,0,1,Import,308,Grenada,GRD,682,Saudi Arabia,SAU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5386,,,,5386,,16399,,,2
+H1,2002,2002,2002,4,0,1,Import,308,Grenada,GRD,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4123,,,,4123,,10173,,,2
+H1,2002,2002,2002,4,0,1,Import,308,Grenada,GRD,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2045,,,,2045,,6784,,,2
+H1,2002,2002,2002,4,0,1,Import,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2972,,,,2972,,9777,,,2
+H1,2002,2002,2002,4,0,1,Import,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2156,,,,2156,,3636,,,2
+H1,2002,2002,2002,4,0,1,Import,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,68116,,,,68116,,210669,,,2
+H1,2002,2002,2002,4,0,2,Export,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,93,,,,93,,2184,,,2
+H1,2002,2002,2002,4,0,3,Re-Export,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,93,,,,93,,2184,,,2
+H1,2003,2003,2003,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,201278,,,,201278,,574917,,,2
+H1,2003,2003,2003,4,0,1,Import,308,Grenada,GRD,8,Albania,ALB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,384,,,,384,,1554,,,2
+H1,2003,2003,2003,4,0,1,Import,308,Grenada,GRD,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1290,,,,1290,,3111,,,2
+H1,2003,2003,2003,4,0,1,Import,308,Grenada,GRD,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5190,,,,5190,,24330,,,2
+H1,2003,2003,2003,4,0,1,Import,308,Grenada,GRD,50,Bangladesh,BGD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,84,,,,84,,181,,,2
+H1,2003,2003,2003,4,0,1,Import,308,Grenada,GRD,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,167,,,,167,,936,,,2
+H1,2003,2003,2003,4,0,1,Import,308,Grenada,GRD,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,40335,,,,40335,,94159,,,2
+H1,2003,2003,2003,4,0,1,Import,308,Grenada,GRD,166,Cocos Isds,CCK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,250,,,,250,,567,,,2
+H1,2003,2003,2003,4,0,1,Import,308,Grenada,GRD,196,Cyprus,CYP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,56,,,,56,,157,,,2
+H1,2003,2003,2003,4,0,1,Import,308,Grenada,GRD,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,34963,,,,34963,,106853,,,2
+H1,2003,2003,2003,4,0,1,Import,308,Grenada,GRD,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1285,,,,1285,,4023,,,2
+H1,2003,2003,2003,4,0,1,Import,308,Grenada,GRD,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,22420,,,,22420,,51752,,,2
+H1,2003,2003,2003,4,0,1,Import,308,Grenada,GRD,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2015,,,,2015,,6258,,,2
+H1,2003,2003,2003,4,0,1,Import,308,Grenada,GRD,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,246,,,,246,,1890,,,2
+H1,2003,2003,2003,4,0,1,Import,308,Grenada,GRD,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,181,,,,181,,756,,,2
+H1,2003,2003,2003,4,0,1,Import,308,Grenada,GRD,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,248,,,,248,,804,,,2
+H1,2003,2003,2003,4,0,1,Import,308,Grenada,GRD,662,Saint Lucia,LCA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,48,,,,48,,91,,,2
+H1,2003,2003,2003,4,0,1,Import,308,Grenada,GRD,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,112,,,,112,,832,,,2
+H1,2003,2003,2003,4,0,1,Import,308,Grenada,GRD,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,14367,,,,14367,,46290,,,2
+H1,2003,2003,2003,4,0,1,Import,308,Grenada,GRD,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3973,,,,3973,,10182,,,2
+H1,2003,2003,2003,4,0,1,Import,308,Grenada,GRD,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4299,,,,4299,,11078,,,2
+H1,2003,2003,2003,4,0,1,Import,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1105,,,,1105,,3743,,,2
+H1,2003,2003,2003,4,0,1,Import,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1244,,,,1244,,12924,,,2
+H1,2003,2003,2003,4,0,1,Import,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,67016,,,,67016,,192446,,,2
+H1,2004,2004,2004,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,164030,,,,180453,,503670,,,4
+H1,2004,2004,2004,4,0,2,Export,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2392,,,,2424,,14989,,,0
+H1,2004,2004,2004,4,0,3,Re-Export,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2392,,,,2424,,14989,,,0
+H1,2004,2004,2004,4,0,1,Import,308,Grenada,GRD,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1622,,,,2589,,6013,,,0
+H1,2004,2004,2004,4,0,1,Import,308,Grenada,GRD,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2505,,,,3531,,15515,,,0
+H1,2004,2004,2004,4,0,2,Export,308,Grenada,GRD,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,170,,,,182,,2051,,,0
+H1,2004,2004,2004,4,0,3,Re-Export,308,Grenada,GRD,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,170,,,,182,,2051,,,0
+H1,2004,2004,2004,4,0,1,Import,308,Grenada,GRD,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,41749,,,,46191,,114771,,,0
+H1,2004,2004,2004,4,0,1,Import,308,Grenada,GRD,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12,,,,10,,55,,,0
+H1,2004,2004,2004,4,0,1,Import,308,Grenada,GRD,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15302,,,,19257,,63722,,,0
+H1,2004,2004,2004,4,0,2,Export,308,Grenada,GRD,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1355,,,,1350,,8170,,,0
+H1,2004,2004,2004,4,0,3,Re-Export,308,Grenada,GRD,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1355,,,,1350,,8170,,,0
+H1,2004,2004,2004,4,0,1,Import,308,Grenada,GRD,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1079,,,,1004,,5226,,,0
+H1,2004,2004,2004,4,0,1,Import,308,Grenada,GRD,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16202,,,,18611,,58641,,,0
+H1,2004,2004,2004,4,0,1,Import,308,Grenada,GRD,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4740,,,,4652,,10645,,,0
+H1,2004,2004,2004,4,0,1,Import,308,Grenada,GRD,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,134,,,,174,,517,,,0
+H1,2004,2004,2004,4,0,1,Import,308,Grenada,GRD,591,Panama,PAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,72,,,,70,,840,,,0
+H1,2004,2004,2004,4,0,1,Import,308,Grenada,GRD,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,44,,,,82,,268,,,0
+H1,2004,2004,2004,4,0,1,Import,308,Grenada,GRD,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1,,,,1,,6,,,0
+H1,2004,2004,2004,4,0,1,Import,308,Grenada,GRD,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,21175,,,,22490,,66831,,,0
+H1,2004,2004,2004,4,0,1,Import,308,Grenada,GRD,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1394,,,,1804,,7557,,,0
+H1,2004,2004,2004,4,0,1,Import,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,255,,,,260,,575,,,0
+H1,2004,2004,2004,4,0,2,Export,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,48,,,,51,,366,,,0
+H1,2004,2004,2004,4,0,3,Re-Export,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,48,,,,51,,366,,,0
+H1,2004,2004,2004,4,0,1,Import,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,480,,,,495,,1676,,,0
+H1,2004,2004,2004,4,0,2,Export,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,72,,,,73,,622,,,0
+H1,2004,2004,2004,4,0,3,Re-Export,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,72,,,,73,,622,,,0
+H1,2004,2004,2004,4,0,1,Import,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,57264,,,,59232,,150811,,,4
+H1,2004,2004,2004,4,0,2,Export,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,747,,,,768,,3779,,,0
+H1,2004,2004,2004,4,0,3,Re-Export,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,747,,,,768,,3779,,,0
+H1,2005,2005,2005,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,155634,,,,161884,,488585,,,0
+H1,2005,2005,2005,4,0,2,Export,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1687,,,,1399,,12066,,,0
+H1,2005,2005,2005,4,0,3,Re-Export,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1687,,,,1399,,12066,,,0
+H1,2005,2005,2005,4,0,1,Import,308,Grenada,GRD,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,396,,,,405,,697,,,0
+H1,2005,2005,2005,4,0,1,Import,308,Grenada,GRD,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2021,,,,2553,,12333,,,0
+H1,2005,2005,2005,4,0,1,Import,308,Grenada,GRD,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,90,,,,86,,616,,,0
+H1,2005,2005,2005,4,0,2,Export,308,Grenada,GRD,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,314,,,,304,,3956,,,0
+H1,2005,2005,2005,4,0,3,Re-Export,308,Grenada,GRD,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,314,,,,304,,3956,,,0
+H1,2005,2005,2005,4,0,1,Import,308,Grenada,GRD,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,540,,,,540,,4008,,,0
+H1,2005,2005,2005,4,0,1,Import,308,Grenada,GRD,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18504,,,,21016,,62388,,,0
+H1,2005,2005,2005,4,0,1,Import,308,Grenada,GRD,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,23,,,,20,,43,,,0
+H1,2005,2005,2005,4,0,1,Import,308,Grenada,GRD,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11533,,,,15121,,52887,,,0
+H1,2005,2005,2005,4,0,1,Import,308,Grenada,GRD,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,333,,,,555,,1634,,,0
+H1,2005,2005,2005,4,0,1,Import,308,Grenada,GRD,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16582,,,,18377,,58490,,,0
+H1,2005,2005,2005,4,0,1,Import,308,Grenada,GRD,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9789,,,,10798,,18419,,,0
+H1,2005,2005,2005,4,0,1,Import,308,Grenada,GRD,410,Rep. of Korea,KOR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,126,,,,1,,402,,,0
+H1,2005,2005,2005,4,0,1,Import,308,Grenada,GRD,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1904,,,,1289,,4596,,,0
+H1,2005,2005,2005,4,0,2,Export,308,Grenada,GRD,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,800,,,,671,,2486,,,0
+H1,2005,2005,2005,4,0,3,Re-Export,308,Grenada,GRD,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,800,,,,671,,2486,,,0
+H1,2005,2005,2005,4,0,1,Import,308,Grenada,GRD,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9179,,,,11203,,36527,,,0
+H1,2005,2005,2005,4,0,1,Import,308,Grenada,GRD,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12747,,,,14747,,33504,,,0
+H1,2005,2005,2005,4,0,1,Import,308,Grenada,GRD,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2287,,,,2277,,3764,,,0
+H1,2005,2005,2005,4,0,1,Import,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7877,,,,6430,,23019,,,0
+H1,2005,2005,2005,4,0,2,Export,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,133,,,,144,,1690,,,0
+H1,2005,2005,2005,4,0,3,Re-Export,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,133,,,,144,,1690,,,0
+H1,2005,2005,2005,4,0,1,Import,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2773,,,,1175,,28150,,,0
+H1,2005,2005,2005,4,0,2,Export,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,124,,,,124,,1358,,,0
+H1,2005,2005,2005,4,0,3,Re-Export,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,124,,,,124,,1358,,,0
+H1,2005,2005,2005,4,0,1,Import,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,58930,,,,55291,,147108,,,0
+H1,2005,2005,2005,4,0,2,Export,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,316,,,,156,,2577,,,0
+H1,2005,2005,2005,4,0,3,Re-Export,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,316,,,,156,,2577,,,0
+H1,2006,2006,2006,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,206218,,,,209547,,715015,,,0
+H1,2006,2006,2006,4,0,2,Export,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2716,,,,2585,,15185,,,0
+H1,2006,2006,2006,4,0,3,Re-Export,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1308,,,,1177,,10741,,,0
+H1,2006,2006,2006,4,0,1,Import,308,Grenada,GRD,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1325,,,,1451,,4983,,,0
+H1,2006,2006,2006,4,0,1,Import,308,Grenada,GRD,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4525,,,,4977,,23562,,,0
+H1,2006,2006,2006,4,0,2,Export,308,Grenada,GRD,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,260,,,,260,,2238,,,0
+H1,2006,2006,2006,4,0,3,Re-Export,308,Grenada,GRD,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,260,,,,260,,2238,,,0
+H1,2006,2006,2006,4,0,2,Export,308,Grenada,GRD,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5,,,,5,,31,,,0
+H1,2006,2006,2006,4,0,3,Re-Export,308,Grenada,GRD,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5,,,,5,,31,,,0
+H1,2006,2006,2006,4,0,1,Import,308,Grenada,GRD,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,54693,,,,55456,,168850,,,0
+H1,2006,2006,2006,4,0,1,Import,308,Grenada,GRD,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,39573,,,,39413,,146916,,,0
+H1,2006,2006,2006,4,0,1,Import,308,Grenada,GRD,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2135,,,,2087,,6193,,,0
+H1,2006,2006,2006,4,0,1,Import,308,Grenada,GRD,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10816,,,,13265,,57504,,,0
+H1,2006,2006,2006,4,0,1,Import,308,Grenada,GRD,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3240,,,,3230,,4853,,,0
+H1,2006,2006,2006,4,0,1,Import,308,Grenada,GRD,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,383,,,,383,,3390,,,0
+H1,2006,2006,2006,4,0,1,Import,308,Grenada,GRD,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5371,,,,5348,,14337,,,0
+H1,2006,2006,2006,4,0,1,Import,308,Grenada,GRD,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1260,,,,851,,6752,,,0
+H1,2006,2006,2006,4,0,1,Import,308,Grenada,GRD,660,Anguilla,AIA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,135,,,,128,,581,,,0
+H1,2006,2006,2006,4,0,1,Import,308,Grenada,GRD,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18247,,,,18538,,57078,,,0
+H1,2006,2006,2006,4,0,1,Import,308,Grenada,GRD,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8683,,,,8397,,33124,,,0
+H1,2006,2006,2006,4,0,1,Import,308,Grenada,GRD,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5203,,,,5331,,14971,,,0
+H1,2006,2006,2006,4,0,1,Import,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5436,,,,5864,,15554,,,0
+H1,2006,2006,2006,4,0,2,Export,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1499,,,,1498,,5225,,,0
+H1,2006,2006,2006,4,0,3,Re-Export,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,91,,,,90,,781,,,0
+H1,2006,2006,2006,4,0,1,Import,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,756,,,,731,,3775,,,0
+H1,2006,2006,2006,4,0,2,Export,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,484,,,,474,,3930,,,0
+H1,2006,2006,2006,4,0,3,Re-Export,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,484,,,,474,,3930,,,0
+H1,2006,2006,2006,4,0,1,Import,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,44437,,,,44097,,152592,,,0
+H1,2006,2006,2006,4,0,2,Export,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,468,,,,348,,3761,,,0
+H1,2006,2006,2006,4,0,3,Re-Export,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,468,,,,348,,3761,,,0
+H1,2007,2007,2007,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,267242,,,,308564,,863322,,,0
+H1,2007,2007,2007,4,0,2,Export,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,595,,,,600,,2300,,,0
+H1,2007,2007,2007,4,0,1,Import,308,Grenada,GRD,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,25,,,,23,,327,,,0
+H1,2007,2007,2007,4,0,1,Import,308,Grenada,GRD,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16968,,,,22632,,38759,,,0
+H1,2007,2007,2007,4,0,1,Import,308,Grenada,GRD,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2811,,,,4097,,17015,,,0
+H1,2007,2007,2007,4,0,1,Import,308,Grenada,GRD,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,90730,,,,111561,,241655,,,0
+H1,2007,2007,2007,4,0,1,Import,308,Grenada,GRD,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,250,,,,250,,2030,,,0
+H1,2007,2007,2007,4,0,1,Import,308,Grenada,GRD,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,44863,,,,51114,,184018,,,0
+H1,2007,2007,2007,4,0,2,Export,308,Grenada,GRD,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,145,,,,150,,394,,,0
+H1,2007,2007,2007,4,0,1,Import,308,Grenada,GRD,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,19747,,,,24445,,66404,,,0
+H1,2007,2007,2007,4,0,1,Import,308,Grenada,GRD,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3654,,,,3232,,4850,,,0
+H1,2007,2007,2007,4,0,1,Import,308,Grenada,GRD,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6198,,,,5847,,10850,,,0
+H1,2007,2007,2007,4,0,1,Import,308,Grenada,GRD,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,270,,,,254,,2384,,,0
+H1,2007,2007,2007,4,0,1,Import,308,Grenada,GRD,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10707,,,,12249,,40664,,,0
+H1,2007,2007,2007,4,0,1,Import,308,Grenada,GRD,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2730,,,,2988,,14763,,,0
+H1,2007,2007,2007,4,0,1,Import,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3241,,,,3119,,6590,,,0
+H1,2007,2007,2007,4,0,1,Import,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2808,,,,2320,,5707,,,0
+H1,2007,2007,2007,4,0,2,Export,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,450,,,,450,,1905,,,0
+H1,2007,2007,2007,4,0,1,Import,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,61550,,,,63743,,225306,,,0
+H1,2007,2007,2007,4,0,1,Import,308,Grenada,GRD,862,Venezuela,VEN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,690,,,,690,,1999,,,0
+H1,2008,2008,2008,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,378794,,,,345934,,784479,,,0
+H1,2008,2008,2008,4,0,1,Import,308,Grenada,GRD,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1800,,,,3000,,3219,,,0
+H1,2008,2008,2008,4,0,1,Import,308,Grenada,GRD,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16994,,,,21996,,34769,,,0
+H1,2008,2008,2008,4,0,1,Import,308,Grenada,GRD,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8104,,,,8866,,35171,,,0
+H1,2008,2008,2008,4,0,1,Import,308,Grenada,GRD,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,208447,,,,115648,,202604,,,0
+H1,2008,2008,2008,4,0,1,Import,308,Grenada,GRD,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10,,,,30,,313,,,0
+H1,2008,2008,2008,4,0,1,Import,308,Grenada,GRD,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,28064,,,,44339,,130334,,,0
+H1,2008,2008,2008,4,0,1,Import,308,Grenada,GRD,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,544,,,,544,,1798,,,0
+H1,2008,2008,2008,4,0,1,Import,308,Grenada,GRD,328,Guyana,GUY,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2091,,,,2352,,1260,,,0
+H1,2008,2008,2008,4,0,1,Import,308,Grenada,GRD,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,27871,,,,23267,,75179,,,0
+H1,2008,2008,2008,4,0,1,Import,308,Grenada,GRD,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2500,,,,5252,,7644,,,0
+H1,2008,2008,2008,4,0,1,Import,308,Grenada,GRD,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2408,,,,2481,,2143,,,0
+H1,2008,2008,2008,4,0,1,Import,308,Grenada,GRD,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,126,,,,224,,1318,,,0
+H1,2008,2008,2008,4,0,1,Import,308,Grenada,GRD,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,22,,,,47,,142,,,0
+H1,2008,2008,2008,4,0,1,Import,308,Grenada,GRD,686,Senegal,SEN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,210,,,,202,,1566,,,0
+H1,2008,2008,2008,4,0,1,Import,308,Grenada,GRD,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,19287,,,,36513,,80704,,,0
+H1,2008,2008,2008,4,0,1,Import,308,Grenada,GRD,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2676,,,,3684,,12108,,,0
+H1,2008,2008,2008,4,0,1,Import,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,206,,,,1365,,3123,,,0
+H1,2008,2008,2008,4,0,1,Import,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5413,,,,12640,,29368,,,0
+H1,2008,2008,2008,4,0,1,Import,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,52021,,,,63484,,161716,,,0
+H1,2009,2009,2009,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,266569,,,,457148,,1087843,,,0
+H1,2009,2009,2009,4,0,1,Import,308,Grenada,GRD,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,234,,,,416,,419,,,0
+H1,2009,2009,2009,4,0,1,Import,308,Grenada,GRD,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,33589,,,,56467,,82285,,,0
+H1,2009,2009,2009,4,0,1,Import,308,Grenada,GRD,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8181,,,,14669,,49081,,,0
+H1,2009,2009,2009,4,0,1,Import,308,Grenada,GRD,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1,,,,4,,101,,,0
+H1,2009,2009,2009,4,0,1,Import,308,Grenada,GRD,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,225,,,,416,,948,,,0
+H1,2009,2009,2009,4,0,1,Import,308,Grenada,GRD,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,80051,,,,148644,,288428,,,0
+H1,2009,2009,2009,4,0,1,Import,308,Grenada,GRD,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2,,,,8,,28,,,0
+H1,2009,2009,2009,4,0,1,Import,308,Grenada,GRD,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,37981,,,,45852,,195946,,,0
+H1,2009,2009,2009,4,0,1,Import,308,Grenada,GRD,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,315,,,,210,,791,,,0
+H1,2009,2009,2009,4,0,1,Import,308,Grenada,GRD,364,Iran,IRN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,135,,,,210,,645,,,0
+H1,2009,2009,2009,4,0,1,Import,308,Grenada,GRD,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,26593,,,,39054,,117016,,,0
+H1,2009,2009,2009,4,0,1,Import,308,Grenada,GRD,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4515,,,,1852,,10659,,,0
+H1,2009,2009,2009,4,0,1,Import,308,Grenada,GRD,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,298,,,,420,,973,,,0
+H1,2009,2009,2009,4,0,1,Import,308,Grenada,GRD,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,234,,,,442,,2318,,,0
+H1,2009,2009,2009,4,0,1,Import,308,Grenada,GRD,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,690,,,,1222,,6346,,,0
+H1,2009,2009,2009,4,0,1,Import,308,Grenada,GRD,643,Russian Federation,RUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,333,,,,592,,1201,,,0
+H1,2009,2009,2009,4,0,1,Import,308,Grenada,GRD,662,Saint Lucia,LCA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1680,,,,200,,499,,,0
+H1,2009,2009,2009,4,0,1,Import,308,Grenada,GRD,682,Saudi Arabia,SAU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1872,,,,2080,,3435,,,0
+H1,2009,2009,2009,4,0,1,Import,308,Grenada,GRD,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11851,,,,19498,,48244,,,0
+H1,2009,2009,2009,4,0,1,Import,308,Grenada,GRD,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6066,,,,11006,,25977,,,0
+H1,2009,2009,2009,4,0,1,Import,308,Grenada,GRD,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2494,,,,4554,,6452,,,0
+H1,2009,2009,2009,4,0,1,Import,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,562,,,,360,,931,,,0
+H1,2009,2009,2009,4,0,1,Import,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4435,,,,5066,,14220,,,0
+H1,2009,2009,2009,4,0,1,Import,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,44232,,,,103906,,230899,,,0
+H4,2014,2014,2014,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,559556,,,,559556,,1244061,,,2
+H4,2014,2014,2014,4,0,1,Import,308,Grenada,GRD,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,29458,,,,29458,,44501,,,2
+H4,2014,2014,2014,4,0,1,Import,308,Grenada,GRD,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,32,,,,32,,161,,,2
+H4,2014,2014,2014,4,0,1,Import,308,Grenada,GRD,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,166996,,,,166996,,302176,,,2
+H4,2014,2014,2014,4,0,1,Import,308,Grenada,GRD,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,64,,,,64,,2319,,,2
+H4,2014,2014,2014,4,0,1,Import,308,Grenada,GRD,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,69515,,,,69515,,183366,,,2
+H4,2014,2014,2014,4,0,1,Import,308,Grenada,GRD,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45869,,,,45869,,80066,,,2
+H4,2014,2014,2014,4,0,1,Import,308,Grenada,GRD,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8390,,,,8390,,10776,,,2
+H4,2014,2014,2014,4,0,1,Import,308,Grenada,GRD,662,Saint Lucia,LCA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,93,,,,93,,2135,,,2
+H4,2014,2014,2014,4,0,1,Import,308,Grenada,GRD,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4937,,,,4937,,12914,,,2
+H4,2014,2014,2014,4,0,1,Import,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7832,,,,7832,,23158,,,2
+H4,2014,2014,2014,4,0,1,Import,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22750,,,,22750,,65568,,,2
+H4,2014,2014,2014,4,0,1,Import,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,159774,,,,159774,,469593,,,2
+H4,2014,2014,2014,4,0,1,Import,308,Grenada,GRD,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,29246,,,,29246,,18467,,,2
+H4,2014,2014,2014,4,0,1,Import,308,Grenada,GRD,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14600,,,,14600,,28854,,,2
+H3,2010,2010,2010,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,402117,,,,402117,,1092277,,,2
+H3,2010,2010,2010,4,0,1,Import,308,Grenada,GRD,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,26,,,,26,,91,,,2
+H3,2010,2010,2010,4,0,1,Import,308,Grenada,GRD,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,32554,,,,32554,,47374,,,2
+H3,2010,2010,2010,4,0,1,Import,308,Grenada,GRD,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4270,,,,4270,,15144,,,2
+H3,2010,2010,2010,4,0,1,Import,308,Grenada,GRD,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3360,,,,3360,,4316,,,2
+H3,2010,2010,2010,4,0,1,Import,308,Grenada,GRD,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,143126,,,,143126,,350733,,,2
+H3,2010,2010,2010,4,0,1,Import,308,Grenada,GRD,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,732,,,,732,,3374,,,2
+H3,2010,2010,2010,4,0,1,Import,308,Grenada,GRD,184,Cook Isds,COK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,50,,,,50,,1451,,,2
+H3,2010,2010,2010,4,0,1,Import,308,Grenada,GRD,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,53226,,,,53226,,203531,,,2
+H3,2010,2010,2010,4,0,1,Import,308,Grenada,GRD,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1413,,,,1413,,5231,,,2
+H3,2010,2010,2010,4,0,1,Import,308,Grenada,GRD,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,20487,,,,20487,,57114,,,2
+H3,2010,2010,2010,4,0,1,Import,308,Grenada,GRD,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,11242,,,,11242,,59263,,,2
+H3,2010,2010,2010,4,0,1,Import,308,Grenada,GRD,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,211,,,,211,,1106,,,2
+H3,2010,2010,2010,4,0,1,Import,308,Grenada,GRD,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,334,,,,334,,1278,,,2
+H3,2010,2010,2010,4,0,1,Import,308,Grenada,GRD,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4,,,,4,,169,,,2
+H3,2010,2010,2010,4,0,1,Import,308,Grenada,GRD,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,272,,,,272,,587,,,2
+H3,2010,2010,2010,4,0,1,Import,308,Grenada,GRD,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,36682,,,,36682,,74212,,,2
+H3,2010,2010,2010,4,0,1,Import,308,Grenada,GRD,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,14459,,,,14459,,38230,,,2
+H3,2010,2010,2010,4,0,1,Import,308,Grenada,GRD,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,140,,,,140,,367,,,2
+H3,2010,2010,2010,4,0,1,Import,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6379,,,,6379,,23980,,,2
+H3,2010,2010,2010,4,0,1,Import,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,72843,,,,72843,,199993,,,2
+H3,2010,2010,2010,4,0,1,Import,308,Grenada,GRD,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,307,,,,307,,4721,,,2
+H3,2011,2011,2011,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,376531,,,,376531,,988399,,,2
+H3,2011,2011,2011,4,0,1,Import,308,Grenada,GRD,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,368,,,,368,,1047,,,2
+H3,2011,2011,2011,4,0,1,Import,308,Grenada,GRD,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,50320,,,,50320,,91505,,,2
+H3,2011,2011,2011,4,0,1,Import,308,Grenada,GRD,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4561,,,,4561,,17771,,,2
+H3,2011,2011,2011,4,0,1,Import,308,Grenada,GRD,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,145758,,,,145758,,333761,,,2
+H3,2011,2011,2011,4,0,1,Import,308,Grenada,GRD,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2060,,,,2060,,5405,,,2
+H3,2011,2011,2011,4,0,1,Import,308,Grenada,GRD,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,34878,,,,34878,,127184,,,2
+H3,2011,2011,2011,4,0,1,Import,308,Grenada,GRD,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,160,,,,160,,773,,,2
+H3,2011,2011,2011,4,0,1,Import,308,Grenada,GRD,328,Guyana,GUY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4600,,,,4600,,4340,,,2
+H3,2011,2011,2011,4,0,1,Import,308,Grenada,GRD,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,24408,,,,24408,,82337,,,2
+H3,2011,2011,2011,4,0,1,Import,308,Grenada,GRD,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12562,,,,12562,,26008,,,2
+H3,2011,2011,2011,4,0,1,Import,308,Grenada,GRD,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,90,,,,90,,205,,,2
+H3,2011,2011,2011,4,0,1,Import,308,Grenada,GRD,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,57,,,,57,,329,,,2
+H3,2011,2011,2011,4,0,1,Import,308,Grenada,GRD,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,260,,,,260,,1300,,,2
+H3,2011,2011,2011,4,0,1,Import,308,Grenada,GRD,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,414,,,,414,,1860,,,2
+H3,2011,2011,2011,4,0,1,Import,308,Grenada,GRD,662,Saint Lucia,LCA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,70,,,,70,,139,,,2
+H3,2011,2011,2011,4,0,1,Import,308,Grenada,GRD,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,113,,,,113,,251,,,2
+H3,2011,2011,2011,4,0,1,Import,308,Grenada,GRD,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,28925,,,,28925,,69752,,,2
+H3,2011,2011,2011,4,0,1,Import,308,Grenada,GRD,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7259,,,,7259,,20615,,,2
+H3,2011,2011,2011,4,0,1,Import,308,Grenada,GRD,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1960,,,,1960,,4305,,,2
+H3,2011,2011,2011,4,0,1,Import,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1387,,,,1387,,4269,,,2
+H3,2011,2011,2011,4,0,1,Import,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1647,,,,1647,,5271,,,2
+H3,2011,2011,2011,4,0,1,Import,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,54124,,,,54124,,187193,,,2
+H3,2011,2011,2011,4,0,1,Import,308,Grenada,GRD,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,550,,,,550,,2770,,,2
+H3,2012,2012,2012,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,341507,,,,341507,,1100855,,,6
+H3,2012,2012,2012,4,0,2,Export,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,20,,,,20,,100,,,2
+H3,2012,2012,2012,4,0,1,Import,308,Grenada,GRD,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,884,,,,884,,2600,,,2
+H3,2012,2012,2012,4,0,1,Import,308,Grenada,GRD,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,28048,,,,28048,,61375,,,6
+H3,2012,2012,2012,4,0,1,Import,308,Grenada,GRD,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7863,,,,7863,,39316,,,2
+H3,2012,2012,2012,4,0,1,Import,308,Grenada,GRD,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1130,,,,1130,,8155,,,2
+H3,2012,2012,2012,4,0,1,Import,308,Grenada,GRD,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,102686,,,,102686,,238352,,,2
+H3,2012,2012,2012,4,0,1,Import,308,Grenada,GRD,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,347,,,,347,,2755,,,2
+H3,2012,2012,2012,4,0,1,Import,308,Grenada,GRD,184,Cook Isds,COK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1,,,,1,,20,,,2
+H3,2012,2012,2012,4,0,1,Import,308,Grenada,GRD,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1193,,,,1193,,2209,,,2
+H3,2012,2012,2012,4,0,1,Import,308,Grenada,GRD,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,30826,,,,30826,,185632,,,2
+H3,2012,2012,2012,4,0,1,Import,308,Grenada,GRD,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,48,,,,48,,259,,,2
+H3,2012,2012,2012,4,0,1,Import,308,Grenada,GRD,328,Guyana,GUY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4250,,,,4250,,6217,,,2
+H3,2012,2012,2012,4,0,1,Import,308,Grenada,GRD,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,16633,,,,16633,,75007,,,2
+H3,2012,2012,2012,4,0,1,Import,308,Grenada,GRD,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,39434,,,,39434,,77336,,,2
+H3,2012,2012,2012,4,0,1,Import,308,Grenada,GRD,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,528,,,,528,,2905,,,2
+H3,2012,2012,2012,4,0,1,Import,308,Grenada,GRD,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,224,,,,224,,887,,,2
+H3,2012,2012,2012,4,0,1,Import,308,Grenada,GRD,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,17284,,,,17284,,44262,,,2
+H3,2012,2012,2012,4,0,1,Import,308,Grenada,GRD,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4141,,,,4141,,10573,,,2
+H3,2012,2012,2012,4,0,1,Import,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3942,,,,3942,,37842,,,2
+H3,2012,2012,2012,4,0,1,Import,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2079,,,,2079,,6099,,,2
+H3,2012,2012,2012,4,0,1,Import,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,79027,,,,79027,,291483,,,2
+H3,2012,2012,2012,4,0,2,Export,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,20,,,,20,,100,,,2
+H3,2012,2012,2012,4,0,1,Import,308,Grenada,GRD,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,939,,,,939,,7561,,,2
+H3,2013,2013,2013,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,1297936,,,2
+H3,2013,2013,2013,4,0,1,Import,308,Grenada,GRD,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3,,,,3,,18,,,2
+H3,2013,2013,2013,4,0,1,Import,308,Grenada,GRD,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10657,,,,10657,,51852,,,2
+H3,2013,2013,2013,4,0,1,Import,308,Grenada,GRD,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7969,,,,7969,,37478,,,2
+H3,2013,2013,2013,4,0,1,Import,308,Grenada,GRD,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,167,,,,167,,896,,,2
+H3,2013,2013,2013,4,0,1,Import,308,Grenada,GRD,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3767,,,,3767,,29070,,,2
+H3,2013,2013,2013,4,0,1,Import,308,Grenada,GRD,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,87067,,,,87067,,446955,,,2
+H3,2013,2013,2013,4,0,1,Import,308,Grenada,GRD,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,59,,,,59,,506,,,2
+H3,2013,2013,2013,4,0,1,Import,308,Grenada,GRD,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,22111,,,,22111,,143068,,,2
+H3,2013,2013,2013,4,0,1,Import,308,Grenada,GRD,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10,,,,10,,74,,,2
+H3,2013,2013,2013,4,0,1,Import,308,Grenada,GRD,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,166203,,,,166203,,112109,,,2
+H3,2013,2013,2013,4,0,1,Import,308,Grenada,GRD,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4266,,,,4266,,12357,,,2
+H3,2013,2013,2013,4,0,1,Import,308,Grenada,GRD,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7757,,,,7757,,51788,,,2
+H3,2013,2013,2013,4,0,1,Import,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1140,,,,1140,,7950,,,2
+H3,2013,2013,2013,4,0,1,Import,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4115,,,,4115,,13347,,,2
+H3,2013,2013,2013,4,0,1,Import,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,79576,,,,79576,,390451,,,2
+H3,2013,2013,2013,4,0,1,Import,308,Grenada,GRD,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,9,,,0
+H4,2015,2015,2015,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,786624,,,,786624,,1528435,,,2
+H4,2015,2015,2015,4,0,2,Export,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,128,,,,128,,269,,,2
+H4,2015,2015,2015,4,0,3,Re-Export,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,128,,,,128,,269,,,2
+H4,2015,2015,2015,4,0,1,Import,308,Grenada,GRD,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,60523,,,,60523,,104785,,,2
+H4,2015,2015,2015,4,0,1,Import,308,Grenada,GRD,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,957,,,,957,,3194,,,2
+H4,2015,2015,2015,4,0,1,Import,308,Grenada,GRD,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18,,,,18,,284,,,2
+H4,2015,2015,2015,4,0,1,Import,308,Grenada,GRD,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,27,,,,27,,294,,,2
+H4,2015,2015,2015,4,0,1,Import,308,Grenada,GRD,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,205385,,,,205385,,382695,,,2
+H4,2015,2015,2015,4,0,1,Import,308,Grenada,GRD,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6495,,,,6495,,3233,,,2
+H4,2015,2015,2015,4,0,1,Import,308,Grenada,GRD,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,74289,,,,74289,,196570,,,2
+H4,2015,2015,2015,4,0,2,Export,308,Grenada,GRD,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,37,,,,37,,92,,,2
+H4,2015,2015,2015,4,0,3,Re-Export,308,Grenada,GRD,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,37,,,,37,,92,,,2
+H4,2015,2015,2015,4,0,1,Import,308,Grenada,GRD,328,Guyana,GUY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4420,,,,4420,,241,,,2
+H4,2015,2015,2015,4,0,1,Import,308,Grenada,GRD,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,41462,,,,41462,,73802,,,2
+H4,2015,2015,2015,4,0,1,Import,308,Grenada,GRD,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,57874,,,,57874,,124936,,,2
+H4,2015,2015,2015,4,0,1,Import,308,Grenada,GRD,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,405,,,,405,,3051,,,2
+H4,2015,2015,2015,4,0,1,Import,308,Grenada,GRD,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,225,,,,225,,4703,,,2
+H4,2015,2015,2015,4,0,1,Import,308,Grenada,GRD,662,Saint Lucia,LCA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,30,,,,30,,702,,,2
+H4,2015,2015,2015,4,0,1,Import,308,Grenada,GRD,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36628,,,,36628,,63598,,,2
+H4,2015,2015,2015,4,0,1,Import,308,Grenada,GRD,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4598,,,,4598,,8736,,,2
+H4,2015,2015,2015,4,0,1,Import,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3437,,,,3437,,10694,,,2
+H4,2015,2015,2015,4,0,1,Import,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11692,,,,11692,,23023,,,2
+H4,2015,2015,2015,4,0,1,Import,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,224938,,,,224938,,475156,,,2
+H4,2015,2015,2015,4,0,1,Import,308,Grenada,GRD,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,52968,,,,52968,,45215,,,2
+H4,2015,2015,2015,4,0,1,Import,308,Grenada,GRD,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,253,,,,253,,3515,,,2
+H4,2015,2015,2015,4,0,2,Export,308,Grenada,GRD,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,91,,,,91,,176,,,2
+H4,2015,2015,2015,4,0,3,Re-Export,308,Grenada,GRD,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,91,,,,91,,176,,,2
+H4,2016,2016,2016,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,693000,,,,693000,,1216735,,,2
+H4,2016,2016,2016,4,0,2,Export,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,306,,,,306,,1595,,,2
+H4,2016,2016,2016,4,0,1,Import,308,Grenada,GRD,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,83788,,,,83788,,145467,,,2
+H4,2016,2016,2016,4,0,1,Import,308,Grenada,GRD,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,200,,,,200,,481,,,2
+H4,2016,2016,2016,4,0,1,Import,308,Grenada,GRD,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,135319,,,,135319,,230483,,,2
+H4,2016,2016,2016,4,0,1,Import,308,Grenada,GRD,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,40,,,,40,,80,,,2
+H4,2016,2016,2016,4,0,1,Import,308,Grenada,GRD,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,97642,,,,97642,,201690,,,2
+H4,2016,2016,2016,4,0,1,Import,308,Grenada,GRD,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1700,,,,1700,,5895,,,2
+H4,2016,2016,2016,4,0,1,Import,308,Grenada,GRD,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,41131,,,,41131,,64672,,,2
+H4,2016,2016,2016,4,0,1,Import,308,Grenada,GRD,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,59427,,,,59427,,109605,,,2
+H4,2016,2016,2016,4,0,1,Import,308,Grenada,GRD,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4218,,,,4218,,10113,,,2
+H4,2016,2016,2016,4,0,1,Import,308,Grenada,GRD,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,636,,,,636,,2523,,,2
+H4,2016,2016,2016,4,0,2,Export,308,Grenada,GRD,662,Saint Lucia,LCA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,300,,,,300,,1147,,,2
+H4,2016,2016,2016,4,0,1,Import,308,Grenada,GRD,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,21145,,,,21145,,35940,,,2
+H4,2016,2016,2016,4,0,1,Import,308,Grenada,GRD,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,705,,,,705,,2979,,,2
+H4,2016,2016,2016,4,0,1,Import,308,Grenada,GRD,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,308,,,,308,,782,,,2
+H4,2016,2016,2016,4,0,1,Import,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12653,,,,12653,,15725,,,2
+H4,2016,2016,2016,4,0,2,Export,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6,,,,6,,448,,,2
+H4,2016,2016,2016,4,0,1,Import,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7018,,,,7018,,17015,,,2
+H4,2016,2016,2016,4,0,1,Import,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,207380,,,,207380,,353804,,,2
+H4,2016,2016,2016,4,0,1,Import,308,Grenada,GRD,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18416,,,,18416,,15571,,,2
+H4,2016,2016,2016,4,0,1,Import,308,Grenada,GRD,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1274,,,,1274,,3902,,,2
+H4,2017,2017,2017,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,885752,,,,885752,,1744817,,,2
+H4,2017,2017,2017,4,0,2,Export,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5265,,,,5265,,4975,,,2
+H4,2017,2017,2017,4,0,1,Import,308,Grenada,GRD,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15,,,,15,,232,,,2
+H4,2017,2017,2017,4,0,1,Import,308,Grenada,GRD,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,74349,,,,74349,,128406,,,2
+H4,2017,2017,2017,4,0,1,Import,308,Grenada,GRD,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24,,,,24,,539,,,2
+H4,2017,2017,2017,4,0,1,Import,308,Grenada,GRD,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5266,,,,5266,,16091,,,2
+H4,2017,2017,2017,4,0,2,Export,308,Grenada,GRD,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4900,,,,4900,,2962,,,2
+H4,2017,2017,2017,4,0,1,Import,308,Grenada,GRD,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12,,,,12,,471,,,2
+H4,2017,2017,2017,4,0,1,Import,308,Grenada,GRD,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,127105,,,,127105,,220243,,,2
+H4,2017,2017,2017,4,0,1,Import,308,Grenada,GRD,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,146970,,,,146970,,337744,,,2
+H4,2017,2017,2017,4,0,1,Import,308,Grenada,GRD,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,350,,,,350,,1605,,,2
+H4,2017,2017,2017,4,0,1,Import,308,Grenada,GRD,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,37379,,,,37379,,73948,,,2
+H4,2017,2017,2017,4,0,1,Import,308,Grenada,GRD,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,81352,,,,81352,,162467,,,2
+H4,2017,2017,2017,4,0,1,Import,308,Grenada,GRD,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1325,,,,1325,,2269,,,2
+H4,2017,2017,2017,4,0,1,Import,308,Grenada,GRD,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9576,,,,9576,,32312,,,2
+H4,2017,2017,2017,4,0,1,Import,308,Grenada,GRD,662,Saint Lucia,LCA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3100,,,,3100,,11190,,,2
+H4,2017,2017,2017,4,0,2,Export,308,Grenada,GRD,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,365,,,,365,,2012,,,2
+H4,2017,2017,2017,4,0,1,Import,308,Grenada,GRD,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,41656,,,,41656,,71078,,,2
+H4,2017,2017,2017,4,0,1,Import,308,Grenada,GRD,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,39163,,,,39163,,38911,,,2
+H4,2017,2017,2017,4,0,1,Import,308,Grenada,GRD,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,268,,,,268,,502,,,2
+H4,2017,2017,2017,4,0,1,Import,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14622,,,,14622,,23926,,,2
+H4,2017,2017,2017,4,0,1,Import,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10564,,,,10564,,29220,,,2
+H4,2017,2017,2017,4,0,1,Import,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,290034,,,,290034,,580077,,,2
+H4,2017,2017,2017,4,0,1,Import,308,Grenada,GRD,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2622,,,,2622,,13576,,,2
+H4,2018,2018,2018,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1964435,,,,1964435,,2280815,,,2
+H4,2018,2018,2018,4,0,2,Export,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1407,,,,1407,,4225,,,2
+H4,2018,2018,2018,4,0,1,Import,308,Grenada,GRD,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,87,,,,87,,186,,,2
+H4,2018,2018,2018,4,0,1,Import,308,Grenada,GRD,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,69251,,,,69251,,131009,,,2
+H4,2018,2018,2018,4,0,1,Import,308,Grenada,GRD,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,895,,,,895,,3251,,,2
+H4,2018,2018,2018,4,0,1,Import,308,Grenada,GRD,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2896,,,,2896,,33127,,,2
+H4,2018,2018,2018,4,0,1,Import,308,Grenada,GRD,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,131043,,,,131043,,225554,,,2
+H4,2018,2018,2018,4,0,1,Import,308,Grenada,GRD,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,104957,,,,104957,,397578,,,2
+H4,2018,2018,2018,4,0,1,Import,308,Grenada,GRD,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,375,,,,375,,1488,,,2
+H4,2018,2018,2018,4,0,1,Import,308,Grenada,GRD,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,107828,,,,107828,,194412,,,2
+H4,2018,2018,2018,4,0,1,Import,308,Grenada,GRD,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,50925,,,,50925,,106060,,,2
+H4,2018,2018,2018,4,0,1,Import,308,Grenada,GRD,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1678,,,,1678,,4732,,,2
+H4,2018,2018,2018,4,0,1,Import,308,Grenada,GRD,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,37624,,,,37624,,87676,,,2
+H4,2018,2018,2018,4,0,1,Import,308,Grenada,GRD,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,350,,,,350,,3010,,,2
+H4,2018,2018,2018,4,0,1,Import,308,Grenada,GRD,662,Saint Lucia,LCA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3613,,,,3613,,16799,,,2
+H4,2018,2018,2018,4,0,1,Import,308,Grenada,GRD,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,28,,,,28,,389,,,2
+H4,2018,2018,2018,4,0,1,Import,308,Grenada,GRD,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,57981,,,,57981,,87825,,,2
+H4,2018,2018,2018,4,0,1,Import,308,Grenada,GRD,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36387,,,,36387,,43932,,,2
+H4,2018,2018,2018,4,0,1,Import,308,Grenada,GRD,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3834,,,,3834,,9384,,,2
+H4,2018,2018,2018,4,0,1,Import,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15027,,,,15027,,25840,,,2
+H4,2018,2018,2018,4,0,1,Import,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5733,,,,5733,,50574,,,2
+H4,2018,2018,2018,4,0,2,Export,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11,,,,11,,19,,,2
+H4,2018,2018,2018,4,0,1,Import,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,321659,,,,321659,,823745,,,2
+H4,2018,2018,2018,4,0,2,Export,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1396,,,,1396,,4205,,,2
+H4,2018,2018,2018,4,0,1,Import,308,Grenada,GRD,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1012264,,,,1012264,,34233,,,2
+H4,2019,2019,2019,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,700024,,,,700024,,1761561,,,2
+H4,2019,2019,2019,4,0,1,Import,308,Grenada,GRD,4,Afghanistan,AFG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,128,,,,128,,282,,,2
+H4,2019,2019,2019,4,0,1,Import,308,Grenada,GRD,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,980,,,,980,,2608,,,2
+H4,2019,2019,2019,4,0,1,Import,308,Grenada,GRD,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,47304,,,,47304,,85447,,,2
+H4,2019,2019,2019,4,0,1,Import,308,Grenada,GRD,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1107,,,,1107,,5851,,,2
+H4,2019,2019,2019,4,0,1,Import,308,Grenada,GRD,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8728,,,,8728,,51265,,,2
+H4,2019,2019,2019,4,0,1,Import,308,Grenada,GRD,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,118382,,,,118382,,218781,,,2
+H4,2019,2019,2019,4,0,1,Import,308,Grenada,GRD,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,40,,,,40,,20,,,2
+H4,2019,2019,2019,4,0,1,Import,308,Grenada,GRD,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,96938,,,,96938,,308358,,,2
+H4,2019,2019,2019,4,0,1,Import,308,Grenada,GRD,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,117,,,,117,,525,,,2
+H4,2019,2019,2019,4,0,1,Import,308,Grenada,GRD,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,58496,,,,58496,,148803,,,2
+H4,2019,2019,2019,4,0,1,Import,308,Grenada,GRD,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1949,,,,1949,,2681,,,2
+H4,2019,2019,2019,4,0,1,Import,308,Grenada,GRD,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,788,,,,788,,1637,,,2
+H4,2019,2019,2019,4,0,1,Import,308,Grenada,GRD,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2311,,,,2311,,3824,,,2
+H4,2019,2019,2019,4,0,1,Import,308,Grenada,GRD,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22271,,,,22271,,61320,,,2
+H4,2019,2019,2019,4,0,1,Import,308,Grenada,GRD,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,128,,,,128,,1350,,,2
+H4,2019,2019,2019,4,0,1,Import,308,Grenada,GRD,662,Saint Lucia,LCA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,523,,,,523,,2396,,,2
+H4,2019,2019,2019,4,0,1,Import,308,Grenada,GRD,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,21702,,,,21702,,42138,,,2
+H4,2019,2019,2019,4,0,1,Import,308,Grenada,GRD,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19769,,,,19769,,33959,,,2
+H4,2019,2019,2019,4,0,1,Import,308,Grenada,GRD,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5261,,,,5261,,13007,,,2
+H4,2019,2019,2019,4,0,1,Import,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8112,,,,8112,,15295,,,2
+H4,2019,2019,2019,4,0,1,Import,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7043,,,,7043,,24496,,,2
+H4,2019,2019,2019,4,0,1,Import,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,271514,,,,271514,,710095,,,2
+H4,2019,2019,2019,4,0,1,Import,308,Grenada,GRD,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6433,,,,6433,,27414,,,2
+H4,2020,2020,2020,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,601350,,,,601350,,1426924,,,2
+H4,2020,2020,2020,4,0,1,Import,308,Grenada,GRD,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2932,,,,2932,,5982,,,2
+H4,2020,2020,2020,4,0,1,Import,308,Grenada,GRD,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,29257,,,,29257,,41780,,,2
+H4,2020,2020,2020,4,0,1,Import,308,Grenada,GRD,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2585,,,,2585,,11371,,,2
+H4,2020,2020,2020,4,0,1,Import,308,Grenada,GRD,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1352,,,,1352,,15355,,,2
+H4,2020,2020,2020,4,0,1,Import,308,Grenada,GRD,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,54297,,,,54297,,109210,,,2
+H4,2020,2020,2020,4,0,1,Import,308,Grenada,GRD,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,110034,,,,110034,,286248,,,2
+H4,2020,2020,2020,4,0,1,Import,308,Grenada,GRD,268,Georgia,GEO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24,,,,24,,80,,,2
+H4,2020,2020,2020,4,0,1,Import,308,Grenada,GRD,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,44649,,,,44649,,122014,,,2
+H4,2020,2020,2020,4,0,1,Import,308,Grenada,GRD,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1365,,,,1365,,1811,,,2
+H4,2020,2020,2020,4,0,1,Import,308,Grenada,GRD,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1894,,,,1894,,1851,,,2
+H4,2020,2020,2020,4,0,1,Import,308,Grenada,GRD,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,197,,,,197,,1381,,,2
+H4,2020,2020,2020,4,0,1,Import,308,Grenada,GRD,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25484,,,,25484,,64360,,,2
+H4,2020,2020,2020,4,0,1,Import,308,Grenada,GRD,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,318,,,,318,,2362,,,2
+H4,2020,2020,2020,4,0,1,Import,308,Grenada,GRD,662,Saint Lucia,LCA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,93,,,,93,,315,,,2
+H4,2020,2020,2020,4,0,1,Import,308,Grenada,GRD,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,71,,,,71,,3942,,,2
+H4,2020,2020,2020,4,0,1,Import,308,Grenada,GRD,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16726,,,,16726,,35295,,,2
+H4,2020,2020,2020,4,0,1,Import,308,Grenada,GRD,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,77257,,,,77257,,85831,,,2
+H4,2020,2020,2020,4,0,1,Import,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19520,,,,19520,,41001,,,2
+H4,2020,2020,2020,4,0,1,Import,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7840,,,,7840,,30988,,,2
+H4,2020,2020,2020,4,0,1,Import,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,205455,,,,205455,,565738,,,2
+H4,2021,2021,2021,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,473198,,,,473198,,1283606,,,2
+H4,2021,2021,2021,4,0,2,Export,308,Grenada,GRD,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,230,,,,230,,5917,,,2
+H4,2021,2021,2021,4,0,1,Import,308,Grenada,GRD,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,210,,,,210,,440,,,2
+H4,2021,2021,2021,4,0,1,Import,308,Grenada,GRD,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,21933,,,,21933,,36429,,,2
+H4,2021,2021,2021,4,0,1,Import,308,Grenada,GRD,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1506,,,,1506,,6593,,,2
+H4,2021,2021,2021,4,0,1,Import,308,Grenada,GRD,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,165,,,,165,,195,,,2
+H4,2021,2021,2021,4,0,1,Import,308,Grenada,GRD,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8,,,,8,,66,,,2
+H4,2021,2021,2021,4,0,1,Import,308,Grenada,GRD,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,145,,,,145,,484,,,2
+H4,2021,2021,2021,4,0,2,Export,308,Grenada,GRD,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,140,,,,140,,3699,,,2
+H4,2021,2021,2021,4,0,1,Import,308,Grenada,GRD,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,30584,,,,30584,,63051,,,2
+H4,2021,2021,2021,4,0,1,Import,308,Grenada,GRD,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,84979,,,,84979,,240717,,,2
+H4,2021,2021,2021,4,0,1,Import,308,Grenada,GRD,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,175,,,,175,,680,,,2
+H4,2021,2021,2021,4,0,1,Import,308,Grenada,GRD,352,Iceland,ISL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2641,,,,2641,,5518,,,2
+H4,2021,2021,2021,4,0,1,Import,308,Grenada,GRD,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,34222,,,,34222,,111326,,,2
+H4,2021,2021,2021,4,0,1,Import,308,Grenada,GRD,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1485,,,,1485,,3413,,,2
+H4,2021,2021,2021,4,0,1,Import,308,Grenada,GRD,428,Latvia,LVA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4,,,,4,,238,,,2
+H4,2021,2021,2021,4,0,1,Import,308,Grenada,GRD,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,201,,,,201,,977,,,2
+H4,2021,2021,2021,4,0,1,Import,308,Grenada,GRD,531,Curaçao,CUW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,182,,,,182,,8086,,,2
+H4,2021,2021,2021,4,0,1,Import,308,Grenada,GRD,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,278,,,,278,,1964,,,2
+H4,2021,2021,2021,4,0,1,Import,308,Grenada,GRD,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4694,,,,4694,,20907,,,2
+H4,2021,2021,2021,4,0,1,Import,308,Grenada,GRD,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,168,,,,168,,1577,,,2
+H4,2021,2021,2021,4,0,2,Export,308,Grenada,GRD,662,Saint Lucia,LCA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90,,,,90,,2217,,,2
+H4,2021,2021,2021,4,0,1,Import,308,Grenada,GRD,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,30922,,,,30922,,55205,,,2
+H4,2021,2021,2021,4,0,1,Import,308,Grenada,GRD,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,28744,,,,28744,,40992,,,2
+H4,2021,2021,2021,4,0,1,Import,308,Grenada,GRD,760,Syria,SYR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,475,,,,475,,352,,,2
+H4,2021,2021,2021,4,0,1,Import,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3767,,,,3767,,7424,,,2
+H4,2021,2021,2021,4,0,1,Import,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10866,,,,10866,,39947,,,2
+H4,2021,2021,2021,4,0,1,Import,308,Grenada,GRD,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,213557,,,,213557,,608606,,,2
+H4,2021,2021,2021,4,0,1,Import,308,Grenada,GRD,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1287,,,,1287,,28408,,,2

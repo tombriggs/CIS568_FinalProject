@@ -1,0 +1,40 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2007,2007,2007,4,0,1,Import,585,Palau,PLW,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,276761,,,0
+H2,2007,2007,2007,4,0,1,Import,585,Palau,PLW,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,29118,,,0
+H2,2007,2007,2007,4,0,1,Import,585,Palau,PLW,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,697,,2242,,,4
+H2,2007,2007,2007,4,0,1,Import,585,Palau,PLW,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,259,,833,,,4
+H2,2007,2007,2007,4,0,1,Import,585,Palau,PLW,316,Guam,GUM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,135877,,,0
+H2,2007,2007,2007,4,0,1,Import,585,Palau,PLW,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,9590,,,0
+H2,2007,2007,2007,4,0,1,Import,585,Palau,PLW,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,1115,,,0
+H2,2007,2007,2007,4,0,1,Import,585,Palau,PLW,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,843,,1066,,,4
+H2,2007,2007,2007,4,0,1,Import,585,Palau,PLW,580,N. Mariana Isds,MNP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,1613,,4803,,,4
+H2,2007,2007,2007,4,0,1,Import,585,Palau,PLW,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,4833,,,0
+H2,2007,2007,2007,4,0,1,Import,585,Palau,PLW,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,87284,,,0
+H2,2008,2008,2008,4,0,1,Import,585,Palau,PLW,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,262245,,,0
+H2,2008,2008,2008,4,0,1,Import,585,Palau,PLW,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,7453,,28021,,,4
+H2,2008,2008,2008,4,0,1,Import,585,Palau,PLW,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,411,,1545,,,4
+H2,2008,2008,2008,4,0,1,Import,585,Palau,PLW,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,88,,196,,,4
+H2,2008,2008,2008,4,0,1,Import,585,Palau,PLW,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,2645,,,0
+H2,2008,2008,2008,4,0,1,Import,585,Palau,PLW,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,390,,,0
+H2,2008,2008,2008,4,0,1,Import,585,Palau,PLW,316,Guam,GUM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,165125,,,0
+H2,2008,2008,2008,4,0,1,Import,585,Palau,PLW,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,270,,,0
+H2,2008,2008,2008,4,0,1,Import,585,Palau,PLW,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,24805,,,0
+H2,2008,2008,2008,4,0,1,Import,585,Palau,PLW,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,885,,,0
+H2,2008,2008,2008,4,0,1,Import,585,Palau,PLW,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,3516,,,0
+H2,2008,2008,2008,4,0,1,Import,585,Palau,PLW,580,N. Mariana Isds,MNP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,7321,,,0
+H2,2008,2008,2008,4,0,1,Import,585,Palau,PLW,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,988,,,0
+H2,2008,2008,2008,4,0,1,Import,585,Palau,PLW,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,51,,191,,,4
+H2,2008,2008,2008,4,0,1,Import,585,Palau,PLW,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,26346,,,0
+H2,2009,2009,2009,4,0,1,Import,585,Palau,PLW,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,60879,,,,,,268391,,,2
+H2,2009,2009,2009,4,0,1,Import,585,Palau,PLW,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4972,,,,5647,,22310,,,6
+H2,2009,2009,2009,4,0,1,Import,585,Palau,PLW,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,234,,,,266,,1050,,,6
+H2,2009,2009,2009,4,0,1,Import,585,Palau,PLW,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,99,,,,110,,361,,,6
+H2,2009,2009,2009,4,0,1,Import,585,Palau,PLW,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,212,,,,240,,949,,,6
+H2,2009,2009,2009,4,0,1,Import,585,Palau,PLW,316,Guam,GUM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,31750,,,,,,139246,,,2
+H2,2009,2009,2009,4,0,1,Import,585,Palau,PLW,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4096,,,,,,18508,,,2
+H2,2009,2009,2009,4,0,1,Import,585,Palau,PLW,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,673,,,,765,,3021,,,6
+H2,2009,2009,2009,4,0,1,Import,585,Palau,PLW,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,237,,,,,,869,,,2
+H2,2009,2009,2009,4,0,1,Import,585,Palau,PLW,580,N. Mariana Isds,MNP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1344,,,,,,4743,,,2
+H2,2009,2009,2009,4,0,1,Import,585,Palau,PLW,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,703,,,,761,,1915,,,6
+H2,2009,2009,2009,4,0,1,Import,585,Palau,PLW,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6,,,,6,,25,,,6
+H2,2009,2009,2009,4,0,1,Import,585,Palau,PLW,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16555,,,,,,75394,,,2

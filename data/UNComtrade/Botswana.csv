@@ -1,0 +1,342 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2974367,,,,2974367,,3383141,,,4
+H1,2000,2000,2000,4,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,33032,,,,33032,,45027,,,4
+H1,2000,2000,2000,4,0,1,Import,72,Botswana,BWA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,424,,,,424,,743,,,4
+H1,2000,2000,2000,4,0,1,Import,72,Botswana,BWA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,222,,,,222,,6284,,,4
+H1,2000,2000,2000,4,0,1,Import,72,Botswana,BWA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18,,,,18,,534,,,4
+H1,2000,2000,2000,4,0,2,Export,72,Botswana,BWA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36,,,,36,,99,,,4
+H1,2000,2000,2000,4,0,1,Import,72,Botswana,BWA,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,22,,,,22,,3742,,,4
+H1,2000,2000,2000,4,0,1,Import,72,Botswana,BWA,372,Ireland,IRL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9,,,,9,,670,,,4
+H1,2000,2000,2000,4,0,1,Import,72,Botswana,BWA,376,Israel,ISR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18,,,,18,,1990,,,4
+H1,2000,2000,2000,4,0,1,Import,72,Botswana,BWA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,72,,,,72,,7720,,,4
+H1,2000,2000,2000,4,0,1,Import,72,Botswana,BWA,426,Lesotho,LSO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,656,,,,656,,1629,,,4
+H1,2000,2000,2000,4,0,1,Import,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,129,,,,129,,117,,,4
+H1,2000,2000,2000,4,0,2,Export,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5697,,,,5697,,4490,,,4
+H1,2000,2000,2000,4,0,1,Import,72,Botswana,BWA,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9,,,,9,,23,,,4
+H1,2000,2000,2000,4,0,1,Import,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2922176,,,,2922176,,3341068,,,4
+H1,2000,2000,2000,4,0,2,Export,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,17754,,,,17754,,25227,,,4
+H1,2000,2000,2000,4,0,1,Import,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,50000,,,,50000,,571,,,4
+H1,2000,2000,2000,4,0,2,Export,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3497,,,,3497,,6035,,,4
+H1,2000,2000,2000,4,0,1,Import,72,Botswana,BWA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,612,,,,612,,18050,,,4
+H1,2000,2000,2000,4,0,2,Export,72,Botswana,BWA,894,Zambia,ZMB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6048,,,,6048,,9176,,,4
+H1,2001,2001,2001,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2113197,,,,2113197,,2426841,,,4
+H1,2001,2001,2001,4,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,42502,,,,42502,,23845,,,4
+H1,2001,2001,2001,4,0,2,Export,72,Botswana,BWA,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3,,,,3,,26,,,4
+H1,2001,2001,2001,4,0,1,Import,72,Botswana,BWA,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,63,,,,63,,1104,,,4
+H1,2001,2001,2001,4,0,1,Import,72,Botswana,BWA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,465,,,,465,,624,,,4
+H1,2001,2001,2001,4,0,1,Import,72,Botswana,BWA,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,141,,,,141,,565,,,4
+H1,2001,2001,2001,4,0,1,Import,72,Botswana,BWA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,171,,,,171,,5320,,,4
+H1,2001,2001,2001,4,0,1,Import,72,Botswana,BWA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,38,,,,38,,715,,,4
+H1,2001,2001,2001,4,0,1,Import,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,21877,,,,21877,,16025,,,4
+H1,2001,2001,2001,4,0,1,Import,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2089656,,,,2089656,,2368747,,,4
+H1,2001,2001,2001,4,0,2,Export,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,38143,,,,38143,,13979,,,4
+H1,2001,2001,2001,4,0,1,Import,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,450,,,,450,,415,,,4
+H1,2001,2001,2001,4,0,1,Import,72,Botswana,BWA,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,54,,,,54,,1351,,,4
+H1,2001,2001,2001,4,0,1,Import,72,Botswana,BWA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,282,,,,282,,31975,,,4
+H1,2001,2001,2001,4,0,2,Export,72,Botswana,BWA,894,Zambia,ZMB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4356,,,,4356,,9839,,,4
+H1,2002,2002,2002,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5439954,,,,5439954,,5756721,,,4
+H1,2002,2002,2002,4,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,57220,,,,57220,,68707,,,4
+H1,2002,2002,2002,4,0,1,Import,72,Botswana,BWA,20,Andorra,AND,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1,,,,1,,164,,,4
+H1,2002,2002,2002,4,0,1,Import,72,Botswana,BWA,31,Azerbaijan,AZE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,74,,,,74,,1719,,,4
+H1,2002,2002,2002,4,0,1,Import,72,Botswana,BWA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1257,,,,1257,,1021,,,4
+H1,2002,2002,2002,4,0,1,Import,72,Botswana,BWA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,121,,,,121,,3864,,,4
+H1,2002,2002,2002,4,0,1,Import,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,130407,,,,130407,,192036,,,4
+H1,2002,2002,2002,4,0,1,Import,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5307962,,,,5307962,,5525487,,,4
+H1,2002,2002,2002,4,0,2,Export,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,42749,,,,42749,,45041,,,4
+H1,2002,2002,2002,4,0,1,Import,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,50,,,,50,,70,,,4
+H1,2002,2002,2002,4,0,1,Import,72,Botswana,BWA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,82,,,,82,,32360,,,4
+H1,2002,2002,2002,4,0,2,Export,72,Botswana,BWA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,30,,,,30,,526,,,4
+H1,2002,2002,2002,4,0,2,Export,72,Botswana,BWA,894,Zambia,ZMB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,14441,,,,14441,,23140,,,4
+H1,2003,2003,2003,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3959756,,,,3959756,,8510237,,,4
+H1,2003,2003,2003,4,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6797,,,,6797,,36686,,,4
+H1,2003,2003,2003,4,0,1,Import,72,Botswana,BWA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2443,,,,2443,,1709,,,4
+H1,2003,2003,2003,4,0,1,Import,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,112340,,,,112340,,145658,,,4
+H1,2003,2003,2003,4,0,2,Export,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1,,,,1,,120,,,4
+H1,2003,2003,2003,4,0,1,Import,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3844924,,,,3844924,,8359032,,,4
+H1,2003,2003,2003,4,0,2,Export,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,217,,,,217,,2699,,,4
+H1,2003,2003,2003,4,0,2,Export,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10,,,,10,,147,,,4
+H1,2003,2003,2003,4,0,1,Import,72,Botswana,BWA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,49,,,,49,,3839,,,4
+H1,2003,2003,2003,4,0,2,Export,72,Botswana,BWA,894,Zambia,ZMB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6569,,,,6569,,33720,,,4
+H1,2004,2004,2004,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2727119,,,,,,7459400,,,2
+H1,2004,2004,2004,4,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5375,,,,5375,,29594,,,4
+H1,2004,2004,2004,4,0,1,Import,72,Botswana,BWA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1326,,,,,,2881,,,2
+H1,2004,2004,2004,4,0,1,Import,72,Botswana,BWA,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,403,,,,,,1873,,,2
+H1,2004,2004,2004,4,0,1,Import,72,Botswana,BWA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,795,,,,,,2631,,,2
+H1,2004,2004,2004,4,0,1,Import,72,Botswana,BWA,410,Rep. of Korea,KOR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36,,,,,,43,,,2
+H1,2004,2004,2004,4,0,1,Import,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,800,,,,,,3686,,,2
+H1,2004,2004,2004,4,0,2,Export,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,551,,,,551,,4391,,,4
+H1,2004,2004,2004,4,0,1,Import,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2722858,,,,,,7444387,,,2
+H1,2004,2004,2004,4,0,2,Export,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1290,,,,1290,,6464,,,4
+H1,2004,2004,2004,4,0,1,Import,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,896,,,,,,3879,,,2
+H1,2004,2004,2004,4,0,2,Export,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2334,,,,2334,,12844,,,4
+H1,2004,2004,2004,4,0,1,Import,72,Botswana,BWA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4,,,,,,20,,,2
+H1,2004,2004,2004,4,0,2,Export,72,Botswana,BWA,894,Zambia,ZMB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1200,,,,1200,,5895,,,4
+H2,2009,2009,2009,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7111873,,,,7111873,,8956656,,,4
+H2,2009,2009,2009,4,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9329,,,,9329,,64384,,,4
+H2,2009,2009,2009,4,0,1,Import,72,Botswana,BWA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2496,,,,2496,,8922,,,4
+H2,2009,2009,2009,4,0,1,Import,72,Botswana,BWA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6,,,,6,,55,,,4
+H2,2009,2009,2009,4,0,1,Import,72,Botswana,BWA,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,2,,59,,,4
+H2,2009,2009,2009,4,0,1,Import,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,139,,,,139,,567,,,4
+H2,2009,2009,2009,4,0,2,Export,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,30,,,,30,,343,,,4
+H2,2009,2009,2009,4,0,1,Import,72,Botswana,BWA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,1,,18,,,4
+H2,2009,2009,2009,4,0,1,Import,72,Botswana,BWA,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,140,,,,140,,1915,,,4
+H2,2009,2009,2009,4,0,1,Import,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7109089,,,,7109089,,8945120,,,4
+H2,2009,2009,2009,4,0,2,Export,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2464,,,,2464,,46104,,,4
+H2,2009,2009,2009,4,0,2,Export,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,117,,,,117,,981,,,4
+H2,2009,2009,2009,4,0,2,Export,72,Botswana,BWA,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6718,,,,6718,,16956,,,4
+H1,2005,2005,2005,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5654976,,,,5654976,,8626551,,,6
+H1,2005,2005,2005,4,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,33651,,,,33651,,133788,,,4
+H1,2005,2005,2005,4,0,1,Import,72,Botswana,BWA,68,Bolivia (Plurinational State of),BOL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,907,,,,907,,2208,,,4
+H1,2005,2005,2005,4,0,1,Import,72,Botswana,BWA,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3,,,,3,,5,,,6
+H1,2005,2005,2005,4,0,1,Import,72,Botswana,BWA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,426,,,,426,,682,,,4
+H1,2005,2005,2005,4,0,1,Import,72,Botswana,BWA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2,,,,2,,22,,,4
+H1,2005,2005,2005,4,0,1,Import,72,Botswana,BWA,372,Ireland,IRL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2,,,,2,,50,,,4
+H1,2005,2005,2005,4,0,1,Import,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,66,,,,66,,66,,,4
+H1,2005,2005,2005,4,0,2,Export,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2197,,,,2197,,6022,,,4
+H1,2005,2005,2005,4,0,1,Import,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5653570,,,,5653570,,8623519,,,4
+H1,2005,2005,2005,4,0,2,Export,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,27975,,,,27975,,122464,,,4
+H1,2005,2005,2005,4,0,2,Export,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,375,,,,375,,1641,,,4
+H1,2005,2005,2005,4,0,2,Export,72,Botswana,BWA,894,Zambia,ZMB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3104,,,,3104,,3661,,,4
+H1,2006,2006,2006,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6331758,,,,6331758,,9490631,,,6
+H1,2006,2006,2006,4,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,26299,,,,26299,,42607,,,4
+H1,2006,2006,2006,4,0,1,Import,72,Botswana,BWA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,680,,,,680,,661,,,4
+H1,2006,2006,2006,4,0,1,Import,72,Botswana,BWA,454,Malawi,MWI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,69,,,,69,,265,,,4
+H1,2006,2006,2006,4,0,1,Import,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10805,,,,10805,,38756,,,4
+H1,2006,2006,2006,4,0,2,Export,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2103,,,,2103,,3590,,,4
+H1,2006,2006,2006,4,0,1,Import,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6319367,,,,6319367,,9449849,,,4
+H1,2006,2006,2006,4,0,2,Export,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11948,,,,11948,,27288,,,4
+H1,2006,2006,2006,4,0,1,Import,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,810,,,,810,,1049,,,4
+H1,2006,2006,2006,4,0,2,Export,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,806,,,,806,,1821,,,4
+H1,2006,2006,2006,4,0,1,Import,72,Botswana,BWA,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,27,,,,27,,50,,,6
+H1,2006,2006,2006,4,0,2,Export,72,Botswana,BWA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12,,,,12,,185,,,4
+H1,2006,2006,2006,4,0,2,Export,72,Botswana,BWA,894,Zambia,ZMB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11430,,,,11430,,9724,,,4
+H1,2007,2007,2007,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,19097032,,,,19097032,,12078755,,,2
+H1,2007,2007,2007,4,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,296617,,,,296617,,423447,,,2
+H1,2007,2007,2007,4,0,1,Import,72,Botswana,BWA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2565,,,,2565,,1159,,,2
+H1,2007,2007,2007,4,0,1,Import,72,Botswana,BWA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,225,,,,225,,5796,,,2
+H1,2007,2007,2007,4,0,1,Import,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1394,,,,1394,,1821,,,2
+H1,2007,2007,2007,4,0,2,Export,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,199,,,,199,,1780,,,2
+H1,2007,2007,2007,4,0,1,Import,72,Botswana,BWA,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,50,,,,50,,359,,,2
+H1,2007,2007,2007,4,0,1,Import,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,19092798,,,,19092798,,12069621,,,2
+H1,2007,2007,2007,4,0,2,Export,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,31389,,,,31389,,154827,,,2
+H1,2007,2007,2007,4,0,2,Export,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3419,,,,3419,,2559,,,2
+H1,2007,2007,2007,4,0,2,Export,72,Botswana,BWA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1,,,,1,,31,,,2
+H1,2007,2007,2007,4,0,2,Export,72,Botswana,BWA,894,Zambia,ZMB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,261609,,,,261609,,264249,,,2
+H1,2008,2008,2008,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6076375,,,,6076375,,13221187,,,4
+H1,2008,2008,2008,4,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,378758,,,,378758,,770437,,,4
+H1,2008,2008,2008,4,0,1,Import,72,Botswana,BWA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,439,,,,439,,3455,,,4
+H1,2008,2008,2008,4,0,1,Import,72,Botswana,BWA,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,62,,,,62,,1863,,,4
+H1,2008,2008,2008,4,0,2,Export,72,Botswana,BWA,480,Mauritius,MUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,750,,,,750,,9,,,4
+H1,2008,2008,2008,4,0,1,Import,72,Botswana,BWA,490,"Other Asia, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9,,,,9,,25,,,4
+H1,2008,2008,2008,4,0,2,Export,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,17989,,,,17989,,38348,,,4
+H1,2008,2008,2008,4,0,1,Import,72,Botswana,BWA,616,Poland,POL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,17,,,,17,,746,,,4
+H1,2008,2008,2008,4,0,1,Import,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6075826,,,,6075826,,13215019,,,4
+H1,2008,2008,2008,4,0,2,Export,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2874,,,,2874,,14245,,,4
+H1,2008,2008,2008,4,0,2,Export,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1089,,,,1089,,5466,,,4
+H1,2008,2008,2008,4,0,1,Import,72,Botswana,BWA,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,17,,,,17,,45,,,4
+H1,2008,2008,2008,4,0,1,Import,72,Botswana,BWA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5,,,,5,,34,,,4
+H1,2008,2008,2008,4,0,2,Export,72,Botswana,BWA,894,Zambia,ZMB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,356056,,,,356056,,712369,,,4
+H4,2014,2014,2014,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4141821,,,,4615440,,8075038,,,0
+H4,2014,2014,2014,4,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,34326,,,,55911,,153736,,,0
+H4,2014,2014,2014,4,0,1,Import,72,Botswana,BWA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,99,,,,457,,759,,,0
+H4,2014,2014,2014,4,0,1,Import,72,Botswana,BWA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10980,,,,39415,,31027,,,0
+H4,2014,2014,2014,4,0,1,Import,72,Botswana,BWA,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3,,,,3,,475,,,0
+H4,2014,2014,2014,4,0,2,Export,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1262,,,,883,,2547,,,0
+H4,2014,2014,2014,4,0,1,Import,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4128593,,,,4572031,,8031604,,,0
+H4,2014,2014,2014,4,0,2,Export,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6008,,,,8571,,42191,,,0
+H4,2014,2014,2014,4,0,1,Import,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2095,,,,3432,,9410,,,0
+H4,2014,2014,2014,4,0,2,Export,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1025,,,,1079,,6755,,,0
+H4,2014,2014,2014,4,0,1,Import,72,Botswana,BWA,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,1,,18,,,0
+H4,2014,2014,2014,4,0,1,Import,72,Botswana,BWA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,44,,,,91,,1647,,,0
+H4,2014,2014,2014,4,0,1,Import,72,Botswana,BWA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6,,,,8,,93,,,0
+H4,2014,2014,2014,4,0,2,Export,72,Botswana,BWA,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,26031,,,,45377,,102241,,,0
+H2,2011,2011,2011,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4609528,,,,6705033,,14065049,,,0
+H2,2011,2011,2011,4,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,487777,,,,522598,,2163861,,,0
+H2,2011,2011,2011,4,0,2,Export,72,Botswana,BWA,51,Armenia,ARM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,9,,21,,,0
+H2,2011,2011,2011,4,0,1,Import,72,Botswana,BWA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2660,,,,28223,,10463,,,0
+H2,2011,2011,2011,4,0,2,Export,72,Botswana,BWA,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,54,,,,70,,952,,,0
+H2,2011,2011,2011,4,0,1,Import,72,Botswana,BWA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4638,,,,5615,,8668,,,0
+H2,2011,2011,2011,4,0,1,Import,72,Botswana,BWA,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,28,,,,85,,4396,,,0
+H2,2011,2011,2011,4,0,1,Import,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17205,,,,29318,,35942,,,0
+H2,2011,2011,2011,4,0,2,Export,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,31,,,,79,,314,,,0
+H2,2011,2011,2011,4,0,1,Import,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4583867,,,,6641265,,14003539,,,0
+H2,2011,2011,2011,4,0,2,Export,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18142,,,,35175,,116310,,,0
+H2,2011,2011,2011,4,0,2,Export,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2079,,,,3297,,18828,,,0
+H2,2011,2011,2011,4,0,1,Import,72,Botswana,BWA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,44,,,,20,,514,,,0
+H2,2011,2011,2011,4,0,2,Export,72,Botswana,BWA,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,690,,,,6870,,25742,,,0
+H2,2011,2011,2011,4,0,1,Import,72,Botswana,BWA,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1086,,,,505,,1524,,,0
+H2,2011,2011,2011,4,0,2,Export,72,Botswana,BWA,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,466779,,,,477097,,2001689,,,0
+H2,2012,2012,2012,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,5097204,,12165688,,,2
+H2,2012,2012,2012,4,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,483234,,,,392667,,1904527,,,0
+H2,2012,2012,2012,4,0,1,Import,72,Botswana,BWA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6476,,,,15605,,9769,,,0
+H2,2012,2012,2012,4,0,2,Export,72,Botswana,BWA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,15,,211,,,0
+H2,2012,2012,2012,4,0,1,Import,72,Botswana,BWA,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3,,,,5,,311,,,0
+H2,2012,2012,2012,4,0,1,Import,72,Botswana,BWA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,180,,,,25,,3201,,,0
+H2,2012,2012,2012,4,0,1,Import,72,Botswana,BWA,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45,,,,139,,7126,,,0
+H2,2012,2012,2012,4,0,2,Export,72,Botswana,BWA,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,31,,,,26,,98,,,0
+H2,2012,2012,2012,4,0,1,Import,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10,,,,10,,130,,,0
+H2,2012,2012,2012,4,0,2,Export,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,100,,,,966,,1386,,,0
+H2,2012,2012,2012,4,0,2,Export,72,Botswana,BWA,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,243,,,,175,,1440,,,0
+H2,2012,2012,2012,4,0,1,Import,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,5066919,,12145089,,,2
+H2,2012,2012,2012,4,0,2,Export,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,77017,,,,76928,,418294,,,0
+H2,2012,2012,2012,4,0,1,Import,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14,,,,14500,,59,,,0
+H2,2012,2012,2012,4,0,2,Export,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5517,,,,5631,,32193,,,0
+H2,2012,2012,2012,4,0,2,Export,72,Botswana,BWA,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,400324,,,,308924,,1450902,,,0
+H2,2013,2013,2013,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,4928848,,8507916,,,4
+H2,2013,2013,2013,4,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,32349,,,,62017,,185411,,,0
+H2,2013,2013,2013,4,0,1,Import,72,Botswana,BWA,20,Andorra,AND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,96,,,,83,,607,,,0
+H2,2013,2013,2013,4,0,1,Import,72,Botswana,BWA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,425,,,,707,,1260,,,0
+H2,2013,2013,2013,4,0,2,Export,72,Botswana,BWA,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,234,,,,169,,504,,,0
+H2,2013,2013,2013,4,0,1,Import,72,Botswana,BWA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3186,,,,4200,,8241,,,0
+H2,2013,2013,2013,4,0,1,Import,72,Botswana,BWA,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,24,,,,60,,2300,,,0
+H2,2013,2013,2013,4,0,1,Import,72,Botswana,BWA,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,192,,,,150,,1020,,,0
+H2,2013,2013,2013,4,0,2,Export,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,278,,,,238,,1733,,,0
+H2,2013,2013,2013,4,0,1,Import,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,4919379,,8386604,,,4
+H2,2013,2013,2013,4,0,2,Export,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22697,,,,55176,,147016,,,0
+H2,2013,2013,2013,4,0,1,Import,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,30574,,,,4197,,104841,,,0
+H2,2013,2013,2013,4,0,2,Export,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4517,,,,3489,,18565,,,0
+H2,2013,2013,2013,4,0,1,Import,72,Botswana,BWA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,72,,,,6,,2447,,,0
+H2,2013,2013,2013,4,0,2,Export,72,Botswana,BWA,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,63,,,,45,,130,,,0
+H2,2013,2013,2013,4,0,1,Import,72,Botswana,BWA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,29,,,,66,,591,,,0
+H2,2013,2013,2013,4,0,2,Export,72,Botswana,BWA,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4559,,,,2898,,17461,,,0
+H1,2010,2010,2010,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,8045857,,15110146,,,0
+H1,2010,2010,2010,4,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,427062,,,,495271,,1910403,,,0
+H1,2010,2010,2010,4,0,1,Import,72,Botswana,BWA,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1002,,,,9,,204,,,0
+H1,2010,2010,2010,4,0,1,Import,72,Botswana,BWA,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,450,,,,3,,60,,,0
+H1,2010,2010,2010,4,0,1,Import,72,Botswana,BWA,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8,,,,22,,88,,,0
+H1,2010,2010,2010,4,0,1,Import,72,Botswana,BWA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2920,,,,32411,,12306,,,0
+H1,2010,2010,2010,4,0,2,Export,72,Botswana,BWA,178,Congo,COG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1,,,,9,,19,,,0
+H1,2010,2010,2010,4,0,1,Import,72,Botswana,BWA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,842,,,,1167,,2286,,,0
+H1,2010,2010,2010,4,0,1,Import,72,Botswana,BWA,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,224,,,,1000,,4053,,,0
+H1,2010,2010,2010,4,0,2,Export,72,Botswana,BWA,404,Kenya,KEN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,20,,,,20,,28,,,0
+H1,2010,2010,2010,4,0,1,Import,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,915,,,,7156,,13595,,,0
+H1,2010,2010,2010,4,0,2,Export,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,23094,,,,719,,756,,,0
+H1,2010,2010,2010,4,0,1,Import,72,Botswana,BWA,566,Nigeria,NGA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1,,,,0,,0,,,0
+H1,2010,2010,2010,4,0,2,Export,72,Botswana,BWA,642,Romania,ROU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,324,,,,324,,737,,,0
+H1,2010,2010,2010,4,0,1,Import,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,7985089,,15055568,,,0
+H1,2010,2010,2010,4,0,2,Export,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8238,,,,4192,,15696,,,0
+H1,2010,2010,2010,4,0,2,Export,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4370,,,,4537,,17784,,,0
+H1,2010,2010,2010,4,0,1,Import,72,Botswana,BWA,894,Zambia,ZMB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7292,,,,19000,,21981,,,0
+H1,2010,2010,2010,4,0,2,Export,72,Botswana,BWA,894,Zambia,ZMB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,391014,,,,485468,,1875380,,,0
+H5,2018,2018,2018,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4780300,,,,4940786,,9167745,,,2
+H5,2018,2018,2018,4,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20064,,,,38867,,60010,,,0
+H5,2018,2018,2018,4,0,3,Re-Export,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,260,,,,260,,277,,,0
+H5,2018,2018,2018,4,0,1,Import,72,Botswana,BWA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,48,,,,120,,165,,,0
+H5,2018,2018,2018,4,0,1,Import,72,Botswana,BWA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,72,,,,151,,321,,,0
+H5,2018,2018,2018,4,0,1,Import,72,Botswana,BWA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,120,,,,240,,447,,,0
+H5,2018,2018,2018,4,0,1,Import,72,Botswana,BWA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,249,,,,1220,,942,,,0
+H5,2018,2018,2018,4,0,1,Import,72,Botswana,BWA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,522,,,,918,,6992,,,0
+H5,2018,2018,2018,4,0,1,Import,72,Botswana,BWA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2940,,,,2258,,43508,,,0
+H5,2018,2018,2018,4,0,1,Import,72,Botswana,BWA,288,Ghana,GHA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,0,,1,,,0
+H5,2018,2018,2018,4,0,1,Import,72,Botswana,BWA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10752,,,,14647,,39216,,,0
+H5,2018,2018,2018,4,0,1,Import,72,Botswana,BWA,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,63,,,,213,,2037,,,0
+H5,2018,2018,2018,4,0,1,Import,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,472,,,,240,,1142,,,0
+H5,2018,2018,2018,4,0,2,Export,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,918,,,,879,,6723,,,0
+H5,2018,2018,2018,4,0,1,Import,72,Botswana,BWA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,49,,,,121,,215,,,0
+H5,2018,2018,2018,4,0,1,Import,72,Botswana,BWA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,219,,,,291,,439,,,0
+H5,2018,2018,2018,4,0,1,Import,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4764683,,,,4920114,,9071813,,,2
+H5,2018,2018,2018,4,0,2,Export,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,566,,,,920,,724,,,0
+H5,2018,2018,2018,4,0,3,Re-Export,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,260,,,,260,,277,,,0
+H5,2018,2018,2018,4,0,2,Export,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10548,,,,16747,,29797,,,0
+H5,2018,2018,2018,4,0,1,Import,72,Botswana,BWA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,84,,,,220,,421,,,0
+H5,2018,2018,2018,4,0,1,Import,72,Botswana,BWA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24,,,,30,,79,,,0
+H5,2018,2018,2018,4,0,2,Export,72,Botswana,BWA,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8032,,,,20320,,22764,,,0
+H5,2019,2019,2019,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4595404,,,,5829825,,11269383,,,2
+H5,2019,2019,2019,4,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9707,,,,18153,,27447,,,0
+H5,2019,2019,2019,4,0,1,Import,72,Botswana,BWA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,48,,,,60,,97,,,0
+H5,2019,2019,2019,4,0,1,Import,72,Botswana,BWA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,62,,,,143,,257,,,0
+H5,2019,2019,2019,4,0,1,Import,72,Botswana,BWA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,37,,,,215,,1799,,,0
+H5,2019,2019,2019,4,0,1,Import,72,Botswana,BWA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,48,,,,90,,196,,,0
+H5,2019,2019,2019,4,0,1,Import,72,Botswana,BWA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,105,,,,1512,,583,,,0
+H5,2019,2019,2019,4,0,1,Import,72,Botswana,BWA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4197,,,,13072,,95261,,,0
+H5,2019,2019,2019,4,0,1,Import,72,Botswana,BWA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,360,,,,292,,6165,,,0
+H5,2019,2019,2019,4,0,1,Import,72,Botswana,BWA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1235,,,,2325,,9112,,,0
+H5,2019,2019,2019,4,0,1,Import,72,Botswana,BWA,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,76,,,,218,,2341,,,0
+H5,2019,2019,2019,4,0,1,Import,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,1,,9,,,0
+H5,2019,2019,2019,4,0,2,Export,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,73,,,,51,,827,,,0
+H5,2019,2019,2019,4,0,1,Import,72,Botswana,BWA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,93,,,,154,,402,,,0
+H5,2019,2019,2019,4,0,1,Import,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4589063,,,,5811467,,11152928,,,2
+H5,2019,2019,2019,4,0,2,Export,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,133,,,,1010,,1579,,,0
+H5,2019,2019,2019,4,0,1,Import,72,Botswana,BWA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12,,,,130,,27,,,0
+H5,2019,2019,2019,4,0,1,Import,72,Botswana,BWA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,66,,,,146,,200,,,0
+H5,2019,2019,2019,4,0,2,Export,72,Botswana,BWA,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9501,,,,17092,,25040,,,0
+H4,2015,2015,2015,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3511459,,,,4438003,,7594810,,,0
+H4,2015,2015,2015,4,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,49466,,,,60762,,153716,,,0
+H4,2015,2015,2015,4,0,1,Import,72,Botswana,BWA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6,,,,18,,366,,,0
+H4,2015,2015,2015,4,0,1,Import,72,Botswana,BWA,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4,,,,8,,41,,,0
+H4,2015,2015,2015,4,0,1,Import,72,Botswana,BWA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,21,,,,122,,211,,,0
+H4,2015,2015,2015,4,0,1,Import,72,Botswana,BWA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,2,,903,,,0
+H4,2015,2015,2015,4,0,1,Import,72,Botswana,BWA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2542,,,,2741,,3537,,,0
+H4,2015,2015,2015,4,0,1,Import,72,Botswana,BWA,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16,,,,50,,203,,,0
+H4,2015,2015,2015,4,0,1,Import,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18,,,,24,,33,,,0
+H4,2015,2015,2015,4,0,2,Export,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1924,,,,4854,,9219,,,0
+H4,2015,2015,2015,4,0,1,Import,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3507575,,,,4432884,,7585884,,,0
+H4,2015,2015,2015,4,0,2,Export,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22653,,,,17974,,48385,,,0
+H4,2015,2015,2015,4,0,2,Export,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,130,,,,257,,609,,,0
+H4,2015,2015,2015,4,0,1,Import,72,Botswana,BWA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1274,,,,2151,,3628,,,0
+H4,2015,2015,2015,4,0,2,Export,72,Botswana,BWA,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24759,,,,37676,,95501,,,0
+H4,2016,2016,2016,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3808394,,,,4813507,,6551392,,,4
+H4,2016,2016,2016,4,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4477,,,,12042,,22776,,,0
+H4,2016,2016,2016,4,0,1,Import,72,Botswana,BWA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,920,,,,1576,,3114,,,0
+H4,2016,2016,2016,4,0,1,Import,72,Botswana,BWA,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,1,,24,,,4
+H4,2016,2016,2016,4,0,1,Import,72,Botswana,BWA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,2,,59,,,0
+H4,2016,2016,2016,4,0,1,Import,72,Botswana,BWA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10562,,,,44040,,12321,,,0
+H4,2016,2016,2016,4,0,1,Import,72,Botswana,BWA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3232,,,,4467,,13593,,,0
+H4,2016,2016,2016,4,0,1,Import,72,Botswana,BWA,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,58,,,,179,,6383,,,0
+H4,2016,2016,2016,4,0,1,Import,72,Botswana,BWA,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2,,,,0,,11,,,0
+H4,2016,2016,2016,4,0,1,Import,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,39,,,,50,,51,,,0
+H4,2016,2016,2016,4,0,2,Export,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2477,,,,7079,,10187,,,0
+H4,2016,2016,2016,4,0,1,Import,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3793551,,,,4763146,,6515121,,,0
+H4,2016,2016,2016,4,0,2,Export,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,60,,,,20,,133,,,0
+H4,2016,2016,2016,4,0,2,Export,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10,,,,34,,58,,,0
+H4,2016,2016,2016,4,0,1,Import,72,Botswana,BWA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20,,,,30,,342,,,0
+H4,2016,2016,2016,4,0,1,Import,72,Botswana,BWA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,11,,333,,,0
+H4,2016,2016,2016,4,0,1,Import,72,Botswana,BWA,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7,,,,5,,40,,,4
+H4,2016,2016,2016,4,0,2,Export,72,Botswana,BWA,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1930,,,,4909,,12397,,,0
+H4,2017,2017,2017,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,7997949,,,0
+H4,2017,2017,2017,4,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9726,,,,14485,,46344,,,0
+H4,2017,2017,2017,4,0,3,Re-Export,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,908,,,,1428,,3269,,,0
+H4,2017,2017,2017,4,0,1,Import,72,Botswana,BWA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4,,,,4,,122,,,0
+H4,2017,2017,2017,4,0,1,Import,72,Botswana,BWA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6,,,,10,,538,,,0
+H4,2017,2017,2017,4,0,1,Import,72,Botswana,BWA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,81,,,,104,,250,,,0
+H4,2017,2017,2017,4,0,1,Import,72,Botswana,BWA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,111,,,,552,,180,,,0
+H4,2017,2017,2017,4,0,1,Import,72,Botswana,BWA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,292,,,,573,,8121,,,0
+H4,2017,2017,2017,4,0,1,Import,72,Botswana,BWA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9,,,,9,,56,,,0
+H4,2017,2017,2017,4,0,1,Import,72,Botswana,BWA,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,54,,,,72,,1153,,,0
+H4,2017,2017,2017,4,0,1,Import,72,Botswana,BWA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,32197,,,0
+H4,2017,2017,2017,4,0,1,Import,72,Botswana,BWA,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,135,,,,379,,3737,,,0
+H4,2017,2017,2017,4,0,1,Import,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,108,,,,124,,495,,,0
+H4,2017,2017,2017,4,0,2,Export,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3536,,,,4382,,7300,,,0
+H4,2017,2017,2017,4,0,1,Import,72,Botswana,BWA,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18,,,,18,,137,,,0
+H4,2017,2017,2017,4,0,1,Import,72,Botswana,BWA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6,,,,19,,35,,,0
+H4,2017,2017,2017,4,0,1,Import,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,7949197,,,0
+H4,2017,2017,2017,4,0,2,Export,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,151,,,,830,,2219,,,0
+H4,2017,2017,2017,4,0,3,Re-Export,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,80,,,,80,,521,,,0
+H4,2017,2017,2017,4,0,2,Export,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,400,,,,367,,17782,,,0
+H4,2017,2017,2017,4,0,1,Import,72,Botswana,BWA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,80,,,,80,,951,,,0
+H4,2017,2017,2017,4,0,1,Import,72,Botswana,BWA,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4,,,,4,,21,,,0
+H4,2017,2017,2017,4,0,1,Import,72,Botswana,BWA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16,,,,300,,204,,,0
+H4,2017,2017,2017,4,0,1,Import,72,Botswana,BWA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18,,,,32,,387,,,0
+H4,2017,2017,2017,4,0,1,Import,72,Botswana,BWA,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,29,,,,24,,160,,,0
+H4,2017,2017,2017,4,0,2,Export,72,Botswana,BWA,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5638,,,,8905,,19042,,,0
+H4,2017,2017,2017,4,0,3,Re-Export,72,Botswana,BWA,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,828,,,,1348,,2747,,,0
+H5,2020,2020,2020,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5434823,,,,5552162,,9132985,,,2
+H5,2020,2020,2020,4,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9260,,,,9260,,20455,,,2
+H5,2020,2020,2020,4,0,1,Import,72,Botswana,BWA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90,,,,90,,224,,,2
+H5,2020,2020,2020,4,0,1,Import,72,Botswana,BWA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,30,,,,30,,20,,,2
+H5,2020,2020,2020,4,0,1,Import,72,Botswana,BWA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45,,,,45,,99,,,2
+H5,2020,2020,2020,4,0,1,Import,72,Botswana,BWA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,1,,21,,,2
+H5,2020,2020,2020,4,0,1,Import,72,Botswana,BWA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,137,,,,137,,234,,,2
+H5,2020,2020,2020,4,0,1,Import,72,Botswana,BWA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2269,,,,2269,,3501,,,2
+H5,2020,2020,2020,4,0,1,Import,72,Botswana,BWA,233,Estonia,EST,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,30,,,,30,,26,,,2
+H5,2020,2020,2020,4,0,1,Import,72,Botswana,BWA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11119,,,,8458,,73515,,,2
+H5,2020,2020,2020,4,0,1,Import,72,Botswana,BWA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2884,,,,2884,,27540,,,2
+H5,2020,2020,2020,4,0,1,Import,72,Botswana,BWA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9519,,,,9519,,9470,,,2
+H5,2020,2020,2020,4,0,1,Import,72,Botswana,BWA,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,75,,,,75,,1,,,2
+H5,2020,2020,2020,4,0,1,Import,72,Botswana,BWA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,270,,,,270,,334,,,2
+H5,2020,2020,2020,4,0,1,Import,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5408299,,,,5528298,,9017696,,,2
+H5,2020,2020,2020,4,0,2,Export,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5140,,,,5140,,11425,,,2
+H5,2020,2020,2020,4,0,1,Import,72,Botswana,BWA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,40,,,,40,,51,,,2
+H5,2020,2020,2020,4,0,1,Import,72,Botswana,BWA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,1,,74,,,2
+H5,2020,2020,2020,4,0,1,Import,72,Botswana,BWA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11,,,,11,,172,,,2
+H5,2020,2020,2020,4,0,2,Export,72,Botswana,BWA,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4120,,,,4120,,9029,,,2

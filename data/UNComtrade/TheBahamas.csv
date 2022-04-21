@@ -1,0 +1,455 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2003,2003,2003,4,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2978224,,,,2978224,,10479941,,,4
+H2,2003,2003,2003,4,0,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1098,,,,1098,,8520,,,4
+H2,2003,2003,2003,4,0,3,Re-Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,182,,,,182,,320,,,4
+H2,2003,2003,2003,4,0,1,Import,44,Bahamas,BHS,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,447,,,,447,,2079,,,4
+H2,2003,2003,2003,4,0,1,Import,44,Bahamas,BHS,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6908,,,,6908,,46020,,,4
+H2,2003,2003,2003,4,0,1,Import,44,Bahamas,BHS,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,609,,,,609,,4388,,,4
+H2,2003,2003,2003,4,0,1,Import,44,Bahamas,BHS,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2135,,,,2135,,14794,,,4
+H2,2003,2003,2003,4,0,1,Import,44,Bahamas,BHS,60,Bermuda,BMU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,61,,,,61,,415,,,4
+H2,2003,2003,2003,4,0,1,Import,44,Bahamas,BHS,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10064,,,,10064,,23077,,,4
+H2,2003,2003,2003,4,0,1,Import,44,Bahamas,BHS,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,131760,,,,131760,,401130,,,4
+H2,2003,2003,2003,4,0,1,Import,44,Bahamas,BHS,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,364995,,,,364995,,1961911,,,4
+H2,2003,2003,2003,4,0,1,Import,44,Bahamas,BHS,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10522,,,,10522,,37339,,,4
+H2,2003,2003,2003,4,0,1,Import,44,Bahamas,BHS,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,101941,,,,101941,,490224,,,4
+H2,2003,2003,2003,4,0,1,Import,44,Bahamas,BHS,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2634,,,,2634,,6729,,,4
+H2,2003,2003,2003,4,0,1,Import,44,Bahamas,BHS,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,757,,,,757,,2021,,,4
+H2,2003,2003,2003,4,0,1,Import,44,Bahamas,BHS,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,99493,,,,99493,,248814,,,4
+H2,2003,2003,2003,4,0,1,Import,44,Bahamas,BHS,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27260,,,,27260,,98666,,,4
+H2,2003,2003,2003,4,0,1,Import,44,Bahamas,BHS,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,379,,,,379,,691,,,4
+H2,2003,2003,2003,4,0,1,Import,44,Bahamas,BHS,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16147,,,,16147,,70596,,,4
+H2,2003,2003,2003,4,0,1,Import,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2200856,,,,2200856,,7054527,,,4
+H2,2003,2003,2003,4,0,2,Export,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1098,,,,1098,,8520,,,4
+H2,2003,2003,2003,4,0,3,Re-Export,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,182,,,,182,,320,,,4
+H2,2003,2003,2003,4,0,1,Import,44,Bahamas,BHS,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1257,,,,1257,,16520,,,4
+H2,2004,2004,2004,4,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3438158,,,,3438158,,9968614,,,4
+H2,2004,2004,2004,4,0,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1109,,,,1109,,2460,,,4
+H2,2004,2004,2004,4,0,3,Re-Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1109,,,,1109,,2460,,,4
+H2,2004,2004,2004,4,0,1,Import,44,Bahamas,BHS,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,31726,,,,31726,,88033,,,4
+H2,2004,2004,2004,4,0,1,Import,44,Bahamas,BHS,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6896,,,,6896,,11959,,,4
+H2,2004,2004,2004,4,0,1,Import,44,Bahamas,BHS,60,Bermuda,BMU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3028,,,,3028,,6000,,,4
+H2,2004,2004,2004,4,0,1,Import,44,Bahamas,BHS,68,Bolivia (Plurinational State of),BOL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,61,,,,61,,175,,,4
+H2,2004,2004,2004,4,0,1,Import,44,Bahamas,BHS,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15571,,,,15571,,24732,,,4
+H2,2004,2004,2004,4,0,1,Import,44,Bahamas,BHS,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,134909,,,,134909,,397996,,,4
+H2,2004,2004,2004,4,0,1,Import,44,Bahamas,BHS,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,151,,,,151,,503,,,4
+H2,2004,2004,2004,4,0,1,Import,44,Bahamas,BHS,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,610933,,,,610933,,1891299,,,4
+H2,2004,2004,2004,4,0,1,Import,44,Bahamas,BHS,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4837,,,,4837,,19341,,,4
+H2,2004,2004,2004,4,0,1,Import,44,Bahamas,BHS,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1646,,,,1646,,4881,,,4
+H2,2004,2004,2004,4,0,1,Import,44,Bahamas,BHS,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,100374,,,,100374,,355161,,,4
+H2,2004,2004,2004,4,0,1,Import,44,Bahamas,BHS,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,102176,,,,102176,,209887,,,4
+H2,2004,2004,2004,4,0,2,Export,44,Bahamas,BHS,662,Saint Lucia,LCA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,379,,,,379,,400,,,4
+H2,2004,2004,2004,4,0,3,Re-Export,44,Bahamas,BHS,662,Saint Lucia,LCA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,379,,,,379,,400,,,4
+H2,2004,2004,2004,4,0,1,Import,44,Bahamas,BHS,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,33429,,,,33429,,121640,,,4
+H2,2004,2004,2004,4,0,1,Import,44,Bahamas,BHS,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36537,,,,36537,,99464,,,4
+H2,2004,2004,2004,4,0,1,Import,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2355882,,,,2355882,,6737543,,,4
+H2,2004,2004,2004,4,0,2,Export,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,731,,,,731,,2060,,,4
+H2,2004,2004,2004,4,0,3,Re-Export,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,731,,,,731,,2060,,,4
+H1,2000,2000,2000,4,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3741056,,,,3741056,,9771704,,,4
+H1,2000,2000,2000,4,0,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,980,,,,980,,39151,,,4
+H1,2000,2000,2000,4,0,3,Re-Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,980,,,,980,,39151,,,4
+H1,2000,2000,2000,4,0,1,Import,44,Bahamas,BHS,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,935,,,,935,,5502,,,4
+H1,2000,2000,2000,4,0,1,Import,44,Bahamas,BHS,60,Bermuda,BMU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,371,,,,371,,2568,,,4
+H1,2000,2000,2000,4,0,1,Import,44,Bahamas,BHS,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,235,,,,235,,3832,,,4
+H1,2000,2000,2000,4,0,1,Import,44,Bahamas,BHS,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,87566,,,,87566,,297372,,,4
+H1,2000,2000,2000,4,0,1,Import,44,Bahamas,BHS,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6832,,,,6832,,13543,,,4
+H1,2000,2000,2000,4,0,1,Import,44,Bahamas,BHS,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,257293,,,,257293,,2104823,,,4
+H1,2000,2000,2000,4,0,1,Import,44,Bahamas,BHS,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15053,,,,15053,,61145,,,4
+H1,2000,2000,2000,4,0,2,Export,44,Bahamas,BHS,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,303,,,,303,,14638,,,4
+H1,2000,2000,2000,4,0,3,Re-Export,44,Bahamas,BHS,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,303,,,,303,,14638,,,4
+H1,2000,2000,2000,4,0,1,Import,44,Bahamas,BHS,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,374855,,,,374855,,365183,,,4
+H1,2000,2000,2000,4,0,1,Import,44,Bahamas,BHS,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1877,,,,1877,,4709,,,4
+H1,2000,2000,2000,4,0,1,Import,44,Bahamas,BHS,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6976,,,,6976,,30320,,,4
+H1,2000,2000,2000,4,0,1,Import,44,Bahamas,BHS,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15889,,,,15889,,74334,,,4
+H1,2000,2000,2000,4,0,1,Import,44,Bahamas,BHS,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,223,,,,223,,42672,,,4
+H1,2000,2000,2000,4,0,1,Import,44,Bahamas,BHS,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,151,,,,151,,923,,,4
+H1,2000,2000,2000,4,0,1,Import,44,Bahamas,BHS,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,125,,,,125,,206,,,4
+H1,2000,2000,2000,4,0,1,Import,44,Bahamas,BHS,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,28675,,,,28675,,127955,,,4
+H1,2000,2000,2000,4,0,1,Import,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2873720,,,,2873720,,6311099,,,4
+H1,2000,2000,2000,4,0,2,Export,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,678,,,,678,,24513,,,4
+H1,2000,2000,2000,4,0,3,Re-Export,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,678,,,,678,,24513,,,4
+H1,2000,2000,2000,4,0,1,Import,44,Bahamas,BHS,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,70280,,,,70280,,325518,,,4
+H1,2001,2001,2001,4,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2646589,,,,2646589,,10088633,,,4
+H1,2001,2001,2001,4,0,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3804,,,,3804,,23427,,,4
+H1,2001,2001,2001,4,0,3,Re-Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3804,,,,3804,,23427,,,4
+H1,2001,2001,2001,4,0,1,Import,44,Bahamas,BHS,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,14444,,,,14444,,114335,,,4
+H1,2001,2001,2001,4,0,1,Import,44,Bahamas,BHS,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3020,,,,3020,,9439,,,4
+H1,2001,2001,2001,4,0,1,Import,44,Bahamas,BHS,60,Bermuda,BMU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,447,,,,447,,2639,,,4
+H1,2001,2001,2001,4,0,1,Import,44,Bahamas,BHS,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6446,,,,6446,,44265,,,4
+H1,2001,2001,2001,4,0,1,Import,44,Bahamas,BHS,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,134969,,,,134969,,425693,,,4
+H1,2001,2001,2001,4,0,1,Import,44,Bahamas,BHS,192,Cuba,CUB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,22358,,,,22358,,122057,,,4
+H1,2001,2001,2001,4,0,1,Import,44,Bahamas,BHS,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,507955,,,,507955,,2326604,,,4
+H1,2001,2001,2001,4,0,1,Import,44,Bahamas,BHS,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,17665,,,,17665,,56817,,,4
+H1,2001,2001,2001,4,0,1,Import,44,Bahamas,BHS,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,114103,,,,114103,,477939,,,4
+H1,2001,2001,2001,4,0,1,Import,44,Bahamas,BHS,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5250,,,,5250,,13639,,,4
+H1,2001,2001,2001,4,0,1,Import,44,Bahamas,BHS,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,19777,,,,19777,,83623,,,4
+H1,2001,2001,2001,4,0,1,Import,44,Bahamas,BHS,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,57850,,,,57850,,194822,,,4
+H1,2001,2001,2001,4,0,1,Import,44,Bahamas,BHS,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,397,,,,397,,2962,,,4
+H1,2001,2001,2001,4,0,1,Import,44,Bahamas,BHS,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,379,,,,379,,1936,,,4
+H1,2001,2001,2001,4,0,2,Export,44,Bahamas,BHS,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,908,,,,908,,10377,,,4
+H1,2001,2001,2001,4,0,3,Re-Export,44,Bahamas,BHS,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,908,,,,908,,10377,,,4
+H1,2001,2001,2001,4,0,1,Import,44,Bahamas,BHS,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18282,,,,18282,,79028,,,4
+H1,2001,2001,2001,4,0,1,Import,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1713753,,,,1713753,,6088130,,,4
+H1,2001,2001,2001,4,0,2,Export,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2896,,,,2896,,13050,,,4
+H1,2001,2001,2001,4,0,3,Re-Export,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2896,,,,2896,,13050,,,4
+H1,2001,2001,2001,4,0,1,Import,44,Bahamas,BHS,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9497,,,,9497,,44705,,,4
+H1,2002,2002,2002,4,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3328113,,,,3328113,,11092161,,,4
+H1,2002,2002,2002,4,0,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2313,,,,2313,,13853,,,4
+H1,2002,2002,2002,4,0,3,Re-Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2313,,,,2313,,13853,,,4
+H1,2002,2002,2002,4,0,1,Import,44,Bahamas,BHS,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18512,,,,18512,,136908,,,4
+H1,2002,2002,2002,4,0,1,Import,44,Bahamas,BHS,60,Bermuda,BMU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,32195,,,,32195,,59460,,,4
+H1,2002,2002,2002,4,0,1,Import,44,Bahamas,BHS,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,454,,,,454,,2250,,,4
+H1,2002,2002,2002,4,0,1,Import,44,Bahamas,BHS,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,173864,,,,173864,,520331,,,4
+H1,2002,2002,2002,4,0,1,Import,44,Bahamas,BHS,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,321241,,,,321241,,1872277,,,4
+H1,2002,2002,2002,4,0,1,Import,44,Bahamas,BHS,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8229,,,,8229,,27811,,,4
+H1,2002,2002,2002,4,0,1,Import,44,Bahamas,BHS,372,Ireland,IRL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3997,,,,3997,,70400,,,4
+H1,2002,2002,2002,4,0,1,Import,44,Bahamas,BHS,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,97698,,,,97698,,421877,,,4
+H1,2002,2002,2002,4,0,1,Import,44,Bahamas,BHS,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10314,,,,10314,,29051,,,4
+H1,2002,2002,2002,4,0,1,Import,44,Bahamas,BHS,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,50719,,,,50719,,89869,,,4
+H1,2002,2002,2002,4,0,1,Import,44,Bahamas,BHS,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,29205,,,,29205,,128032,,,4
+H1,2002,2002,2002,4,0,1,Import,44,Bahamas,BHS,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,859,,,,859,,6657,,,4
+H1,2002,2002,2002,4,0,1,Import,44,Bahamas,BHS,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1514,,,,1514,,4937,,,4
+H1,2002,2002,2002,4,0,2,Export,44,Bahamas,BHS,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1930,,,,1930,,10377,,,4
+H1,2002,2002,2002,4,0,3,Re-Export,44,Bahamas,BHS,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1930,,,,1930,,10377,,,4
+H1,2002,2002,2002,4,0,1,Import,44,Bahamas,BHS,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,61620,,,,61620,,324376,,,4
+H1,2002,2002,2002,4,0,1,Import,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2517691,,,,2517691,,7397925,,,4
+H1,2002,2002,2002,4,0,2,Export,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,382,,,,382,,3476,,,4
+H1,2002,2002,2002,4,0,3,Re-Export,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,382,,,,382,,3476,,,4
+H3,2009,2009,2009,4,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3007342,,,,3007342,,13270516,,,4
+H3,2009,2009,2009,4,0,1,Import,44,Bahamas,BHS,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,218591,,,,218591,,699174,,,4
+H3,2009,2009,2009,4,0,1,Import,44,Bahamas,BHS,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15511,,,,15511,,84684,,,4
+H3,2009,2009,2009,4,0,1,Import,44,Bahamas,BHS,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,22941,,,,22941,,64470,,,4
+H3,2009,2009,2009,4,0,1,Import,44,Bahamas,BHS,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,264590,,,,264590,,936576,,,4
+H3,2009,2009,2009,4,0,1,Import,44,Bahamas,BHS,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,203236,,,,203236,,1417798,,,4
+H3,2009,2009,2009,4,0,1,Import,44,Bahamas,BHS,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,11631,,,,11631,,46184,,,4
+H3,2009,2009,2009,4,0,1,Import,44,Bahamas,BHS,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,80272,,,,80272,,601561,,,4
+H3,2009,2009,2009,4,0,1,Import,44,Bahamas,BHS,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,16067,,,,16067,,68633,,,4
+H3,2009,2009,2009,4,0,1,Import,44,Bahamas,BHS,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,20163,,,,20163,,49730,,,4
+H3,2009,2009,2009,4,0,1,Import,44,Bahamas,BHS,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,416,,,,416,,3189,,,4
+H3,2009,2009,2009,4,0,1,Import,44,Bahamas,BHS,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,24943,,,,24943,,176568,,,4
+H3,2009,2009,2009,4,0,1,Import,44,Bahamas,BHS,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,110,,,,110,,327,,,4
+H3,2009,2009,2009,4,0,1,Import,44,Bahamas,BHS,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,11809,,,,11809,,43302,,,4
+H3,2009,2009,2009,4,0,1,Import,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2117060,,,,2117060,,9078320,,,4
+H2,2005,2005,2005,4,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2741354,,,,2741354,,12350610,,,4
+H2,2005,2005,2005,4,0,1,Import,44,Bahamas,BHS,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1173,,,,1173,,5729,,,4
+H2,2005,2005,2005,4,0,1,Import,44,Bahamas,BHS,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7631,,,,7631,,42458,,,4
+H2,2005,2005,2005,4,0,1,Import,44,Bahamas,BHS,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11,,,,11,,112,,,4
+H2,2005,2005,2005,4,0,1,Import,44,Bahamas,BHS,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6291,,,,6291,,13607,,,4
+H2,2005,2005,2005,4,0,1,Import,44,Bahamas,BHS,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,233572,,,,233572,,735789,,,4
+H2,2005,2005,2005,4,0,1,Import,44,Bahamas,BHS,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,319348,,,,319348,,1984450,,,4
+H2,2005,2005,2005,4,0,1,Import,44,Bahamas,BHS,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2839,,,,2839,,9818,,,4
+H2,2005,2005,2005,4,0,1,Import,44,Bahamas,BHS,332,Haiti,HTI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,38,,,,38,,368,,,4
+H2,2005,2005,2005,4,0,1,Import,44,Bahamas,BHS,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4,,,,4,,41,,,4
+H2,2005,2005,2005,4,0,1,Import,44,Bahamas,BHS,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,71480,,,,71480,,443263,,,4
+H2,2005,2005,2005,4,0,1,Import,44,Bahamas,BHS,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3876,,,,3876,,11274,,,4
+H2,2005,2005,2005,4,0,1,Import,44,Bahamas,BHS,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,104701,,,,104701,,279850,,,4
+H2,2005,2005,2005,4,0,1,Import,44,Bahamas,BHS,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,33213,,,,33213,,200304,,,4
+H2,2005,2005,2005,4,0,1,Import,44,Bahamas,BHS,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4190,,,,4190,,8966,,,4
+H2,2005,2005,2005,4,0,1,Import,44,Bahamas,BHS,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1257,,,,1257,,3721,,,4
+H2,2005,2005,2005,4,0,1,Import,44,Bahamas,BHS,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,942,,,,942,,2962,,,4
+H2,2005,2005,2005,4,0,1,Import,44,Bahamas,BHS,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,29220,,,,29220,,204627,,,4
+H2,2005,2005,2005,4,0,1,Import,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1921569,,,,1921569,,8403271,,,4
+H2,2006,2006,2006,4,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3319067,,,,3319067,,13512337,,,4
+H2,2006,2006,2006,4,0,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,26,,,,26,,540,,,4
+H2,2006,2006,2006,4,0,3,Re-Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,26,,,,26,,540,,,4
+H2,2006,2006,2006,4,0,1,Import,44,Bahamas,BHS,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9743,,,,9743,,21959,,,4
+H2,2006,2006,2006,4,0,1,Import,44,Bahamas,BHS,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,28422,,,,28422,,62314,,,4
+H2,2006,2006,2006,4,0,1,Import,44,Bahamas,BHS,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19716,,,,19716,,119614,,,4
+H2,2006,2006,2006,4,0,1,Import,44,Bahamas,BHS,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19,,,,19,,138,,,4
+H2,2006,2006,2006,4,0,1,Import,44,Bahamas,BHS,60,Bermuda,BMU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,568,,,,568,,1680,,,4
+H2,2006,2006,2006,4,0,1,Import,44,Bahamas,BHS,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,211146,,,,211146,,656721,,,4
+H2,2006,2006,2006,4,0,1,Import,44,Bahamas,BHS,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,243027,,,,243027,,1609034,,,4
+H2,2006,2006,2006,4,0,1,Import,44,Bahamas,BHS,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1790,,,,1790,,14615,,,4
+H2,2006,2006,2006,4,0,1,Import,44,Bahamas,BHS,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,93213,,,,93213,,633507,,,4
+H2,2006,2006,2006,4,0,1,Import,44,Bahamas,BHS,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6639,,,,6639,,19027,,,4
+H2,2006,2006,2006,4,0,2,Export,44,Bahamas,BHS,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23,,,,23,,200,,,4
+H2,2006,2006,2006,4,0,3,Re-Export,44,Bahamas,BHS,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23,,,,23,,200,,,4
+H2,2006,2006,2006,4,0,1,Import,44,Bahamas,BHS,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19,,,,19,,86,,,4
+H2,2006,2006,2006,4,0,1,Import,44,Bahamas,BHS,430,Liberia,LBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,530,,,,530,,5253,,,4
+H2,2006,2006,2006,4,0,1,Import,44,Bahamas,BHS,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,40454,,,,40454,,90084,,,4
+H2,2006,2006,2006,4,0,1,Import,44,Bahamas,BHS,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,29705,,,,29705,,195983,,,4
+H2,2006,2006,2006,4,0,1,Import,44,Bahamas,BHS,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,61,,,,61,,294,,,4
+H2,2006,2006,2006,4,0,1,Import,44,Bahamas,BHS,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4069,,,,4069,,23031,,,4
+H2,2006,2006,2006,4,0,1,Import,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2629947,,,,2629947,,10058997,,,4
+H2,2006,2006,2006,4,0,2,Export,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4,,,,4,,340,,,4
+H2,2006,2006,2006,4,0,3,Re-Export,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4,,,,4,,340,,,4
+H2,2007,2007,2007,4,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3611882,,,,3611882,,16198637,,,4
+H2,2007,2007,2007,4,0,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1665,,,,1665,,15528,,,4
+H2,2007,2007,2007,4,0,3,Re-Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1665,,,,1665,,15528,,,4
+H2,2007,2007,2007,4,0,1,Import,44,Bahamas,BHS,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1351,,,,1351,,13402,,,4
+H2,2007,2007,2007,4,0,1,Import,44,Bahamas,BHS,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,168300,,,,168300,,482599,,,4
+H2,2007,2007,2007,4,0,1,Import,44,Bahamas,BHS,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17396,,,,17396,,104822,,,4
+H2,2007,2007,2007,4,0,1,Import,44,Bahamas,BHS,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3785,,,,3785,,28308,,,4
+H2,2007,2007,2007,4,0,1,Import,44,Bahamas,BHS,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,148,,,,148,,502,,,4
+H2,2007,2007,2007,4,0,1,Import,44,Bahamas,BHS,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,223762,,,,223762,,735149,,,4
+H2,2007,2007,2007,4,0,1,Import,44,Bahamas,BHS,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,325325,,,,325325,,2370263,,,4
+H2,2007,2007,2007,4,0,1,Import,44,Bahamas,BHS,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,76,,,,76,,130,,,4
+H2,2007,2007,2007,4,0,1,Import,44,Bahamas,BHS,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,67990,,,,67990,,558249,,,4
+H2,2007,2007,2007,4,0,1,Import,44,Bahamas,BHS,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6953,,,,6953,,20211,,,4
+H2,2007,2007,2007,4,0,1,Import,44,Bahamas,BHS,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,26,,,,26,,214,,,4
+H2,2007,2007,2007,4,0,1,Import,44,Bahamas,BHS,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,90416,,,,90416,,186162,,,4
+H2,2007,2007,2007,4,0,1,Import,44,Bahamas,BHS,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2199,,,,2199,,18340,,,4
+H2,2007,2007,2007,4,0,1,Import,44,Bahamas,BHS,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11219,,,,11219,,75701,,,4
+H2,2007,2007,2007,4,0,1,Import,44,Bahamas,BHS,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,193,,,,193,,1264,,,4
+H2,2007,2007,2007,4,0,1,Import,44,Bahamas,BHS,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3092,,,,3092,,27335,,,4
+H2,2007,2007,2007,4,0,2,Export,44,Bahamas,BHS,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,189,,,,189,,3000,,,4
+H2,2007,2007,2007,4,0,3,Re-Export,44,Bahamas,BHS,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,189,,,,189,,3000,,,4
+H2,2007,2007,2007,4,0,1,Import,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2689651,,,,2689651,,11575986,,,4
+H2,2007,2007,2007,4,0,2,Export,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1476,,,,1476,,12528,,,4
+H2,2007,2007,2007,4,0,3,Re-Export,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1476,,,,1476,,12528,,,4
+H2,2008,2008,2008,4,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3393694,,,,3393694,,14983065,,,4
+H2,2008,2008,2008,4,0,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23,,,,23,,80,,,4
+H2,2008,2008,2008,4,0,3,Re-Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23,,,,23,,80,,,4
+H2,2008,2008,2008,4,0,1,Import,44,Bahamas,BHS,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,184020,,,,184020,,552526,,,4
+H2,2008,2008,2008,4,0,1,Import,44,Bahamas,BHS,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21876,,,,21876,,121325,,,4
+H2,2008,2008,2008,4,0,1,Import,44,Bahamas,BHS,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,322,,,,322,,2556,,,4
+H2,2008,2008,2008,4,0,1,Import,44,Bahamas,BHS,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,50475,,,,50475,,131705,,,4
+H2,2008,2008,2008,4,0,1,Import,44,Bahamas,BHS,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,292802,,,,292802,,1091510,,,4
+H2,2008,2008,2008,4,0,1,Import,44,Bahamas,BHS,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,308144,,,,308144,,2043050,,,4
+H2,2008,2008,2008,4,0,1,Import,44,Bahamas,BHS,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,151,,,,151,,1390,,,4
+H2,2008,2008,2008,4,0,1,Import,44,Bahamas,BHS,332,Haiti,HTI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,68,,,,68,,64,,,4
+H2,2008,2008,2008,4,0,1,Import,44,Bahamas,BHS,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,94359,,,,94359,,679551,,,4
+H2,2008,2008,2008,4,0,1,Import,44,Bahamas,BHS,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,628,,,,628,,1897,,,4
+H2,2008,2008,2008,4,0,1,Import,44,Bahamas,BHS,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9032,,,,9032,,23212,,,4
+H2,2008,2008,2008,4,0,1,Import,44,Bahamas,BHS,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3630,,,,3630,,30386,,,4
+H2,2008,2008,2008,4,0,1,Import,44,Bahamas,BHS,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,32297,,,,32297,,209633,,,4
+H2,2008,2008,2008,4,0,1,Import,44,Bahamas,BHS,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,946,,,,946,,1207,,,4
+H2,2008,2008,2008,4,0,1,Import,44,Bahamas,BHS,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1325,,,,1325,,3920,,,4
+H2,2008,2008,2008,4,0,1,Import,44,Bahamas,BHS,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1230,,,,1230,,10800,,,4
+H2,2008,2008,2008,4,0,1,Import,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2392388,,,,2392388,,10078333,,,4
+H2,2008,2008,2008,4,0,2,Export,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23,,,,23,,80,,,4
+H2,2008,2008,2008,4,0,3,Re-Export,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23,,,,23,,80,,,4
+H4,2013,2013,2013,4,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3371292,,,,3371292,,17523935,,,4
+H4,2013,2013,2013,4,0,1,Import,44,Bahamas,BHS,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,68467,,,,68467,,278046,,,4
+H4,2013,2013,2013,4,0,1,Import,44,Bahamas,BHS,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,34444,,,,34444,,113385,,,4
+H4,2013,2013,2013,4,0,1,Import,44,Bahamas,BHS,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,369575,,,,369575,,1687656,,,4
+H4,2013,2013,2013,4,0,1,Import,44,Bahamas,BHS,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4762,,,,4762,,47163,,,4
+H4,2013,2013,2013,4,0,1,Import,44,Bahamas,BHS,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5208,,,,5208,,51583,,,4
+H4,2013,2013,2013,4,0,1,Import,44,Bahamas,BHS,214,Dominican Rep.,DOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8,,,,8,,22,,,4
+H4,2013,2013,2013,4,0,1,Import,44,Bahamas,BHS,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,284106,,,,284106,,1921906,,,4
+H4,2013,2013,2013,4,0,1,Import,44,Bahamas,BHS,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8331,,,,8331,,31995,,,4
+H4,2013,2013,2013,4,0,1,Import,44,Bahamas,BHS,332,Haiti,HTI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1499,,,,1499,,848,,,4
+H4,2013,2013,2013,4,0,1,Import,44,Bahamas,BHS,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,93255,,,,93255,,687086,,,4
+H4,2013,2013,2013,4,0,1,Import,44,Bahamas,BHS,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12998,,,,12998,,62373,,,4
+H4,2013,2013,2013,4,0,1,Import,44,Bahamas,BHS,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10537,,,,10537,,45962,,,4
+H4,2013,2013,2013,4,0,1,Import,44,Bahamas,BHS,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,261,,,,261,,3378,,,4
+H4,2013,2013,2013,4,0,1,Import,44,Bahamas,BHS,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4,,,,4,,65,,,4
+H4,2013,2013,2013,4,0,1,Import,44,Bahamas,BHS,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,21294,,,,21294,,112046,,,4
+H4,2013,2013,2013,4,0,1,Import,44,Bahamas,BHS,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7229,,,,7229,,27581,,,4
+H4,2013,2013,2013,4,0,1,Import,44,Bahamas,BHS,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,329,,,,329,,3265,,,4
+H4,2013,2013,2013,4,0,1,Import,44,Bahamas,BHS,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6234,,,,6234,,32060,,,4
+H4,2013,2013,2013,4,0,1,Import,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2434346,,,,2434346,,12392227,,,4
+H4,2013,2013,2013,4,0,1,Import,44,Bahamas,BHS,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8406,,,,8406,,25288,,,4
+H4,2014,2014,2014,4,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3324812,,,,3324812,,17371317,,,4
+H4,2014,2014,2014,4,0,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19,,,,19,,50,,,4
+H4,2014,2014,2014,4,0,3,Re-Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19,,,,19,,50,,,4
+H4,2014,2014,2014,4,0,1,Import,44,Bahamas,BHS,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24133,,,,24133,,89325,,,4
+H4,2014,2014,2014,4,0,1,Import,44,Bahamas,BHS,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25288,,,,25288,,165406,,,4
+H4,2014,2014,2014,4,0,1,Import,44,Bahamas,BHS,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,715,,,,715,,7105,,,4
+H4,2014,2014,2014,4,0,1,Import,44,Bahamas,BHS,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,332467,,,,332467,,1263945,,,4
+H4,2014,2014,2014,4,0,1,Import,44,Bahamas,BHS,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,53,,,,53,,158,,,4
+H4,2014,2014,2014,4,0,1,Import,44,Bahamas,BHS,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,26,,,,26,,126,,,4
+H4,2014,2014,2014,4,0,1,Import,44,Bahamas,BHS,214,Dominican Rep.,DOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7941,,,,7941,,43539,,,4
+H4,2014,2014,2014,4,0,1,Import,44,Bahamas,BHS,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,473912,,,,473912,,3131922,,,4
+H4,2014,2014,2014,4,0,1,Import,44,Bahamas,BHS,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17865,,,,17865,,83438,,,4
+H4,2014,2014,2014,4,0,1,Import,44,Bahamas,BHS,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,606,,,,606,,2504,,,4
+H4,2014,2014,2014,4,0,1,Import,44,Bahamas,BHS,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,127589,,,,127589,,765134,,,4
+H4,2014,2014,2014,4,0,1,Import,44,Bahamas,BHS,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22979,,,,22979,,123133,,,4
+H4,2014,2014,2014,4,0,1,Import,44,Bahamas,BHS,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,280,,,,280,,912,,,4
+H4,2014,2014,2014,4,0,1,Import,44,Bahamas,BHS,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,26260,,,,26260,,59980,,,4
+H4,2014,2014,2014,4,0,1,Import,44,Bahamas,BHS,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19224,,,,19224,,127507,,,4
+H4,2014,2014,2014,4,0,1,Import,44,Bahamas,BHS,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,23,,,,23,,45,,,4
+H4,2014,2014,2014,4,0,1,Import,44,Bahamas,BHS,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4553,,,,4553,,22249,,,4
+H4,2014,2014,2014,4,0,1,Import,44,Bahamas,BHS,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,26480,,,,26480,,156453,,,4
+H4,2014,2014,2014,4,0,1,Import,44,Bahamas,BHS,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2290,,,,2290,,22032,,,4
+H4,2014,2014,2014,4,0,1,Import,44,Bahamas,BHS,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1817,,,,1817,,2327,,,4
+H4,2014,2014,2014,4,0,1,Import,44,Bahamas,BHS,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12861,,,,12861,,76219,,,4
+H4,2014,2014,2014,4,0,1,Import,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2064627,,,,2064627,,10704604,,,4
+H4,2014,2014,2014,4,0,1,Import,44,Bahamas,BHS,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,132823,,,,132823,,523254,,,4
+H4,2014,2014,2014,4,0,2,Export,44,Bahamas,BHS,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19,,,,19,,50,,,4
+H4,2014,2014,2014,4,0,3,Re-Export,44,Bahamas,BHS,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19,,,,19,,50,,,4
+H3,2010,2010,2010,4,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3063323,,,,3063323,,13525962,,,6
+H3,2010,2010,2010,4,0,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8,,,,8,,120,,,4
+H3,2010,2010,2010,4,0,3,Re-Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8,,,,8,,120,,,4
+H3,2010,2010,2010,4,0,1,Import,44,Bahamas,BHS,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10121,,,,10121,,56783,,,4
+H3,2010,2010,2010,4,0,1,Import,44,Bahamas,BHS,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,390,,,,390,,3718,,,4
+H3,2010,2010,2010,4,0,1,Import,44,Bahamas,BHS,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,57,,,,57,,170,,,4
+H3,2010,2010,2010,4,0,1,Import,44,Bahamas,BHS,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7911,,,,7911,,24000,,,4
+H3,2010,2010,2010,4,0,1,Import,44,Bahamas,BHS,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,379329,,,,379329,,1397441,,,4
+H3,2010,2010,2010,4,0,1,Import,44,Bahamas,BHS,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,93402,,,,93402,,882799,,,4
+H3,2010,2010,2010,4,0,1,Import,44,Bahamas,BHS,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,34,,,,34,,103,,,4
+H3,2010,2010,2010,4,0,1,Import,44,Bahamas,BHS,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1593,,,,1593,,7793,,,4
+H3,2010,2010,2010,4,0,1,Import,44,Bahamas,BHS,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,61680,,,,61680,,449467,,,4
+H3,2010,2010,2010,4,0,1,Import,44,Bahamas,BHS,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,91,,,,91,,266,,,4
+H3,2010,2010,2010,4,0,1,Import,44,Bahamas,BHS,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4031,,,,4031,,15012,,,4
+H3,2010,2010,2010,4,0,1,Import,44,Bahamas,BHS,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9966,,,,9966,,101663,,,4
+H3,2010,2010,2010,4,0,1,Import,44,Bahamas,BHS,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4,,,,4,,17,,,4
+H3,2010,2010,2010,4,0,1,Import,44,Bahamas,BHS,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1230,,,,1230,,6020,,,4
+H3,2010,2010,2010,4,0,1,Import,44,Bahamas,BHS,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3781,,,,3781,,39726,,,4
+H3,2010,2010,2010,4,0,1,Import,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2489702,,,,2489702,,10540984,,,6
+H3,2010,2010,2010,4,0,2,Export,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8,,,,8,,120,,,4
+H3,2010,2010,2010,4,0,3,Re-Export,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8,,,,8,,120,,,4
+H3,2011,2011,2011,4,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3014821,,,,3014821,,13670912,,,4
+H3,2011,2011,2011,4,0,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5356,,,,5356,,8600,,,4
+H3,2011,2011,2011,4,0,3,Re-Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5356,,,,5356,,8600,,,4
+H3,2011,2011,2011,4,0,1,Import,44,Bahamas,BHS,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6495,,,,6495,,46523,,,4
+H3,2011,2011,2011,4,0,1,Import,44,Bahamas,BHS,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8395,,,,8395,,44451,,,4
+H3,2011,2011,2011,4,0,1,Import,44,Bahamas,BHS,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,37271,,,,37271,,100224,,,4
+H3,2011,2011,2011,4,0,1,Import,44,Bahamas,BHS,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,157573,,,,157573,,612824,,,4
+H3,2011,2011,2011,4,0,1,Import,44,Bahamas,BHS,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,23081,,,,23081,,85715,,,4
+H3,2011,2011,2011,4,0,1,Import,44,Bahamas,BHS,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,117002,,,,117002,,747346,,,4
+H3,2011,2011,2011,4,0,1,Import,44,Bahamas,BHS,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15738,,,,15738,,85786,,,4
+H3,2011,2011,2011,4,0,1,Import,44,Bahamas,BHS,332,Haiti,HTI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2831,,,,2831,,1516,,,4
+H3,2011,2011,2011,4,0,1,Import,44,Bahamas,BHS,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,66487,,,,66487,,410377,,,4
+H3,2011,2011,2011,4,0,1,Import,44,Bahamas,BHS,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,132,,,,132,,697,,,4
+H3,2011,2011,2011,4,0,2,Export,44,Bahamas,BHS,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5129,,,,5129,,8000,,,4
+H3,2011,2011,2011,4,0,3,Re-Export,44,Bahamas,BHS,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5129,,,,5129,,8000,,,4
+H3,2011,2011,2011,4,0,1,Import,44,Bahamas,BHS,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,38,,,,38,,117,,,4
+H3,2011,2011,2011,4,0,1,Import,44,Bahamas,BHS,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3017,,,,3017,,26120,,,4
+H3,2011,2011,2011,4,0,1,Import,44,Bahamas,BHS,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,11253,,,,11253,,65327,,,4
+H3,2011,2011,2011,4,0,1,Import,44,Bahamas,BHS,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2793,,,,2793,,19417,,,4
+H3,2011,2011,2011,4,0,1,Import,44,Bahamas,BHS,796,Turks and Caicos Isds,TCA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,79,,,,79,,505,,,4
+H3,2011,2011,2011,4,0,1,Import,44,Bahamas,BHS,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2513,,,,2513,,19289,,,4
+H3,2011,2011,2011,4,0,1,Import,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2559735,,,,2559735,,11402219,,,4
+H3,2011,2011,2011,4,0,2,Export,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,227,,,,227,,600,,,4
+H3,2011,2011,2011,4,0,3,Re-Export,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,227,,,,227,,600,,,4
+H3,2011,2011,2011,4,0,1,Import,44,Bahamas,BHS,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,386,,,,386,,2459,,,4
+H3,2012,2012,2012,4,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4692723,,,,4692723,,19863823,,,4
+H3,2012,2012,2012,4,0,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,238,,,,238,,397,,,4
+H3,2012,2012,2012,4,0,3,Re-Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,238,,,,238,,397,,,4
+H3,2012,2012,2012,4,0,1,Import,44,Bahamas,BHS,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18914,,,,18914,,74051,,,4
+H3,2012,2012,2012,4,0,1,Import,44,Bahamas,BHS,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7869,,,,7869,,42893,,,4
+H3,2012,2012,2012,4,0,1,Import,44,Bahamas,BHS,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,920,,,,920,,2722,,,4
+H3,2012,2012,2012,4,0,1,Import,44,Bahamas,BHS,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3160,,,,3160,,11673,,,4
+H3,2012,2012,2012,4,0,1,Import,44,Bahamas,BHS,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,74050,,,,74050,,154493,,,4
+H3,2012,2012,2012,4,0,1,Import,44,Bahamas,BHS,136,Cayman Isds,CYM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,30,,,,30,,85,,,4
+H3,2012,2012,2012,4,0,1,Import,44,Bahamas,BHS,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,522614,,,,522614,,2063388,,,4
+H3,2012,2012,2012,4,0,1,Import,44,Bahamas,BHS,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,277993,,,,277993,,1783054,,,4
+H3,2012,2012,2012,4,0,1,Import,44,Bahamas,BHS,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,16457,,,,16457,,75386,,,4
+H3,2012,2012,2012,4,0,1,Import,44,Bahamas,BHS,332,Haiti,HTI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1893,,,,1893,,1067,,,4
+H3,2012,2012,2012,4,0,1,Import,44,Bahamas,BHS,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,98050,,,,98050,,660326,,,4
+H3,2012,2012,2012,4,0,1,Import,44,Bahamas,BHS,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,20064,,,,20064,,111179,,,4
+H3,2012,2012,2012,4,0,1,Import,44,Bahamas,BHS,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,579,,,,579,,5701,,,4
+H3,2012,2012,2012,4,0,1,Import,44,Bahamas,BHS,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,749,,,,749,,8264,,,4
+H3,2012,2012,2012,4,0,1,Import,44,Bahamas,BHS,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,13198,,,,13198,,89779,,,4
+H3,2012,2012,2012,4,0,1,Import,44,Bahamas,BHS,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3384,,,,3384,,10025,,,4
+H3,2012,2012,2012,4,0,1,Import,44,Bahamas,BHS,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9762,,,,9762,,59123,,,4
+H3,2012,2012,2012,4,0,1,Import,44,Bahamas,BHS,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5170,,,,5170,,22077,,,4
+H3,2012,2012,2012,4,0,2,Export,44,Bahamas,BHS,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,121,,,,121,,287,,,4
+H3,2012,2012,2012,4,0,3,Re-Export,44,Bahamas,BHS,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,121,,,,121,,287,,,4
+H3,2012,2012,2012,4,0,1,Import,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3590016,,,,3590016,,14553142,,,4
+H3,2012,2012,2012,4,0,2,Export,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,117,,,,117,,110,,,4
+H3,2012,2012,2012,4,0,3,Re-Export,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,117,,,,117,,110,,,4
+H3,2012,2012,2012,4,0,1,Import,44,Bahamas,BHS,862,Venezuela,VEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,25371,,,,25371,,127883,,,4
+H3,2012,2012,2012,4,0,1,Import,44,Bahamas,BHS,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2479,,,,2479,,7512,,,4
+H4,2015,2015,2015,4,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3874354,,,,3874354,,21221013,,,6
+H4,2015,2015,2015,4,0,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8,,,,8,,600,,,4
+H4,2015,2015,2015,4,0,3,Re-Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8,,,,8,,600,,,4
+H4,2015,2015,2015,4,0,1,Import,44,Bahamas,BHS,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,87903,,,,87903,,477979,,,4
+H4,2015,2015,2015,4,0,1,Import,44,Bahamas,BHS,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,34197,,,,34197,,222027,,,4
+H4,2015,2015,2015,4,0,1,Import,44,Bahamas,BHS,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,23020,,,,23020,,116147,,,4
+H4,2015,2015,2015,4,0,1,Import,44,Bahamas,BHS,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,572,,,,572,,4452,,,4
+H4,2015,2015,2015,4,0,1,Import,44,Bahamas,BHS,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,33671,,,,33671,,80747,,,4
+H4,2015,2015,2015,4,0,1,Import,44,Bahamas,BHS,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,334310,,,,334310,,1336259,,,4
+H4,2015,2015,2015,4,0,1,Import,44,Bahamas,BHS,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11,,,,11,,29673,,,4
+H4,2015,2015,2015,4,0,1,Import,44,Bahamas,BHS,214,Dominican Rep.,DOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1060,,,,1060,,5562,,,4
+H4,2015,2015,2015,4,0,1,Import,44,Bahamas,BHS,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,736762,,,,736762,,4361162,,,4
+H4,2015,2015,2015,4,0,1,Import,44,Bahamas,BHS,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4705,,,,4705,,36727,,,4
+H4,2015,2015,2015,4,0,1,Import,44,Bahamas,BHS,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,146286,,,,146286,,1026339,,,4
+H4,2015,2015,2015,4,0,1,Import,44,Bahamas,BHS,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,29057,,,,29057,,161929,,,4
+H4,2015,2015,2015,4,0,1,Import,44,Bahamas,BHS,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,170,,,,170,,1355,,,4
+H4,2015,2015,2015,4,0,1,Import,44,Bahamas,BHS,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14330,,,,14330,,31961,,,4
+H4,2015,2015,2015,4,0,1,Import,44,Bahamas,BHS,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,30999,,,,30999,,178520,,,4
+H4,2015,2015,2015,4,0,1,Import,44,Bahamas,BHS,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1586,,,,1586,,13877,,,4
+H4,2015,2015,2015,4,0,2,Export,44,Bahamas,BHS,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8,,,,8,,600,,,4
+H4,2015,2015,2015,4,0,3,Re-Export,44,Bahamas,BHS,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8,,,,8,,600,,,4
+H4,2015,2015,2015,4,0,1,Import,44,Bahamas,BHS,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24682,,,,24682,,131935,,,4
+H4,2015,2015,2015,4,0,1,Import,44,Bahamas,BHS,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3160,,,,3160,,30029,,,4
+H4,2015,2015,2015,4,0,1,Import,44,Bahamas,BHS,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,371,,,,371,,2139,,,4
+H4,2015,2015,2015,4,0,1,Import,44,Bahamas,BHS,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,48141,,,,48141,,240035,,,4
+H4,2015,2015,2015,4,0,1,Import,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2196395,,,,2196395,,12202845,,,6
+H4,2015,2015,2015,4,0,1,Import,44,Bahamas,BHS,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,122963,,,,122963,,529314,,,4
+H4,2016,2016,2016,4,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4427536,,,,5561223,,18087309,,,6
+H4,2016,2016,2016,4,0,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,1000595,,,6
+H4,2016,2016,2016,4,0,1,Import,44,Bahamas,BHS,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4067,,,,5115,,16671,,,6
+H4,2016,2016,2016,4,0,1,Import,44,Bahamas,BHS,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,56442,,,,71042,,229552,,,6
+H4,2016,2016,2016,4,0,1,Import,44,Bahamas,BHS,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1198,,,,1487,,5557,,,6
+H4,2016,2016,2016,4,0,1,Import,44,Bahamas,BHS,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1936,,,,2364,,10227,,,6
+H4,2016,2016,2016,4,0,1,Import,44,Bahamas,BHS,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8642,,,,10867,,35511,,,6
+H4,2016,2016,2016,4,0,1,Import,44,Bahamas,BHS,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,134011,,,,168677,,544929,,,6
+H4,2016,2016,2016,4,0,1,Import,44,Bahamas,BHS,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,727778,,,,914813,,2998544,,,6
+H4,2016,2016,2016,4,0,1,Import,44,Bahamas,BHS,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8465,,,,10654,,34422,,,6
+H4,2016,2016,2016,4,0,1,Import,44,Bahamas,BHS,352,Iceland,ISL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1960,,,,2467,,7972,,,6
+H4,2016,2016,2016,4,0,1,Import,44,Bahamas,BHS,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3208,,,,4038,,13048,,,6
+H4,2016,2016,2016,4,0,1,Import,44,Bahamas,BHS,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,228274,,,,287220,,931549,,,6
+H4,2016,2016,2016,4,0,1,Import,44,Bahamas,BHS,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,35733,,,,44966,,144952,,,6
+H4,2016,2016,2016,4,0,1,Import,44,Bahamas,BHS,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,128,,,,161,,522,,,6
+H4,2016,2016,2016,4,0,1,Import,44,Bahamas,BHS,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,40114,,,,50444,,164580,,,6
+H4,2016,2016,2016,4,0,1,Import,44,Bahamas,BHS,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,312,,,,393,,1270,,,6
+H4,2016,2016,2016,4,0,1,Import,44,Bahamas,BHS,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,58405,,,,73513,,237491,,,6
+H4,2016,2016,2016,4,0,1,Import,44,Bahamas,BHS,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3054,,,,3844,,12420,,,6
+H4,2016,2016,2016,4,0,1,Import,44,Bahamas,BHS,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,27,,,,34,,110,,,6
+H4,2016,2016,2016,4,0,1,Import,44,Bahamas,BHS,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1297,,,,1617,,5766,,,6
+H4,2016,2016,2016,4,0,1,Import,44,Bahamas,BHS,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7481,,,,9414,,30500,,,6
+H4,2016,2016,2016,4,0,2,Export,44,Bahamas,BHS,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,1000000,,,6
+H4,2016,2016,2016,4,0,1,Import,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3028990,,,,3802427,,12352407,,,6
+H4,2016,2016,2016,4,0,2,Export,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,167,,,,142,,595,,,6
+H4,2016,2016,2016,4,0,1,Import,44,Bahamas,BHS,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,76004,,,,95656,,309309,,,6
+H4,2017,2017,2017,4,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5222441,,,,6303293,,20501835,,,6
+H4,2017,2017,2017,4,0,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,28794,,,,26890,,119450,,,6
+H4,2017,2017,2017,4,0,1,Import,44,Bahamas,BHS,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,104365,,,,127435,,379559,,,6
+H4,2017,2017,2017,4,0,1,Import,44,Bahamas,BHS,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,52803,,,,64006,,207699,,,6
+H4,2017,2017,2017,4,0,1,Import,44,Bahamas,BHS,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3153,,,,3822,,12405,,,6
+H4,2017,2017,2017,4,0,1,Import,44,Bahamas,BHS,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,623,,,,612,,834,,,6
+H4,2017,2017,2017,4,0,1,Import,44,Bahamas,BHS,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14,,,,16,,75,,,6
+H4,2017,2017,2017,4,0,1,Import,44,Bahamas,BHS,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7209,,,,8717,,28105,,,6
+H4,2017,2017,2017,4,0,1,Import,44,Bahamas,BHS,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,188371,,,,228339,,740967,,,6
+H4,2017,2017,2017,4,0,1,Import,44,Bahamas,BHS,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,166,,,,201,,654,,,6
+H4,2017,2017,2017,4,0,1,Import,44,Bahamas,BHS,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,875240,,,,1059186,,3534155,,,6
+H4,2017,2017,2017,4,0,1,Import,44,Bahamas,BHS,332,Haiti,HTI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,171,,,,208,,675,,,6
+H4,2017,2017,2017,4,0,2,Export,44,Bahamas,BHS,332,Haiti,HTI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,313,,,,292,,1300,,,6
+H4,2017,2017,2017,4,0,1,Import,44,Bahamas,BHS,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7449,,,,9029,,29325,,,6
+H4,2017,2017,2017,4,0,1,Import,44,Bahamas,BHS,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,284694,,,,346415,,1070463,,,6
+H4,2017,2017,2017,4,0,1,Import,44,Bahamas,BHS,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,63779,,,,77312,,250876,,,6
+H4,2017,2017,2017,4,0,1,Import,44,Bahamas,BHS,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,31,,,,37,,123,,,6
+H4,2017,2017,2017,4,0,1,Import,44,Bahamas,BHS,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,72881,,,,88311,,288420,,,6
+H4,2017,2017,2017,4,0,1,Import,44,Bahamas,BHS,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,132,,,,161,,523,,,6
+H4,2017,2017,2017,4,0,1,Import,44,Bahamas,BHS,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10992,,,,13325,,43240,,,6
+H4,2017,2017,2017,4,0,1,Import,44,Bahamas,BHS,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,73482,,,,89073,,289061,,,6
+H4,2017,2017,2017,4,0,1,Import,44,Bahamas,BHS,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,55795,,,,67495,,226673,,,6
+H4,2017,2017,2017,4,0,1,Import,44,Bahamas,BHS,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,591,,,,717,,2327,,,6
+H4,2017,2017,2017,4,0,1,Import,44,Bahamas,BHS,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7274,,,,8093,,20488,,,6
+H4,2017,2017,2017,4,0,1,Import,44,Bahamas,BHS,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,575,,,,697,,2264,,,6
+H4,2017,2017,2017,4,0,1,Import,44,Bahamas,BHS,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10319,,,,12505,,40718,,,6
+H4,2017,2017,2017,4,0,1,Import,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3342795,,,,4025458,,13095578,,,6
+H4,2017,2017,2017,4,0,2,Export,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,28480,,,,26598,,118150,,,6
+H4,2017,2017,2017,4,0,1,Import,44,Bahamas,BHS,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,59526,,,,72110,,236622,,,6
+H4,2018,2018,2018,4,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4545339,,,,4970807,,19272833,,,6
+H4,2018,2018,2018,4,0,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,15599,,,6
+H4,2018,2018,2018,4,0,1,Import,44,Bahamas,BHS,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25155,,,,27674,,105551,,,6
+H4,2018,2018,2018,4,0,1,Import,44,Bahamas,BHS,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,49922,,,,54938,,209175,,,6
+H4,2018,2018,2018,4,0,1,Import,44,Bahamas,BHS,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9163,,,,10004,,39789,,,6
+H4,2018,2018,2018,4,0,1,Import,44,Bahamas,BHS,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,291017,,,,320274,,1219138,,,6
+H4,2018,2018,2018,4,0,1,Import,44,Bahamas,BHS,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14845,,,,16337,,62189,,,6
+H4,2018,2018,2018,4,0,1,Import,44,Bahamas,BHS,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,610,,,,634,,3195,,,6
+H4,2018,2018,2018,4,0,1,Import,44,Bahamas,BHS,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,824675,,,,899363,,3597719,,,6
+H4,2018,2018,2018,4,0,1,Import,44,Bahamas,BHS,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9331,,,,10249,,38482,,,6
+H4,2018,2018,2018,4,0,1,Import,44,Bahamas,BHS,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2089,,,,2299,,8752,,,6
+H4,2018,2018,2018,4,0,1,Import,44,Bahamas,BHS,332,Haiti,HTI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5478,,,,6029,,22949,,,6
+H4,2018,2018,2018,4,0,1,Import,44,Bahamas,BHS,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13329,,,,14669,,55840,,,6
+H4,2018,2018,2018,4,0,1,Import,44,Bahamas,BHS,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,311092,,,,340576,,1334377,,,6
+H4,2018,2018,2018,4,0,1,Import,44,Bahamas,BHS,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,41636,,,,45798,,173700,,,6
+H4,2018,2018,2018,4,0,1,Import,44,Bahamas,BHS,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3474,,,,3747,,15870,,,6
+H4,2018,2018,2018,4,0,1,Import,44,Bahamas,BHS,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,35038,,,,38349,,150459,,,6
+H4,2018,2018,2018,4,0,1,Import,44,Bahamas,BHS,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,38877,,,,41817,,179724,,,6
+H4,2018,2018,2018,4,0,2,Export,44,Bahamas,BHS,659,Saint Kitts and Nevis,KNA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,572,,,,556,,2384,,,6
+H4,2018,2018,2018,4,0,2,Export,44,Bahamas,BHS,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1431,,,,1390,,5963,,,6
+H4,2018,2018,2018,4,0,1,Import,44,Bahamas,BHS,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,98324,,,,108209,,411903,,,6
+H4,2018,2018,2018,4,0,1,Import,44,Bahamas,BHS,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7062,,,,7767,,29667,,,6
+H4,2018,2018,2018,4,0,2,Export,44,Bahamas,BHS,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,199,,,6
+H4,2018,2018,2018,4,0,1,Import,44,Bahamas,BHS,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2,,,,2,,14,,,6
+H4,2018,2018,2018,4,0,1,Import,44,Bahamas,BHS,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12,,,,13,,51,,,6
+H4,2018,2018,2018,4,0,2,Export,44,Bahamas,BHS,796,Turks and Caicos Isds,TCA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,119,,,,118,,546,,,6
+H4,2018,2018,2018,4,0,1,Import,44,Bahamas,BHS,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,39953,,,,43966,,167427,,,6
+H4,2018,2018,2018,4,0,1,Import,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2712346,,,,2964992,,11396872,,,6
+H4,2018,2018,2018,4,0,2,Export,44,Bahamas,BHS,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6124,,,,6231,,6503,,,6
+H4,2018,2018,2018,4,0,1,Import,44,Bahamas,BHS,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11899,,,,13088,,49973,,,6

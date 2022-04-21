@@ -1,0 +1,35 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2004,2004,2004,4,0,1,Import,626,Timor-Leste,TLS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,77805,,,,,,189507,,,2
+H2,2004,2004,2004,4,0,1,Import,626,Timor-Leste,TLS,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,53901,,,,,,86508,,,2
+H2,2004,2004,2004,4,0,1,Import,626,Timor-Leste,TLS,360,Indonesia,IDN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,73,,,,,,241,,,2
+H2,2004,2004,2004,4,0,1,Import,626,Timor-Leste,TLS,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,42,,,,,,197,,,2
+H2,2004,2004,2004,4,0,1,Import,626,Timor-Leste,TLS,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22343,,,,,,97902,,,2
+H2,2004,2004,2004,4,0,1,Import,626,Timor-Leste,TLS,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7,,,,,,22,,,2
+H2,2004,2004,2004,4,0,1,Import,626,Timor-Leste,TLS,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1205,,,,,,3728,,,2
+H2,2004,2004,2004,4,0,1,Import,626,Timor-Leste,TLS,704,Viet Nam,VNM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,226,,,,,,878,,,2
+H2,2004,2004,2004,4,0,1,Import,626,Timor-Leste,TLS,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,,,31,,,2
+H2,2005,2005,2005,4,0,1,Import,626,Timor-Leste,TLS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,100493,,,,,,327053,,,2
+H2,2005,2005,2005,4,0,1,Import,626,Timor-Leste,TLS,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,33673,,,,,,50722,,,2
+H2,2005,2005,2005,4,0,1,Import,626,Timor-Leste,TLS,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,,,13,,,2
+H2,2005,2005,2005,4,0,1,Import,626,Timor-Leste,TLS,360,Indonesia,IDN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,160,,,,,,531,,,2
+H2,2005,2005,2005,4,0,1,Import,626,Timor-Leste,TLS,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,66362,,,,,,275112,,,2
+H2,2005,2005,2005,4,0,1,Import,626,Timor-Leste,TLS,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,289,,,,,,675,,,2
+H2,2013,2013,2013,4,0,1,Import,626,Timor-Leste,TLS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,825602,,,,825602,,1494584,,,2
+H2,2013,2013,2013,4,0,1,Import,626,Timor-Leste,TLS,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,43357,,,,43357,,78972,,,2
+H2,2013,2013,2013,4,0,1,Import,626,Timor-Leste,TLS,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2238,,,,2238,,8120,,,2
+H2,2013,2013,2013,4,0,1,Import,626,Timor-Leste,TLS,360,Indonesia,IDN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,71505,,,,71505,,67049,,,2
+H2,2013,2013,2013,4,0,1,Import,626,Timor-Leste,TLS,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7737,,,,7737,,26356,,,2
+H2,2013,2013,2013,4,0,1,Import,626,Timor-Leste,TLS,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,681186,,,,681186,,1285367,,,2
+H2,2013,2013,2013,4,0,1,Import,626,Timor-Leste,TLS,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19579,,,,19579,,28720,,,2
+H2,2017,2017,2017,4,0,1,Import,626,Timor-Leste,TLS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,630298,,,,630298,,944790,,,2
+H2,2017,2017,2017,4,0,2,Export,626,Timor-Leste,TLS,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,61,,,,61,,680,,,2
+H2,2017,2017,2017,4,0,1,Import,626,Timor-Leste,TLS,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6883,,,,6883,,49621,,,2
+H2,2017,2017,2017,4,0,1,Import,626,Timor-Leste,TLS,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,272,,,,272,,1945,,,2
+H2,2017,2017,2017,4,0,1,Import,626,Timor-Leste,TLS,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3,,,,3,,83,,,2
+H2,2017,2017,2017,4,0,1,Import,626,Timor-Leste,TLS,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1095,,,,1095,,11816,,,2
+H2,2017,2017,2017,4,0,1,Import,626,Timor-Leste,TLS,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3519,,,,3519,,22254,,,2
+H2,2017,2017,2017,4,0,1,Import,626,Timor-Leste,TLS,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,405,,,,405,,3411,,,2
+H2,2017,2017,2017,4,0,1,Import,626,Timor-Leste,TLS,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,468308,,,,468308,,817713,,,2
+H2,2017,2017,2017,4,0,1,Import,626,Timor-Leste,TLS,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,294,,,,294,,2821,,,2
+H2,2017,2017,2017,4,0,2,Export,626,Timor-Leste,TLS,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,61,,,,61,,680,,,2
+H2,2017,2017,2017,4,0,1,Import,626,Timor-Leste,TLS,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,149516,,,,149516,,35123,,,2

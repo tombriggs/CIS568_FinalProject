@@ -1,0 +1,601 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2002,2002,2002,4,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1098916,,,,,,2762239,,,2
+H2,2002,2002,2002,4,0,2,Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13933,,,,,,35677,,,2
+H2,2002,2002,2002,4,0,3,Re-Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13933,,,,,,35677,,,2
+H2,2002,2002,2002,4,0,1,Import,690,Seychelles,SYC,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,64269,,,,,,139568,,,2
+H2,2002,2002,2002,4,0,2,Export,690,Seychelles,SYC,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,31,,,,,,55,,,2
+H2,2002,2002,2002,4,0,3,Re-Export,690,Seychelles,SYC,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,31,,,,,,55,,,2
+H2,2002,2002,2002,4,0,2,Export,690,Seychelles,SYC,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,601,,,,,,1083,,,2
+H2,2002,2002,2002,4,0,3,Re-Export,690,Seychelles,SYC,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,601,,,,,,1083,,,2
+H2,2002,2002,2002,4,0,1,Import,690,Seychelles,SYC,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17,,,,,,62,,,2
+H2,2002,2002,2002,4,0,1,Import,690,Seychelles,SYC,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1384,,,,,,3993,,,2
+H2,2002,2002,2002,4,0,1,Import,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,231817,,,,,,622057,,,2
+H2,2002,2002,2002,4,0,2,Export,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8312,,,,,,24391,,,2
+H2,2002,2002,2002,4,0,3,Re-Export,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8312,,,,,,24391,,,2
+H2,2002,2002,2002,4,0,1,Import,690,Seychelles,SYC,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,26,,,,,,94,,,2
+H2,2002,2002,2002,4,0,2,Export,690,Seychelles,SYC,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,256,,,,,,271,,,2
+H2,2002,2002,2002,4,0,3,Re-Export,690,Seychelles,SYC,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,256,,,,,,271,,,2
+H2,2002,2002,2002,4,0,1,Import,690,Seychelles,SYC,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,28453,,,,,,98282,,,2
+H2,2002,2002,2002,4,0,1,Import,690,Seychelles,SYC,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,201877,,,,,,494857,,,2
+H2,2002,2002,2002,4,0,2,Export,690,Seychelles,SYC,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,133,,,,,,344,,,2
+H2,2002,2002,2002,4,0,3,Re-Export,690,Seychelles,SYC,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,133,,,,,,344,,,2
+H2,2002,2002,2002,4,0,1,Import,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,125111,,,,,,291390,,,2
+H2,2002,2002,2002,4,0,2,Export,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,52,,,,,,133,,,2
+H2,2002,2002,2002,4,0,3,Re-Export,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,52,,,,,,133,,,2
+H2,2002,2002,2002,4,0,1,Import,690,Seychelles,SYC,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,107,,,,,,117,,,2
+H2,2002,2002,2002,4,0,2,Export,690,Seychelles,SYC,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,78,,,,,,200,,,2
+H2,2002,2002,2002,4,0,3,Re-Export,690,Seychelles,SYC,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,78,,,,,,200,,,2
+H2,2002,2002,2002,4,0,1,Import,690,Seychelles,SYC,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,101,,,,,,361,,,2
+H2,2002,2002,2002,4,0,1,Import,690,Seychelles,SYC,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,523,,,,,,479,,,2
+H2,2002,2002,2002,4,0,2,Export,690,Seychelles,SYC,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,302,,,,,,265,,,2
+H2,2002,2002,2002,4,0,3,Re-Export,690,Seychelles,SYC,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,302,,,,,,265,,,2
+H2,2002,2002,2002,4,0,1,Import,690,Seychelles,SYC,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,556,,,,,,1439,,,2
+H2,2002,2002,2002,4,0,1,Import,690,Seychelles,SYC,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1594,,,,,,5700,,,2
+H2,2002,2002,2002,4,0,1,Import,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,377312,,,,,,938589,,,2
+H2,2002,2002,2002,4,0,2,Export,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3009,,,,,,6210,,,2
+H2,2002,2002,2002,4,0,3,Re-Export,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3009,,,,,,6210,,,2
+H2,2002,2002,2002,4,0,1,Import,690,Seychelles,SYC,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4333,,,,,,11220,,,2
+H2,2002,2002,2002,4,0,1,Import,690,Seychelles,SYC,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,24,,,,,,86,,,2
+H2,2002,2002,2002,4,0,1,Import,690,Seychelles,SYC,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10992,,,,,,30430,,,2
+H2,2002,2002,2002,4,0,1,Import,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,42530,,,,,,103045,,,2
+H2,2002,2002,2002,4,0,1,Import,690,Seychelles,SYC,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,53,,,,,,138,,,2
+H2,2002,2002,2002,4,0,1,Import,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2926,,,,,,7615,,,2
+H2,2002,2002,2002,4,0,2,Export,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,148,,,,,,130,,,2
+H2,2002,2002,2002,4,0,3,Re-Export,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,148,,,,,,130,,,2
+H2,2002,2002,2002,4,0,1,Import,690,Seychelles,SYC,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4912,,,,,,12717,,,2
+H2,2002,2002,2002,4,0,2,Export,690,Seychelles,SYC,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1010,,,,,,2595,,,2
+H2,2002,2002,2002,4,0,3,Re-Export,690,Seychelles,SYC,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1010,,,,,,2595,,,2
+H1,2001,2001,2001,4,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,537009,,,,,,1366075,,,2
+H1,2001,2001,2001,4,0,2,Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,35044,,,,,,113365,,,2
+H1,2001,2001,2001,4,0,3,Re-Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,35044,,,,,,113365,,,2
+H1,2001,2001,2001,4,0,1,Import,690,Seychelles,SYC,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,37548,,,,,,101015,,,2
+H1,2001,2001,2001,4,0,2,Export,690,Seychelles,SYC,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,26,,,,,,63,,,2
+H1,2001,2001,2001,4,0,3,Re-Export,690,Seychelles,SYC,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,26,,,,,,63,,,2
+H1,2001,2001,2001,4,0,1,Import,690,Seychelles,SYC,48,Bahrain,BHR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2,,,,,,8,,,2
+H1,2001,2001,2001,4,0,1,Import,690,Seychelles,SYC,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11,,,,,,27,,,2
+H1,2001,2001,2001,4,0,2,Export,690,Seychelles,SYC,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,357,,,,,,855,,,2
+H1,2001,2001,2001,4,0,3,Re-Export,690,Seychelles,SYC,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,357,,,,,,855,,,2
+H1,2001,2001,2001,4,0,1,Import,690,Seychelles,SYC,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,149,,,,,,479,,,2
+H1,2001,2001,2001,4,0,1,Import,690,Seychelles,SYC,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,144,,,,,,461,,,2
+H1,2001,2001,2001,4,0,1,Import,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,170611,,,,,,450399,,,2
+H1,2001,2001,2001,4,0,2,Export,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,30235,,,,,,98366,,,2
+H1,2001,2001,2001,4,0,3,Re-Export,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,30235,,,,,,98366,,,2
+H1,2001,2001,2001,4,0,1,Import,690,Seychelles,SYC,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4113,,,,,,10172,,,2
+H1,2001,2001,2001,4,0,2,Export,690,Seychelles,SYC,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,61,,,,,,146,,,2
+H1,2001,2001,2001,4,0,3,Re-Export,690,Seychelles,SYC,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,61,,,,,,146,,,2
+H1,2001,2001,2001,4,0,1,Import,690,Seychelles,SYC,348,Hungary,HUN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10282,,,,,,32956,,,2
+H1,2001,2001,2001,4,0,1,Import,690,Seychelles,SYC,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,60962,,,,,,155461,,,2
+H1,2001,2001,2001,4,0,2,Export,690,Seychelles,SYC,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,192,,,,,,460,,,2
+H1,2001,2001,2001,4,0,3,Re-Export,690,Seychelles,SYC,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,192,,,,,,460,,,2
+H1,2001,2001,2001,4,0,1,Import,690,Seychelles,SYC,458,Malaysia,MYS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,190,,,,,,609,,,2
+H1,2001,2001,2001,4,0,1,Import,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,55826,,,,,,103123,,,2
+H1,2001,2001,2001,4,0,2,Export,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,30,,,,,,72,,,2
+H1,2001,2001,2001,4,0,3,Re-Export,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,30,,,,,,72,,,2
+H1,2001,2001,2001,4,0,1,Import,690,Seychelles,SYC,608,Philippines,PHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,33,,,,,,81,,,2
+H1,2001,2001,2001,4,0,1,Import,690,Seychelles,SYC,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,325,,,,,,907,,,2
+H1,2001,2001,2001,4,0,1,Import,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,177001,,,,,,459177,,,2
+H1,2001,2001,2001,4,0,2,Export,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,758,,,,,,1816,,,2
+H1,2001,2001,2001,4,0,3,Re-Export,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,758,,,,,,1816,,,2
+H1,2001,2001,2001,4,0,1,Import,690,Seychelles,SYC,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3052,,,,,,7738,,,2
+H1,2001,2001,2001,4,0,1,Import,690,Seychelles,SYC,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3597,,,,,,9297,,,2
+H1,2001,2001,2001,4,0,1,Import,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3896,,,,,,9742,,,2
+H1,2001,2001,2001,4,0,2,Export,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,47,,,,,,113,,,2
+H1,2001,2001,2001,4,0,3,Re-Export,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,47,,,,,,113,,,2
+H1,2001,2001,2001,4,0,1,Import,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9171,,,,,,24190,,,2
+H1,2001,2001,2001,4,0,2,Export,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3221,,,,,,11194,,,2
+H1,2001,2001,2001,4,0,3,Re-Export,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3221,,,,,,11194,,,2
+H1,2001,2001,2001,4,0,2,Export,690,Seychelles,SYC,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,117,,,,,,280,,,2
+H1,2001,2001,2001,4,0,3,Re-Export,690,Seychelles,SYC,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,117,,,,,,280,,,2
+H1,2001,2001,2001,4,0,1,Import,690,Seychelles,SYC,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,94,,,,,,233,,,2
+H0,2000,2000,2000,4,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,421433,,,,421433,,1705044,,,2
+H0,2000,2000,2000,4,0,2,Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,36214,,,,,,93228,,,2
+H0,2000,2000,2000,4,0,3,Re-Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,36214,,,,,,93228,,,2
+H0,2000,2000,2000,4,0,1,Import,690,Seychelles,SYC,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,33548,,,,33548,,115619,,,2
+H0,2000,2000,2000,4,0,2,Export,690,Seychelles,SYC,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,3475,,,,,,9212,,,2
+H0,2000,2000,2000,4,0,3,Re-Export,690,Seychelles,SYC,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,3475,,,,,,9212,,,2
+H0,2000,2000,2000,4,0,1,Import,690,Seychelles,SYC,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1800,,,,1800,,8869,,,2
+H0,2000,2000,2000,4,0,2,Export,690,Seychelles,SYC,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,123,,,,,,291,,,2
+H0,2000,2000,2000,4,0,3,Re-Export,690,Seychelles,SYC,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,123,,,,,,291,,,2
+H0,2000,2000,2000,4,0,1,Import,690,Seychelles,SYC,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,306,,,,306,,3019,,,2
+H0,2000,2000,2000,4,0,2,Export,690,Seychelles,SYC,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,30,,,,,,72,,,2
+H0,2000,2000,2000,4,0,3,Re-Export,690,Seychelles,SYC,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,30,,,,,,72,,,2
+H0,2000,2000,2000,4,0,1,Import,690,Seychelles,SYC,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,270,,,,270,,2097,,,2
+H0,2000,2000,2000,4,0,2,Export,690,Seychelles,SYC,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,395,,,,,,1314,,,2
+H0,2000,2000,2000,4,0,3,Re-Export,690,Seychelles,SYC,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,395,,,,,,1314,,,2
+H0,2000,2000,2000,4,0,1,Import,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,111001,,,,111001,,726121,,,2
+H0,2000,2000,2000,4,0,2,Export,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,18441,,,,,,46668,,,2
+H0,2000,2000,2000,4,0,3,Re-Export,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,18441,,,,,,46668,,,2
+H0,2000,2000,2000,4,0,1,Import,690,Seychelles,SYC,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1185,,,,1185,,18993,,,2
+H0,2000,2000,2000,4,0,1,Import,690,Seychelles,SYC,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,39476,,,,39476,,136214,,,2
+H0,2000,2000,2000,4,0,1,Import,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,7111,,,,7111,,32765,,,2
+H0,2000,2000,2000,4,0,2,Export,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,297,,,,,,706,,,2
+H0,2000,2000,2000,4,0,3,Re-Export,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,297,,,,,,706,,,2
+H0,2000,2000,2000,4,0,1,Import,690,Seychelles,SYC,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,6439,,,,6439,,15387,,,2
+H0,2000,2000,2000,4,0,2,Export,690,Seychelles,SYC,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,309,,,,,,733,,,2
+H0,2000,2000,2000,4,0,3,Re-Export,690,Seychelles,SYC,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,309,,,,,,733,,,2
+H0,2000,2000,2000,4,0,1,Import,690,Seychelles,SYC,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,135,,,,135,,422,,,2
+H0,2000,2000,2000,4,0,2,Export,690,Seychelles,SYC,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,17,,,,,,40,,,2
+H0,2000,2000,2000,4,0,3,Re-Export,690,Seychelles,SYC,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,17,,,,,,40,,,2
+H0,2000,2000,2000,4,0,1,Import,690,Seychelles,SYC,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,93,,,,93,,171,,,2
+H0,2000,2000,2000,4,0,2,Export,690,Seychelles,SYC,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,4942,,,,,,12618,,,2
+H0,2000,2000,2000,4,0,3,Re-Export,690,Seychelles,SYC,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,4942,,,,,,12618,,,2
+H0,2000,2000,2000,4,0,1,Import,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,210563,,,,210563,,590992,,,2
+H0,2000,2000,2000,4,0,2,Export,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,6470,,,,,,17501,,,2
+H0,2000,2000,2000,4,0,3,Re-Export,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,6470,,,,,,17501,,,2
+H0,2000,2000,2000,4,0,1,Import,690,Seychelles,SYC,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,425,,,,425,,3915,,,2
+H0,2000,2000,2000,4,0,1,Import,690,Seychelles,SYC,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,24,,,,24,,1197,,,2
+H0,2000,2000,2000,4,0,1,Import,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1282,,,,1282,,12539,,,2
+H0,2000,2000,2000,4,0,2,Export,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,333,,,,,,791,,,2
+H0,2000,2000,2000,4,0,3,Re-Export,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,333,,,,,,791,,,2
+H0,2000,2000,2000,4,0,1,Import,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,7775,,,,7775,,36723,,,2
+H0,2000,2000,2000,4,0,2,Export,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1125,,,,,,2671,,,2
+H0,2000,2000,2000,4,0,3,Re-Export,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1125,,,,,,2671,,,2
+H0,2000,2000,2000,4,0,2,Export,690,Seychelles,SYC,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,258,,,,,,611,,,2
+H0,2000,2000,2000,4,0,3,Re-Export,690,Seychelles,SYC,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,258,,,,,,611,,,2
+H0,2003,2003,2003,4,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,305521,,,,305521,,2682210,,,6
+H0,2003,2003,2003,4,0,2,Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,10796,,,,10796,,64242,,,2
+H0,2003,2003,2003,4,0,3,Re-Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,10796,,,,10796,,64242,,,2
+H0,2003,2003,2003,4,0,1,Import,690,Seychelles,SYC,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,295,,,,295,,1374,,,6
+H0,2003,2003,2003,4,0,2,Export,690,Seychelles,SYC,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,504,,,,504,,1877,,,2
+H0,2003,2003,2003,4,0,3,Re-Export,690,Seychelles,SYC,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,504,,,,504,,1877,,,2
+H0,2003,2003,2003,4,0,1,Import,690,Seychelles,SYC,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,785,,,,785,,8358,,,2
+H0,2003,2003,2003,4,0,2,Export,690,Seychelles,SYC,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,18,,,,18,,114,,,2
+H0,2003,2003,2003,4,0,3,Re-Export,690,Seychelles,SYC,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,18,,,,18,,114,,,2
+H0,2003,2003,2003,4,0,1,Import,690,Seychelles,SYC,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,9,,,,9,,754,,,2
+H0,2003,2003,2003,4,0,1,Import,690,Seychelles,SYC,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,221,,,,221,,2532,,,2
+H0,2003,2003,2003,4,0,1,Import,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,33990,,,,33990,,723429,,,2
+H0,2003,2003,2003,4,0,2,Export,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2183,,,,2183,,30020,,,2
+H0,2003,2003,2003,4,0,3,Re-Export,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2183,,,,2183,,30020,,,2
+H0,2003,2003,2003,4,0,1,Import,690,Seychelles,SYC,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,292,,,,292,,995,,,2
+H0,2003,2003,2003,4,0,2,Export,690,Seychelles,SYC,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1,,,,1,,8,,,2
+H0,2003,2003,2003,4,0,3,Re-Export,690,Seychelles,SYC,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1,,,,1,,8,,,2
+H0,2003,2003,2003,4,0,1,Import,690,Seychelles,SYC,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,630,,,,630,,2650,,,2
+H0,2003,2003,2003,4,0,1,Import,690,Seychelles,SYC,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,54666,,,,54666,,349108,,,2
+H0,2003,2003,2003,4,0,1,Import,690,Seychelles,SYC,450,Madagascar,MDG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,5,,,,5,,72,,,2
+H0,2003,2003,2003,4,0,1,Import,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,33604,,,,33604,,432242,,,2
+H0,2003,2003,2003,4,0,2,Export,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,67,,,,67,,442,,,2
+H0,2003,2003,2003,4,0,3,Re-Export,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,67,,,,67,,442,,,2
+H0,2003,2003,2003,4,0,1,Import,690,Seychelles,SYC,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1204,,,,1204,,10869,,,6
+H0,2003,2003,2003,4,0,2,Export,690,Seychelles,SYC,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,47,,,,47,,171,,,2
+H0,2003,2003,2003,4,0,3,Re-Export,690,Seychelles,SYC,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,47,,,,47,,171,,,2
+H0,2003,2003,2003,4,0,1,Import,690,Seychelles,SYC,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2787,,,,2787,,59691,,,2
+H0,2003,2003,2003,4,0,2,Export,690,Seychelles,SYC,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,9,,,,9,,54,,,2
+H0,2003,2003,2003,4,0,3,Re-Export,690,Seychelles,SYC,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,9,,,,9,,54,,,2
+H0,2003,2003,2003,4,0,1,Import,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,167094,,,,167094,,996641,,,2
+H0,2003,2003,2003,4,0,2,Export,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,6950,,,,6950,,22231,,,2
+H0,2003,2003,2003,4,0,3,Re-Export,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,6950,,,,6950,,22231,,,2
+H0,2003,2003,2003,4,0,1,Import,690,Seychelles,SYC,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,161,,,,161,,2456,,,2
+H0,2003,2003,2003,4,0,1,Import,690,Seychelles,SYC,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,204,,,,204,,2452,,,2
+H0,2003,2003,2003,4,0,1,Import,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,5599,,,,5599,,61057,,,6
+H0,2003,2003,2003,4,0,1,Import,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2593,,,,2593,,13813,,,2
+H0,2003,2003,2003,4,0,2,Export,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,207,,,,207,,2543,,,2
+H0,2003,2003,2003,4,0,3,Re-Export,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,207,,,,207,,2543,,,2
+H0,2003,2003,2003,4,0,1,Import,690,Seychelles,SYC,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1381,,,,1381,,13718,,,2
+H0,2003,2003,2003,4,0,2,Export,690,Seychelles,SYC,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,810,,,,810,,6782,,,2
+H0,2003,2003,2003,4,0,3,Re-Export,690,Seychelles,SYC,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,810,,,,810,,6782,,,2
+H0,2004,2004,2004,4,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,369997,,,,369997,,2673305,,,6
+H0,2004,2004,2004,4,0,2,Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,6574,,,,6574,,36185,,,2
+H0,2004,2004,2004,4,0,3,Re-Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,6574,,,,6574,,36185,,,2
+H0,2004,2004,2004,4,0,1,Import,690,Seychelles,SYC,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,9015,,,,9015,,68047,,,6
+H0,2004,2004,2004,4,0,1,Import,690,Seychelles,SYC,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,18,,,,18,,94,,,2
+H0,2004,2004,2004,4,0,1,Import,690,Seychelles,SYC,48,Bahrain,BHR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,22,,,,22,,111,,,2
+H0,2004,2004,2004,4,0,2,Export,690,Seychelles,SYC,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,24,,,,24,,128,,,2
+H0,2004,2004,2004,4,0,3,Re-Export,690,Seychelles,SYC,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,24,,,,24,,128,,,2
+H0,2004,2004,2004,4,0,1,Import,690,Seychelles,SYC,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,70,,,,70,,417,,,2
+H0,2004,2004,2004,4,0,1,Import,690,Seychelles,SYC,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,550,,,,550,,13518,,,2
+H0,2004,2004,2004,4,0,1,Import,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,76959,,,,76959,,747869,,,2
+H0,2004,2004,2004,4,0,2,Export,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,3464,,,,3464,,19553,,,2
+H0,2004,2004,2004,4,0,3,Re-Export,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,3464,,,,3464,,19553,,,2
+H0,2004,2004,2004,4,0,1,Import,690,Seychelles,SYC,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,314,,,,314,,1229,,,2
+H0,2004,2004,2004,4,0,2,Export,690,Seychelles,SYC,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2,,,,2,,4,,,2
+H0,2004,2004,2004,4,0,3,Re-Export,690,Seychelles,SYC,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2,,,,2,,4,,,2
+H0,2004,2004,2004,4,0,1,Import,690,Seychelles,SYC,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,8625,,,,8625,,29393,,,2
+H0,2004,2004,2004,4,0,1,Import,690,Seychelles,SYC,372,Ireland,IRL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,81,,,,81,,591,,,2
+H0,2004,2004,2004,4,0,1,Import,690,Seychelles,SYC,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,30343,,,,30343,,158587,,,2
+H0,2004,2004,2004,4,0,1,Import,690,Seychelles,SYC,404,Kenya,KEN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1107,,,,1107,,17496,,,2
+H0,2004,2004,2004,4,0,1,Import,690,Seychelles,SYC,450,Madagascar,MDG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1,,,,1,,5,,,2
+H0,2004,2004,2004,4,0,1,Import,690,Seychelles,SYC,458,Malaysia,MYS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1225,,,,1225,,8596,,,2
+H0,2004,2004,2004,4,0,1,Import,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,20249,,,,20249,,298661,,,2
+H0,2004,2004,2004,4,0,2,Export,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,263,,,,263,,387,,,2
+H0,2004,2004,2004,4,0,3,Re-Export,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,263,,,,263,,387,,,2
+H0,2004,2004,2004,4,0,1,Import,690,Seychelles,SYC,490,"Other Asia, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1,,,,1,,4,,,2
+H0,2004,2004,2004,4,0,1,Import,690,Seychelles,SYC,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,10,,,,10,,33,,,2
+H0,2004,2004,2004,4,0,1,Import,690,Seychelles,SYC,699,India,IND,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,237,,,,237,,677,,,2
+H0,2004,2004,2004,4,0,1,Import,690,Seychelles,SYC,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1473,,,,1473,,28001,,,2
+H0,2004,2004,2004,4,0,2,Export,690,Seychelles,SYC,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1,,,,1,,15,,,2
+H0,2004,2004,2004,4,0,3,Re-Export,690,Seychelles,SYC,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1,,,,1,,15,,,2
+H0,2004,2004,2004,4,0,1,Import,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,184109,,,,184109,,937282,,,6
+H0,2004,2004,2004,4,0,2,Export,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2041,,,,2041,,12005,,,2
+H0,2004,2004,2004,4,0,3,Re-Export,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2041,,,,2041,,12005,,,2
+H0,2004,2004,2004,4,0,1,Import,690,Seychelles,SYC,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2387,,,,2387,,24044,,,2
+H0,2004,2004,2004,4,0,1,Import,690,Seychelles,SYC,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,109,,,,109,,1255,,,6
+H0,2004,2004,2004,4,0,1,Import,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,10246,,,,10246,,95761,,,2
+H0,2004,2004,2004,4,0,1,Import,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,15125,,,,15125,,121358,,,6
+H0,2004,2004,2004,4,0,2,Export,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,590,,,,590,,2060,,,2
+H0,2004,2004,2004,4,0,3,Re-Export,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,590,,,,590,,2060,,,2
+H0,2004,2004,2004,4,0,1,Import,690,Seychelles,SYC,837,Bunkers,,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,3,,,,3,,13,,,2
+H0,2004,2004,2004,4,0,1,Import,690,Seychelles,SYC,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,7652,,,,7652,,118415,,,2
+H0,2004,2004,2004,4,0,2,Export,690,Seychelles,SYC,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,189,,,,189,,2032,,,2
+H0,2004,2004,2004,4,0,3,Re-Export,690,Seychelles,SYC,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,189,,,,189,,2032,,,2
+H0,2004,2004,2004,4,0,1,Import,690,Seychelles,SYC,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,66,,,,66,,1850,,,6
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,5509443,,10965641,,,4
+H2,2008,2008,2008,4,0,2,Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,1350,,14251,,,0
+H2,2008,2008,2008,4,0,3,Re-Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,1160,,11725,,,0
+H2,2008,2008,2008,4,0,4,Re-Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,17,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,20,Andorra,AND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,1,,7,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,1391,,10041,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,20,,172,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,48,Bahrain,BHR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,2236,,124,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,31341,,262734,,,0
+H2,2008,2008,2008,4,0,2,Export,690,Seychelles,SYC,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,72,,607,,,0
+H2,2008,2008,2008,4,0,3,Re-Export,690,Seychelles,SYC,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,72,,607,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,8385,,60300,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,54,,257,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,148,Chad,TCD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,50,,63,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,31,,1971,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,15125,,99,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,150,,374,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,1936,,6666,,,4
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,117,,490,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,218,Ecuador,ECU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,222,,892,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,222,El Salvador,SLV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,33,,70,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,234,Faeroe Isds,FRO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,36,,75,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,242,Fiji,FJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,148,,595,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,177,,947,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,1552050,,3535110,,,4
+H2,2008,2008,2008,4,0,2,Export,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,503,,6178,,,0
+H2,2008,2008,2008,4,0,3,Re-Export,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,351,,3767,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,268,Georgia,GEO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,51,,19482,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,43860,,28732,,,4
+H2,2008,2008,2008,4,0,2,Export,690,Seychelles,SYC,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,12,,1,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,63540,,598561,,,4
+H2,2008,2008,2008,4,0,2,Export,690,Seychelles,SYC,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,26,,115,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,408,Dem. People's Rep. of Korea,PRK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,174,,2422,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,4,,36,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,462,Maldives,MDV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,2,,38,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,61567,,256674,,,0
+H2,2008,2008,2008,4,0,2,Export,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,92,,669,,,0
+H2,2008,2008,2008,4,0,3,Re-Export,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,92,,669,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,123,,305,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,149310,,42589,,,0
+H2,2008,2008,2008,4,0,2,Export,690,Seychelles,SYC,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,14,,64,,,0
+H2,2008,2008,2008,4,0,3,Re-Export,690,Seychelles,SYC,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,14,,64,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,548,Vanuatu,VUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,100,,200,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,583,FS Micronesia,FSM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,50,,73,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,321321,,17623,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,260,,5543,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,690,Seychelles,SYC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,5,,17,,,4
+H2,2008,2008,2008,4,0,4,Re-Import,690,Seychelles,SYC,690,Seychelles,SYC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,17,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,27,,68,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,183551,,277231,,,4
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,704,Viet Nam,VNM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,100,,369,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,2873124,,4357639,,,4
+H2,2008,2008,2008,4,0,2,Export,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,464,,1992,,,0
+H2,2008,2008,2008,4,0,3,Re-Export,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,464,,1992,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,19703,,167012,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,226,,1400,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,760,Syria,SYR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,156,,385,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,26968,,28250,,,4
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,49116,,377926,,,0
+H2,2008,2008,2008,4,0,2,Export,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,8,,286,,,0
+H2,2008,2008,2008,4,0,3,Re-Export,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,8,,286,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,100,,602,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,295,,720,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,286,,801,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,63018,,475140,,,0
+H2,2008,2008,2008,4,0,2,Export,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,159,,4341,,,0
+H2,2008,2008,2008,4,0,3,Re-Export,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,159,,4341,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,38819,,424683,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,862,Venezuela,VEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,50,,63,,,0
+H2,2008,2008,2008,4,0,1,Import,690,Seychelles,SYC,887,Yemen,YEM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,33,,70,,,0
+H0,2005,2005,2005,4,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,4014264,,,2
+H0,2005,2005,2005,4,0,2,Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,72129,,,2
+H0,2005,2005,2005,4,0,3,Re-Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,72129,,,2
+H0,2005,2005,2005,4,0,1,Import,690,Seychelles,SYC,4,Afghanistan,AFG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1201,,,,1201,,3069,,,2
+H0,2005,2005,2005,4,0,1,Import,690,Seychelles,SYC,8,Albania,ALB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,63,,,,63,,1125,,,2
+H0,2005,2005,2005,4,0,1,Import,690,Seychelles,SYC,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,159078,,,2
+H0,2005,2005,2005,4,0,2,Export,690,Seychelles,SYC,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,90,,,,90,,694,,,2
+H0,2005,2005,2005,4,0,3,Re-Export,690,Seychelles,SYC,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,90,,,,90,,694,,,2
+H0,2005,2005,2005,4,0,1,Import,690,Seychelles,SYC,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,28,,,,28,,309,,,2
+H0,2005,2005,2005,4,0,1,Import,690,Seychelles,SYC,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1617,,,,1617,,19014,,,2
+H0,2005,2005,2005,4,0,1,Import,690,Seychelles,SYC,203,Czechia,CZE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,15,,,,15,,71,,,2
+H0,2005,2005,2005,4,0,1,Import,690,Seychelles,SYC,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,86,,,,86,,1295,,,2
+H0,2005,2005,2005,4,0,1,Import,690,Seychelles,SYC,242,Fiji,FJI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1436,,,,1436,,7542,,,2
+H0,2005,2005,2005,4,0,1,Import,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,85783,,,,85783,,681433,,,2
+H0,2005,2005,2005,4,0,2,Export,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,48463,,,2
+H0,2005,2005,2005,4,0,3,Re-Export,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,48463,,,2
+H0,2005,2005,2005,4,0,1,Import,690,Seychelles,SYC,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,362,,,,362,,1139,,,2
+H0,2005,2005,2005,4,0,1,Import,690,Seychelles,SYC,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,3,,,,3,,12,,,2
+H0,2005,2005,2005,4,0,1,Import,690,Seychelles,SYC,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,498072,,,2
+H0,2005,2005,2005,4,0,1,Import,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,217690,,,2
+H0,2005,2005,2005,4,0,2,Export,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,68,,,,68,,419,,,2
+H0,2005,2005,2005,4,0,3,Re-Export,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,68,,,,68,,419,,,2
+H0,2005,2005,2005,4,0,1,Import,690,Seychelles,SYC,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2750,,,,2750,,12398,,,2
+H0,2005,2005,2005,4,0,2,Export,690,Seychelles,SYC,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,19,,,,19,,61,,,2
+H0,2005,2005,2005,4,0,3,Re-Export,690,Seychelles,SYC,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,19,,,,19,,61,,,2
+H0,2005,2005,2005,4,0,1,Import,690,Seychelles,SYC,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,16,,,,16,,8843,,,2
+H0,2005,2005,2005,4,0,1,Import,690,Seychelles,SYC,699,India,IND,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,11866,,,2
+H0,2005,2005,2005,4,0,1,Import,690,Seychelles,SYC,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,52828,,,2
+H0,2005,2005,2005,4,0,2,Export,690,Seychelles,SYC,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,18,,,,18,,291,,,2
+H0,2005,2005,2005,4,0,3,Re-Export,690,Seychelles,SYC,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,18,,,,18,,291,,,2
+H0,2005,2005,2005,4,0,1,Import,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,1458349,,,2
+H0,2005,2005,2005,4,0,2,Export,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2093,,,,2093,,10023,,,2
+H0,2005,2005,2005,4,0,3,Re-Export,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2093,,,,2093,,10023,,,2
+H0,2005,2005,2005,4,0,1,Import,690,Seychelles,SYC,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,14028,,,,14028,,81848,,,2
+H0,2005,2005,2005,4,0,1,Import,690,Seychelles,SYC,748,Eswatini,SWZ,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,355,,,,355,,4921,,,2
+H0,2005,2005,2005,4,0,1,Import,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,217390,,,2
+H0,2005,2005,2005,4,0,2,Export,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,45,,,,45,,283,,,2
+H0,2005,2005,2005,4,0,3,Re-Export,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,45,,,,45,,283,,,2
+H0,2005,2005,2005,4,0,1,Import,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,17656,,,,17656,,133119,,,2
+H0,2005,2005,2005,4,0,2,Export,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,11080,,,2
+H0,2005,2005,2005,4,0,3,Re-Export,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,11080,,,2
+H0,2005,2005,2005,4,0,1,Import,690,Seychelles,SYC,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,46618,,,,46618,,442829,,,2
+H0,2005,2005,2005,4,0,2,Export,690,Seychelles,SYC,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,80,,,,80,,810,,,2
+H0,2005,2005,2005,4,0,3,Re-Export,690,Seychelles,SYC,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,80,,,,80,,810,,,2
+H0,2005,2005,2005,4,0,1,Import,690,Seychelles,SYC,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,3,,,,3,,14,,,2
+H0,2006,2006,2006,4,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,5615019,,,0
+H0,2006,2006,2006,4,0,2,Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,87084,,,0
+H0,2006,2006,2006,4,0,3,Re-Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,87084,,,0
+H0,2006,2006,2006,4,0,1,Import,690,Seychelles,SYC,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,83694,,,0
+H0,2006,2006,2006,4,0,1,Import,690,Seychelles,SYC,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,135,,,,135,,2558,,,0
+H0,2006,2006,2006,4,0,1,Import,690,Seychelles,SYC,48,Bahrain,BHR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,56,,,0
+H0,2006,2006,2006,4,0,1,Import,690,Seychelles,SYC,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,52247,,,0
+H0,2006,2006,2006,4,0,1,Import,690,Seychelles,SYC,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,8346,,,,8346,,65832,,,0
+H0,2006,2006,2006,4,0,1,Import,690,Seychelles,SYC,203,Czechia,CZE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,285,,,,285,,1590,,,0
+H0,2006,2006,2006,4,0,1,Import,690,Seychelles,SYC,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,368,,,,396,,4698,,,0
+H0,2006,2006,2006,4,0,1,Import,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,1211131,,,0
+H0,2006,2006,2006,4,0,2,Export,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,34618,,,0
+H0,2006,2006,2006,4,0,3,Re-Export,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,34618,,,0
+H0,2006,2006,2006,4,0,1,Import,690,Seychelles,SYC,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,575,,,,564,,4704,,,0
+H0,2006,2006,2006,4,0,1,Import,690,Seychelles,SYC,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,344081,,,0
+H0,2006,2006,2006,4,0,2,Export,690,Seychelles,SYC,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,546,,,,546,,2991,,,0
+H0,2006,2006,2006,4,0,3,Re-Export,690,Seychelles,SYC,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,546,,,,546,,2991,,,0
+H0,2006,2006,2006,4,0,1,Import,690,Seychelles,SYC,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,364,,,,90,,1646,,,0
+H0,2006,2006,2006,4,0,1,Import,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,182856,,,0
+H0,2006,2006,2006,4,0,2,Export,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,62,,,,62,,306,,,0
+H0,2006,2006,2006,4,0,3,Re-Export,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,62,,,,62,,306,,,0
+H0,2006,2006,2006,4,0,1,Import,690,Seychelles,SYC,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,10084,,,,10084,,63066,,,0
+H0,2006,2006,2006,4,0,1,Import,690,Seychelles,SYC,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,101,,,,108,,42784,,,0
+H0,2006,2006,2006,4,0,1,Import,690,Seychelles,SYC,699,India,IND,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,38873,,,0
+H0,2006,2006,2006,4,0,1,Import,690,Seychelles,SYC,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,28130,,,,28130,,280803,,,0
+H0,2006,2006,2006,4,0,2,Export,690,Seychelles,SYC,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,5270,,,,5270,,19735,,,0
+H0,2006,2006,2006,4,0,3,Re-Export,690,Seychelles,SYC,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,5270,,,,5270,,19735,,,0
+H0,2006,2006,2006,4,0,1,Import,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,2267006,,,0
+H0,2006,2006,2006,4,0,2,Export,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1838,,,,1838,,12167,,,0
+H0,2006,2006,2006,4,0,3,Re-Export,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1838,,,,1838,,12167,,,0
+H0,2006,2006,2006,4,0,1,Import,690,Seychelles,SYC,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,8486,,,,8486,,60368,,,0
+H0,2006,2006,2006,4,0,1,Import,690,Seychelles,SYC,764,Thailand,THA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,9,,,,9,,44,,,0
+H0,2006,2006,2006,4,0,1,Import,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,483314,,,0
+H0,2006,2006,2006,4,0,2,Export,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,224,,,0
+H0,2006,2006,2006,4,0,3,Re-Export,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,224,,,0
+H0,2006,2006,2006,4,0,1,Import,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,107511,,,0
+H0,2006,2006,2006,4,0,2,Export,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,16976,,,0
+H0,2006,2006,2006,4,0,3,Re-Export,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,16976,,,0
+H0,2006,2006,2006,4,0,1,Import,690,Seychelles,SYC,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,30577,,,,30577,,273330,,,0
+H0,2006,2006,2006,4,0,2,Export,690,Seychelles,SYC,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,65,,,0
+H0,2006,2006,2006,4,0,3,Re-Export,690,Seychelles,SYC,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",1,No Quantity,0,,,,0,,65,,,0
+H0,2006,2006,2006,4,0,1,Import,690,Seychelles,SYC,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,3035,,,,3035,,42816,,,0
+H0,2007,2007,2007,4,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,683117,,,,686152,,6947233,,,4
+H0,2007,2007,2007,4,0,2,Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,20891,,,,21036,,253525,,,0
+H0,2007,2007,2007,4,0,3,Re-Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,20891,,,,21036,,253525,,,0
+H0,2007,2007,2007,4,0,1,Import,690,Seychelles,SYC,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1963,,,,1963,,15721,,,0
+H0,2007,2007,2007,4,0,1,Import,690,Seychelles,SYC,48,Bahrain,BHR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2,,,,2,,8,,,0
+H0,2007,2007,2007,4,0,1,Import,690,Seychelles,SYC,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,44164,,,,44172,,1152612,,,0
+H0,2007,2007,2007,4,0,1,Import,690,Seychelles,SYC,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,453,,,,453,,6706,,,0
+H0,2007,2007,2007,4,0,1,Import,690,Seychelles,SYC,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,18,,,,18,,44,,,0
+H0,2007,2007,2007,4,0,1,Import,690,Seychelles,SYC,246,Finland,FIN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,9,,,,9,,651,,,0
+H0,2007,2007,2007,4,0,1,Import,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,115250,,,,116528,,1606374,,,0
+H0,2007,2007,2007,4,0,2,Export,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,9474,,,,9265,,147411,,,0
+H0,2007,2007,2007,4,0,3,Re-Export,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,9474,,,,9265,,147411,,,0
+H0,2007,2007,2007,4,0,1,Import,690,Seychelles,SYC,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,814,,,,814,,51760,,,0
+H0,2007,2007,2007,4,0,1,Import,690,Seychelles,SYC,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1,,,,1,,8,,,0
+H0,2007,2007,2007,4,0,1,Import,690,Seychelles,SYC,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,405,,,,405,,7830,,,0
+H0,2007,2007,2007,4,0,1,Import,690,Seychelles,SYC,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,35909,,,,35911,,252932,,,0
+H0,2007,2007,2007,4,0,2,Export,690,Seychelles,SYC,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,260,,,,260,,679,,,0
+H0,2007,2007,2007,4,0,3,Re-Export,690,Seychelles,SYC,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,260,,,,260,,679,,,0
+H0,2007,2007,2007,4,0,1,Import,690,Seychelles,SYC,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,7,,,,7,,801,,,0
+H0,2007,2007,2007,4,0,1,Import,690,Seychelles,SYC,458,Malaysia,MYS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,93,,,,93,,199,,,4
+H0,2007,2007,2007,4,0,1,Import,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,15619,,,,15529,,364445,,,0
+H0,2007,2007,2007,4,0,2,Export,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,46,,,,46,,271,,,0
+H0,2007,2007,2007,4,0,3,Re-Export,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,46,,,,46,,271,,,0
+H0,2007,2007,2007,4,0,1,Import,690,Seychelles,SYC,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,6171,,,,6171,,33684,,,0
+H0,2007,2007,2007,4,0,2,Export,690,Seychelles,SYC,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,428,,,,428,,3781,,,0
+H0,2007,2007,2007,4,0,3,Re-Export,690,Seychelles,SYC,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,428,,,,428,,3781,,,0
+H0,2007,2007,2007,4,0,1,Import,690,Seychelles,SYC,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,101,,,,101,,31072,,,0
+H0,2007,2007,2007,4,0,1,Import,690,Seychelles,SYC,699,India,IND,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,4491,,,,4452,,10092,,,0
+H0,2007,2007,2007,4,0,1,Import,690,Seychelles,SYC,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,61409,,,,61409,,399162,,,0
+H0,2007,2007,2007,4,0,1,Import,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,303403,,,,302901,,1930036,,,0
+H0,2007,2007,2007,4,0,2,Export,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,4858,,,,5090,,28241,,,0
+H0,2007,2007,2007,4,0,3,Re-Export,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,4858,,,,5090,,28241,,,0
+H0,2007,2007,2007,4,0,1,Import,690,Seychelles,SYC,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,8903,,,,10965,,78018,,,0
+H0,2007,2007,2007,4,0,1,Import,690,Seychelles,SYC,748,Eswatini,SWZ,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,27,,,,27,,1394,,,0
+H0,2007,2007,2007,4,0,1,Import,690,Seychelles,SYC,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,38,,,,38,,161,,,0
+H0,2007,2007,2007,4,0,1,Import,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,29692,,,,30013,,422021,,,0
+H0,2007,2007,2007,4,0,2,Export,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2605,,,,2605,,36647,,,0
+H0,2007,2007,2007,4,0,3,Re-Export,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2605,,,,2605,,36647,,,0
+H0,2007,2007,2007,4,0,1,Import,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,9774,,,,9769,,165766,,,0
+H0,2007,2007,2007,4,0,2,Export,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2851,,,,2973,,33656,,,0
+H0,2007,2007,2007,4,0,3,Re-Export,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2851,,,,2973,,33656,,,0
+H0,2007,2007,2007,4,0,1,Import,690,Seychelles,SYC,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,44401,,,,44401,,415738,,,0
+H0,2007,2007,2007,4,0,2,Export,690,Seychelles,SYC,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,369,,,,369,,2840,,,0
+H0,2007,2007,2007,4,0,3,Re-Export,690,Seychelles,SYC,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,369,,,,369,,2840,,,0
+H3,2013,2013,2013,4,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1552678,,,,7872825,,8203837,,,0
+H3,2013,2013,2013,4,0,1,Import,690,Seychelles,SYC,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3033,,,,3983,,27586,,,0
+H3,2013,2013,2013,4,0,1,Import,690,Seychelles,SYC,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18162,,,,44416,,91585,,,0
+H3,2013,2013,2013,4,0,1,Import,690,Seychelles,SYC,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8523,,,,2987,,154872,,,0
+H3,2013,2013,2013,4,0,1,Import,690,Seychelles,SYC,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,221,,,,515,,1524,,,0
+H3,2013,2013,2013,4,0,1,Import,690,Seychelles,SYC,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,96459,,,,626329,,422672,,,0
+H3,2013,2013,2013,4,0,1,Import,690,Seychelles,SYC,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,563,,,,5,,1489,,,0
+H3,2013,2013,2013,4,0,1,Import,690,Seychelles,SYC,234,Faeroe Isds,FRO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,315,,,,6000,,575,,,0
+H3,2013,2013,2013,4,0,1,Import,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,454049,,,,1569612,,3134495,,,0
+H3,2013,2013,2013,4,0,1,Import,690,Seychelles,SYC,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18500,,,,9519,,72085,,,0
+H3,2013,2013,2013,4,0,1,Import,690,Seychelles,SYC,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,126755,,,,223032,,664356,,,0
+H3,2013,2013,2013,4,0,1,Import,690,Seychelles,SYC,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,423,,,,1398,,10968,,,0
+H3,2013,2013,2013,4,0,1,Import,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5500,,,,27195,,115890,,,0
+H3,2013,2013,2013,4,0,1,Import,690,Seychelles,SYC,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,14,,,,1239,,318,,,0
+H3,2013,2013,2013,4,0,1,Import,690,Seychelles,SYC,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1193,,,,11478,,15581,,,0
+H3,2013,2013,2013,4,0,1,Import,690,Seychelles,SYC,579,Norway,NOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,48,,,,1232,,120,,,0
+H3,2013,2013,2013,4,0,1,Import,690,Seychelles,SYC,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1875,,,,2374,,17991,,,0
+H3,2013,2013,2013,4,0,1,Import,690,Seychelles,SYC,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15,,,,110,,86,,,0
+H3,2013,2013,2013,4,0,1,Import,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,609691,,,,5016023,,2819202,,,0
+H3,2013,2013,2013,4,0,1,Import,690,Seychelles,SYC,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,14968,,,,15940,,132993,,,0
+H3,2013,2013,2013,4,0,1,Import,690,Seychelles,SYC,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4,,,,277,,273,,,0
+H3,2013,2013,2013,4,0,1,Import,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,186201,,,,224579,,462209,,,0
+H3,2013,2013,2013,4,0,1,Import,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1040,,,,42048,,1883,,,0
+H3,2013,2013,2013,4,0,1,Import,690,Seychelles,SYC,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5127,,,,42534,,55086,,,0
+H3,2014,2014,2014,4,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1744621,,,,2714192,,9440839,,,0
+H3,2014,2014,2014,4,0,1,Import,690,Seychelles,SYC,20,Andorra,AND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18,,,,32,,698,,,0
+H3,2014,2014,2014,4,0,1,Import,690,Seychelles,SYC,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1124,,,,1547,,7876,,,0
+H3,2014,2014,2014,4,0,1,Import,690,Seychelles,SYC,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12419,,,,20369,,53012,,,0
+H3,2014,2014,2014,4,0,1,Import,690,Seychelles,SYC,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,53124,,,,89811,,512334,,,0
+H3,2014,2014,2014,4,0,1,Import,690,Seychelles,SYC,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,117,,,,150,,698,,,0
+H3,2014,2014,2014,4,0,1,Import,690,Seychelles,SYC,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,99215,,,,139367,,360087,,,0
+H3,2014,2014,2014,4,0,1,Import,690,Seychelles,SYC,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2,,,,8,,22,,,0
+H3,2014,2014,2014,4,0,1,Import,690,Seychelles,SYC,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,46,,,,197,,1780,,,0
+H3,2014,2014,2014,4,0,1,Import,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,643322,,,,1032461,,4258221,,,0
+H3,2014,2014,2014,4,0,1,Import,690,Seychelles,SYC,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,23151,,,,42831,,100725,,,0
+H3,2014,2014,2014,4,0,1,Import,690,Seychelles,SYC,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,14,,,,26,,246,,,0
+H3,2014,2014,2014,4,0,1,Import,690,Seychelles,SYC,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,170036,,,,262053,,834975,,,0
+H3,2014,2014,2014,4,0,1,Import,690,Seychelles,SYC,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,136,,,,471,,3822,,,0
+H3,2014,2014,2014,4,0,1,Import,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1333,,,,2446,,143487,,,0
+H3,2014,2014,2014,4,0,1,Import,690,Seychelles,SYC,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,36,,,,270,,100,,,0
+H3,2014,2014,2014,4,0,1,Import,690,Seychelles,SYC,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,464,,,,4329,,24989,,,0
+H3,2014,2014,2014,4,0,1,Import,690,Seychelles,SYC,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5151,,,,10069,,71667,,,0
+H3,2014,2014,2014,4,0,1,Import,690,Seychelles,SYC,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2291,,,,3193,,19286,,,0
+H3,2014,2014,2014,4,0,1,Import,690,Seychelles,SYC,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1,,,,3,,8,,,0
+H3,2014,2014,2014,4,0,1,Import,690,Seychelles,SYC,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,585,,,,756,,2590,,,0
+H3,2014,2014,2014,4,0,1,Import,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,676374,,,,1022686,,2553146,,,0
+H3,2014,2014,2014,4,0,1,Import,690,Seychelles,SYC,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,11489,,,,22402,,135002,,,0
+H3,2014,2014,2014,4,0,1,Import,690,Seychelles,SYC,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,122,,,,162,,1510,,,0
+H3,2014,2014,2014,4,0,1,Import,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,40337,,,,51014,,325600,,,0
+H3,2014,2014,2014,4,0,1,Import,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,24,,,,1052,,710,,,0
+H3,2014,2014,2014,4,0,1,Import,690,Seychelles,SYC,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3647,,,,6418,,27415,,,0
+H3,2014,2014,2014,4,0,1,Import,690,Seychelles,SYC,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,45,,,,67,,834,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1437499,,,,59224378,,6426628,,,4
+H2,2010,2010,2010,4,0,2,Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16,,,,11,,81,,,0
+H2,2010,2010,2010,4,0,4,Re-Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12,,,,12,,34,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,20,Andorra,AND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,792,,,,792,,4320,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1320,,,,1920,,2281,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12216,,,,395371,,119569,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,48,Bahrain,BHR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,20,,14,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,37553,,,,74161,,437747,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,70,Bosnia Herzegovina,BIH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,1,,79,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12,,,,12,,36,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3,,,,1,,95,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,242,,42,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13265,,,,241172,,66553,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,234,Faeroe Isds,FRO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8,,,,8,,188,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,384527,,,,27091262,,2412312,,,4
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,145,,,,3592,,1214,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7,,,,33,,89,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6,,,,6,,222,,,0
+H2,2010,2010,2010,4,0,2,Export,690,Seychelles,SYC,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16,,,,11,,81,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,43003,,,,70331,,230366,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36,,,,168,,1298,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5,,,,24,,48,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9064,,,,69503,,150447,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,512,Oman,OMN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12,,,,12,,32,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2412,,,,6451,,28933,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1679,,,,2099,,40122,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,579,Norway,NOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,135,,,,135,,990,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,608,,,,644,,5309,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,659,Saint Kitts and Nevis,KNA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,48,,,,48,,145,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,690,Seychelles,SYC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12,,,,12,,34,,,0
+H2,2010,2010,2010,4,0,4,Re-Import,690,Seychelles,SYC,690,Seychelles,SYC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12,,,,12,,34,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4920,,,,2433,,30599,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,895523,,,,31217678,,2733918,,,4
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3114,,,,3149,,25386,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,78,,,,177,,182,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5447,,,,23953,,80992,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3587,,,,9023,,32294,,,0
+H2,2010,2010,2010,4,0,1,Import,690,Seychelles,SYC,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17951,,,,9944,,20771,,,4
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1717725,,,,22805131,,8353343,,,4
+H2,2011,2011,2011,4,0,2,Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5,,,,29,,451,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,8,Albania,ALB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,2,,66,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,20,Andorra,AND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,577,,,,576,,3146,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18785,,,,18785,,20484,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22742,,,,26950,,89147,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,90,,,,5,,2731,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,48,Bahrain,BHR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11,,,,775,,140,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,62310,,,,86680,,563872,,,4
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,495,,,,134147,,2781,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6,,,,12,,78,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17894,,,,432232,,101019,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,1,,3,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,160,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,567287,,,,5636804,,3660998,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4330,,,,428117,,91709,,,0
+H2,2011,2011,2011,4,0,2,Export,690,Seychelles,SYC,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,14,,318,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,200,,27,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,328,Guyana,GUY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,124,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,56,,,,22585,,429,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,90254,,,,304919,,442618,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4,,,,7810,,119,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,450,Madagascar,MDG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11,,,,83,,358,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9085,,,,182295,,148163,,,0
+H2,2011,2011,2011,4,0,2,Export,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4,,,,15,,134,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,869,,,,872,,1685,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2710,,,,216144,,47851,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1218,,,,4783,,14602,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,60,,,,60,,188,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,88213,,,,72447,,262045,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,817761,,,,14552475,,2711781,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5196,,,,73325,,47315,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22,,,,6880,,389,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4146,,,,581500,,75988,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1021,,,,11942,,56232,,,0
+H2,2011,2011,2011,4,0,1,Import,690,Seychelles,SYC,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2549,,,,1709,,7092,,,0
+H2,2012,2012,2012,4,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1522807,,,,17602906,,6986965,,,0
+H2,2012,2012,2012,4,0,2,Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,964,,,,1671,,3413,,,0
+H2,2012,2012,2012,4,0,1,Import,690,Seychelles,SYC,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16710,,,,21118,,18251,,,0
+H2,2012,2012,2012,4,0,1,Import,690,Seychelles,SYC,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15439,,,,37389,,72091,,,0
+H2,2012,2012,2012,4,0,1,Import,690,Seychelles,SYC,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,30673,,,,60189,,457192,,,0
+H2,2012,2012,2012,4,0,1,Import,690,Seychelles,SYC,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,158,,,,14607,,880,,,0
+H2,2012,2012,2012,4,0,1,Import,690,Seychelles,SYC,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4,,,,3,,24,,,0
+H2,2012,2012,2012,4,0,1,Import,690,Seychelles,SYC,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,75388,,,,929612,,286285,,,0
+H2,2012,2012,2012,4,0,1,Import,690,Seychelles,SYC,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,72,,,,19,,22,,,0
+H2,2012,2012,2012,4,0,1,Import,690,Seychelles,SYC,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,4518,,3,,,0
+H2,2012,2012,2012,4,0,1,Import,690,Seychelles,SYC,234,Faeroe Isds,FRO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4,,,,529,,91,,,0
+H2,2012,2012,2012,4,0,1,Import,690,Seychelles,SYC,238,Falkland Isds (Malvinas),FLK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,113,,,,11000,,5948,,,0
+H2,2012,2012,2012,4,0,1,Import,690,Seychelles,SYC,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,4518,,3,,,0
+H2,2012,2012,2012,4,0,1,Import,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,510570,,,,4560104,,2954416,,,0
+H2,2012,2012,2012,4,0,1,Import,690,Seychelles,SYC,262,Djibouti,DJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5,,,,11000,,170,,,0
+H2,2012,2012,2012,4,0,1,Import,690,Seychelles,SYC,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6184,,,,4709,,37531,,,0
+H2,2012,2012,2012,4,0,2,Export,690,Seychelles,SYC,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,11,,128,,,0
+H2,2012,2012,2012,4,0,1,Import,690,Seychelles,SYC,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,110137,,,,233532,,560092,,,0
+H2,2012,2012,2012,4,0,1,Import,690,Seychelles,SYC,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,285,,,,7100,,10176,,,0
+H2,2012,2012,2012,4,0,1,Import,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6378,,,,51888,,144468,,,0
+H2,2012,2012,2012,4,0,1,Import,690,Seychelles,SYC,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,829,,,,11896,,10594,,,0
+H2,2012,2012,2012,4,0,1,Import,690,Seychelles,SYC,583,FS Micronesia,FSM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,68,,,,11000,,1055,,,0
+H2,2012,2012,2012,4,0,1,Import,690,Seychelles,SYC,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,214,,,,308,,1621,,,0
+H2,2012,2012,2012,4,0,1,Import,690,Seychelles,SYC,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,64972,,,,24370,,179863,,,0
+H2,2012,2012,2012,4,0,1,Import,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,624580,,,,11114331,,2050918,,,0
+H2,2012,2012,2012,4,0,1,Import,690,Seychelles,SYC,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2587,,,,32108,,19722,,,0
+H2,2012,2012,2012,4,0,1,Import,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45322,,,,330218,,125769,,,0
+H2,2012,2012,2012,4,0,2,Export,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,963,,,,1660,,3285,,,0
+H2,2012,2012,2012,4,0,1,Import,690,Seychelles,SYC,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,126,,,,28,,1368,,,0
+H2,2012,2012,2012,4,0,1,Import,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,118,,,,1062,,2199,,,0
+H2,2012,2012,2012,4,0,1,Import,690,Seychelles,SYC,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11871,,,,125751,,46214,,,0
+H5,2020,2020,2020,4,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,870914,,,,1483867,,3876566,,,2
+H5,2020,2020,2020,4,0,1,Import,690,Seychelles,SYC,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,751,,,,1582,,4061,,,0
+H5,2020,2020,2020,4,0,1,Import,690,Seychelles,SYC,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7376,,,,15150,,27116,,,0
+H5,2020,2020,2020,4,0,1,Import,690,Seychelles,SYC,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,50665,,,,64166,,373528,,,2
+H5,2020,2020,2020,4,0,1,Import,690,Seychelles,SYC,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7,,,,48,,22,,,0
+H5,2020,2020,2020,4,0,1,Import,690,Seychelles,SYC,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25119,,,,40094,,78049,,,0
+H5,2020,2020,2020,4,0,1,Import,690,Seychelles,SYC,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24,,,,176,,64,,,0
+H5,2020,2020,2020,4,0,1,Import,690,Seychelles,SYC,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,406642,,,,694592,,2025968,,,0
+H5,2020,2020,2020,4,0,1,Import,690,Seychelles,SYC,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18,,,,82,,326,,,0
+H5,2020,2020,2020,4,0,1,Import,690,Seychelles,SYC,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,450,,,,395,,1796,,,0
+H5,2020,2020,2020,4,0,1,Import,690,Seychelles,SYC,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,111928,,,,212270,,540754,,,2
+H5,2020,2020,2020,4,0,1,Import,690,Seychelles,SYC,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,506,,,,932,,7221,,,0
+H5,2020,2020,2020,4,0,1,Import,690,Seychelles,SYC,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90,,,,869,,3945,,,0
+H5,2020,2020,2020,4,0,1,Import,690,Seychelles,SYC,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1917,,,,4205,,29076,,,0
+H5,2020,2020,2020,4,0,1,Import,690,Seychelles,SYC,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1128,,,,2731,,9043,,,0
+H5,2020,2020,2020,4,0,1,Import,690,Seychelles,SYC,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18,,,,76,,302,,,0
+H5,2020,2020,2020,4,0,1,Import,690,Seychelles,SYC,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36,,,,60,,182,,,0
+H5,2020,2020,2020,4,0,1,Import,690,Seychelles,SYC,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7245,,,,11874,,15607,,,0
+H5,2020,2020,2020,4,0,1,Import,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,235141,,,,382323,,655537,,,2
+H5,2020,2020,2020,4,0,1,Import,690,Seychelles,SYC,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15070,,,,16486,,51273,,,0
+H5,2020,2020,2020,4,0,1,Import,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3779,,,,28398,,32183,,,0
+H5,2020,2020,2020,4,0,1,Import,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1548,,,,2159,,14440,,,0
+H5,2020,2020,2020,4,0,1,Import,690,Seychelles,SYC,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1452,,,,5192,,6062,,,0

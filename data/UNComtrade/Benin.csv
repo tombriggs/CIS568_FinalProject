@@ -1,0 +1,440 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2961984,,,,2961984,,1661124,,,2
+H1,2000,2000,2000,4,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6920,,,,6920,,29767,,,2
+H1,2000,2000,2000,4,0,1,Import,204,Benin,BEN,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8486,,,,8486,,3667,,,2
+H1,2000,2000,2000,4,0,1,Import,204,Benin,BEN,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,95,,,,95,,50,,,2
+H1,2000,2000,2000,4,0,1,Import,204,Benin,BEN,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,60,,,,60,,522,,,2
+H1,2000,2000,2000,4,0,1,Import,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,629648,,,,629648,,886531,,,2
+H1,2000,2000,2000,4,0,2,Export,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6909,,,,6909,,29743,,,2
+H1,2000,2000,2000,4,0,1,Import,204,Benin,BEN,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,118498,,,,118498,,48480,,,2
+H1,2000,2000,2000,4,0,2,Export,204,Benin,BEN,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11,,,,11,,24,,,2
+H1,2000,2000,2000,4,0,1,Import,204,Benin,BEN,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1500,,,,1500,,1151,,,2
+H1,2000,2000,2000,4,0,1,Import,204,Benin,BEN,643,Russian Federation,RUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2372,,,,2372,,3296,,,2
+H1,2000,2000,2000,4,0,1,Import,204,Benin,BEN,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,26465,,,,26465,,12575,,,2
+H1,2000,2000,2000,4,0,1,Import,204,Benin,BEN,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2173960,,,,2173960,,703403,,,2
+H1,2000,2000,2000,4,0,1,Import,204,Benin,BEN,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,900,,,,900,,1450,,,2
+H1,2001,2001,2001,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,948130,,,,,,1887355,,,2
+H1,2001,2001,2001,4,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,314788,,,,,,371182,,,2
+H1,2001,2001,2001,4,0,1,Import,204,Benin,BEN,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,14441,,,,,,14022,,,2
+H1,2001,2001,2001,4,0,1,Import,204,Benin,BEN,120,Cameroon,CMR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2113,,,,,,5213,,,2
+H1,2001,2001,2001,4,0,1,Import,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,512724,,,,,,992392,,,2
+H1,2001,2001,2001,4,0,2,Export,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15210,,,,,,22365,,,2
+H1,2001,2001,2001,4,0,2,Export,204,Benin,BEN,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3210,,,,,,11308,,,2
+H1,2001,2001,2001,4,0,2,Export,204,Benin,BEN,372,Ireland,IRL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6172,,,,,,5429,,,2
+H1,2001,2001,2001,4,0,1,Import,204,Benin,BEN,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18563,,,,,,45818,,,2
+H1,2001,2001,2001,4,0,2,Export,204,Benin,BEN,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7890,,,,,,11503,,,2
+H1,2001,2001,2001,4,0,2,Export,204,Benin,BEN,566,Nigeria,NGA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,184121,,,,,,229437,,,2
+H1,2001,2001,2001,4,0,1,Import,204,Benin,BEN,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,151,,,,,,147,,,2
+H1,2001,2001,2001,4,0,1,Import,204,Benin,BEN,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16828,,,,,,29993,,,2
+H1,2001,2001,2001,4,0,1,Import,204,Benin,BEN,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,369660,,,,,,774984,,,2
+H1,2001,2001,2001,4,0,2,Export,204,Benin,BEN,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,37806,,,,,,33252,,,2
+H1,2001,2001,2001,4,0,1,Import,204,Benin,BEN,768,Togo,TGO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13586,,,,,,24629,,,2
+H1,2001,2001,2001,4,0,2,Export,204,Benin,BEN,768,Togo,TGO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,60378,,,,,,57888,,,2
+H1,2001,2001,2001,4,0,1,Import,204,Benin,BEN,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,64,,,,,,158,,,2
+H1,2002,2002,2002,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3723044,,,,3723044,,2456781,,,2
+H1,2002,2002,2002,4,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1242453,,,,1242453,,528804,,,2
+H1,2002,2002,2002,4,0,1,Import,204,Benin,BEN,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1060,,,,1060,,203,,,2
+H1,2002,2002,2002,4,0,1,Import,204,Benin,BEN,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6795,,,,6795,,20888,,,2
+H1,2002,2002,2002,4,0,1,Import,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,843419,,,,843419,,1287773,,,2
+H1,2002,2002,2002,4,0,2,Export,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,54703,,,,54703,,39008,,,2
+H1,2002,2002,2002,4,0,1,Import,204,Benin,BEN,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,23864,,,,23864,,10932,,,2
+H1,2002,2002,2002,4,0,2,Export,204,Benin,BEN,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13557,,,,13557,,7215,,,2
+H1,2002,2002,2002,4,0,1,Import,204,Benin,BEN,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,192765,,,,192765,,92753,,,2
+H1,2002,2002,2002,4,0,2,Export,204,Benin,BEN,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,26450,,,,26450,,15392,,,2
+H1,2002,2002,2002,4,0,1,Import,204,Benin,BEN,566,Nigeria,NGA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6,,,,6,,87,,,2
+H1,2002,2002,2002,4,0,2,Export,204,Benin,BEN,566,Nigeria,NGA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,651889,,,,651889,,270754,,,2
+H1,2002,2002,2002,4,0,1,Import,204,Benin,BEN,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,26,,,,26,,138,,,2
+H1,2002,2002,2002,4,0,2,Export,204,Benin,BEN,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,43760,,,,43760,,26332,,,2
+H1,2002,2002,2002,4,0,1,Import,204,Benin,BEN,643,Russian Federation,RUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,961,,,,961,,1140,,,2
+H1,2002,2002,2002,4,0,1,Import,204,Benin,BEN,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,158520,,,,158520,,96313,,,2
+H1,2002,2002,2002,4,0,2,Export,204,Benin,BEN,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,67053,,,,67053,,32579,,,2
+H1,2002,2002,2002,4,0,1,Import,204,Benin,BEN,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2475760,,,,2475760,,932822,,,2
+H1,2002,2002,2002,4,0,2,Export,204,Benin,BEN,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,318356,,,,318356,,109651,,,2
+H1,2002,2002,2002,4,0,1,Import,204,Benin,BEN,764,Thailand,THA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8350,,,,8350,,6799,,,2
+H1,2002,2002,2002,4,0,1,Import,204,Benin,BEN,768,Togo,TGO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11492,,,,11492,,6916,,,2
+H1,2002,2002,2002,4,0,1,Import,204,Benin,BEN,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,26,,,,26,,19,,,2
+H1,2002,2002,2002,4,0,2,Export,204,Benin,BEN,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16100,,,,16100,,8059,,,2
+H1,2002,2002,2002,4,0,2,Export,204,Benin,BEN,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8585,,,,8585,,4664,,,2
+H1,2002,2002,2002,4,0,2,Export,204,Benin,BEN,854,Burkina Faso,BFA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,42000,,,,42000,,15150,,,2
+H1,2003,2003,2003,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4743277,,,,4743277,,2921195,,,2
+H1,2003,2003,2003,4,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,547260,,,,547260,,324562,,,2
+H1,2003,2003,2003,4,0,3,Re-Export,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,472056,,,,472056,,291142,,,2
+H1,2003,2003,2003,4,0,1,Import,204,Benin,BEN,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1948,,,,1948,,8962,,,2
+H1,2003,2003,2003,4,0,1,Import,204,Benin,BEN,231,Ethiopia,ETH,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,477,,,,477,,952,,,2
+H1,2003,2003,2003,4,0,1,Import,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,683696,,,,683696,,1242162,,,2
+H1,2003,2003,2003,4,0,2,Export,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,14228,,,,14228,,28452,,,2
+H1,2003,2003,2003,4,0,3,Re-Export,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,14228,,,,14228,,28452,,,2
+H1,2003,2003,2003,4,0,1,Import,204,Benin,BEN,288,Ghana,GHA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,28450,,,,28450,,17696,,,2
+H1,2003,2003,2003,4,0,1,Import,204,Benin,BEN,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,67300,,,,67300,,55309,,,2
+H1,2003,2003,2003,4,0,2,Export,204,Benin,BEN,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,61610,,,,61610,,41453,,,2
+H1,2003,2003,2003,4,0,3,Re-Export,204,Benin,BEN,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,61610,,,,61610,,41453,,,2
+H1,2003,2003,2003,4,0,2,Export,204,Benin,BEN,566,Nigeria,NGA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,137774,,,,137774,,87885,,,2
+H1,2003,2003,2003,4,0,3,Re-Export,204,Benin,BEN,566,Nigeria,NGA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,62570,,,,62570,,54465,,,2
+H1,2003,2003,2003,4,0,1,Import,204,Benin,BEN,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,109,,,,109,,1415,,,2
+H1,2003,2003,2003,4,0,1,Import,204,Benin,BEN,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,133201,,,,133201,,120886,,,2
+H1,2003,2003,2003,4,0,2,Export,204,Benin,BEN,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,30060,,,,30060,,20594,,,2
+H1,2003,2003,2003,4,0,3,Re-Export,204,Benin,BEN,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,30060,,,,30060,,20594,,,2
+H1,2003,2003,2003,4,0,1,Import,204,Benin,BEN,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3692572,,,,3692572,,1408373,,,2
+H1,2003,2003,2003,4,0,2,Export,204,Benin,BEN,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,288737,,,,288737,,137417,,,2
+H1,2003,2003,2003,4,0,3,Re-Export,204,Benin,BEN,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,288737,,,,288737,,137417,,,2
+H1,2003,2003,2003,4,0,1,Import,204,Benin,BEN,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6112,,,,6112,,1576,,,2
+H1,2003,2003,2003,4,0,1,Import,204,Benin,BEN,768,Togo,TGO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,108788,,,,108788,,48712,,,2
+H1,2003,2003,2003,4,0,1,Import,204,Benin,BEN,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2360,,,,2360,,1508,,,2
+H1,2003,2003,2003,4,0,2,Export,204,Benin,BEN,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,14851,,,,14851,,8762,,,2
+H1,2003,2003,2003,4,0,3,Re-Export,204,Benin,BEN,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,14851,,,,14851,,8762,,,2
+H1,2003,2003,2003,4,0,1,Import,204,Benin,BEN,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18264,,,,18264,,13643,,,2
+H1,2004,2004,2004,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4325626,,,,4325626,,2891292,,,2
+H1,2004,2004,2004,4,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,131550,,,,131550,,133888,,,2
+H1,2004,2004,2004,4,0,3,Re-Export,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10866,,,,10866,,72046,,,2
+H1,2004,2004,2004,4,0,1,Import,204,Benin,BEN,12,Algeria,DZA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15783,,,,15783,,20547,,,2
+H1,2004,2004,2004,4,0,1,Import,204,Benin,BEN,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4755,,,,4755,,5424,,,2
+H1,2004,2004,2004,4,0,1,Import,204,Benin,BEN,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3520,,,,3520,,892,,,2
+H1,2004,2004,2004,4,0,1,Import,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,702556,,,,702556,,1246507,,,2
+H1,2004,2004,2004,4,0,1,Import,204,Benin,BEN,288,Ghana,GHA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1263,,,,1263,,2361,,,2
+H1,2004,2004,2004,4,0,1,Import,204,Benin,BEN,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,95064,,,,95064,,59589,,,2
+H1,2004,2004,2004,4,0,2,Export,204,Benin,BEN,466,Mali,MLI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,120684,,,,120684,,61843,,,2
+H1,2004,2004,2004,4,0,2,Export,204,Benin,BEN,566,Nigeria,NGA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10866,,,,10866,,72046,,,2
+H1,2004,2004,2004,4,0,3,Re-Export,204,Benin,BEN,566,Nigeria,NGA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10866,,,,10866,,72046,,,2
+H1,2004,2004,2004,4,0,1,Import,204,Benin,BEN,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,25,,,,25,,406,,,2
+H1,2004,2004,2004,4,0,1,Import,204,Benin,BEN,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,149204,,,,149204,,149825,,,2
+H1,2004,2004,2004,4,0,1,Import,204,Benin,BEN,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3243598,,,,3243598,,1365897,,,2
+H1,2004,2004,2004,4,0,1,Import,204,Benin,BEN,768,Togo,TGO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,109858,,,,109858,,39845,,,2
+H2,2006,2006,2006,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6485726,,,,6485726,,3994443,,,2
+H2,2006,2006,2006,4,0,1,Import,204,Benin,BEN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17383,,,,17383,,21601,,,2
+H2,2006,2006,2006,4,0,1,Import,204,Benin,BEN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,43200,,,,43200,,14936,,,2
+H2,2006,2006,2006,4,0,1,Import,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1376799,,,,1376799,,1940472,,,2
+H2,2006,2006,2006,4,0,1,Import,204,Benin,BEN,288,Ghana,GHA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,288,,,,288,,446,,,2
+H2,2006,2006,2006,4,0,1,Import,204,Benin,BEN,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11,,,,11,,16,,,2
+H2,2006,2006,2006,4,0,1,Import,204,Benin,BEN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,818739,,,,818739,,215471,,,2
+H2,2006,2006,2006,4,0,1,Import,204,Benin,BEN,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,300,,,,300,,179,,,2
+H2,2006,2006,2006,4,0,1,Import,204,Benin,BEN,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,600,,,,600,,241,,,2
+H2,2006,2006,2006,4,0,1,Import,204,Benin,BEN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,137907,,,,137907,,131054,,,2
+H2,2006,2006,2006,4,0,1,Import,204,Benin,BEN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3491876,,,,3491876,,1569848,,,2
+H2,2006,2006,2006,4,0,1,Import,204,Benin,BEN,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,593285,,,,593285,,94380,,,2
+H2,2006,2006,2006,4,0,1,Import,204,Benin,BEN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5338,,,,5338,,5799,,,2
+H2,2007,2007,2007,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5399645,,,,5399645,,3986632,,,2
+H2,2007,2007,2007,4,0,1,Import,204,Benin,BEN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12840,,,,12840,,7422,,,2
+H2,2007,2007,2007,4,0,1,Import,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1087182,,,,1087182,,1873764,,,2
+H2,2007,2007,2007,4,0,1,Import,204,Benin,BEN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,850,,,,850,,676,,,2
+H2,2007,2007,2007,4,0,1,Import,204,Benin,BEN,288,Ghana,GHA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1950,,,,1950,,3666,,,2
+H2,2007,2007,2007,4,0,1,Import,204,Benin,BEN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,166698,,,,166698,,109903,,,2
+H2,2007,2007,2007,4,0,1,Import,204,Benin,BEN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6939,,,,6939,,24302,,,2
+H2,2007,2007,2007,4,0,1,Import,204,Benin,BEN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21450,,,,21450,,10205,,,2
+H2,2007,2007,2007,4,0,1,Import,204,Benin,BEN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,186759,,,,186759,,163386,,,2
+H2,2007,2007,2007,4,0,1,Import,204,Benin,BEN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3685968,,,,3685968,,1688012,,,2
+H2,2007,2007,2007,4,0,1,Import,204,Benin,BEN,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,146192,,,,146192,,71358,,,2
+H2,2007,2007,2007,4,0,1,Import,204,Benin,BEN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19457,,,,19457,,24133,,,2
+H2,2007,2007,2007,4,0,1,Import,204,Benin,BEN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,63360,,,,63360,,9804,,,2
+H2,2008,2008,2008,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7405038,,,,7405038,,4364777,,,2
+H2,2008,2008,2008,4,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1789496,,,,1789496,,402042,,,2
+H2,2008,2008,2008,4,0,1,Import,204,Benin,BEN,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,136756,,,,136756,,113883,,,2
+H2,2008,2008,2008,4,0,1,Import,204,Benin,BEN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1091,,,,1091,,999,,,2
+H2,2008,2008,2008,4,0,1,Import,204,Benin,BEN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,269183,,,,269183,,97684,,,2
+H2,2008,2008,2008,4,0,1,Import,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1045558,,,,1045558,,1854812,,,2
+H2,2008,2008,2008,4,0,2,Export,204,Benin,BEN,288,Ghana,GHA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,54720,,,,54720,,12082,,,2
+H2,2008,2008,2008,4,0,1,Import,204,Benin,BEN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,106561,,,,106561,,107555,,,2
+H2,2008,2008,2008,4,0,2,Export,204,Benin,BEN,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1734776,,,,1734776,,389961,,,2
+H2,2008,2008,2008,4,0,1,Import,204,Benin,BEN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,187652,,,,187652,,99668,,,2
+H2,2008,2008,2008,4,0,1,Import,204,Benin,BEN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,179969,,,,179969,,113193,,,2
+H2,2008,2008,2008,4,0,1,Import,204,Benin,BEN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3510747,,,,3510747,,1721024,,,2
+H2,2008,2008,2008,4,0,1,Import,204,Benin,BEN,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8147,,,,8147,,5491,,,2
+H2,2008,2008,2008,4,0,1,Import,204,Benin,BEN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,26366,,,,26366,,25357,,,2
+H2,2008,2008,2008,4,0,1,Import,204,Benin,BEN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1933008,,,,1933008,,225110,,,2
+H2,2009,2009,2009,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5915791,,,,5915791,,4796825,,,2
+H2,2009,2009,2009,4,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2565586,,,,2565586,,917575,,,2
+H2,2009,2009,2009,4,0,1,Import,204,Benin,BEN,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,166703,,,,166703,,101660,,,2
+H2,2009,2009,2009,4,0,1,Import,204,Benin,BEN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1873,,,,1873,,4684,,,2
+H2,2009,2009,2009,4,0,1,Import,204,Benin,BEN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,163880,,,,163880,,77796,,,2
+H2,2009,2009,2009,4,0,1,Import,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1239567,,,,1239567,,2403181,,,2
+H2,2009,2009,2009,4,0,1,Import,204,Benin,BEN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,192538,,,,192538,,123463,,,2
+H2,2009,2009,2009,4,0,2,Export,204,Benin,BEN,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2565586,,,,2565586,,917575,,,2
+H2,2009,2009,2009,4,0,1,Import,204,Benin,BEN,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,895,,,,895,,5506,,,2
+H2,2009,2009,2009,4,0,1,Import,204,Benin,BEN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,176693,,,,176693,,131897,,,2
+H2,2009,2009,2009,4,0,1,Import,204,Benin,BEN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3909307,,,,3909307,,1899956,,,2
+H2,2009,2009,2009,4,0,1,Import,204,Benin,BEN,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,52689,,,,52689,,34627,,,2
+H2,2009,2009,2009,4,0,1,Import,204,Benin,BEN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11646,,,,11646,,14053,,,2
+H1,2005,2005,2005,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4825021,,,,4825021,,2869102,,,2
+H1,2005,2005,2005,4,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,313244,,,,313244,,159150,,,2
+H1,2005,2005,2005,4,0,3,Re-Export,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,313244,,,,313244,,159150,,,2
+H1,2005,2005,2005,4,0,1,Import,204,Benin,BEN,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11221,,,,11221,,8399,,,2
+H1,2005,2005,2005,4,0,1,Import,204,Benin,BEN,76,Brazil,BRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,34684,,,,34684,,19149,,,2
+H1,2005,2005,2005,4,0,1,Import,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,698675,,,,698675,,1096672,,,2
+H1,2005,2005,2005,4,0,1,Import,204,Benin,BEN,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,96,,,,96,,728,,,2
+H1,2005,2005,2005,4,0,1,Import,204,Benin,BEN,288,Ghana,GHA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2000,,,,2000,,1319,,,2
+H1,2005,2005,2005,4,0,1,Import,204,Benin,BEN,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,228704,,,,228704,,61702,,,2
+H1,2005,2005,2005,4,0,1,Import,204,Benin,BEN,422,Lebanon,LBN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2363,,,,2363,,5472,,,2
+H1,2005,2005,2005,4,0,2,Export,204,Benin,BEN,566,Nigeria,NGA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7152,,,,7152,,18055,,,2
+H1,2005,2005,2005,4,0,3,Re-Export,204,Benin,BEN,566,Nigeria,NGA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7152,,,,7152,,18055,,,2
+H1,2005,2005,2005,4,0,1,Import,204,Benin,BEN,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,239849,,,,239849,,233678,,,2
+H1,2005,2005,2005,4,0,1,Import,204,Benin,BEN,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3324399,,,,3324399,,1310017,,,2
+H1,2005,2005,2005,4,0,2,Export,204,Benin,BEN,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,201940,,,,201940,,76021,,,2
+H1,2005,2005,2005,4,0,3,Re-Export,204,Benin,BEN,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,201940,,,,201940,,76021,,,2
+H1,2005,2005,2005,4,0,1,Import,204,Benin,BEN,768,Togo,TGO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,283020,,,,283020,,131896,,,2
+H1,2005,2005,2005,4,0,2,Export,204,Benin,BEN,768,Togo,TGO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,104152,,,,104152,,65075,,,2
+H1,2005,2005,2005,4,0,3,Re-Export,204,Benin,BEN,768,Togo,TGO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,104152,,,,104152,,65075,,,2
+H1,2005,2005,2005,4,0,1,Import,204,Benin,BEN,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10,,,,10,,69,,,2
+H3,2013,2013,2013,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3643100,,,,3643100,,2240824,,,2
+H3,2013,2013,2013,4,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,40800,,,,40800,,222111,,,2
+H3,2013,2013,2013,4,0,3,Re-Export,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,27730,,,,27730,,204877,,,2
+H3,2013,2013,2013,4,0,1,Import,204,Benin,BEN,8,Albania,ALB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,17,,,,17,,12,,,2
+H3,2013,2013,2013,4,0,1,Import,204,Benin,BEN,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,14200,,,,14200,,2710,,,2
+H3,2013,2013,2013,4,0,1,Import,204,Benin,BEN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,42101,,,,42101,,34593,,,2
+H3,2013,2013,2013,4,0,1,Import,204,Benin,BEN,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,14716,,,,14716,,9683,,,2
+H3,2013,2013,2013,4,0,1,Import,204,Benin,BEN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3500,,,,3500,,1808,,,2
+H3,2013,2013,2013,4,0,1,Import,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,900382,,,,900382,,1383544,,,2
+H3,2013,2013,2013,4,0,2,Export,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,25367,,,,25367,,197404,,,2
+H3,2013,2013,2013,4,0,3,Re-Export,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,25367,,,,25367,,197404,,,2
+H3,2013,2013,2013,4,0,2,Export,204,Benin,BEN,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12620,,,,12620,,14705,,,2
+H3,2013,2013,2013,4,0,1,Import,204,Benin,BEN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7299,,,,7299,,41388,,,2
+H3,2013,2013,2013,4,0,1,Import,204,Benin,BEN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,35956,,,,35956,,22645,,,2
+H3,2013,2013,2013,4,0,2,Export,204,Benin,BEN,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,450,,,,450,,2530,,,2
+H3,2013,2013,2013,4,0,1,Import,204,Benin,BEN,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,24140,,,,24140,,7485,,,2
+H3,2013,2013,2013,4,0,2,Export,204,Benin,BEN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2363,,,,2363,,7473,,,2
+H3,2013,2013,2013,4,0,3,Re-Export,204,Benin,BEN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2363,,,,2363,,7473,,,2
+H3,2013,2013,2013,4,0,1,Import,204,Benin,BEN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,945,,,,945,,1752,,,2
+H3,2013,2013,2013,4,0,1,Import,204,Benin,BEN,690,Seychelles,SYC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,20250,,,,20250,,22917,,,2
+H3,2013,2013,2013,4,0,1,Import,204,Benin,BEN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,57360,,,,57360,,34591,,,2
+H3,2013,2013,2013,4,0,1,Import,204,Benin,BEN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,951659,,,,951659,,389318,,,2
+H3,2013,2013,2013,4,0,1,Import,204,Benin,BEN,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,268804,,,,268804,,82213,,,2
+H3,2013,2013,2013,4,0,1,Import,204,Benin,BEN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1253961,,,,1253961,,191709,,,2
+H3,2013,2013,2013,4,0,1,Import,204,Benin,BEN,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,47810,,,,47810,,14456,,,2
+H3,2014,2014,2014,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3280248,,,,3280248,,1660574,,,2
+H3,2014,2014,2014,4,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2640,,,,2640,,3066,,,2
+H3,2014,2014,2014,4,0,1,Import,204,Benin,BEN,4,Afghanistan,AFG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,91,,,,91,,579,,,2
+H3,2014,2014,2014,4,0,1,Import,204,Benin,BEN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1688,,,,1688,,1329,,,2
+H3,2014,2014,2014,4,0,1,Import,204,Benin,BEN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,120268,,,,120268,,28775,,,2
+H3,2014,2014,2014,4,0,1,Import,204,Benin,BEN,226,Equatorial Guinea,GNQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,14850,,,,14850,,3459,,,2
+H3,2014,2014,2014,4,0,1,Import,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,813347,,,,813347,,959299,,,2
+H3,2014,2014,2014,4,0,1,Import,204,Benin,BEN,262,Djibouti,DJI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,311,,,,311,,251,,,2
+H3,2014,2014,2014,4,0,2,Export,204,Benin,BEN,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2640,,,,2640,,3066,,,2
+H3,2014,2014,2014,4,0,1,Import,204,Benin,BEN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,38290,,,,38290,,23940,,,2
+H3,2014,2014,2014,4,0,1,Import,204,Benin,BEN,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,41178,,,,41178,,22136,,,2
+H3,2014,2014,2014,4,0,1,Import,204,Benin,BEN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6,,,,6,,8,,,2
+H3,2014,2014,2014,4,0,1,Import,204,Benin,BEN,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,75,,,,75,,169,,,2
+H3,2014,2014,2014,4,0,1,Import,204,Benin,BEN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3892,,,,3892,,5284,,,2
+H3,2014,2014,2014,4,0,1,Import,204,Benin,BEN,690,Seychelles,SYC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,20000,,,,20000,,18711,,,2
+H3,2014,2014,2014,4,0,1,Import,204,Benin,BEN,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10458,,,,10458,,23418,,,2
+H3,2014,2014,2014,4,0,1,Import,204,Benin,BEN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,21612,,,,21612,,22049,,,2
+H3,2014,2014,2014,4,0,1,Import,204,Benin,BEN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1214379,,,,1214379,,343494,,,2
+H3,2014,2014,2014,4,0,1,Import,204,Benin,BEN,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,410615,,,,410615,,150735,,,2
+H3,2014,2014,2014,4,0,1,Import,204,Benin,BEN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,234062,,,,234062,,33863,,,2
+H3,2014,2014,2014,4,0,1,Import,204,Benin,BEN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,335126,,,,335126,,23075,,,2
+H2,2010,2010,2010,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8400697,,,,8400697,,5636755,,,2
+H2,2010,2010,2010,4,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21734,,,,21734,,129510,,,2
+H2,2010,2010,2010,4,0,3,Re-Export,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21734,,,,21734,,129510,,,2
+H2,2010,2010,2010,4,0,1,Import,204,Benin,BEN,4,Afghanistan,AFG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27,,,,27,,619,,,2
+H2,2010,2010,2010,4,0,1,Import,204,Benin,BEN,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18144,,,,18144,,21468,,,2
+H2,2010,2010,2010,4,0,1,Import,204,Benin,BEN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,26575,,,,26575,,25950,,,2
+H2,2010,2010,2010,4,0,1,Import,204,Benin,BEN,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,42520,,,,42520,,32164,,,2
+H2,2010,2010,2010,4,0,1,Import,204,Benin,BEN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,134631,,,,134631,,64473,,,2
+H2,2010,2010,2010,4,0,1,Import,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1354143,,,,1354143,,2369342,,,2
+H2,2010,2010,2010,4,0,2,Export,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11865,,,,11865,,62909,,,2
+H2,2010,2010,2010,4,0,3,Re-Export,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11865,,,,11865,,62909,,,2
+H2,2010,2010,2010,4,0,1,Import,204,Benin,BEN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4225,,,,4225,,2388,,,2
+H2,2010,2010,2010,4,0,1,Import,204,Benin,BEN,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,106350,,,,106350,,40442,,,2
+H2,2010,2010,2010,4,0,1,Import,204,Benin,BEN,360,Indonesia,IDN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,200,,,,200,,191,,,2
+H2,2010,2010,2010,4,0,1,Import,204,Benin,BEN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,60465,,,,60465,,72614,,,2
+H2,2010,2010,2010,4,0,1,Import,204,Benin,BEN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6706,,,,6706,,49166,,,2
+H2,2010,2010,2010,4,0,2,Export,204,Benin,BEN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9869,,,,9869,,66600,,,2
+H2,2010,2010,2010,4,0,3,Re-Export,204,Benin,BEN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9869,,,,9869,,66600,,,2
+H2,2010,2010,2010,4,0,1,Import,204,Benin,BEN,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,820,,,,820,,2837,,,2
+H2,2010,2010,2010,4,0,1,Import,204,Benin,BEN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,71572,,,,71572,,34110,,,2
+H2,2010,2010,2010,4,0,1,Import,204,Benin,BEN,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10960,,,,10960,,9199,,,2
+H2,2010,2010,2010,4,0,1,Import,204,Benin,BEN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,162953,,,,162953,,143738,,,2
+H2,2010,2010,2010,4,0,1,Import,204,Benin,BEN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5913904,,,,5913904,,2584227,,,2
+H2,2010,2010,2010,4,0,1,Import,204,Benin,BEN,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9220,,,,9220,,3949,,,2
+H2,2010,2010,2010,4,0,1,Import,204,Benin,BEN,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,288360,,,,288360,,75943,,,2
+H2,2010,2010,2010,4,0,1,Import,204,Benin,BEN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,145408,,,,145408,,83593,,,2
+H2,2010,2010,2010,4,0,1,Import,204,Benin,BEN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,43514,,,,43514,,20343,,,2
+H2,2011,2011,2011,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11932020,,,,11932020,,6226412,,,2
+H2,2011,2011,2011,4,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,66754,,,,66754,,535879,,,2
+H2,2011,2011,2011,4,0,3,Re-Export,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,66754,,,,66754,,535879,,,2
+H2,2011,2011,2011,4,0,1,Import,204,Benin,BEN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2284,,,,2284,,3278,,,2
+H2,2011,2011,2011,4,0,1,Import,204,Benin,BEN,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,29531,,,,29531,,26332,,,2
+H2,2011,2011,2011,4,0,1,Import,204,Benin,BEN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,298294,,,,298294,,75047,,,2
+H2,2011,2011,2011,4,0,1,Import,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1675417,,,,1675417,,2824303,,,2
+H2,2011,2011,2011,4,0,2,Export,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,44232,,,,44232,,342170,,,2
+H2,2011,2011,2011,4,0,3,Re-Export,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,44232,,,,44232,,342170,,,2
+H2,2011,2011,2011,4,0,2,Export,204,Benin,BEN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,225,,,,225,,720,,,2
+H2,2011,2011,2011,4,0,3,Re-Export,204,Benin,BEN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,225,,,,225,,720,,,2
+H2,2011,2011,2011,4,0,1,Import,204,Benin,BEN,288,Ghana,GHA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,248000,,,,248000,,38159,,,2
+H2,2011,2011,2011,4,0,1,Import,204,Benin,BEN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,90687,,,,90687,,82001,,,2
+H2,2011,2011,2011,4,0,2,Export,204,Benin,BEN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15334,,,,15334,,127937,,,2
+H2,2011,2011,2011,4,0,3,Re-Export,204,Benin,BEN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15334,,,,15334,,127937,,,2
+H2,2011,2011,2011,4,0,1,Import,204,Benin,BEN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,50303,,,,50303,,51509,,,2
+H2,2011,2011,2011,4,0,1,Import,204,Benin,BEN,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,38000,,,,38000,,6360,,,2
+H2,2011,2011,2011,4,0,1,Import,204,Benin,BEN,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17953,,,,17953,,26448,,,2
+H2,2011,2011,2011,4,0,1,Import,204,Benin,BEN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,53526,,,,53526,,48025,,,2
+H2,2011,2011,2011,4,0,1,Import,204,Benin,BEN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6654875,,,,6654875,,2450712,,,2
+H2,2011,2011,2011,4,0,1,Import,204,Benin,BEN,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2593744,,,,2593744,,567790,,,2
+H2,2011,2011,2011,4,0,2,Export,204,Benin,BEN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6963,,,,6963,,65052,,,2
+H2,2011,2011,2011,4,0,3,Re-Export,204,Benin,BEN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6963,,,,6963,,65052,,,2
+H2,2011,2011,2011,4,0,1,Import,204,Benin,BEN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,41,,,,41,,170,,,2
+H2,2011,2011,2011,4,0,1,Import,204,Benin,BEN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,179365,,,,179365,,26280,,,2
+H2,2012,2012,2012,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6186073,,,,6186073,,3707858,,,2
+H2,2012,2012,2012,4,0,1,Import,204,Benin,BEN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18253,,,,18253,,36065,,,2
+H2,2012,2012,2012,4,0,1,Import,204,Benin,BEN,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,28926,,,,28926,,25046,,,2
+H2,2012,2012,2012,4,0,1,Import,204,Benin,BEN,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45,,,,45,,294,,,2
+H2,2012,2012,2012,4,0,1,Import,204,Benin,BEN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,139753,,,,139753,,35291,,,2
+H2,2012,2012,2012,4,0,1,Import,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,985035,,,,985035,,1414873,,,2
+H2,2012,2012,2012,4,0,1,Import,204,Benin,BEN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14967,,,,14967,,71250,,,2
+H2,2012,2012,2012,4,0,1,Import,204,Benin,BEN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14646,,,,14646,,26219,,,2
+H2,2012,2012,2012,4,0,1,Import,204,Benin,BEN,450,Madagascar,MDG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19942,,,,19942,,7182,,,2
+H2,2012,2012,2012,4,0,1,Import,204,Benin,BEN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6728,,,,6728,,54071,,,2
+H2,2012,2012,2012,4,0,1,Import,204,Benin,BEN,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,500,,,,500,,994,,,2
+H2,2012,2012,2012,4,0,1,Import,204,Benin,BEN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,48168,,,,48168,,28316,,,2
+H2,2012,2012,2012,4,0,1,Import,204,Benin,BEN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,84744,,,,84744,,59793,,,2
+H2,2012,2012,2012,4,0,1,Import,204,Benin,BEN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4326215,,,,4326215,,1794169,,,2
+H2,2012,2012,2012,4,0,1,Import,204,Benin,BEN,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,462418,,,,462418,,142722,,,2
+H2,2012,2012,2012,4,0,1,Import,204,Benin,BEN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,35733,,,,35733,,11572,,,2
+H5,2019,2019,2019,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2307105,,,,2316220,,2232212,,,6
+H5,2019,2019,2019,4,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15287,,,,15287,,31436,,,2
+H5,2019,2019,2019,4,0,1,Import,204,Benin,BEN,24,Angola,AGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4,,,,4,,58,,,2
+H5,2019,2019,2019,4,0,1,Import,204,Benin,BEN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2651,,,,2651,,9127,,,2
+H5,2019,2019,2019,4,0,1,Import,204,Benin,BEN,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,133096,,,,133096,,94721,,,2
+H5,2019,2019,2019,4,0,1,Import,204,Benin,BEN,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18750,,,,18750,,18376,,,2
+H5,2019,2019,2019,4,0,1,Import,204,Benin,BEN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15376,,,,15543,,6308,,,2
+H5,2019,2019,2019,4,0,2,Export,204,Benin,BEN,178,Congo,COG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,287,,,,287,,220,,,2
+H5,2019,2019,2019,4,0,1,Import,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1106895,,,,1115844,,1569779,,,2
+H5,2019,2019,2019,4,0,1,Import,204,Benin,BEN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,850,,,,850,,787,,,2
+H5,2019,2019,2019,4,0,1,Import,204,Benin,BEN,288,Ghana,GHA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7374,,,,7374,,1762,,,2
+H5,2019,2019,2019,4,0,1,Import,204,Benin,BEN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,50922,,,,50922,,40798,,,2
+H5,2019,2019,2019,4,0,2,Export,204,Benin,BEN,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15000,,,,15000,,31216,,,2
+H5,2019,2019,2019,4,0,1,Import,204,Benin,BEN,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8934,,,,8934,,19792,,,2
+H5,2019,2019,2019,4,0,1,Import,204,Benin,BEN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4331,,,,4331,,2833,,,2
+H5,2019,2019,2019,4,0,1,Import,204,Benin,BEN,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,180,,,,180,,114,,,2
+H5,2019,2019,2019,4,0,1,Import,204,Benin,BEN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,57934,,,,57934,,43250,,,2
+H5,2019,2019,2019,4,0,1,Import,204,Benin,BEN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5400,,,,5400,,3647,,,2
+H5,2019,2019,2019,4,0,1,Import,204,Benin,BEN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,445876,,,,445876,,256473,,,6
+H5,2019,2019,2019,4,0,1,Import,204,Benin,BEN,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,448176,,,,448176,,161941,,,2
+H5,2019,2019,2019,4,0,1,Import,204,Benin,BEN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,200,,,,200,,549,,,2
+H5,2019,2019,2019,4,0,1,Import,204,Benin,BEN,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,155,,,,155,,1889,,,2
+H4,2015,2015,2015,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4442617,,,,4442617,,1938617,,,2
+H4,2015,2015,2015,4,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22151,,,,22151,,137087,,,2
+H4,2015,2015,2015,4,0,3,Re-Export,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22151,,,,22151,,137087,,,2
+H4,2015,2015,2015,4,0,1,Import,204,Benin,BEN,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,37173,,,,37173,,12961,,,2
+H4,2015,2015,2015,4,0,1,Import,204,Benin,BEN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,46957,,,,46957,,38218,,,2
+H4,2015,2015,2015,4,0,1,Import,204,Benin,BEN,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16640,,,,16640,,4849,,,2
+H4,2015,2015,2015,4,0,1,Import,204,Benin,BEN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,301122,,,,301122,,62644,,,2
+H4,2015,2015,2015,4,0,1,Import,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1078350,,,,1078350,,1000149,,,2
+H4,2015,2015,2015,4,0,2,Export,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22151,,,,22151,,137087,,,2
+H4,2015,2015,2015,4,0,3,Re-Export,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22151,,,,22151,,137087,,,2
+H4,2015,2015,2015,4,0,1,Import,204,Benin,BEN,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15257,,,,15257,,6448,,,2
+H4,2015,2015,2015,4,0,1,Import,204,Benin,BEN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,32412,,,,32412,,21104,,,2
+H4,2015,2015,2015,4,0,1,Import,204,Benin,BEN,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,48654,,,,48654,,27250,,,2
+H4,2015,2015,2015,4,0,1,Import,204,Benin,BEN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,62570,,,,62570,,17973,,,2
+H4,2015,2015,2015,4,0,1,Import,204,Benin,BEN,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,875,,,,875,,1885,,,2
+H4,2015,2015,2015,4,0,1,Import,204,Benin,BEN,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10950,,,,10950,,8125,,,2
+H4,2015,2015,2015,4,0,1,Import,204,Benin,BEN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90087,,,,90087,,43533,,,2
+H4,2015,2015,2015,4,0,1,Import,204,Benin,BEN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2513095,,,,2513095,,624530,,,2
+H4,2015,2015,2015,4,0,1,Import,204,Benin,BEN,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,120669,,,,120669,,44991,,,2
+H4,2015,2015,2015,4,0,1,Import,204,Benin,BEN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,42544,,,,42544,,11749,,,2
+H4,2015,2015,2015,4,0,1,Import,204,Benin,BEN,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25262,,,,25262,,12198,,,2
+H4,2016,2016,2016,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3416115,,,,3416184,,1606471,,,6
+H4,2016,2016,2016,4,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15737,,,,15737,,126842,,,2
+H4,2016,2016,2016,4,0,3,Re-Export,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15207,,,,15207,,124020,,,2
+H4,2016,2016,2016,4,0,1,Import,204,Benin,BEN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,26427,,,,26427,,10447,,,2
+H4,2016,2016,2016,4,0,1,Import,204,Benin,BEN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,399194,,,,399194,,67531,,,2
+H4,2016,2016,2016,4,0,1,Import,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1334921,,,,1334921,,1017805,,,2
+H4,2016,2016,2016,4,0,2,Export,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15207,,,,15207,,124020,,,2
+H4,2016,2016,2016,4,0,3,Re-Export,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15207,,,,15207,,124020,,,2
+H4,2016,2016,2016,4,0,1,Import,204,Benin,BEN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1259,,,,1259,,3911,,,2
+H4,2016,2016,2016,4,0,1,Import,204,Benin,BEN,288,Ghana,GHA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,64,,,,64,,110,,,2
+H4,2016,2016,2016,4,0,1,Import,204,Benin,BEN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,117052,,,,117052,,41839,,,2
+H4,2016,2016,2016,4,0,1,Import,204,Benin,BEN,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,71310,,,,71310,,14592,,,2
+H4,2016,2016,2016,4,0,1,Import,204,Benin,BEN,498,Rep. of Moldova,MDA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8400,,,,8400,,6551,,,2
+H4,2016,2016,2016,4,0,1,Import,204,Benin,BEN,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7300,,,,7300,,781,,,2
+H4,2016,2016,2016,4,0,1,Import,204,Benin,BEN,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12310,,,,12310,,5061,,,2
+H4,2016,2016,2016,4,0,1,Import,204,Benin,BEN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,82542,,,,82542,,50822,,,2
+H4,2016,2016,2016,4,0,2,Export,204,Benin,BEN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,530,,,,530,,2821,,,2
+H4,2016,2016,2016,4,0,1,Import,204,Benin,BEN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,923553,,,,923553,,273022,,,2
+H4,2016,2016,2016,4,0,1,Import,204,Benin,BEN,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,32505,,,,32505,,14356,,,2
+H4,2016,2016,2016,4,0,1,Import,204,Benin,BEN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,376814,,,,376814,,87031,,,2
+H4,2016,2016,2016,4,0,1,Import,204,Benin,BEN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22464,,,,22533,,12606,,,6
+H4,2017,2017,2017,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2940125,,,,2940125,,1700606,,,2
+H4,2017,2017,2017,4,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9957,,,,9957,,62089,,,2
+H4,2017,2017,2017,4,0,3,Re-Export,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6983,,,,6983,,43875,,,2
+H4,2017,2017,2017,4,0,1,Import,204,Benin,BEN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24258,,,,24258,,16235,,,2
+H4,2017,2017,2017,4,0,1,Import,204,Benin,BEN,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,52,,,,52,,147,,,2
+H4,2017,2017,2017,4,0,1,Import,204,Benin,BEN,178,Congo,COG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1170,,,,1170,,272,,,2
+H4,2017,2017,2017,4,0,1,Import,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1158904,,,,1158904,,1158860,,,2
+H4,2017,2017,2017,4,0,2,Export,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6983,,,,6983,,43875,,,2
+H4,2017,2017,2017,4,0,3,Re-Export,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6983,,,,6983,,43875,,,2
+H4,2017,2017,2017,4,0,2,Export,204,Benin,BEN,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,46,,,,46,,688,,,2
+H4,2017,2017,2017,4,0,1,Import,204,Benin,BEN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2812,,,,2812,,988,,,2
+H4,2017,2017,2017,4,0,2,Export,204,Benin,BEN,364,Iran,IRN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,177,,,,177,,172,,,2
+H4,2017,2017,2017,4,0,1,Import,204,Benin,BEN,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25941,,,,25941,,6467,,,2
+H4,2017,2017,2017,4,0,1,Import,204,Benin,BEN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,53665,,,,53665,,48873,,,2
+H4,2017,2017,2017,4,0,2,Export,204,Benin,BEN,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2751,,,,2751,,17353,,,2
+H4,2017,2017,2017,4,0,1,Import,204,Benin,BEN,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,180,,,,180,,27,,,2
+H4,2017,2017,2017,4,0,1,Import,204,Benin,BEN,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,136754,,,,136754,,35743,,,2
+H4,2017,2017,2017,4,0,1,Import,204,Benin,BEN,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,70,,,,70,,1009,,,2
+H4,2017,2017,2017,4,0,1,Import,204,Benin,BEN,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18750,,,,18750,,6707,,,2
+H4,2017,2017,2017,4,0,1,Import,204,Benin,BEN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,47617,,,,47617,,14174,,,2
+H4,2017,2017,2017,4,0,1,Import,204,Benin,BEN,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,83,,,,83,,103,,,2
+H4,2017,2017,2017,4,0,1,Import,204,Benin,BEN,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16412,,,,16412,,11468,,,2
+H4,2017,2017,2017,4,0,1,Import,204,Benin,BEN,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,341,,,,341,,2485,,,2
+H4,2017,2017,2017,4,0,1,Import,204,Benin,BEN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,37903,,,,37903,,18004,,,2
+H4,2017,2017,2017,4,0,1,Import,204,Benin,BEN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,812243,,,,812243,,313502,,,2
+H4,2017,2017,2017,4,0,1,Import,204,Benin,BEN,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1500,,,,1500,,222,,,2
+H4,2017,2017,2017,4,0,1,Import,204,Benin,BEN,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,37,,,,37,,280,,,2
+H4,2017,2017,2017,4,0,1,Import,204,Benin,BEN,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,597954,,,,597954,,57398,,,2
+H4,2017,2017,2017,4,0,1,Import,204,Benin,BEN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3479,,,,3479,,7633,,,2
+H4,2018,2018,2018,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1561308,,,,1561581,,1537464,,,6
+H4,2018,2018,2018,4,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8997,,,,8997,,71397,,,2
+H4,2018,2018,2018,4,0,3,Re-Export,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8997,,,,8997,,71397,,,2
+H4,2018,2018,2018,4,0,1,Import,204,Benin,BEN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,23975,,,,23975,,40412,,,2
+H4,2018,2018,2018,4,0,1,Import,204,Benin,BEN,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22140,,,,22140,,19824,,,2
+H4,2018,2018,2018,4,0,1,Import,204,Benin,BEN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15099,,,,15099,,10595,,,2
+H4,2018,2018,2018,4,0,1,Import,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,936395,,,,936395,,1176261,,,2
+H4,2018,2018,2018,4,0,2,Export,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8997,,,,8997,,71397,,,2
+H4,2018,2018,2018,4,0,3,Re-Export,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8997,,,,8997,,71397,,,2
+H4,2018,2018,2018,4,0,1,Import,204,Benin,BEN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,31105,,,,31105,,11278,,,2
+H4,2018,2018,2018,4,0,1,Import,204,Benin,BEN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,650,,,,650,,2090,,,2
+H4,2018,2018,2018,4,0,1,Import,204,Benin,BEN,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,1,,17,,,2
+H4,2018,2018,2018,4,0,1,Import,204,Benin,BEN,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,38125,,,,38125,,23566,,,2
+H4,2018,2018,2018,4,0,1,Import,204,Benin,BEN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6,,,,6,,48,,,2
+H4,2018,2018,2018,4,0,1,Import,204,Benin,BEN,646,Rwanda,RWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,276,,,,276,,500,,,2
+H4,2018,2018,2018,4,0,1,Import,204,Benin,BEN,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,43560,,,,43560,,20416,,,2
+H4,2018,2018,2018,4,0,1,Import,204,Benin,BEN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19553,,,,19553,,10333,,,2
+H4,2018,2018,2018,4,0,1,Import,204,Benin,BEN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,292809,,,,292809,,153340,,,2
+H4,2018,2018,2018,4,0,1,Import,204,Benin,BEN,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,272,,,,272,,2902,,,2
+H4,2018,2018,2018,4,0,1,Import,204,Benin,BEN,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,137342,,,,137615,,65875,,,6
+H5,2020,2020,2020,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1955993,,,,1956307,,2444673,,,2
+H5,2020,2020,2020,4,0,1,Import,204,Benin,BEN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36632,,,,36632,,16576,,,2
+H5,2020,2020,2020,4,0,1,Import,204,Benin,BEN,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,197791,,,,197791,,113980,,,2
+H5,2020,2020,2020,4,0,1,Import,204,Benin,BEN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,457,,,,596,,706,,,2
+H5,2020,2020,2020,4,0,1,Import,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1027694,,,,1027708,,1896500,,,2
+H5,2020,2020,2020,4,0,1,Import,204,Benin,BEN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25,,,,25,,104,,,2
+H5,2020,2020,2020,4,0,1,Import,204,Benin,BEN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3348,,,,3407,,17526,,,2
+H5,2020,2020,2020,4,0,1,Import,204,Benin,BEN,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,484,,,,484,,180,,,2
+H5,2020,2020,2020,4,0,1,Import,204,Benin,BEN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,514,,,,514,,627,,,2
+H5,2020,2020,2020,4,0,1,Import,204,Benin,BEN,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7830,,,,7830,,1805,,,2
+H5,2020,2020,2020,4,0,1,Import,204,Benin,BEN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,42790,,,,42894,,18091,,,2
+H5,2020,2020,2020,4,0,1,Import,204,Benin,BEN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,169060,,,,169060,,116565,,,2
+H5,2020,2020,2020,4,0,1,Import,204,Benin,BEN,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,469047,,,,469047,,261361,,,2
+H5,2020,2020,2020,4,0,1,Import,204,Benin,BEN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,171,,,,171,,337,,,2
+H5,2020,2020,2020,4,0,1,Import,204,Benin,BEN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,148,,,,148,,310,,,2
+H5,2021,2021,2021,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2527672,,,,2546143,,2762335,,,6
+H5,2021,2021,2021,4,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,485,,,,485,,393,,,2
+H5,2021,2021,2021,4,0,1,Import,204,Benin,BEN,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2732,,,,2732,,5867,,,2
+H5,2021,2021,2021,4,0,1,Import,204,Benin,BEN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,31998,,,,32102,,27650,,,2
+H5,2021,2021,2021,4,0,1,Import,204,Benin,BEN,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,218540,,,,218540,,94573,,,2
+H5,2021,2021,2021,4,0,1,Import,204,Benin,BEN,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8,,,,8,,16,,,2
+H5,2021,2021,2021,4,0,1,Import,204,Benin,BEN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,21964,,,,21967,,9101,,,6
+H5,2021,2021,2021,4,0,2,Export,204,Benin,BEN,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,485,,,,485,,393,,,2
+H5,2021,2021,2021,4,0,1,Import,204,Benin,BEN,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,152,,,,152,,489,,,2
+H5,2021,2021,2021,4,0,1,Import,204,Benin,BEN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1420921,,,,1429734,,2125215,,,2
+H5,2021,2021,2021,4,0,1,Import,204,Benin,BEN,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4824,,,,4824,,24021,,,2
+H5,2021,2021,2021,4,0,1,Import,204,Benin,BEN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,41290,,,,50843,,33813,,,2
+H5,2021,2021,2021,4,0,1,Import,204,Benin,BEN,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,628,,,,628,,157,,,2
+H5,2021,2021,2021,4,0,1,Import,204,Benin,BEN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,28461,,,,28461,,19476,,,2
+H5,2021,2021,2021,4,0,1,Import,204,Benin,BEN,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,26458,,,,26458,,5938,,,2
+H5,2021,2021,2021,4,0,1,Import,204,Benin,BEN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24206,,,,24206,,9905,,,2
+H5,2021,2021,2021,4,0,1,Import,204,Benin,BEN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,71365,,,,71365,,82104,,,2
+H5,2021,2021,2021,4,0,1,Import,204,Benin,BEN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,454811,,,,454811,,255781,,,2
+H5,2021,2021,2021,4,0,1,Import,204,Benin,BEN,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,165081,,,,165081,,62105,,,2
+H5,2021,2021,2021,4,0,1,Import,204,Benin,BEN,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3569,,,,3569,,1526,,,2
+H5,2021,2021,2021,4,0,1,Import,204,Benin,BEN,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7717,,,,7717,,3882,,,2
+H5,2021,2021,2021,4,0,1,Import,204,Benin,BEN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1900,,,,1900,,452,,,2
+H5,2021,2021,2021,4,0,1,Import,204,Benin,BEN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1045,,,,1045,,254,,,2

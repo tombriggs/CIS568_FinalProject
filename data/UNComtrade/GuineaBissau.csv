@@ -1,0 +1,18 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2003,2003,2003,4,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3332946,,,,3332946,,1311486,,,2
+H1,2003,2003,2003,4,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,148850,,,,148850,,31103,,,2
+H1,2003,2003,2003,4,0,1,Import,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,360,,,,360,,263,,,2
+H1,2003,2003,2003,4,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,26880,,,,26880,,8640,,,2
+H1,2003,2003,2003,4,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3122292,,,,3122292,,1261684,,,2
+H1,2003,2003,2003,4,0,1,Import,624,Guinea-Bissau,GNB,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,34564,,,,34564,,9796,,,2
+H1,2004,2004,2004,4,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2947349,,,,2947349,,1471557,,,2
+H1,2004,2004,2004,4,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5658,,,,5658,,3176,,,2
+H1,2004,2004,2004,4,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1490,,,,1490,,3405,,,2
+H1,2004,2004,2004,4,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2912428,,,,2912428,,1455062,,,2
+H1,2004,2004,2004,4,0,2,Export,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5658,,,,5658,,3176,,,2
+H1,2004,2004,2004,4,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,480,,,,480,,228,,,2
+H1,2004,2004,2004,4,0,1,Import,624,Guinea-Bissau,GNB,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,32951,,,,32951,,12863,,,2
+H1,2005,2005,2005,4,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3369046,,,,3369046,,1575952,,,2
+H1,2005,2005,2005,4,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4970,,,,4970,,9945,,,2
+H1,2005,2005,2005,4,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3341492,,,,3341492,,1550744,,,2
+H1,2005,2005,2005,4,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,22584,,,,22584,,15263,,,2

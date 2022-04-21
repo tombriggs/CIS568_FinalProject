@@ -1,0 +1,150 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2002,2002,2002,4,0,1,Import,175,Mayotte,MYT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1131131,,,,1131131,,1162767,,,2
+H2,2002,2002,2002,4,0,1,Import,175,Mayotte,MYT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,90,,,,90,,480,,,2
+H2,2002,2002,2002,4,0,1,Import,175,Mayotte,MYT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,264200,,,,264200,,627551,,,2
+H2,2002,2002,2002,4,0,1,Import,175,Mayotte,MYT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,102,,,,102,,411,,,2
+H2,2002,2002,2002,4,0,1,Import,175,Mayotte,MYT,450,Madagascar,MDG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,123,,,,123,,200,,,2
+H2,2002,2002,2002,4,0,1,Import,175,Mayotte,MYT,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,187,,,,187,,452,,,2
+H2,2002,2002,2002,4,0,1,Import,175,Mayotte,MYT,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,65,,,,65,,902,,,2
+H2,2002,2002,2002,4,0,1,Import,175,Mayotte,MYT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,421,,,,421,,1472,,,2
+H2,2002,2002,2002,4,0,1,Import,175,Mayotte,MYT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,56274,,,,56274,,25456,,,2
+H2,2002,2002,2002,4,0,1,Import,175,Mayotte,MYT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,809408,,,,809408,,504748,,,2
+H2,2002,2002,2002,4,0,1,Import,175,Mayotte,MYT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,261,,,,261,,1094,,,2
+H2,2003,2003,2003,4,0,1,Import,175,Mayotte,MYT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,935212,,,,935212,,1331939,,,2
+H2,2003,2003,2003,4,0,2,Export,175,Mayotte,MYT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,89,,,,89,,744,,,2
+H2,2003,2003,2003,4,0,1,Import,175,Mayotte,MYT,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,387,,,,387,,1187,,,2
+H2,2003,2003,2003,4,0,1,Import,175,Mayotte,MYT,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,205,,,,205,,471,,,2
+H2,2003,2003,2003,4,0,1,Import,175,Mayotte,MYT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,51,,,,51,,447,,,2
+H2,2003,2003,2003,4,0,2,Export,175,Mayotte,MYT,174,Comoros,COM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,89,,,,89,,744,,,2
+H2,2003,2003,2003,4,0,1,Import,175,Mayotte,MYT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,268016,,,,268016,,812221,,,2
+H2,2003,2003,2003,4,0,1,Import,175,Mayotte,MYT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,270,,,,270,,1126,,,2
+H2,2003,2003,2003,4,0,1,Import,175,Mayotte,MYT,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,890,,,,890,,1976,,,2
+H2,2003,2003,2003,4,0,1,Import,175,Mayotte,MYT,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2230,,,,2230,,3628,,,2
+H2,2003,2003,2003,4,0,1,Import,175,Mayotte,MYT,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1855,,,,1855,,3669,,,2
+H2,2003,2003,2003,4,0,1,Import,175,Mayotte,MYT,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,258,,,,258,,842,,,2
+H2,2003,2003,2003,4,0,1,Import,175,Mayotte,MYT,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1010,,,,1010,,3110,,,2
+H2,2003,2003,2003,4,0,1,Import,175,Mayotte,MYT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,237,,,,237,,1284,,,2
+H2,2003,2003,2003,4,0,1,Import,175,Mayotte,MYT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20362,,,,20362,,35712,,,2
+H2,2003,2003,2003,4,0,1,Import,175,Mayotte,MYT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,635758,,,,635758,,455871,,,2
+H2,2003,2003,2003,4,0,1,Import,175,Mayotte,MYT,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1386,,,,1386,,3609,,,2
+H2,2003,2003,2003,4,0,1,Import,175,Mayotte,MYT,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,261,,,,261,,2319,,,2
+H2,2003,2003,2003,4,0,1,Import,175,Mayotte,MYT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2036,,,,2036,,4468,,,2
+H2,2004,2004,2004,4,0,1,Import,175,Mayotte,MYT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1087260,,,,1087260,,1439173,,,2
+H2,2004,2004,2004,4,0,1,Import,175,Mayotte,MYT,8,Albania,ALB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18,,,,18,,76,,,2
+H2,2004,2004,2004,4,0,1,Import,175,Mayotte,MYT,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,231,,,,231,,618,,,2
+H2,2004,2004,2004,4,0,1,Import,175,Mayotte,MYT,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,68,,,,68,,231,,,2
+H2,2004,2004,2004,4,0,1,Import,175,Mayotte,MYT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,498,,,,498,,1217,,,2
+H2,2004,2004,2004,4,0,1,Import,175,Mayotte,MYT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1107,,,,1107,,3405,,,2
+H2,2004,2004,2004,4,0,1,Import,175,Mayotte,MYT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,284,,,,284,,585,,,2
+H2,2004,2004,2004,4,0,1,Import,175,Mayotte,MYT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,298081,,,,298081,,812929,,,2
+H2,2004,2004,2004,4,0,1,Import,175,Mayotte,MYT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,83675,,,,83675,,51241,,,2
+H2,2004,2004,2004,4,0,1,Import,175,Mayotte,MYT,450,Madagascar,MDG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,68,,,,68,,256,,,2
+H2,2004,2004,2004,4,0,1,Import,175,Mayotte,MYT,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,268,,,,268,,917,,,2
+H2,2004,2004,2004,4,0,1,Import,175,Mayotte,MYT,600,Paraguay,PRY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,104,,,,104,,396,,,2
+H2,2004,2004,2004,4,0,1,Import,175,Mayotte,MYT,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,316,,,,316,,1146,,,2
+H2,2004,2004,2004,4,0,1,Import,175,Mayotte,MYT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,289,,,,289,,1229,,,2
+H2,2004,2004,2004,4,0,1,Import,175,Mayotte,MYT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27755,,,,27755,,34515,,,2
+H2,2004,2004,2004,4,0,1,Import,175,Mayotte,MYT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,672821,,,,672821,,526559,,,2
+H2,2004,2004,2004,4,0,1,Import,175,Mayotte,MYT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19,,,,19,,68,,,2
+H2,2004,2004,2004,4,0,1,Import,175,Mayotte,MYT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1658,,,,1658,,3788,,,2
+H1,2000,2000,2000,4,0,1,Import,175,Mayotte,MYT,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,740153,,,,740153,,807003,,,2
+H1,2000,2000,2000,4,0,2,Export,175,Mayotte,MYT,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,60,,,,60,,154,,,2
+H1,2000,2000,2000,4,0,1,Import,175,Mayotte,MYT,12,Algeria,DZA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,727,,,,727,,1432,,,2
+H1,2000,2000,2000,4,0,2,Export,175,Mayotte,MYT,174,Comoros,COM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,60,,,,60,,154,,,2
+H1,2000,2000,2000,4,0,1,Import,175,Mayotte,MYT,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,251414,,,,251414,,492217,,,2
+H1,2000,2000,2000,4,0,1,Import,175,Mayotte,MYT,450,Madagascar,MDG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,534,,,,534,,593,,,2
+H1,2000,2000,2000,4,0,1,Import,175,Mayotte,MYT,480,Mauritius,MUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,21000,,,,21000,,8662,,,2
+H1,2000,2000,2000,4,0,1,Import,175,Mayotte,MYT,504,Morocco,MAR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,481,,,,481,,653,,,2
+H1,2000,2000,2000,4,0,1,Import,175,Mayotte,MYT,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,464817,,,,464817,,300843,,,2
+H1,2000,2000,2000,4,0,1,Import,175,Mayotte,MYT,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1000,,,,1000,,2100,,,2
+H1,2000,2000,2000,4,0,1,Import,175,Mayotte,MYT,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,180,,,,180,,504,,,2
+H1,2001,2001,2001,4,0,1,Import,175,Mayotte,MYT,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,723200,,,,723200,,735406,,,2
+H1,2001,2001,2001,4,0,2,Export,175,Mayotte,MYT,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,101,,,,101,,261,,,2
+H1,2001,2001,2001,4,0,1,Import,175,Mayotte,MYT,76,Brazil,BRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,405,,,,405,,1334,,,2
+H1,2001,2001,2001,4,0,2,Export,175,Mayotte,MYT,174,Comoros,COM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,101,,,,101,,261,,,2
+H1,2001,2001,2001,4,0,1,Import,175,Mayotte,MYT,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,279427,,,,279427,,459222,,,2
+H1,2001,2001,2001,4,0,1,Import,175,Mayotte,MYT,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,180,,,,180,,593,,,2
+H1,2001,2001,2001,4,0,1,Import,175,Mayotte,MYT,450,Madagascar,MDG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,612,,,,612,,644,,,2
+H1,2001,2001,2001,4,0,1,Import,175,Mayotte,MYT,504,Morocco,MAR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,156,,,,156,,366,,,2
+H1,2001,2001,2001,4,0,1,Import,175,Mayotte,MYT,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,149,,,,149,,560,,,2
+H1,2001,2001,2001,4,0,1,Import,175,Mayotte,MYT,643,Russian Federation,RUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,844,,,,844,,15281,,,2
+H1,2001,2001,2001,4,0,1,Import,175,Mayotte,MYT,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,441362,,,,441362,,256998,,,2
+H1,2001,2001,2001,4,0,1,Import,175,Mayotte,MYT,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,65,,,,65,,408,,,2
+H3,2007,2007,2007,4,0,1,Import,175,Mayotte,MYT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,927069,,,,927069,,1485167,,,2
+H3,2007,2007,2007,4,0,1,Import,175,Mayotte,MYT,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,523,,,,523,,2484,,,2
+H3,2007,2007,2007,4,0,1,Import,175,Mayotte,MYT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,500,,,,500,,1927,,,2
+H3,2007,2007,2007,4,0,1,Import,175,Mayotte,MYT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,23,,,,23,,165,,,2
+H3,2007,2007,2007,4,0,1,Import,175,Mayotte,MYT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1008,,,,1008,,3203,,,2
+H3,2007,2007,2007,4,0,1,Import,175,Mayotte,MYT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,131,,,,131,,417,,,2
+H3,2007,2007,2007,4,0,1,Import,175,Mayotte,MYT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,292141,,,,292141,,929748,,,2
+H3,2007,2007,2007,4,0,1,Import,175,Mayotte,MYT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,882,,,,882,,1714,,,2
+H3,2007,2007,2007,4,0,1,Import,175,Mayotte,MYT,446,"China, Macao SAR",MAC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,23,,,,23,,94,,,2
+H3,2007,2007,2007,4,0,1,Import,175,Mayotte,MYT,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,759,,,,759,,2007,,,2
+H3,2007,2007,2007,4,0,1,Import,175,Mayotte,MYT,540,New Caledonia,NCL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,36,,,,36,,162,,,2
+H3,2007,2007,2007,4,0,1,Import,175,Mayotte,MYT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2003,,,,2003,,4447,,,2
+H3,2007,2007,2007,4,0,1,Import,175,Mayotte,MYT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9299,,,,9299,,24316,,,2
+H3,2007,2007,2007,4,0,1,Import,175,Mayotte,MYT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,616266,,,,616266,,508332,,,2
+H3,2007,2007,2007,4,0,1,Import,175,Mayotte,MYT,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,60,,,,60,,183,,,2
+H3,2007,2007,2007,4,0,1,Import,175,Mayotte,MYT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2500,,,,2500,,3196,,,2
+H3,2007,2007,2007,4,0,1,Import,175,Mayotte,MYT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,915,,,,915,,2772,,,2
+H3,2008,2008,2008,4,0,1,Import,175,Mayotte,MYT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,997097,,,,997097,,2098283,,,2
+H3,2008,2008,2008,4,0,1,Import,175,Mayotte,MYT,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,280,,,,280,,1344,,,2
+H3,2008,2008,2008,4,0,1,Import,175,Mayotte,MYT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,37070,,,,37070,,26373,,,2
+H3,2008,2008,2008,4,0,1,Import,175,Mayotte,MYT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,365278,,,,365278,,1390342,,,2
+H3,2008,2008,2008,4,0,1,Import,175,Mayotte,MYT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2912,,,,2912,,7997,,,2
+H3,2008,2008,2008,4,0,1,Import,175,Mayotte,MYT,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18,,,,18,,55,,,2
+H3,2008,2008,2008,4,0,1,Import,175,Mayotte,MYT,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1323,,,,1323,,4446,,,2
+H3,2008,2008,2008,4,0,1,Import,175,Mayotte,MYT,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,854,,,,854,,6339,,,2
+H3,2008,2008,2008,4,0,1,Import,175,Mayotte,MYT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4192,,,,4192,,17343,,,2
+H3,2008,2008,2008,4,0,1,Import,175,Mayotte,MYT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,29741,,,,29741,,73942,,,2
+H3,2008,2008,2008,4,0,1,Import,175,Mayotte,MYT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,534555,,,,534555,,553404,,,2
+H3,2008,2008,2008,4,0,1,Import,175,Mayotte,MYT,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,20584,,,,20584,,14293,,,2
+H3,2008,2008,2008,4,0,1,Import,175,Mayotte,MYT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,290,,,,290,,2407,,,2
+H3,2009,2009,2009,4,0,1,Import,175,Mayotte,MYT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,897345,,,,897345,,1789714,,,2
+H3,2009,2009,2009,4,0,2,Export,175,Mayotte,MYT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,396,,,,396,,2051,,,2
+H3,2009,2009,2009,4,0,1,Import,175,Mayotte,MYT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,80025,,,,80025,,77103,,,2
+H3,2009,2009,2009,4,0,1,Import,175,Mayotte,MYT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,103,,,,103,,358,,,2
+H3,2009,2009,2009,4,0,1,Import,175,Mayotte,MYT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,28,,,,28,,113,,,2
+H3,2009,2009,2009,4,0,1,Import,175,Mayotte,MYT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,344569,,,,344569,,1158953,,,2
+H3,2009,2009,2009,4,0,2,Export,175,Mayotte,MYT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,396,,,,396,,2051,,,2
+H3,2009,2009,2009,4,0,1,Import,175,Mayotte,MYT,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8,,,,8,,115,,,2
+H3,2009,2009,2009,4,0,1,Import,175,Mayotte,MYT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,541,,,,541,,1261,,,2
+H3,2009,2009,2009,4,0,1,Import,175,Mayotte,MYT,450,Madagascar,MDG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,35,,,,35,,652,,,2
+H3,2009,2009,2009,4,0,1,Import,175,Mayotte,MYT,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,586,,,,586,,2535,,,2
+H3,2009,2009,2009,4,0,1,Import,175,Mayotte,MYT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,338,,,,338,,13479,,,2
+H3,2009,2009,2009,4,0,1,Import,175,Mayotte,MYT,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1869,,,,1869,,7449,,,2
+H3,2009,2009,2009,4,0,1,Import,175,Mayotte,MYT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,582,,,,582,,3278,,,2
+H3,2009,2009,2009,4,0,1,Import,175,Mayotte,MYT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,43431,,,,43431,,85534,,,2
+H3,2009,2009,2009,4,0,1,Import,175,Mayotte,MYT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,420613,,,,420613,,433441,,,2
+H3,2009,2009,2009,4,0,1,Import,175,Mayotte,MYT,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4497,,,,4497,,5108,,,2
+H3,2009,2009,2009,4,0,1,Import,175,Mayotte,MYT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,85,,,,85,,298,,,2
+H3,2009,2009,2009,4,0,1,Import,175,Mayotte,MYT,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,35,,,,35,,36,,,2
+H2,2005,2005,2005,4,0,1,Import,175,Mayotte,MYT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,995705,,,,995705,,1437875,,,2
+H2,2005,2005,2005,4,0,1,Import,175,Mayotte,MYT,8,Albania,ALB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,68,,,,68,,166,,,2
+H2,2005,2005,2005,4,0,1,Import,175,Mayotte,MYT,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,92,,,,92,,293,,,2
+H2,2005,2005,2005,4,0,1,Import,175,Mayotte,MYT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,440,,,,440,,1132,,,2
+H2,2005,2005,2005,4,0,1,Import,175,Mayotte,MYT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,77,,,,77,,171,,,2
+H2,2005,2005,2005,4,0,1,Import,175,Mayotte,MYT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,418016,,,,418016,,975854,,,2
+H2,2005,2005,2005,4,0,1,Import,175,Mayotte,MYT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,139,,,,139,,586,,,2
+H2,2005,2005,2005,4,0,1,Import,175,Mayotte,MYT,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,892,,,,892,,1894,,,2
+H2,2005,2005,2005,4,0,1,Import,175,Mayotte,MYT,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,763,,,,763,,2185,,,2
+H2,2005,2005,2005,4,0,1,Import,175,Mayotte,MYT,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,114,,,,114,,294,,,2
+H2,2005,2005,2005,4,0,1,Import,175,Mayotte,MYT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,127,,,,127,,647,,,2
+H2,2005,2005,2005,4,0,1,Import,175,Mayotte,MYT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11828,,,,11828,,20611,,,2
+H2,2005,2005,2005,4,0,1,Import,175,Mayotte,MYT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,562379,,,,562379,,432651,,,2
+H2,2005,2005,2005,4,0,1,Import,175,Mayotte,MYT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,542,,,,542,,956,,,2
+H2,2005,2005,2005,4,0,1,Import,175,Mayotte,MYT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,228,,,,228,,433,,,2
+H2,2006,2006,2006,4,0,1,Import,175,Mayotte,MYT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1033584,,,,1033584,,1577721,,,2
+H2,2006,2006,2006,4,0,1,Import,175,Mayotte,MYT,8,Albania,ALB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,50,,,,50,,126,,,2
+H2,2006,2006,2006,4,0,1,Import,175,Mayotte,MYT,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,59,,,,59,,143,,,2
+H2,2006,2006,2006,4,0,1,Import,175,Mayotte,MYT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1783,,,,1783,,4899,,,2
+H2,2006,2006,2006,4,0,1,Import,175,Mayotte,MYT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1513,,,,1513,,3069,,,2
+H2,2006,2006,2006,4,0,1,Import,175,Mayotte,MYT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,355,,,,355,,1265,,,2
+H2,2006,2006,2006,4,0,1,Import,175,Mayotte,MYT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,372791,,,,372791,,1064955,,,2
+H2,2006,2006,2006,4,0,1,Import,175,Mayotte,MYT,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,322,,,,322,,846,,,2
+H2,2006,2006,2006,4,0,1,Import,175,Mayotte,MYT,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,527,,,,527,,1611,,,2
+H2,2006,2006,2006,4,0,1,Import,175,Mayotte,MYT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,387,,,,387,,1786,,,2
+H2,2006,2006,2006,4,0,1,Import,175,Mayotte,MYT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8961,,,,8961,,24248,,,2
+H2,2006,2006,2006,4,0,1,Import,175,Mayotte,MYT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,646786,,,,646786,,474597,,,2
+H2,2006,2006,2006,4,0,1,Import,175,Mayotte,MYT,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18,,,,18,,45,,,2
+H2,2006,2006,2006,4,0,1,Import,175,Mayotte,MYT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,32,,,,32,,131,,,2

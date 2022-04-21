@@ -1,0 +1,607 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,20536,,,,30996,,133990,,,0
+H1,2000,2000,2000,4,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,324788,,,,3806,,4708,,,0
+H1,2000,2000,2000,4,0,3,Re-Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1020,,,,490,,669,,,0
+H1,2000,2000,2000,4,0,2,Export,328,Guyana,GUY,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1648,,,,876,,1141,,,0
+H1,2000,2000,2000,4,0,2,Export,328,Guyana,GUY,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12464,,,,177,,69,,,0
+H1,2000,2000,2000,4,0,1,Import,328,Guyana,GUY,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,34,,,,58,,189,,,0
+H1,2000,2000,2000,4,0,1,Import,328,Guyana,GUY,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3161,,,,5902,,7064,,,0
+H1,2000,2000,2000,4,0,1,Import,328,Guyana,GUY,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3049,,,,2785,,16705,,,0
+H1,2000,2000,2000,4,0,1,Import,328,Guyana,GUY,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18,,,,34,,76,,,0
+H1,2000,2000,2000,4,0,1,Import,328,Guyana,GUY,364,Iran,IRN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3336,,,,3567,,23624,,,0
+H1,2000,2000,2000,4,0,1,Import,328,Guyana,GUY,372,Ireland,IRL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3336,,,,3667,,25748,,,0
+H1,2000,2000,2000,4,0,1,Import,328,Guyana,GUY,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1,,,,1,,6,,,0
+H1,2000,2000,2000,4,0,1,Import,328,Guyana,GUY,484,Mexico,MEX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,21,,,,39,,111,,,0
+H1,2000,2000,2000,4,0,1,Import,328,Guyana,GUY,642,Romania,ROU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,61,,,,20,,150,,,0
+H1,2000,2000,2000,4,0,1,Import,328,Guyana,GUY,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,52,,,,25,,127,,,0
+H1,2000,2000,2000,4,0,1,Import,328,Guyana,GUY,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16,,,,20,,37,,,0
+H1,2000,2000,2000,4,0,1,Import,328,Guyana,GUY,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,343,,,,5339,,5371,,,0
+H1,2000,2000,2000,4,0,2,Export,328,Guyana,GUY,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12,,,,90,,13,,,0
+H1,2000,2000,2000,4,0,1,Import,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6121,,,,6196,,53325,,,0
+H1,2000,2000,2000,4,0,1,Import,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,987,,,,3343,,1457,,,0
+H1,2000,2000,2000,4,0,2,Export,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,309939,,,,1993,,2729,,,0
+H1,2000,2000,2000,4,0,3,Re-Export,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,420,,,,35,,66,,,0
+H1,2000,2000,2000,4,0,2,Export,328,Guyana,GUY,862,Venezuela,VEN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,725,,,,670,,756,,,0
+H1,2000,2000,2000,4,0,3,Re-Export,328,Guyana,GUY,862,Venezuela,VEN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,600,,,,455,,603,,,0
+H1,2001,2001,2001,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,19851,,,,34104,,121894,,,0
+H1,2001,2001,2001,4,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,70524,,,,14375,,12842,,,0
+H1,2001,2001,2001,4,0,3,Re-Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,88,,,,480,,427,,,0
+H1,2001,2001,2001,4,0,2,Export,328,Guyana,GUY,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6,,,,230,,595,,,0
+H1,2001,2001,2001,4,0,1,Import,328,Guyana,GUY,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,64,,,,24,,13,,,0
+H1,2001,2001,2001,4,0,1,Import,328,Guyana,GUY,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8187,,,,13164,,20761,,,0
+H1,2001,2001,2001,4,0,1,Import,328,Guyana,GUY,196,Cyprus,CYP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9,,,,17,,25,,,0
+H1,2001,2001,2001,4,0,2,Export,328,Guyana,GUY,214,Dominican Rep.,DOM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,450,,,,720,,757,,,0
+H1,2001,2001,2001,4,0,1,Import,328,Guyana,GUY,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6282,,,,10021,,60183,,,0
+H1,2001,2001,2001,4,0,1,Import,328,Guyana,GUY,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36,,,,67,,150,,,0
+H1,2001,2001,2001,4,0,1,Import,328,Guyana,GUY,372,Ireland,IRL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,27,,,,50,,110,,,0
+H1,2001,2001,2001,4,0,1,Import,328,Guyana,GUY,388,Jamaica,JAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18,,,,34,,109,,,0
+H1,2001,2001,2001,4,0,1,Import,328,Guyana,GUY,484,Mexico,MEX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18,,,,33,,86,,,0
+H1,2001,2001,2001,4,0,1,Import,328,Guyana,GUY,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,151,,,,281,,651,,,0
+H1,2001,2001,2001,4,0,1,Import,328,Guyana,GUY,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,60,,,,84,,103,,,0
+H1,2001,2001,2001,4,0,2,Export,328,Guyana,GUY,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6300,,,,11900,,10083,,,0
+H1,2001,2001,2001,4,0,1,Import,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,857,,,,546,,5315,,,0
+H1,2001,2001,2001,4,0,1,Import,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4142,,,,9783,,34387,,,0
+H1,2001,2001,2001,4,0,2,Export,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,63290,,,,459,,323,,,0
+H1,2001,2001,2001,4,0,2,Export,328,Guyana,GUY,862,Venezuela,VEN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,478,,,,1066,,1083,,,0
+H1,2001,2001,2001,4,0,3,Re-Export,328,Guyana,GUY,862,Venezuela,VEN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,88,,,,480,,427,,,0
+H1,2002,2002,2002,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,48612,,,,39500,,69205,,,0
+H1,2002,2002,2002,4,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,19906,,,,11165,,10492,,,0
+H1,2002,2002,2002,4,0,2,Export,328,Guyana,GUY,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,80,,,,210,,1020,,,0
+H1,2002,2002,2002,4,0,1,Import,328,Guyana,GUY,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,540,,,,756,,1989,,,0
+H1,2002,2002,2002,4,0,2,Export,328,Guyana,GUY,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,104,,,,130,,25,,,0
+H1,2002,2002,2002,4,0,1,Import,328,Guyana,GUY,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18,,,,34,,39,,,0
+H1,2002,2002,2002,4,0,1,Import,328,Guyana,GUY,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,32636,,,,10435,,11688,,,0
+H1,2002,2002,2002,4,0,1,Import,328,Guyana,GUY,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,55,,,,585,,204,,,0
+H1,2002,2002,2002,4,0,1,Import,328,Guyana,GUY,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2361,,,,4899,,20781,,,0
+H1,2002,2002,2002,4,0,1,Import,328,Guyana,GUY,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11,,,,6,,131,,,0
+H1,2002,2002,2002,4,0,1,Import,328,Guyana,GUY,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1836,,,,2570,,6554,,,0
+H1,2002,2002,2002,4,0,1,Import,328,Guyana,GUY,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,108,,,,202,,490,,,0
+H1,2002,2002,2002,4,0,1,Import,328,Guyana,GUY,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,81,,,,151,,323,,,0
+H1,2002,2002,2002,4,0,2,Export,328,Guyana,GUY,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4,,,,10,,10,,,0
+H1,2002,2002,2002,4,0,1,Import,328,Guyana,GUY,591,Panama,PAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,45,,,,84,,211,,,0
+H1,2002,2002,2002,4,0,1,Import,328,Guyana,GUY,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,372,,,,521,,1256,,,0
+H1,2002,2002,2002,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,602,,,,2900,,2012,,,0
+H1,2002,2002,2002,4,0,1,Import,328,Guyana,GUY,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,60,,,,84,,137,,,0
+H1,2002,2002,2002,4,0,1,Import,328,Guyana,GUY,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7920,,,,15000,,6056,,,0
+H1,2002,2002,2002,4,0,2,Export,328,Guyana,GUY,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1940,,,,7820,,6486,,,0
+H1,2002,2002,2002,4,0,1,Import,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,601,,,,522,,4015,,,0
+H1,2002,2002,2002,4,0,1,Import,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1968,,,,3651,,15331,,,0
+H1,2002,2002,2002,4,0,2,Export,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,17176,,,,95,,939,,,0
+H1,2003,2003,2003,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,371762,,,,34942,,88064,,,0
+H1,2003,2003,2003,4,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,30588,,,,36271,,36408,,,0
+H1,2003,2003,2003,4,0,3,Re-Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2624,,,,3841,,9036,,,0
+H1,2003,2003,2003,4,0,2,Export,328,Guyana,GUY,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1560,,,,1283,,2260,,,0
+H1,2003,2003,2003,4,0,2,Export,328,Guyana,GUY,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,58,,,,124,,37,,,0
+H1,2003,2003,2003,4,0,1,Import,328,Guyana,GUY,72,Botswana,BWA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12,,,,17,,18,,,0
+H1,2003,2003,2003,4,0,1,Import,328,Guyana,GUY,76,Brazil,BRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,360,,,,480,,684,,,0
+H1,2003,2003,2003,4,0,1,Import,328,Guyana,GUY,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,306000,,,,1400,,1440,,,0
+H1,2003,2003,2003,4,0,1,Import,328,Guyana,GUY,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,43206,,,,17019,,25522,,,0
+H1,2003,2003,2003,4,0,1,Import,328,Guyana,GUY,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,14618,,,,622,,876,,,0
+H1,2003,2003,2003,4,0,2,Export,328,Guyana,GUY,214,Dominican Rep.,DOM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1260,,,,2400,,2075,,,0
+H1,2003,2003,2003,4,0,1,Import,328,Guyana,GUY,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,408,,,,2589,,5860,,,0
+H1,2003,2003,2003,4,0,2,Export,328,Guyana,GUY,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,177,,,,1800,,1439,,,0
+H1,2003,2003,2003,4,0,2,Export,328,Guyana,GUY,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,90,,,,90,,36,,,0
+H1,2003,2003,2003,4,0,1,Import,328,Guyana,GUY,591,Panama,PAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,376,,,,74,,651,,,0
+H1,2003,2003,2003,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,467,,,,1077,,495,,,0
+H1,2003,2003,2003,4,0,3,Re-Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2,,,,2,,3,,,0
+H1,2003,2003,2003,4,0,1,Import,328,Guyana,GUY,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,536,,,,686,,1196,,,0
+H1,2003,2003,2003,4,0,2,Export,328,Guyana,GUY,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,25034,,,,25908,,25445,,,0
+H1,2003,2003,2003,4,0,3,Re-Export,328,Guyana,GUY,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1355,,,,1600,,6000,,,0
+H1,2003,2003,2003,4,0,1,Import,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,622,,,,498,,5124,,,0
+H1,2003,2003,2003,4,0,2,Export,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,225,,,,295,,595,,,0
+H1,2003,2003,2003,4,0,3,Re-Export,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,225,,,,295,,595,,,0
+H1,2003,2003,2003,4,0,1,Import,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5624,,,,11557,,46693,,,0
+H1,2003,2003,2003,4,0,2,Export,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1717,,,,3294,,4026,,,0
+H1,2003,2003,2003,4,0,3,Re-Export,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1042,,,,1944,,2439,,,0
+H1,2004,2004,2004,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,133010,,,,32989,,109326,,,6
+H1,2004,2004,2004,4,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,27401,,,,25835,,20502,,,2
+H1,2004,2004,2004,4,0,1,Import,328,Guyana,GUY,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36,,,,45,,172,,,0
+H1,2004,2004,2004,4,0,2,Export,328,Guyana,GUY,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,945,,,,3568,,4287,,,0
+H1,2004,2004,2004,4,0,1,Import,328,Guyana,GUY,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1268,,,,2098,,4494,,,2
+H1,2004,2004,2004,4,0,1,Import,328,Guyana,GUY,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,136,,,,221,,951,,,2
+H1,2004,2004,2004,4,0,1,Import,328,Guyana,GUY,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4617,,,,210,,2178,,,0
+H1,2004,2004,2004,4,0,2,Export,328,Guyana,GUY,52,Barbados,BRB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,53,,,,41,,80,,,0
+H1,2004,2004,2004,4,0,1,Import,328,Guyana,GUY,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,768,,,,11,,75,,,0
+H1,2004,2004,2004,4,0,1,Import,328,Guyana,GUY,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,78669,,,,18154,,42498,,,6
+H1,2004,2004,2004,4,0,1,Import,328,Guyana,GUY,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,176,,,,327,,535,,,0
+H1,2004,2004,2004,4,0,1,Import,328,Guyana,GUY,166,Cocos Isds,CCK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,164,,,,419,,856,,,0
+H1,2004,2004,2004,4,0,1,Import,328,Guyana,GUY,184,Cook Isds,COK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,750,,,,2,,40,,,0
+H1,2004,2004,2004,4,0,1,Import,328,Guyana,GUY,196,Cyprus,CYP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13,,,,14,,69,,,0
+H1,2004,2004,2004,4,0,1,Import,328,Guyana,GUY,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15536,,,,1487,,13525,,,6
+H1,2004,2004,2004,4,0,1,Import,328,Guyana,GUY,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,411,,,,41,,285,,,0
+H1,2004,2004,2004,4,0,1,Import,328,Guyana,GUY,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,73,,,,118,,557,,,0
+H1,2004,2004,2004,4,0,1,Import,328,Guyana,GUY,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3,,,,50,,95,,,0
+H1,2004,2004,2004,4,0,1,Import,328,Guyana,GUY,484,Mexico,MEX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18,,,,34,,79,,,0
+H1,2004,2004,2004,4,0,1,Import,328,Guyana,GUY,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,294,,,,337,,1112,,,0
+H1,2004,2004,2004,4,0,2,Export,328,Guyana,GUY,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36,,,,46,,56,,,0
+H1,2004,2004,2004,4,0,1,Import,328,Guyana,GUY,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1081,,,,531,,896,,,2
+H1,2004,2004,2004,4,0,2,Export,328,Guyana,GUY,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,132,,,,120,,72,,,0
+H1,2004,2004,2004,4,0,1,Import,328,Guyana,GUY,591,Panama,PAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16,,,,43,,87,,,0
+H1,2004,2004,2004,4,0,2,Export,328,Guyana,GUY,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,90,,,,168,,165,,,0
+H1,2004,2004,2004,4,0,1,Import,328,Guyana,GUY,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,527,,,,400,,2345,,,0
+H1,2004,2004,2004,4,0,1,Import,328,Guyana,GUY,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1,,,,1,,36,,,0
+H1,2004,2004,2004,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1200,,,,150,,907,,,0
+H1,2004,2004,2004,4,0,1,Import,328,Guyana,GUY,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,25,,,,420,,419,,,0
+H1,2004,2004,2004,4,0,2,Export,328,Guyana,GUY,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,24904,,,,21672,,14566,,,0
+H1,2004,2004,2004,4,0,1,Import,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1260,,,,570,,6213,,,0
+H1,2004,2004,2004,4,0,1,Import,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,27168,,,,7456,,31809,,,6
+H1,2004,2004,2004,4,0,2,Export,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,41,,,,70,,369,,,2
+H3,2007,2007,2007,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,46074,,,,46074,,89317,,,2
+H3,2007,2007,2007,4,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,87042,,,,87042,,47514,,,2
+H3,2007,2007,2007,4,0,3,Re-Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5,,,,5,,20,,,2
+H3,2007,2007,2007,4,0,2,Export,328,Guyana,GUY,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3100,,,,3100,,4949,,,2
+H3,2007,2007,2007,4,0,1,Import,328,Guyana,GUY,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1041,,,,1041,,2703,,,2
+H3,2007,2007,2007,4,0,1,Import,328,Guyana,GUY,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1181,,,,1181,,10212,,,2
+H3,2007,2007,2007,4,0,2,Export,328,Guyana,GUY,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,171,,,,171,,120,,,2
+H3,2007,2007,2007,4,0,1,Import,328,Guyana,GUY,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10000,,,,10000,,4571,,,2
+H3,2007,2007,2007,4,0,2,Export,328,Guyana,GUY,92,Br. Virgin Isds,VGB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,61,,,,61,,521,,,2
+H3,2007,2007,2007,4,0,1,Import,328,Guyana,GUY,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,571,,,,571,,887,,,2
+H3,2007,2007,2007,4,0,1,Import,328,Guyana,GUY,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,17842,,,,17842,,41097,,,2
+H3,2007,2007,2007,4,0,1,Import,328,Guyana,GUY,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,315,,,,315,,812,,,2
+H3,2007,2007,2007,4,0,2,Export,328,Guyana,GUY,212,Dominica,DMA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1500,,,,1500,,1591,,,2
+H3,2007,2007,2007,4,0,2,Export,328,Guyana,GUY,214,Dominican Rep.,DOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1600,,,,1600,,1605,,,2
+H3,2007,2007,2007,4,0,1,Import,328,Guyana,GUY,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,54,,,,54,,1461,,,2
+H3,2007,2007,2007,4,0,1,Import,328,Guyana,GUY,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,47,,,,47,,405,,,2
+H3,2007,2007,2007,4,0,1,Import,328,Guyana,GUY,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,389,,,,389,,2137,,,2
+H3,2007,2007,2007,4,0,2,Export,328,Guyana,GUY,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,48688,,,,48688,,21790,,,2
+H3,2007,2007,2007,4,0,2,Export,328,Guyana,GUY,530,Neth. Antilles,ANT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,152,,,,152,,749,,,2
+H3,2007,2007,2007,4,0,2,Export,328,Guyana,GUY,660,Anguilla,AIA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,106,,,,106,,177,,,2
+H3,2007,2007,2007,4,0,1,Import,328,Guyana,GUY,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1,,,,1,,10,,,2
+H3,2007,2007,2007,4,0,1,Import,328,Guyana,GUY,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,298,,,,298,,2047,,,2
+H3,2007,2007,2007,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,375,,,,375,,1874,,,2
+H3,2007,2007,2007,4,0,1,Import,328,Guyana,GUY,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,500,,,,500,,2431,,,2
+H3,2007,2007,2007,4,0,2,Export,328,Guyana,GUY,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,20260,,,,20260,,12557,,,2
+H3,2007,2007,2007,4,0,1,Import,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2480,,,,2480,,9630,,,2
+H3,2007,2007,2007,4,0,2,Export,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5,,,,5,,20,,,2
+H3,2007,2007,2007,4,0,3,Re-Export,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5,,,,5,,20,,,2
+H3,2007,2007,2007,4,0,1,Import,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,11354,,,,11354,,10913,,,2
+H3,2007,2007,2007,4,0,2,Export,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,11024,,,,11024,,1561,,,2
+H3,2008,2008,2008,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,24391,,,,34787,,75430,,,0
+H3,2008,2008,2008,4,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,31072,,,,34250,,28611,,,0
+H3,2008,2008,2008,4,0,3,Re-Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,78,,,,1153,,990,,,0
+H3,2008,2008,2008,4,0,2,Export,328,Guyana,GUY,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,825,,,,1420,,2613,,,0
+H3,2008,2008,2008,4,0,1,Import,328,Guyana,GUY,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,750,,,,14,,86,,,0
+H3,2008,2008,2008,4,0,1,Import,328,Guyana,GUY,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2575,,,,815,,4167,,,0
+H3,2008,2008,2008,4,0,1,Import,328,Guyana,GUY,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2760,,,,991,,7740,,,0
+H3,2008,2008,2008,4,0,2,Export,328,Guyana,GUY,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1,,,,2,,10,,,0
+H3,2008,2008,2008,4,0,2,Export,328,Guyana,GUY,92,Br. Virgin Isds,VGB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1,,,,14,,22,,,0
+H3,2008,2008,2008,4,0,2,Export,328,Guyana,GUY,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2,,,,2,,2,,,0
+H3,2008,2008,2008,4,0,1,Import,328,Guyana,GUY,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,16101,,,,24787,,44959,,,0
+H3,2008,2008,2008,4,0,2,Export,328,Guyana,GUY,214,Dominican Rep.,DOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,900,,,,1590,,2883,,,0
+H3,2008,2008,2008,4,0,1,Import,328,Guyana,GUY,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,120,,,,84,,782,,,0
+H3,2008,2008,2008,4,0,1,Import,328,Guyana,GUY,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,132,,,,166,,811,,,0
+H3,2008,2008,2008,4,0,2,Export,328,Guyana,GUY,530,Neth. Antilles,ANT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,26000,,,,24128,,10912,,,0
+H3,2008,2008,2008,4,0,2,Export,328,Guyana,GUY,659,Saint Kitts and Nevis,KNA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3150,,,,5019,,10330,,,0
+H3,2008,2008,2008,4,0,2,Export,328,Guyana,GUY,660,Anguilla,AIA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,173,,,,2048,,1677,,,0
+H3,2008,2008,2008,4,0,3,Re-Export,328,Guyana,GUY,660,Anguilla,AIA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,78,,,,1153,,990,,,0
+H3,2008,2008,2008,4,0,1,Import,328,Guyana,GUY,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,29,,,,1650,,231,,,0
+H3,2008,2008,2008,4,0,1,Import,328,Guyana,GUY,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,960,,,,1344,,1930,,,0
+H3,2008,2008,2008,4,0,1,Import,328,Guyana,GUY,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,26,,,,500,,2467,,,0
+H3,2008,2008,2008,4,0,2,Export,328,Guyana,GUY,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18,,,,24,,157,,,0
+H3,2008,2008,2008,4,0,1,Import,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,375,,,,3570,,8628,,,0
+H3,2008,2008,2008,4,0,1,Import,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,563,,,,867,,3630,,,0
+H3,2008,2008,2008,4,0,2,Export,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2,,,,3,,5,,,0
+H3,2009,2009,2009,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,70655,,,,115974,,195537,,,0
+H3,2009,2009,2009,4,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3308,,,,3559,,8262,,,0
+H3,2009,2009,2009,4,0,3,Re-Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,110,,,,214,,190,,,0
+H3,2009,2009,2009,4,0,1,Import,328,Guyana,GUY,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7914,,,,11080,,21777,,,0
+H3,2009,2009,2009,4,0,1,Import,328,Guyana,GUY,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3220,,,,2236,,11486,,,0
+H3,2009,2009,2009,4,0,2,Export,328,Guyana,GUY,92,Br. Virgin Isds,VGB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1,,,,258,,39,,,0
+H3,2009,2009,2009,4,0,1,Import,328,Guyana,GUY,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7,,,,19,,25,,,0
+H3,2009,2009,2009,4,0,1,Import,328,Guyana,GUY,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,41715,,,,60848,,103022,,,0
+H3,2009,2009,2009,4,0,1,Import,328,Guyana,GUY,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,30,,,,340,,1241,,,0
+H3,2009,2009,2009,4,0,2,Export,328,Guyana,GUY,212,Dominica,DMA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,900,,,,1760,,1785,,,0
+H3,2009,2009,2009,4,0,1,Import,328,Guyana,GUY,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,120,,,,84,,2165,,,0
+H3,2009,2009,2009,4,0,1,Import,328,Guyana,GUY,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10897,,,,31483,,21716,,,0
+H3,2009,2009,2009,4,0,2,Export,328,Guyana,GUY,530,Neth. Antilles,ANT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,19,,,,31,,44,,,0
+H3,2009,2009,2009,4,0,2,Export,328,Guyana,GUY,659,Saint Kitts and Nevis,KNA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2200,,,,1010,,5633,,,0
+H3,2009,2009,2009,4,0,2,Export,328,Guyana,GUY,660,Anguilla,AIA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,176,,,,347,,682,,,0
+H3,2009,2009,2009,4,0,3,Re-Export,328,Guyana,GUY,660,Anguilla,AIA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,105,,,,164,,140,,,0
+H3,2009,2009,2009,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,612,,,,915,,3312,,,0
+H3,2009,2009,2009,4,0,1,Import,328,Guyana,GUY,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,23,,,,300,,1168,,,0
+H3,2009,2009,2009,4,0,2,Export,328,Guyana,GUY,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5,,,,3,,25,,,0
+H3,2009,2009,2009,4,0,1,Import,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,13,,,,2621,,3929,,,0
+H3,2009,2009,2009,4,0,1,Import,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6104,,,,6048,,25697,,,0
+H3,2009,2009,2009,4,0,2,Export,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7,,,,150,,54,,,0
+H3,2009,2009,2009,4,0,3,Re-Export,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5,,,,50,,50,,,0
+H2,2005,2005,2005,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,154599,,,,170825,,141593,,,0
+H2,2005,2005,2005,4,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3457,,,,3751,,6787,,,0
+H2,2005,2005,2005,4,0,3,Re-Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4,,,,15,,32,,,0
+H2,2005,2005,2005,4,0,1,Import,328,Guyana,GUY,8,Albania,ALB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4,,,,7,,20,,,0
+H2,2005,2005,2005,4,0,1,Import,328,Guyana,GUY,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18,,,,35,,171,,,0
+H2,2005,2005,2005,4,0,2,Export,328,Guyana,GUY,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2306,,,,553,,1280,,,0
+H2,2005,2005,2005,4,0,1,Import,328,Guyana,GUY,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,503,,,,1418,,2035,,,0
+H2,2005,2005,2005,4,0,1,Import,328,Guyana,GUY,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,477,,,,429,,2348,,,0
+H2,2005,2005,2005,4,0,1,Import,328,Guyana,GUY,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,153,,,,482,,1756,,,0
+H2,2005,2005,2005,4,0,1,Import,328,Guyana,GUY,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,132466,,,,128896,,47149,,,0
+H2,2005,2005,2005,4,0,2,Export,328,Guyana,GUY,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4,,,,15,,32,,,0
+H2,2005,2005,2005,4,0,3,Re-Export,328,Guyana,GUY,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4,,,,15,,32,,,0
+H2,2005,2005,2005,4,0,1,Import,328,Guyana,GUY,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10,,,,450,,2063,,,0
+H2,2005,2005,2005,4,0,1,Import,328,Guyana,GUY,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13123,,,,24186,,43304,,,0
+H2,2005,2005,2005,4,0,1,Import,328,Guyana,GUY,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,461,,,,174,,2313,,,0
+H2,2005,2005,2005,4,0,1,Import,328,Guyana,GUY,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14,,,,25,,70,,,0
+H2,2005,2005,2005,4,0,1,Import,328,Guyana,GUY,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,882,,3761,,,0
+H2,2005,2005,2005,4,0,2,Export,328,Guyana,GUY,212,Dominica,DMA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,1800,,2781,,,0
+H2,2005,2005,2005,4,0,1,Import,328,Guyana,GUY,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,208,,,,445,,6026,,,0
+H2,2005,2005,2005,4,0,2,Export,328,Guyana,GUY,308,Grenada,GRD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,1,,1,,,0
+H2,2005,2005,2005,4,0,1,Import,328,Guyana,GUY,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7,,,,40,,88,,,0
+H2,2005,2005,2005,4,0,1,Import,328,Guyana,GUY,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,74,,,,152,,1276,,,0
+H2,2005,2005,2005,4,0,1,Import,328,Guyana,GUY,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,24,,,,45,,447,,,0
+H2,2005,2005,2005,4,0,2,Export,328,Guyana,GUY,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3,,,,5,,9,,,0
+H2,2005,2005,2005,4,0,1,Import,328,Guyana,GUY,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3062,,,,7300,,10040,,,0
+H2,2005,2005,2005,4,0,1,Import,328,Guyana,GUY,530,Neth. Antilles,ANT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8,,,,13,,69,,,0
+H2,2005,2005,2005,4,0,2,Export,328,Guyana,GUY,530,Neth. Antilles,ANT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,209,,,,419,,907,,,0
+H2,2005,2005,2005,4,0,1,Import,328,Guyana,GUY,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8,,,,52,,523,,,0
+H2,2005,2005,2005,4,0,2,Export,328,Guyana,GUY,660,Anguilla,AIA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,90,,,,317,,140,,,0
+H2,2005,2005,2005,4,0,2,Export,328,Guyana,GUY,662,Saint Lucia,LCA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,740,,,,346,,1372,,,0
+H2,2005,2005,2005,4,0,1,Import,328,Guyana,GUY,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,166,,,,285,,1317,,,0
+H2,2005,2005,2005,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,86,,,,150,,90,,,0
+H2,2005,2005,2005,4,0,1,Import,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,797,,,,769,,4767,,,0
+H2,2005,2005,2005,4,0,1,Import,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3014,,,,4740,,12051,,,0
+H2,2005,2005,2005,4,0,2,Export,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16,,,,145,,175,,,0
+H2,2006,2006,2006,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20361,,,,71105,,79524,,,0
+H2,2006,2006,2006,4,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,37879,,,,93843,,36274,,,0
+H2,2006,2006,2006,4,0,3,Re-Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3,,,,1100,,285,,,0
+H2,2006,2006,2006,4,0,2,Export,328,Guyana,GUY,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,848,,,,38056,,2576,,,0
+H2,2006,2006,2006,4,0,1,Import,328,Guyana,GUY,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,794,,,,4136,,5420,,,0
+H2,2006,2006,2006,4,0,1,Import,328,Guyana,GUY,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,601,,,,763,,4140,,,0
+H2,2006,2006,2006,4,0,1,Import,328,Guyana,GUY,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,84,,,,157,,493,,,0
+H2,2006,2006,2006,4,0,1,Import,328,Guyana,GUY,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3001,,,,49482,,14894,,,0
+H2,2006,2006,2006,4,0,2,Export,328,Guyana,GUY,92,Br. Virgin Isds,VGB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,138,,,,32,,73,,,0
+H2,2006,2006,2006,4,0,1,Import,328,Guyana,GUY,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,489,,,,904,,1270,,,0
+H2,2006,2006,2006,4,0,1,Import,328,Guyana,GUY,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8499,,,,10592,,26496,,,0
+H2,2006,2006,2006,4,0,1,Import,328,Guyana,GUY,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,683,,,,274,,269,,,0
+H2,2006,2006,2006,4,0,1,Import,328,Guyana,GUY,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,227,,2172,,,0
+H2,2006,2006,2006,4,0,2,Export,328,Guyana,GUY,212,Dominica,DMA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4500,,,,2600,,4622,,,0
+H2,2006,2006,2006,4,0,2,Export,328,Guyana,GUY,214,Dominican Rep.,DOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2700,,,,1470,,3282,,,0
+H2,2006,2006,2006,4,0,1,Import,328,Guyana,GUY,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,276,,,,515,,4155,,,0
+H2,2006,2006,2006,4,0,1,Import,328,Guyana,GUY,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,3,,20,,,0
+H2,2006,2006,2006,4,0,1,Import,328,Guyana,GUY,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,227,,,,429,,2386,,,0
+H2,2006,2006,2006,4,0,1,Import,328,Guyana,GUY,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3,,,,5,,48,,,0
+H2,2006,2006,2006,4,0,1,Import,328,Guyana,GUY,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,331,,,,233,,2249,,,0
+H2,2006,2006,2006,4,0,2,Export,328,Guyana,GUY,530,Neth. Antilles,ANT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,26028,,,,48624,,22246,,,0
+H2,2006,2006,2006,4,0,2,Export,328,Guyana,GUY,659,Saint Kitts and Nevis,KNA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,1,,1,,,0
+H2,2006,2006,2006,4,0,2,Export,328,Guyana,GUY,660,Anguilla,AIA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21,,,,28,,70,,,0
+H2,2006,2006,2006,4,0,2,Export,328,Guyana,GUY,662,Saint Lucia,LCA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2580,,,,1700,,2436,,,0
+H2,2006,2006,2006,4,0,1,Import,328,Guyana,GUY,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,1,,10,,,0
+H2,2006,2006,2006,4,0,2,Export,328,Guyana,GUY,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,24,,,,12,,56,,,0
+H2,2006,2006,2006,4,0,1,Import,328,Guyana,GUY,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,164,,,,302,,1714,,,0
+H2,2006,2006,2006,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1021,,,,190,,591,,,0
+H2,2006,2006,2006,4,0,1,Import,328,Guyana,GUY,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3,,,,254,,1245,,,0
+H2,2006,2006,2006,4,0,1,Import,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,592,,,,247,,4034,,,0
+H2,2006,2006,2006,4,0,2,Export,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12,,,,5,,22,,,0
+H2,2006,2006,2006,4,0,1,Import,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4609,,,,2580,,8510,,,0
+H2,2006,2006,2006,4,0,2,Export,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6,,,,1125,,300,,,0
+H2,2006,2006,2006,4,0,3,Re-Export,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3,,,,1100,,285,,,0
+H3,2010,2010,2010,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,58223,,,,77246,,166149,,,0
+H3,2010,2010,2010,4,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,26969,,,,25357,,16606,,,0
+H3,2010,2010,2010,4,0,1,Import,328,Guyana,GUY,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1919,,,,8041,,13034,,,0
+H3,2010,2010,2010,4,0,2,Export,328,Guyana,GUY,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10,,,,60,,159,,,0
+H3,2010,2010,2010,4,0,1,Import,328,Guyana,GUY,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,174,,,,783,,2295,,,0
+H3,2010,2010,2010,4,0,2,Export,328,Guyana,GUY,92,Br. Virgin Isds,VGB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2,,,,145,,59,,,0
+H3,2010,2010,2010,4,0,1,Import,328,Guyana,GUY,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,13,,,,180,,83,,,0
+H3,2010,2010,2010,4,0,1,Import,328,Guyana,GUY,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,21162,,,,29463,,62795,,,0
+H3,2010,2010,2010,4,0,2,Export,328,Guyana,GUY,214,Dominican Rep.,DOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,900,,,,900,,1799,,,0
+H3,2010,2010,2010,4,0,1,Import,328,Guyana,GUY,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,23730,,,,26880,,50570,,,0
+H3,2010,2010,2010,4,0,2,Export,328,Guyana,GUY,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,26000,,,,24120,,14188,,,0
+H3,2010,2010,2010,4,0,1,Import,328,Guyana,GUY,530,Neth. Antilles,ANT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1706,,,,2400,,6776,,,0
+H3,2010,2010,2010,4,0,2,Export,328,Guyana,GUY,530,Neth. Antilles,ANT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,50,,,,129,,394,,,0
+H3,2010,2010,2010,4,0,1,Import,328,Guyana,GUY,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4235,,,,5014,,7624,,,0
+H3,2010,2010,2010,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,60,,,,42,,296,,,0
+H3,2010,2010,2010,4,0,1,Import,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5224,,,,4443,,22678,,,0
+H3,2010,2010,2010,4,0,2,Export,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7,,,,3,,7,,,0
+H3,2011,2011,2011,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,150079,,,,159384,,238957,,,2
+H3,2011,2011,2011,4,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3110,,,,9093,,26782,,,2
+H3,2011,2011,2011,4,0,2,Export,328,Guyana,GUY,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2392,,,,5485,,23540,,,0
+H3,2011,2011,2011,4,0,1,Import,328,Guyana,GUY,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8,,,,10,,58,,,0
+H3,2011,2011,2011,4,0,1,Import,328,Guyana,GUY,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,451,,,,1098,,7015,,,2
+H3,2011,2011,2011,4,0,2,Export,328,Guyana,GUY,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,492,,,,3170,,2715,,,2
+H3,2011,2011,2011,4,0,1,Import,328,Guyana,GUY,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,287,,,,2020,,4914,,,0
+H3,2011,2011,2011,4,0,2,Export,328,Guyana,GUY,92,Br. Virgin Isds,VGB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2,,,,23,,18,,,2
+H3,2011,2011,2011,4,0,1,Import,328,Guyana,GUY,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,24553,,,,51325,,78365,,,2
+H3,2011,2011,2011,4,0,1,Import,328,Guyana,GUY,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,11505,,,,10752,,24480,,,0
+H3,2011,2011,2011,4,0,1,Import,328,Guyana,GUY,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,96,,,,160,,1620,,,0
+H3,2011,2011,2011,4,0,1,Import,328,Guyana,GUY,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,72,,,,11,,296,,,0
+H3,2011,2011,2011,4,0,1,Import,328,Guyana,GUY,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,93888,,,,70376,,76105,,,0
+H3,2011,2011,2011,4,0,1,Import,328,Guyana,GUY,498,Rep. of Moldova,MDA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12,,,,21,,162,,,0
+H3,2011,2011,2011,4,0,2,Export,328,Guyana,GUY,660,Anguilla,AIA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,90,,,,160,,359,,,0
+H3,2011,2011,2011,4,0,1,Import,328,Guyana,GUY,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,218,,,,643,,1769,,,2
+H3,2011,2011,2011,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,135,,,,255,,150,,,0
+H3,2011,2011,2011,4,0,1,Import,328,Guyana,GUY,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9,,,,140,,626,,,0
+H3,2011,2011,2011,4,0,1,Import,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,825,,,,1170,,2481,,,2
+H3,2011,2011,2011,4,0,1,Import,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18156,,,,21659,,41065,,,2
+H3,2012,2012,2012,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,43923,,,,106854,,258184,,,2
+H3,2012,2012,2012,4,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,58836,,,,161585,,39301,,,2
+H3,2012,2012,2012,4,0,3,Re-Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5,,,,20,,24,,,0
+H3,2012,2012,2012,4,0,1,Import,328,Guyana,GUY,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,83,,,,1426,,559,,,2
+H3,2012,2012,2012,4,0,2,Export,328,Guyana,GUY,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6618,,,,7255,,9135,,,2
+H3,2012,2012,2012,4,0,1,Import,328,Guyana,GUY,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9128,,,,12291,,86345,,,2
+H3,2012,2012,2012,4,0,2,Export,328,Guyana,GUY,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,174,,,,1013,,1289,,,0
+H3,2012,2012,2012,4,0,2,Export,328,Guyana,GUY,92,Br. Virgin Isds,VGB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12,,,,6,,47,,,0
+H3,2012,2012,2012,4,0,1,Import,328,Guyana,GUY,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,21,,,,300,,3691,,,0
+H3,2012,2012,2012,4,0,1,Import,328,Guyana,GUY,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9688,,,,59881,,69474,,,2
+H3,2012,2012,2012,4,0,1,Import,328,Guyana,GUY,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,302,,,,409,,236,,,0
+H3,2012,2012,2012,4,0,1,Import,328,Guyana,GUY,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,163,,,,179,,4010,,,0
+H3,2012,2012,2012,4,0,1,Import,328,Guyana,GUY,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5,,,,100,,1532,,,0
+H3,2012,2012,2012,4,0,1,Import,328,Guyana,GUY,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10356,,,,10548,,22560,,,0
+H3,2012,2012,2012,4,0,1,Import,328,Guyana,GUY,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1212,,,,1467,,7860,,,0
+H3,2012,2012,2012,4,0,2,Export,328,Guyana,GUY,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,26000,,,,24128,,14274,,,0
+H3,2012,2012,2012,4,0,1,Import,328,Guyana,GUY,531,Curaçao,CUW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,750,,,,870,,4417,,,0
+H3,2012,2012,2012,4,0,2,Export,328,Guyana,GUY,531,Curaçao,CUW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,26010,,,,129136,,14448,,,0
+H3,2012,2012,2012,4,0,2,Export,328,Guyana,GUY,662,Saint Lucia,LCA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5,,,,20,,24,,,0
+H3,2012,2012,2012,4,0,3,Re-Export,328,Guyana,GUY,662,Saint Lucia,LCA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5,,,,20,,24,,,0
+H3,2012,2012,2012,4,0,1,Import,328,Guyana,GUY,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2504,,,,5316,,16872,,,2
+H3,2012,2012,2012,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,51,,,,60,,343,,,2
+H3,2012,2012,2012,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5,,,,20,,37,,,0
+H3,2012,2012,2012,4,0,1,Import,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,11,,,,920,,5476,,,0
+H3,2012,2012,2012,4,0,1,Import,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9649,,,,13086,,34807,,,2
+H3,2012,2012,2012,4,0,2,Export,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12,,,,6,,47,,,0
+H3,2013,2013,2013,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,34243,,,,74698,,187957,,,0
+H3,2013,2013,2013,4,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,78625,,,,74294,,49415,,,0
+H3,2013,2013,2013,4,0,3,Re-Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10,,,,10,,50,,,0
+H3,2013,2013,2013,4,0,2,Export,328,Guyana,GUY,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,275,,,,1118,,2701,,,0
+H3,2013,2013,2013,4,0,1,Import,328,Guyana,GUY,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5,,,,11,,70,,,0
+H3,2013,2013,2013,4,0,1,Import,328,Guyana,GUY,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10,,,,84,,455,,,0
+H3,2013,2013,2013,4,0,1,Import,328,Guyana,GUY,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,570,,,,522,,2215,,,0
+H3,2013,2013,2013,4,0,1,Import,328,Guyana,GUY,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12213,,,,39939,,59265,,,0
+H3,2013,2013,2013,4,0,1,Import,328,Guyana,GUY,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,14,,,,18,,19,,,0
+H3,2013,2013,2013,4,0,1,Import,328,Guyana,GUY,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,517,,,,774,,10481,,,0
+H3,2013,2013,2013,4,0,1,Import,328,Guyana,GUY,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1600,,,,180,,1563,,,0
+H3,2013,2013,2013,4,0,1,Import,328,Guyana,GUY,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,368,,,,20208,,9227,,,0
+H3,2013,2013,2013,4,0,1,Import,328,Guyana,GUY,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,16080,,,,1788,,71588,,,0
+H3,2013,2013,2013,4,0,2,Export,328,Guyana,GUY,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10,,,,10,,50,,,0
+H3,2013,2013,2013,4,0,3,Re-Export,328,Guyana,GUY,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10,,,,10,,50,,,0
+H3,2013,2013,2013,4,0,1,Import,328,Guyana,GUY,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,639,,,,862,,686,,,0
+H3,2013,2013,2013,4,0,2,Export,328,Guyana,GUY,531,Curaçao,CUW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,78000,,,,72384,,44470,,,0
+H3,2013,2013,2013,4,0,1,Import,328,Guyana,GUY,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,394,,,,8165,,9278,,,0
+H3,2013,2013,2013,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,334,,,,720,,1806,,,0
+H3,2013,2013,2013,4,0,1,Import,328,Guyana,GUY,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,348,,,,200,,2255,,,0
+H3,2013,2013,2013,4,0,1,Import,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,148,,,,211,,2626,,,0
+H3,2013,2013,2013,4,0,1,Import,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1337,,,,1736,,18228,,,0
+H3,2013,2013,2013,4,0,2,Export,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6,,,,62,,388,,,0
+H3,2014,2014,2014,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,19200,,,,65478,,199263,,,2
+H3,2014,2014,2014,4,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,14634,,,,73730,,25879,,,2
+H3,2014,2014,2014,4,0,3,Re-Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2,,,,3,,44,,,0
+H3,2014,2014,2014,4,0,2,Export,328,Guyana,GUY,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1343,,,,45954,,5345,,,2
+H3,2014,2014,2014,4,0,1,Import,328,Guyana,GUY,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5409,,,,23042,,36448,,,2
+H3,2014,2014,2014,4,0,1,Import,328,Guyana,GUY,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8,,,,42,,62,,,2
+H3,2014,2014,2014,4,0,1,Import,328,Guyana,GUY,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,604,,,,795,,24481,,,2
+H3,2014,2014,2014,4,0,2,Export,328,Guyana,GUY,214,Dominican Rep.,DOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2016,,,,3610,,4723,,,2
+H3,2014,2014,2014,4,0,1,Import,328,Guyana,GUY,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,275,,,,520,,4021,,,2
+H3,2014,2014,2014,4,0,1,Import,328,Guyana,GUY,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,509,,,,1908,,1548,,,0
+H3,2014,2014,2014,4,0,1,Import,328,Guyana,GUY,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2865,,,,13526,,19017,,,2
+H3,2014,2014,2014,4,0,1,Import,328,Guyana,GUY,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2965,,,,5105,,54012,,,2
+H3,2014,2014,2014,4,0,2,Export,328,Guyana,GUY,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2,,,,3,,44,,,0
+H3,2014,2014,2014,4,0,3,Re-Export,328,Guyana,GUY,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2,,,,3,,44,,,0
+H3,2014,2014,2014,4,0,2,Export,328,Guyana,GUY,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,11240,,,,24128,,15603,,,2
+H3,2014,2014,2014,4,0,1,Import,328,Guyana,GUY,531,Curaçao,CUW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,121,,,,1796,,1092,,,2
+H3,2014,2014,2014,4,0,1,Import,328,Guyana,GUY,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3664,,,,11921,,22373,,,2
+H3,2014,2014,2014,4,0,1,Import,328,Guyana,GUY,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,900,,,,675,,4001,,,2
+H3,2014,2014,2014,4,0,1,Import,328,Guyana,GUY,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,279,,,,1844,,4905,,,2
+H3,2014,2014,2014,4,0,1,Import,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3,,,,462,,5302,,,2
+H3,2014,2014,2014,4,0,1,Import,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1598,,,,3842,,22002,,,2
+H3,2014,2014,2014,4,0,2,Export,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,33,,,,36,,164,,,2
+H5,2019,2019,2019,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,156363,,,,215429,,634911,,,2
+H5,2019,2019,2019,4,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2156,,,,2616,,8487,,,0
+H5,2019,2019,2019,4,0,1,Import,328,Guyana,GUY,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9888,,,,15051,,41121,,,0
+H5,2019,2019,2019,4,0,1,Import,328,Guyana,GUY,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4428,,,,3730,,17037,,,0
+H5,2019,2019,2019,4,0,2,Export,328,Guyana,GUY,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7,,,,9,,62,,,0
+H5,2019,2019,2019,4,0,1,Import,328,Guyana,GUY,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,353,,,,800,,16560,,,0
+H5,2019,2019,2019,4,0,1,Import,328,Guyana,GUY,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,177,,,,288,,1501,,,0
+H5,2019,2019,2019,4,0,2,Export,328,Guyana,GUY,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18,,,,15,,127,,,0
+H5,2019,2019,2019,4,0,1,Import,328,Guyana,GUY,132,Cabo Verde,CPV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,162,,,,1133,,379,,,0
+H5,2019,2019,2019,4,0,1,Import,328,Guyana,GUY,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,32126,,,,52662,,133374,,,2
+H5,2019,2019,2019,4,0,2,Export,328,Guyana,GUY,212,Dominica,DMA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,252,,,,462,,629,,,0
+H5,2019,2019,2019,4,0,1,Import,328,Guyana,GUY,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2034,,,,6149,,35494,,,0
+H5,2019,2019,2019,4,0,1,Import,328,Guyana,GUY,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12866,,,,17754,,65480,,,2
+H5,2019,2019,2019,4,0,1,Import,328,Guyana,GUY,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,374,,,,251,,3020,,,0
+H5,2019,2019,2019,4,0,1,Import,328,Guyana,GUY,400,Jordan,JOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,135,,,,2132,,316,,,0
+H5,2019,2019,2019,4,0,1,Import,328,Guyana,GUY,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45,,,,55,,211,,,0
+H5,2019,2019,2019,4,0,1,Import,328,Guyana,GUY,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,620,,,,1295,,4678,,,0
+H5,2019,2019,2019,4,0,1,Import,328,Guyana,GUY,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24850,,,,34809,,75088,,,0
+H5,2019,2019,2019,4,0,1,Import,328,Guyana,GUY,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4856,,,,7500,,13844,,,0
+H5,2019,2019,2019,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6984,,,,9470,,28067,,,0
+H5,2019,2019,2019,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25,,,,30,,107,,,0
+H5,2019,2019,2019,4,0,1,Import,328,Guyana,GUY,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90,,,,830,,1054,,,0
+H5,2019,2019,2019,4,0,2,Export,328,Guyana,GUY,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1854,,,,2100,,7559,,,0
+H5,2019,2019,2019,4,0,1,Import,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,117,,,,123,,271,,,0
+H5,2019,2019,2019,4,0,1,Import,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,56257,,,,61391,,197407,,,0
+H3,2015,2015,2015,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,86489,,181964,,,2
+H3,2015,2015,2015,4,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,102485,,,,202479,,137954,,,2
+H3,2015,2015,2015,4,0,2,Export,328,Guyana,GUY,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,400,,,,62000,,2750,,,0
+H3,2015,2015,2015,4,0,1,Import,328,Guyana,GUY,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,106,,,,3464,,3858,,,2
+H3,2015,2015,2015,4,0,1,Import,328,Guyana,GUY,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1,,,,1,,1,,,0
+H3,2015,2015,2015,4,0,2,Export,328,Guyana,GUY,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,24000,,,,20000,,87600,,,0
+H3,2015,2015,2015,4,0,2,Export,328,Guyana,GUY,92,Br. Virgin Isds,VGB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2,,,,40,,43,,,0
+H3,2015,2015,2015,4,0,1,Import,328,Guyana,GUY,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2424,,,,40836,,51936,,,2
+H3,2015,2015,2015,4,0,1,Import,328,Guyana,GUY,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,365,,447,,,0
+H3,2015,2015,2015,4,0,1,Import,328,Guyana,GUY,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12,,,,14,,367,,,0
+H3,2015,2015,2015,4,0,1,Import,328,Guyana,GUY,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",5,Number of items,228,,,,300,,1474,,,0
+H3,2015,2015,2015,4,0,2,Export,328,Guyana,GUY,308,Grenada,GRD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,50,,,,48000,,467,,,0
+H3,2015,2015,2015,4,0,1,Import,328,Guyana,GUY,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1080,,,,8569,,22141,,,2
+H3,2015,2015,2015,4,0,1,Import,328,Guyana,GUY,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,28,,,,6000,,59876,,,0
+H3,2015,2015,2015,4,0,2,Export,328,Guyana,GUY,531,Curaçao,CUW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,78000,,,,72384,,46800,,,0
+H3,2015,2015,2015,4,0,1,Import,328,Guyana,GUY,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,596,,,,19104,,17697,,,2
+H3,2015,2015,2015,4,0,1,Import,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,800,,4247,,,0
+H3,2015,2015,2015,4,0,1,Import,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,7034,,19914,,,2
+H3,2015,2015,2015,4,0,2,Export,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,33,,,,55,,293,,,2
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,181292,,274763,,,0
+H3,2016,2016,2016,4,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,83070,,68856,,,0
+H3,2016,2016,2016,4,0,3,Re-Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,8425,,21817,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,544,,885,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,84,,347,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,168,,567,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,44,Bahamas,BHS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,126,,515,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,190,,720,,,0
+H3,2016,2016,2016,4,0,2,Export,328,Guyana,GUY,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,319,,192,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,2288,,3392,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,60,Bermuda,BMU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,211,,451,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,168,,687,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,84,Belize,BLZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,301,,1039,,,0
+H3,2016,2016,2016,4,0,2,Export,328,Guyana,GUY,92,Br. Virgin Isds,VGB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,80,,47,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,168,,716,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,76086,,82506,,,0
+H3,2016,2016,2016,4,0,2,Export,328,Guyana,GUY,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,5636,,12149,,,0
+H3,2016,2016,2016,4,0,3,Re-Export,328,Guyana,GUY,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,5636,,12149,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,6315,,6435,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,84,,245,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,184,Cook Isds,COK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,84,,248,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,84,,228,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,84,,245,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,84,,245,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,214,Dominican Rep.,DOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,168,,489,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,222,El Salvador,SLV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,168,,489,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,84,,213,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,7649,,15725,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,92,,473,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,84,,558,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,292,Gibraltar,GIB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,42,,147,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,304,Greenland,GRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,76,,766,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,308,Grenada,GRD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,168,,473,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,316,Guam,GUM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,168,,880,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,18505,,35821,,,0
+H3,2016,2016,2016,4,0,2,Export,328,Guyana,GUY,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,756,,2599,,,0
+H3,2016,2016,2016,4,0,3,Re-Export,328,Guyana,GUY,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,756,,2599,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,120,,1263,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,492,,1142,,,0
+H3,2016,2016,2016,4,0,2,Export,328,Guyana,GUY,531,Curaçao,CUW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,74246,,46800,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,533,Aruba,ABW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,432,,369,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,579,Norway,NOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,168,,709,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,660,Anguilla,AIA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,84,,356,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,26107,,32358,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,49,,86,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,1760,,1330,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,4578,,5571,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,45,,433,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,84,,360,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,33099,,75279,,,0
+H3,2016,2016,2016,4,0,2,Export,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,2033,,7070,,,0
+H3,2016,2016,2016,4,0,3,Re-Export,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,2033,,7070,,,0
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,68331,,,,120994,,255602,,,2
+H3,2017,2017,2017,4,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,28701,,13146,,,2
+H3,2017,2017,2017,4,0,3,Re-Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1816,,,,2326,,10963,,,0
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1386,,,,3570,,4148,,,0
+H3,2017,2017,2017,4,0,2,Export,328,Guyana,GUY,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,25783,,900,,,2
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,774,,,,210,,3224,,,2
+H3,2017,2017,2017,4,0,2,Export,328,Guyana,GUY,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,112,,,,210,,3224,,,0
+H3,2017,2017,2017,4,0,3,Re-Export,328,Guyana,GUY,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,112,,,,210,,3224,,,0
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6732,,,,3040,,17412,,,2
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,301,,,,1862,,2711,,,2
+H3,2017,2017,2017,4,0,2,Export,328,Guyana,GUY,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,8,,45,,,2
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,72,,,,67,,674,,,0
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,84,Belize,BLZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,72,,,,67,,758,,,0
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5536,,,,6425,,8718,,,2
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,19989,,,,47734,,78293,,,2
+H3,2017,2017,2017,4,0,2,Export,328,Guyana,GUY,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,552,,,,974,,2137,,,0
+H3,2017,2017,2017,4,0,3,Re-Export,328,Guyana,GUY,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,552,,,,974,,2137,,,0
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1536,,,,2880,,3946,,,2
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,384,,,,172,,1601,,,2
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,59,,,,126,,342,,,2
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,117,,,,168,,489,,,2
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,58,,,,84,,244,,,2
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,212,Dominica,DMA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,266,,,,84,,1111,,,2
+H3,2017,2017,2017,4,0,2,Export,328,Guyana,GUY,212,Dominica,DMA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,336,,,,528,,840,,,0
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,437,,,,4508,,1807,,,2
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,360,,,,1710,,845,,,0
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,225,,,,844,,716,,,0
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12526,,,,17632,,55131,,,2
+H3,2017,2017,2017,4,0,2,Export,328,Guyana,GUY,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,720,,,,991,,3224,,,0
+H3,2017,2017,2017,4,0,3,Re-Export,328,Guyana,GUY,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,720,,,,991,,3224,,,0
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,203,,,,84,,846,,,2
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,360,,,,336,,845,,,0
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,604,Peru,PER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,180,,,,168,,422,,,0
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,270,,,,1154,,950,,,0
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,704,Viet Nam,VNM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,252,,,,235,,1307,,,0
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1023,,,,2781,,4244,,,2
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9,,,,99,,171,,,0
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1318,,,,1305,,3409,,,2
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1071,,,,3360,,2513,,,0
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,87,,,,252,,363,,,2
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,228,,,,84,,952,,,2
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,281,,,,2482,,1640,,,2
+H3,2017,2017,2017,4,0,2,Export,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,318,,,,43,,350,,,2
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12120,,,,17184,,54679,,,2
+H3,2017,2017,2017,4,0,2,Export,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,438,,,,163,,2424,,,2
+H3,2017,2017,2017,4,0,3,Re-Export,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,432,,,,151,,2376,,,0
+H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,862,Venezuela,VEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,90,,,,279,,1074,,,0
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,139332,,,,185770,,512312,,,2
+H3,2018,2018,2018,4,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1387,,,,1852,,4590,,,0
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,405,,,,2780,,1531,,,0
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,47554,,,,12019,,62220,,,2
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1016,,,,1710,,9236,,,0
+H3,2018,2018,2018,4,0,2,Export,328,Guyana,GUY,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,32,,,,342,,590,,,0
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,132,Cabo Verde,CPV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,270,,,,1122,,629,,,0
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,144,Sri Lanka,LKA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,450,,,,756,,1383,,,0
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,24919,,,,48175,,121723,,,2
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4194,,,,7996,,9825,,,2
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,184,Cook Isds,COK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,46,,,,207,,246,,,2
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,180,,,,1331,,842,,,0
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,218,Ecuador,ECU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,270,,,,252,,629,,,0
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,272,,,,2897,,1280,,,2
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,320,Guatemala,GTM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,270,,,,1584,,729,,,0
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,112,,,,144,,396,,,2
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,26916,,,,48464,,121863,,,2
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1152,,,,522,,6949,,,0
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,400,Jordan,JOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,540,,,,504,,1258,,,0
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,496,Mongolia,MNG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,900,,,,1680,,2411,,,0
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,531,Curaçao,CUW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18,,,,12,,556,,,0
+H3,2018,2018,2018,4,0,2,Export,328,Guyana,GUY,531,Curaçao,CUW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5,,,,10,,259,,,0
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,135,,,,2056,,315,,,0
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,355,,,,553,,4016,,,0
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,225,,,,249,,527,,,0
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,270,,,,252,,629,,,0
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,225,,,,210,,1048,,,0
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10829,,,,20921,,32351,,,2
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,96,,,,41,,120,,,0
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,740,,,,406,,5630,,,0
+H3,2018,2018,2018,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1350,,,,1500,,3740,,,0
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1530,,,,2856,,5713,,,0
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8,,,,5,,183,,,0
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1185,,,,2765,,2883,,,2
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,14244,,,,23293,,115179,,,2
+H5,2020,2020,2020,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,126897,,,,180769,,491071,,,0
+H5,2020,2020,2020,4,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1495,,,,1683,,8211,,,0
+H5,2020,2020,2020,4,0,1,Import,328,Guyana,GUY,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16,,,,24,,148,,,0
+H5,2020,2020,2020,4,0,1,Import,328,Guyana,GUY,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,27,,,,190,,128,,,0
+H5,2020,2020,2020,4,0,1,Import,328,Guyana,GUY,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3150,,,,3252,,12186,,,0
+H5,2020,2020,2020,4,0,1,Import,328,Guyana,GUY,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14742,,,,20427,,44561,,,0
+H5,2020,2020,2020,4,0,2,Export,328,Guyana,GUY,212,Dominica,DMA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,210,,,,385,,525,,,0
+H5,2020,2020,2020,4,0,1,Import,328,Guyana,GUY,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18540,,,,20092,,85103,,,0
+H5,2020,2020,2020,4,0,1,Import,328,Guyana,GUY,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11399,,,,18306,,47571,,,0
+H5,2020,2020,2020,4,0,1,Import,328,Guyana,GUY,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,788,,,,1314,,3951,,,0
+H5,2020,2020,2020,4,0,2,Export,328,Guyana,GUY,534,Saint Maarten,SXM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,160,,,,50,,189,,,0
+H5,2020,2020,2020,4,0,2,Export,328,Guyana,GUY,659,Saint Kitts and Nevis,KNA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10,,,,10,,1,,,0
+H5,2020,2020,2020,4,0,1,Import,328,Guyana,GUY,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,28629,,,,45263,,84717,,,0
+H5,2020,2020,2020,4,0,1,Import,328,Guyana,GUY,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8060,,,,14323,,24317,,,0
+H5,2020,2020,2020,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,833,,,,1706,,13698,,,0
+H5,2020,2020,2020,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,135,,,,20,,539,,,0
+H5,2020,2020,2020,4,0,1,Import,328,Guyana,GUY,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,4,,19,,,0
+H5,2020,2020,2020,4,0,2,Export,328,Guyana,GUY,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,428,,,,110,,1883,,,0
+H5,2020,2020,2020,4,0,1,Import,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,30,,,,57,,172,,,0
+H5,2020,2020,2020,4,0,1,Import,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,40680,,,,55806,,174494,,,0
+H5,2020,2020,2020,4,0,2,Export,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,552,,,,1108,,5072,,,0
+H5,2021,2021,2021,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,178615,,,,268791,,735688,,,4
+H5,2021,2021,2021,4,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8661,,,,9015,,16065,,,0
+H5,2021,2021,2021,4,0,1,Import,328,Guyana,GUY,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1516,,,,4749,,7367,,,0
+H5,2021,2021,2021,4,0,1,Import,328,Guyana,GUY,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13889,,,,18753,,45062,,,0
+H5,2021,2021,2021,4,0,1,Import,328,Guyana,GUY,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8,,,,3,,46,,,0
+H5,2021,2021,2021,4,0,2,Export,328,Guyana,GUY,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,100,,,,100,,23,,,0
+H5,2021,2021,2021,4,0,1,Import,328,Guyana,GUY,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,50,,,,47,,215,,,0
+H5,2021,2021,2021,4,0,1,Import,328,Guyana,GUY,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,59,,,,77,,227,,,0
+H5,2021,2021,2021,4,0,2,Export,328,Guyana,GUY,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,990,,,,1330,,1925,,,0
+H5,2021,2021,2021,4,0,1,Import,328,Guyana,GUY,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,28795,,,,42868,,114905,,,0
+H5,2021,2021,2021,4,0,2,Export,328,Guyana,GUY,212,Dominica,DMA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6802,,,,7012,,10167,,,0
+H5,2021,2021,2021,4,0,1,Import,328,Guyana,GUY,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10564,,,,12817,,93296,,,0
+H5,2021,2021,2021,4,0,1,Import,328,Guyana,GUY,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3,,,,5,,133,,,0
+H5,2021,2021,2021,4,0,1,Import,328,Guyana,GUY,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14860,,,,23150,,74916,,,0
+H5,2021,2021,2021,4,0,1,Import,328,Guyana,GUY,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1710,,,,2165,,6079,,,0
+H5,2021,2021,2021,4,0,2,Export,328,Guyana,GUY,534,Saint Maarten,SXM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,59,,,,63,,773,,,0
+H5,2021,2021,2021,4,0,1,Import,328,Guyana,GUY,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,976,,,,2700,,22663,,,4
+H5,2021,2021,2021,4,0,1,Import,328,Guyana,GUY,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90,,,,328,,1557,,,0
+H5,2021,2021,2021,4,0,1,Import,328,Guyana,GUY,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,23739,,,,37392,,69160,,,0
+H5,2021,2021,2021,4,0,1,Import,328,Guyana,GUY,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7748,,,,17106,,24919,,,0
+H5,2021,2021,2021,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12579,,,,20189,,46730,,,0
+H5,2021,2021,2021,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,705,,,,500,,3023,,,0
+H5,2021,2021,2021,4,0,1,Import,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9603,,,,2449,,44412,,,0
+H5,2021,2021,2021,4,0,2,Export,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5,,,,10,,151,,,0
+H5,2021,2021,2021,4,0,1,Import,328,Guyana,GUY,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,52422,,,,83986,,183994,,,0

@@ -1,0 +1,237 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2002,2002,2002,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,772904,,,,772904,,462500,,,2
+H2,2002,2002,2002,4,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1900,,,,1900,,5014,,,2
+H2,2002,2002,2002,4,0,1,Import,562,Niger,NER,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,260,,,,260,,458,,,2
+H2,2002,2002,2002,4,0,1,Import,562,Niger,NER,204,Benin,BEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10,,,,10,,104,,,2
+H2,2002,2002,2002,4,0,1,Import,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,85674,,,,85674,,167909,,,2
+H2,2002,2002,2002,4,0,2,Export,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1900,,,,1900,,5014,,,2
+H2,2002,2002,2002,4,0,1,Import,562,Niger,NER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2248,,,,2248,,3447,,,2
+H2,2002,2002,2002,4,0,1,Import,562,Niger,NER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,180,,,,180,,818,,,2
+H2,2002,2002,2002,4,0,1,Import,562,Niger,NER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,683649,,,,683649,,288077,,,2
+H2,2002,2002,2002,4,0,1,Import,562,Niger,NER,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,168,,,,168,,633,,,2
+H2,2002,2002,2002,4,0,1,Import,562,Niger,NER,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,715,,,,715,,1054,,,2
+H2,2003,2003,2003,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,417978,,,,417978,,383250,,,2
+H2,2003,2003,2003,4,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7930,,,,7930,,24297,,,2
+H2,2003,2003,2003,4,0,1,Import,562,Niger,NER,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,260,,,,260,,416,,,2
+H2,2003,2003,2003,4,0,2,Export,562,Niger,NER,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2494,,,,2494,,7390,,,2
+H2,2003,2003,2003,4,0,1,Import,562,Niger,NER,204,Benin,BEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,50,,,,50,,99,,,2
+H2,2003,2003,2003,4,0,1,Import,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,81625,,,,81625,,183539,,,2
+H2,2003,2003,2003,4,0,2,Export,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,413,,,,413,,1965,,,2
+H2,2003,2003,2003,4,0,1,Import,562,Niger,NER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,1,,6,,,2
+H2,2003,2003,2003,4,0,2,Export,562,Niger,NER,434,Libya,LBY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3377,,,,3377,,9904,,,2
+H2,2003,2003,2003,4,0,1,Import,562,Niger,NER,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,427,,,,427,,1083,,,2
+H2,2003,2003,2003,4,0,1,Import,562,Niger,NER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,334156,,,,334156,,186200,,,2
+H2,2003,2003,2003,4,0,1,Import,562,Niger,NER,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,50,,,,50,,17,,,2
+H2,2003,2003,2003,4,0,1,Import,562,Niger,NER,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1409,,,,1409,,11891,,,2
+H2,2003,2003,2003,4,0,2,Export,562,Niger,NER,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1646,,,,1646,,5038,,,2
+H2,2004,2004,2004,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,674961,,,,674961,,558329,,,2
+H2,2004,2004,2004,4,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7502,,,,7502,,40067,,,2
+H2,2004,2004,2004,4,0,1,Import,562,Niger,NER,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,260,,,,260,,451,,,2
+H2,2004,2004,2004,4,0,1,Import,562,Niger,NER,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,62,,,,62,,132,,,2
+H2,2004,2004,2004,4,0,1,Import,562,Niger,NER,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,101,,,,101,,2033,,,2
+H2,2004,2004,2004,4,0,1,Import,562,Niger,NER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,225,,,,225,,328,,,2
+H2,2004,2004,2004,4,0,1,Import,562,Niger,NER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,190,,,,190,,3863,,,2
+H2,2004,2004,2004,4,0,1,Import,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,128329,,,,128329,,259125,,,2
+H2,2004,2004,2004,4,0,1,Import,562,Niger,NER,288,Ghana,GHA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,240,,,,240,,91,,,2
+H2,2004,2004,2004,4,0,1,Import,562,Niger,NER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1552,,,,1552,,4518,,,2
+H2,2004,2004,2004,4,0,2,Export,562,Niger,NER,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2032,,,,2032,,9094,,,2
+H2,2004,2004,2004,4,0,2,Export,562,Niger,NER,434,Libya,LBY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1719,,,,1719,,10940,,,2
+H2,2004,2004,2004,4,0,1,Import,562,Niger,NER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1428,,,,1428,,3006,,,2
+H2,2004,2004,2004,4,0,1,Import,562,Niger,NER,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,61,,,,61,,128,,,2
+H2,2004,2004,2004,4,0,1,Import,562,Niger,NER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,542040,,,,542040,,281149,,,2
+H2,2004,2004,2004,4,0,1,Import,562,Niger,NER,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,256,,,,256,,1852,,,2
+H2,2004,2004,2004,4,0,1,Import,562,Niger,NER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,84,,,,84,,561,,,2
+H2,2004,2004,2004,4,0,1,Import,562,Niger,NER,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,133,,,,133,,1091,,,2
+H2,2004,2004,2004,4,0,2,Export,562,Niger,NER,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3751,,,,3751,,20034,,,2
+H1,2000,2000,2000,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,401665,,,,401665,,304931,,,2
+H1,2000,2000,2000,4,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,40740,,,,40740,,52367,,,2
+H1,2000,2000,2000,4,0,1,Import,562,Niger,NER,12,Algeria,DZA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,275,,,,275,,740,,,2
+H1,2000,2000,2000,4,0,1,Import,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,76526,,,,76526,,139333,,,2
+H1,2000,2000,2000,4,0,2,Export,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,52,,,,52,,213,,,2
+H1,2000,2000,2000,4,0,1,Import,562,Niger,NER,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,121,,,,121,,201,,,2
+H1,2000,2000,2000,4,0,1,Import,562,Niger,NER,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36,,,,36,,87,,,2
+H1,2000,2000,2000,4,0,1,Import,562,Niger,NER,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,317987,,,,317987,,135794,,,2
+H1,2000,2000,2000,4,0,2,Export,562,Niger,NER,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1995,,,,1995,,6201,,,2
+H1,2000,2000,2000,4,0,1,Import,562,Niger,NER,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3045,,,,3045,,24670,,,2
+H1,2000,2000,2000,4,0,1,Import,562,Niger,NER,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3675,,,,3675,,4105,,,2
+H1,2000,2000,2000,4,0,2,Export,562,Niger,NER,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,38693,,,,38693,,45953,,,2
+H1,2001,2001,2001,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,990511,,,,990511,,565342,,,2
+H1,2001,2001,2001,4,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5704,,,,5704,,22719,,,2
+H1,2001,2001,2001,4,0,1,Import,562,Niger,NER,12,Algeria,DZA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1618,,,,1618,,1107,,,2
+H1,2001,2001,2001,4,0,1,Import,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,138077,,,,138077,,203636,,,2
+H1,2001,2001,2001,4,0,2,Export,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4521,,,,4521,,13739,,,2
+H1,2001,2001,2001,4,0,1,Import,562,Niger,NER,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18,,,,18,,41,,,2
+H1,2001,2001,2001,4,0,1,Import,562,Niger,NER,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15955,,,,15955,,16356,,,2
+H1,2001,2001,2001,4,0,1,Import,562,Niger,NER,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,834823,,,,834823,,343888,,,2
+H1,2001,2001,2001,4,0,1,Import,562,Niger,NER,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,20,,,,20,,315,,,2
+H1,2001,2001,2001,4,0,2,Export,562,Niger,NER,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1183,,,,1183,,8979,,,2
+H3,2009,2009,2009,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,566593,,,,566593,,625470,,,2
+H3,2009,2009,2009,4,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1871,,,,1871,,17988,,,2
+H3,2009,2009,2009,4,0,1,Import,562,Niger,NER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,22500,,,,22500,,13182,,,2
+H3,2009,2009,2009,4,0,1,Import,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,171258,,,,171258,,387066,,,2
+H3,2009,2009,2009,4,0,2,Export,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1871,,,,1871,,17988,,,2
+H3,2009,2009,2009,4,0,1,Import,562,Niger,NER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,293,,,,293,,1107,,,2
+H3,2009,2009,2009,4,0,1,Import,562,Niger,NER,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,611,,,,611,,2434,,,2
+H3,2009,2009,2009,4,0,1,Import,562,Niger,NER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,371931,,,,371931,,221682,,,2
+H2,2005,2005,2005,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,624973,,,,624973,,550065,,,2
+H2,2005,2005,2005,4,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6668,,,,6668,,47483,,,2
+H2,2005,2005,2005,4,0,1,Import,562,Niger,NER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,385,,,,385,,519,,,2
+H2,2005,2005,2005,4,0,1,Import,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,115419,,,,115419,,274729,,,2
+H2,2005,2005,2005,4,0,2,Export,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,151,,,,151,,1074,,,2
+H2,2005,2005,2005,4,0,1,Import,562,Niger,NER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1562,,,,1562,,1553,,,2
+H2,2005,2005,2005,4,0,2,Export,562,Niger,NER,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,578,,,,578,,4495,,,2
+H2,2005,2005,2005,4,0,2,Export,562,Niger,NER,434,Libya,LBY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2605,,,,2605,,18172,,,2
+H2,2005,2005,2005,4,0,1,Import,562,Niger,NER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,276,,,,276,,506,,,2
+H2,2005,2005,2005,4,0,1,Import,562,Niger,NER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,486009,,,,486009,,260529,,,2
+H2,2005,2005,2005,4,0,1,Import,562,Niger,NER,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21000,,,,21000,,11654,,,2
+H2,2005,2005,2005,4,0,1,Import,562,Niger,NER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,322,,,,322,,575,,,2
+H2,2005,2005,2005,4,0,2,Export,562,Niger,NER,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3334,,,,3334,,23741,,,2
+H2,2006,2006,2006,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,623834,,,,623834,,530219,,,2
+H2,2006,2006,2006,4,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3360,,,,3360,,27367,,,2
+H2,2006,2006,2006,4,0,1,Import,562,Niger,NER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,46,,,,46,,1210,,,2
+H2,2006,2006,2006,4,0,1,Import,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,115038,,,,115038,,275542,,,2
+H2,2006,2006,2006,4,0,1,Import,562,Niger,NER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1705,,,,1705,,4045,,,2
+H2,2006,2006,2006,4,0,2,Export,562,Niger,NER,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1495,,,,1495,,12590,,,2
+H2,2006,2006,2006,4,0,1,Import,562,Niger,NER,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,593,,,,593,,1809,,,2
+H2,2006,2006,2006,4,0,1,Import,562,Niger,NER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,31,,,,31,,102,,,2
+H2,2006,2006,2006,4,0,1,Import,562,Niger,NER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,504932,,,,504932,,242201,,,2
+H2,2006,2006,2006,4,0,1,Import,562,Niger,NER,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,1,,135,,,2
+H2,2006,2006,2006,4,0,1,Import,562,Niger,NER,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1488,,,,1488,,5174,,,2
+H2,2006,2006,2006,4,0,2,Export,562,Niger,NER,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,185,,,,185,,1094,,,2
+H2,2006,2006,2006,4,0,2,Export,562,Niger,NER,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1680,,,,1680,,13684,,,2
+H2,2007,2007,2007,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,653080,,,,653080,,559766,,,2
+H2,2007,2007,2007,4,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5248,,,,5248,,62172,,,2
+H2,2007,2007,2007,4,0,1,Import,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,81146,,,,81146,,253528,,,2
+H2,2007,2007,2007,4,0,2,Export,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2624,,,,2624,,31086,,,2
+H2,2007,2007,2007,4,0,1,Import,562,Niger,NER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,494,,,,494,,1727,,,2
+H2,2007,2007,2007,4,0,1,Import,562,Niger,NER,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,100,,,,100,,106,,,2
+H2,2007,2007,2007,4,0,1,Import,562,Niger,NER,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,658,,,,658,,2300,,,2
+H2,2007,2007,2007,4,0,1,Import,562,Niger,NER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,230,,,,230,,993,,,2
+H2,2007,2007,2007,4,0,1,Import,562,Niger,NER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,561449,,,,561449,,297551,,,2
+H2,2007,2007,2007,4,0,1,Import,562,Niger,NER,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8883,,,,8883,,3444,,,2
+H2,2007,2007,2007,4,0,1,Import,562,Niger,NER,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,120,,,,120,,117,,,2
+H2,2007,2007,2007,4,0,2,Export,562,Niger,NER,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2624,,,,2624,,31086,,,2
+H2,2008,2008,2008,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,639252,,,,639252,,513625,,,2
+H2,2008,2008,2008,4,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1786,,,,1786,,552,,,2
+H2,2008,2008,2008,4,0,1,Import,562,Niger,NER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20400,,,,20400,,10950,,,2
+H2,2008,2008,2008,4,0,1,Import,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,171208,,,,171208,,257477,,,2
+H2,2008,2008,2008,4,0,2,Export,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,893,,,,893,,276,,,2
+H2,2008,2008,2008,4,0,1,Import,562,Niger,NER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,264,,,,264,,1262,,,2
+H2,2008,2008,2008,4,0,1,Import,562,Niger,NER,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,513,,,,513,,2245,,,2
+H2,2008,2008,2008,4,0,1,Import,562,Niger,NER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,400,,,,400,,867,,,2
+H2,2008,2008,2008,4,0,1,Import,562,Niger,NER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,446467,,,,446467,,240825,,,2
+H2,2008,2008,2008,4,0,2,Export,562,Niger,NER,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,893,,,,893,,276,,,2
+H3,2010,2010,2010,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,792852,,,,792852,,809040,,,2
+H3,2010,2010,2010,4,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4911,,,,4911,,53469,,,2
+H3,2010,2010,2010,4,0,1,Import,562,Niger,NER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15,,,,15,,41,,,2
+H3,2010,2010,2010,4,0,1,Import,562,Niger,NER,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15,,,,15,,30,,,2
+H3,2010,2010,2010,4,0,1,Import,562,Niger,NER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15,,,,15,,41,,,2
+H3,2010,2010,2010,4,0,1,Import,562,Niger,NER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,84,,,,84,,5544,,,2
+H3,2010,2010,2010,4,0,1,Import,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,166500,,,,166500,,472104,,,2
+H3,2010,2010,2010,4,0,2,Export,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4911,,,,4911,,53469,,,2
+H3,2010,2010,2010,4,0,1,Import,562,Niger,NER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,21617,,,,21617,,6401,,,2
+H3,2010,2010,2010,4,0,1,Import,562,Niger,NER,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1758,,,,1758,,7521,,,2
+H3,2010,2010,2010,4,0,1,Import,562,Niger,NER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,16,,,,16,,39,,,2
+H3,2010,2010,2010,4,0,1,Import,562,Niger,NER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,602832,,,,602832,,317320,,,2
+H3,2011,2011,2011,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,869922,,,,869922,,684622,,,2
+H3,2011,2011,2011,4,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5270,,,,5270,,79044,,,2
+H3,2011,2011,2011,4,0,3,Re-Export,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2635,,,,2635,,39522,,,2
+H3,2011,2011,2011,4,0,1,Import,562,Niger,NER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,23,,,,23,,106,,,2
+H3,2011,2011,2011,4,0,1,Import,562,Niger,NER,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,23,,,,23,,85,,,2
+H3,2011,2011,2011,4,0,1,Import,562,Niger,NER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,54,,,,54,,292,,,2
+H3,2011,2011,2011,4,0,1,Import,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,133452,,,,133452,,337401,,,2
+H3,2011,2011,2011,4,0,2,Export,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5270,,,,5270,,79044,,,2
+H3,2011,2011,2011,4,0,3,Re-Export,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2635,,,,2635,,39522,,,2
+H3,2011,2011,2011,4,0,1,Import,562,Niger,NER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,159163,,,,159163,,43679,,,2
+H3,2011,2011,2011,4,0,1,Import,562,Niger,NER,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,42,,,,42,,53,,,2
+H3,2011,2011,2011,4,0,1,Import,562,Niger,NER,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,953,,,,953,,3111,,,2
+H3,2011,2011,2011,4,0,1,Import,562,Niger,NER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,478,,,,478,,2168,,,2
+H3,2011,2011,2011,4,0,1,Import,562,Niger,NER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,572616,,,,572616,,297265,,,2
+H3,2011,2011,2011,4,0,1,Import,562,Niger,NER,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,91,,,,91,,308,,,2
+H3,2011,2011,2011,4,0,1,Import,562,Niger,NER,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3000,,,,3000,,21,,,2
+H3,2011,2011,2011,4,0,1,Import,562,Niger,NER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,27,,,,27,,131,,,2
+H3,2012,2012,2012,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,918200,,,,918200,,558524,,,2
+H3,2012,2012,2012,4,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3439472,,,,3439472,,23646,,,2
+H3,2012,2012,2012,4,0,3,Re-Export,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1719736,,,,1719736,,11823,,,2
+H3,2012,2012,2012,4,0,1,Import,562,Niger,NER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,77,,,,77,,202,,,2
+H3,2012,2012,2012,4,0,1,Import,562,Niger,NER,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,77,,,,77,,202,,,2
+H3,2012,2012,2012,4,0,1,Import,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,164923,,,,164923,,185274,,,2
+H3,2012,2012,2012,4,0,2,Export,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3439472,,,,3439472,,23646,,,2
+H3,2012,2012,2012,4,0,3,Re-Export,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1719736,,,,1719736,,11823,,,2
+H3,2012,2012,2012,4,0,1,Import,562,Niger,NER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,47556,,,,47556,,12711,,,2
+H3,2012,2012,2012,4,0,1,Import,562,Niger,NER,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1541,,,,1541,,798,,,2
+H3,2012,2012,2012,4,0,1,Import,562,Niger,NER,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18,,,,18,,131,,,2
+H3,2012,2012,2012,4,0,1,Import,562,Niger,NER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1028,,,,1028,,4874,,,2
+H3,2012,2012,2012,4,0,1,Import,562,Niger,NER,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3000,,,,3000,,1597,,,2
+H3,2012,2012,2012,4,0,1,Import,562,Niger,NER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,699903,,,,699903,,352527,,,2
+H3,2012,2012,2012,4,0,1,Import,562,Niger,NER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,77,,,,77,,209,,,2
+H3,2013,2013,2013,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,761716,,,,761716,,643542,,,2
+H3,2013,2013,2013,4,0,1,Import,562,Niger,NER,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15000,,,,15000,,12004,,,2
+H3,2013,2013,2013,4,0,1,Import,562,Niger,NER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,45075,,,,45075,,19638,,,2
+H3,2013,2013,2013,4,0,1,Import,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,74085,,,,74085,,235850,,,2
+H3,2013,2013,2013,4,0,1,Import,562,Niger,NER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,343,,,,343,,1115,,,2
+H3,2013,2013,2013,4,0,1,Import,562,Niger,NER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,288,,,,288,,887,,,2
+H3,2013,2013,2013,4,0,1,Import,562,Niger,NER,704,Viet Nam,VNM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,183,,,,183,,389,,,2
+H3,2013,2013,2013,4,0,1,Import,562,Niger,NER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,610091,,,,610091,,354226,,,2
+H3,2013,2013,2013,4,0,1,Import,562,Niger,NER,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,310,,,,310,,1446,,,2
+H3,2013,2013,2013,4,0,1,Import,562,Niger,NER,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,16341,,,,16341,,17986,,,2
+H3,2014,2014,2014,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,602773,,,,602773,,506122,,,2
+H3,2014,2014,2014,4,0,1,Import,562,Niger,NER,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,355,,,,355,,890,,,2
+H3,2014,2014,2014,4,0,1,Import,562,Niger,NER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,21243,,,,21243,,13051,,,2
+H3,2014,2014,2014,4,0,1,Import,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,99492,,,,99492,,227535,,,2
+H3,2014,2014,2014,4,0,1,Import,562,Niger,NER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,306,,,,306,,1115,,,2
+H3,2014,2014,2014,4,0,1,Import,562,Niger,NER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,481377,,,,481377,,263530,,,2
+H5,2018,2018,2018,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,519702,,,,519702,,339780,,,2
+H5,2018,2018,2018,4,0,1,Import,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,31700,,,,31700,,98317,,,2
+H5,2018,2018,2018,4,0,1,Import,562,Niger,NER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,641,,,,641,,1846,,,2
+H5,2018,2018,2018,4,0,1,Import,562,Niger,NER,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,406,,,,406,,748,,,2
+H5,2018,2018,2018,4,0,1,Import,562,Niger,NER,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,169,,,,169,,2589,,,2
+H5,2018,2018,2018,4,0,1,Import,562,Niger,NER,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14528,,,,14528,,64167,,,2
+H5,2018,2018,2018,4,0,1,Import,562,Niger,NER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,278458,,,,278458,,120072,,,2
+H5,2018,2018,2018,4,0,1,Import,562,Niger,NER,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,158800,,,,158800,,47159,,,2
+H5,2018,2018,2018,4,0,1,Import,562,Niger,NER,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,35000,,,,35000,,4878,,,2
+H5,2019,2019,2019,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,126126,,376129,,,6
+H5,2019,2019,2019,4,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2962,,,,3011,,14624,,,6
+H5,2019,2019,2019,4,0,1,Import,562,Niger,NER,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,47,,,,56,,210,,,6
+H5,2019,2019,2019,4,0,1,Import,562,Niger,NER,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,173,,858,,,6
+H5,2019,2019,2019,4,0,1,Import,562,Niger,NER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20824,,,,20928,,25801,,,6
+H5,2019,2019,2019,4,0,1,Import,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36143,,,,39314,,102668,,,6
+H5,2019,2019,2019,4,0,2,Export,562,Niger,NER,466,Mali,MLI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2962,,,,3011,,14624,,,6
+H5,2019,2019,2019,4,0,1,Import,562,Niger,NER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2266,,,,2696,,10114,,,6
+H5,2019,2019,2019,4,0,1,Import,562,Niger,NER,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,29,,,,35,,132,,,6
+H5,2019,2019,2019,4,0,1,Import,562,Niger,NER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,33101,,,,39374,,147698,,,6
+H5,2019,2019,2019,4,0,1,Import,562,Niger,NER,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,267,,1320,,,6
+H5,2019,2019,2019,4,0,1,Import,562,Niger,NER,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19570,,,,23279,,87323,,,6
+H4,2015,2015,2015,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,537307,,,,537307,,329872,,,2
+H4,2015,2015,2015,4,0,1,Import,562,Niger,NER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9,,,,9,,72,,,2
+H4,2015,2015,2015,4,0,1,Import,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,67617,,,,67617,,112898,,,2
+H4,2015,2015,2015,4,0,1,Import,562,Niger,NER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,312,,,,312,,1367,,,2
+H4,2015,2015,2015,4,0,1,Import,562,Niger,NER,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14,,,,14,,24,,,2
+H4,2015,2015,2015,4,0,1,Import,562,Niger,NER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,463275,,,,463275,,204925,,,2
+H4,2015,2015,2015,4,0,1,Import,562,Niger,NER,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6080,,,,6080,,10587,,,2
+H4,2016,2016,2016,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,976696,,,,976696,,485806,,,2
+H4,2016,2016,2016,4,0,1,Import,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,82064,,,,82064,,99561,,,2
+H4,2016,2016,2016,4,0,1,Import,562,Niger,NER,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,21600,,,,21600,,9497,,,2
+H4,2016,2016,2016,4,0,1,Import,562,Niger,NER,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4600,,,,4600,,173,,,2
+H4,2016,2016,2016,4,0,1,Import,562,Niger,NER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,87791,,,,87791,,34918,,,2
+H4,2016,2016,2016,4,0,1,Import,562,Niger,NER,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,40264,,,,40264,,8828,,,2
+H4,2016,2016,2016,4,0,1,Import,562,Niger,NER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,726932,,,,726932,,314347,,,2
+H4,2016,2016,2016,4,0,1,Import,562,Niger,NER,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4045,,,,4045,,5998,,,2
+H4,2016,2016,2016,4,0,1,Import,562,Niger,NER,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9400,,,,9400,,12481,,,2
+H4,2017,2017,2017,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,660418,,,,660418,,367467,,,2
+H4,2017,2017,2017,4,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19394,,,,19394,,12151,,,2
+H4,2017,2017,2017,4,0,1,Import,562,Niger,NER,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16114,,,,16114,,8061,,,2
+H4,2017,2017,2017,4,0,1,Import,562,Niger,NER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24433,,,,24433,,9342,,,2
+H4,2017,2017,2017,4,0,2,Export,562,Niger,NER,204,Benin,BEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19394,,,,19394,,12151,,,2
+H4,2017,2017,2017,4,0,1,Import,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,65039,,,,65039,,123326,,,2
+H4,2017,2017,2017,4,0,1,Import,562,Niger,NER,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,33697,,,,33697,,15962,,,2
+H4,2017,2017,2017,4,0,1,Import,562,Niger,NER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,445235,,,,445235,,188988,,,2
+H4,2017,2017,2017,4,0,1,Import,562,Niger,NER,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,75900,,,,75900,,21785,,,2
+H5,2020,2020,2020,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,794248,,,,794248,,297615,,,2
+H5,2020,2020,2020,4,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4882,,,,4882,,1680,,,2
+H5,2020,2020,2020,4,0,2,Export,562,Niger,NER,148,Chad,TCD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4882,,,,4882,,1680,,,2
+H5,2020,2020,2020,4,0,1,Import,562,Niger,NER,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,72,,,,72,,37,,,2
+H5,2020,2020,2020,4,0,1,Import,562,Niger,NER,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,149507,,,,149507,,65646,,,2
+H5,2020,2020,2020,4,0,1,Import,562,Niger,NER,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90,,,,90,,343,,,2
+H5,2020,2020,2020,4,0,1,Import,562,Niger,NER,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,393129,,,,393129,,165088,,,2
+H5,2020,2020,2020,4,0,1,Import,562,Niger,NER,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,251450,,,,251450,,66498,,,2

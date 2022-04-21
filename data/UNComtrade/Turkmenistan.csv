@@ -1,0 +1,16 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,4,0,1,Import,795,Turkmenistan,TKM,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,394719,,,,,,652915,,,2
+H1,2000,2000,2000,4,0,2,Export,795,Turkmenistan,TKM,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,112636,,,,,,96886,,,2
+H1,2000,2000,2000,4,0,1,Import,795,Turkmenistan,TKM,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,86517,,,,,,142901,,,2
+H1,2000,2000,2000,4,0,1,Import,795,Turkmenistan,TKM,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10651,,,,,,24719,,,2
+H1,2000,2000,2000,4,0,1,Import,795,Turkmenistan,TKM,268,Georgia,GEO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,34504,,,,,,86124,,,2
+H1,2000,2000,2000,4,0,1,Import,795,Turkmenistan,TKM,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,47844,,,,,,111082,,,2
+H1,2000,2000,2000,4,0,1,Import,795,Turkmenistan,TKM,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10019,,,,,,26641,,,2
+H1,2000,2000,2000,4,0,1,Import,795,Turkmenistan,TKM,498,Rep. of Moldova,MDA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,158398,,,,,,163312,,,2
+H1,2000,2000,2000,4,0,1,Import,795,Turkmenistan,TKM,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,167,,,,,,421,,,2
+H1,2000,2000,2000,4,0,1,Import,795,Turkmenistan,TKM,642,Romania,ROU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,14856,,,,,,46080,,,2
+H1,2000,2000,2000,4,0,1,Import,795,Turkmenistan,TKM,643,Russian Federation,RUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2961,,,,,,7480,,,2
+H1,2000,2000,2000,4,0,2,Export,795,Turkmenistan,TKM,643,Russian Federation,RUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,112636,,,,,,96886,,,2
+H1,2000,2000,2000,4,0,1,Import,795,Turkmenistan,TKM,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1196,,,,,,2631,,,2
+H1,2000,2000,2000,4,0,1,Import,795,Turkmenistan,TKM,792,Turkey,TUR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,19694,,,,,,21538,,,2
+H1,2000,2000,2000,4,0,1,Import,795,Turkmenistan,TKM,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7912,,,,,,19986,,,2

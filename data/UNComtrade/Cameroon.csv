@@ -1,0 +1,501 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,4,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5750932,,,,5750932,,3917371,,,6
+H1,2000,2000,2000,4,0,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,596830,,,,596830,,295598,,,6
+H1,2000,2000,2000,4,0,1,Import,120,Cameroon,CMR,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,21,,,,21,,56,,,6
+H1,2000,2000,2000,4,0,1,Import,120,Cameroon,CMR,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,33,,,,33,,63,,,6
+H1,2000,2000,2000,4,0,2,Export,120,Cameroon,CMR,148,Chad,TCD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1000,,,,1000,,13936,,,6
+H1,2000,2000,2000,4,0,2,Export,120,Cameroon,CMR,178,Congo,COG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,595010,,,,595010,,264227,,,6
+H1,2000,2000,2000,4,0,1,Import,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,110035,,,,110035,,29486,,,6
+H1,2000,2000,2000,4,0,1,Import,120,Cameroon,CMR,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1022842,,,,1022842,,1721099,,,6
+H1,2000,2000,2000,4,0,2,Export,120,Cameroon,CMR,266,Gabon,GAB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,820,,,,820,,17435,,,6
+H1,2000,2000,2000,4,0,1,Import,120,Cameroon,CMR,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,621,,,,621,,1022,,,6
+H1,2000,2000,2000,4,0,1,Import,120,Cameroon,CMR,324,Guinea,GIN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8244,,,,8244,,1120,,,6
+H1,2000,2000,2000,4,0,1,Import,120,Cameroon,CMR,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3899,,,,3899,,4116,,,6
+H1,2000,2000,2000,4,0,1,Import,120,Cameroon,CMR,568,"Other Europe, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1029,,,,1029,,3300,,,6
+H1,2000,2000,2000,4,0,1,Import,120,Cameroon,CMR,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3825,,,,3825,,12284,,,6
+H1,2000,2000,2000,4,0,1,Import,120,Cameroon,CMR,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,34295,,,,34295,,60311,,,6
+H1,2000,2000,2000,4,0,1,Import,120,Cameroon,CMR,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4544687,,,,4544687,,2034165,,,6
+H1,2000,2000,2000,4,0,1,Import,120,Cameroon,CMR,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,216,,,,216,,279,,,6
+H1,2000,2000,2000,4,0,1,Import,120,Cameroon,CMR,804,Ukraine,UKR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10890,,,,10890,,13291,,,6
+H1,2000,2000,2000,4,0,1,Import,120,Cameroon,CMR,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,180,,,,180,,395,,,6
+H1,2000,2000,2000,4,0,1,Import,120,Cameroon,CMR,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2156,,,,2156,,1958,,,6
+H1,2000,2000,2000,4,0,1,Import,120,Cameroon,CMR,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7959,,,,7959,,34425,,,6
+H1,2001,2001,2001,4,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5947925,,,,5947925,,3783125,,,2
+H1,2001,2001,2001,4,0,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,635650,,,,635650,,262823,,,2
+H1,2001,2001,2001,4,0,1,Import,120,Cameroon,CMR,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8325,,,,8325,,19218,,,2
+H1,2001,2001,2001,4,0,1,Import,120,Cameroon,CMR,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,334,,,,334,,1256,,,2
+H1,2001,2001,2001,4,0,1,Import,120,Cameroon,CMR,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,110,,,,110,,683,,,2
+H1,2001,2001,2001,4,0,2,Export,120,Cameroon,CMR,178,Congo,COG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,635650,,,,635650,,262823,,,2
+H1,2001,2001,2001,4,0,1,Import,120,Cameroon,CMR,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18,,,,18,,153,,,2
+H1,2001,2001,2001,4,0,1,Import,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,114649,,,,114649,,10989,,,2
+H1,2001,2001,2001,4,0,1,Import,120,Cameroon,CMR,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1379955,,,,1379955,,1715095,,,2
+H1,2001,2001,2001,4,0,1,Import,120,Cameroon,CMR,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,282,,,,282,,987,,,2
+H1,2001,2001,2001,4,0,1,Import,120,Cameroon,CMR,324,Guinea,GIN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,360,,,,360,,43,,,2
+H1,2001,2001,2001,4,0,1,Import,120,Cameroon,CMR,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,27025,,,,27025,,24803,,,2
+H1,2001,2001,2001,4,0,1,Import,120,Cameroon,CMR,422,Lebanon,LBN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,120,,,,120,,349,,,2
+H1,2001,2001,2001,4,0,1,Import,120,Cameroon,CMR,566,Nigeria,NGA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,40,,,,40,,61,,,2
+H1,2001,2001,2001,4,0,1,Import,120,Cameroon,CMR,568,"Other Europe, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,14634,,,,14634,,18117,,,2
+H1,2001,2001,2001,4,0,1,Import,120,Cameroon,CMR,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2941,,,,2941,,10455,,,2
+H1,2001,2001,2001,4,0,1,Import,120,Cameroon,CMR,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,27495,,,,27495,,38795,,,2
+H1,2001,2001,2001,4,0,1,Import,120,Cameroon,CMR,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4338586,,,,4338586,,1896655,,,2
+H1,2001,2001,2001,4,0,1,Import,120,Cameroon,CMR,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,480,,,,480,,6517,,,2
+H1,2001,2001,2001,4,0,1,Import,120,Cameroon,CMR,891,Serbia and Montenegro,SCG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,26672,,,,26672,,22794,,,2
+H1,2001,2001,2001,4,0,1,Import,120,Cameroon,CMR,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5899,,,,5899,,16155,,,2
+H1,2002,2002,2002,4,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6193499,,,,6193495,,3811927,,,6
+H1,2002,2002,2002,4,0,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,926390,,,,926390,,353969,,,6
+H1,2002,2002,2002,4,0,2,Export,120,Cameroon,CMR,140,Central African Rep.,CAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,33906,,,,33906,,13886,,,6
+H1,2002,2002,2002,4,0,2,Export,120,Cameroon,CMR,178,Congo,COG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,839074,,,,839074,,316719,,,6
+H1,2002,2002,2002,4,0,1,Import,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,365651,,,,365651,,49277,,,6
+H1,2002,2002,2002,4,0,1,Import,120,Cameroon,CMR,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1198195,,,,1198195,,1720451,,,6
+H1,2002,2002,2002,4,0,2,Export,120,Cameroon,CMR,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,40,,,,40,,4,,,6
+H1,2002,2002,2002,4,0,2,Export,120,Cameroon,CMR,266,Gabon,GAB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,53370,,,,53370,,23360,,,6
+H1,2002,2002,2002,4,0,1,Import,120,Cameroon,CMR,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16343,,,,16343,,14759,,,6
+H1,2002,2002,2002,4,0,1,Import,120,Cameroon,CMR,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,890,,,,890,,1248,,,6
+H1,2002,2002,2002,4,0,1,Import,120,Cameroon,CMR,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,40279,,,,40279,,62650,,,6
+H1,2002,2002,2002,4,0,1,Import,120,Cameroon,CMR,568,"Other Europe, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,33401,,,,33401,,61096,,,6
+H1,2002,2002,2002,4,0,1,Import,120,Cameroon,CMR,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18694,,,,18694,,11400,,,6
+H1,2002,2002,2002,4,0,1,Import,120,Cameroon,CMR,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,32994,,,,32994,,50882,,,6
+H1,2002,2002,2002,4,0,1,Import,120,Cameroon,CMR,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4483210,,,,4483206,,1829124,,,6
+H1,2002,2002,2002,4,0,1,Import,120,Cameroon,CMR,818,Egypt,EGY,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1590,,,,1590,,5646,,,6
+H1,2002,2002,2002,4,0,1,Import,120,Cameroon,CMR,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,117,,,,117,,2011,,,6
+H1,2002,2002,2002,4,0,1,Import,120,Cameroon,CMR,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2135,,,,2135,,3382,,,6
+H1,2003,2003,2003,4,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5363807,,,,1978602,,5631872,,,6
+H1,2003,2003,2003,4,0,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,600338,,,,600338,,265499,,,6
+H1,2003,2003,2003,4,0,1,Import,120,Cameroon,CMR,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,180,,,,180,,1117,,,6
+H1,2003,2003,2003,4,0,1,Import,120,Cameroon,CMR,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,90,,,,90,,502,,,6
+H1,2003,2003,2003,4,0,1,Import,120,Cameroon,CMR,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6,,,,6,,62,,,6
+H1,2003,2003,2003,4,0,1,Import,120,Cameroon,CMR,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,50,,,,50,,249,,,6
+H1,2003,2003,2003,4,0,2,Export,120,Cameroon,CMR,140,Central African Rep.,CAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,95850,,,,95850,,55023,,,6
+H1,2003,2003,2003,4,0,2,Export,120,Cameroon,CMR,148,Chad,TCD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8450,,,,8450,,3862,,,6
+H1,2003,2003,2003,4,0,1,Import,120,Cameroon,CMR,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,90,,,,90,,487,,,6
+H1,2003,2003,2003,4,0,2,Export,120,Cameroon,CMR,178,Congo,COG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,488358,,,,488358,,203178,,,6
+H1,2003,2003,2003,4,0,1,Import,120,Cameroon,CMR,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,22,,,,22,,519,,,6
+H1,2003,2003,2003,4,0,1,Import,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,306304,,,,306304,,62804,,,6
+H1,2003,2003,2003,4,0,1,Import,120,Cameroon,CMR,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1342129,,,,1342129,,3140086,,,6
+H1,2003,2003,2003,4,0,2,Export,120,Cameroon,CMR,266,Gabon,GAB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7680,,,,7680,,3437,,,6
+H1,2003,2003,2003,4,0,1,Import,120,Cameroon,CMR,268,Georgia,GEO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,20100,,,,20100,,24142,,,6
+H1,2003,2003,2003,4,0,1,Import,120,Cameroon,CMR,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,337,,,,100,,2247,,,6
+H1,2003,2003,2003,4,0,1,Import,120,Cameroon,CMR,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,250,,,,250,,392,,,6
+H1,2003,2003,2003,4,0,1,Import,120,Cameroon,CMR,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12220,,,,2771,,23800,,,6
+H1,2003,2003,2003,4,0,1,Import,120,Cameroon,CMR,568,"Other Europe, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,106451,,,,106451,,344352,,,6
+H1,2003,2003,2003,4,0,1,Import,120,Cameroon,CMR,616,Poland,POL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,164,,,,,,147,,,2
+H1,2003,2003,2003,4,0,1,Import,120,Cameroon,CMR,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,38472,,,,31061,,83230,,,6
+H1,2003,2003,2003,4,0,1,Import,120,Cameroon,CMR,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3416114,,,,55339,,1877882,,,6
+H1,2003,2003,2003,4,0,1,Import,120,Cameroon,CMR,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1301,,,,,,11746,,,2
+H1,2003,2003,2003,4,0,1,Import,120,Cameroon,CMR,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11799,,,,11799,,14516,,,6
+H1,2003,2003,2003,4,0,1,Import,120,Cameroon,CMR,858,Uruguay,URY,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,180,,,,180,,1669,,,6
+H1,2003,2003,2003,4,0,1,Import,120,Cameroon,CMR,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,107548,,,,101680,,41922,,,6
+H1,2004,2004,2004,4,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5249384,,,,5249384,,5689102,,,6
+H1,2004,2004,2004,4,0,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3053989,,,,3053989,,1669255,,,6
+H1,2004,2004,2004,4,0,1,Import,120,Cameroon,CMR,12,Algeria,DZA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,24,,,,24,,9,,,6
+H1,2004,2004,2004,4,0,1,Import,120,Cameroon,CMR,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,338,,,,338,,1876,,,6
+H1,2004,2004,2004,4,0,1,Import,120,Cameroon,CMR,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,66,,,,66,,54,,,6
+H1,2004,2004,2004,4,0,2,Export,120,Cameroon,CMR,140,Central African Rep.,CAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,91273,,,,91273,,64876,,,6
+H1,2004,2004,2004,4,0,2,Export,120,Cameroon,CMR,148,Chad,TCD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,121475,,,,121475,,130499,,,6
+H1,2004,2004,2004,4,0,1,Import,120,Cameroon,CMR,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,71,,,,71,,277,,,6
+H1,2004,2004,2004,4,0,2,Export,120,Cameroon,CMR,178,Congo,COG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2015993,,,,2015993,,824040,,,6
+H1,2004,2004,2004,4,0,2,Export,120,Cameroon,CMR,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,93998,,,,93998,,44313,,,6
+H1,2004,2004,2004,4,0,1,Import,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,40789,,,,40789,,15832,,,6
+H1,2004,2004,2004,4,0,2,Export,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4665,,,,4665,,3147,,,6
+H1,2004,2004,2004,4,0,1,Import,120,Cameroon,CMR,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1468603,,,,1468603,,3468351,,,6
+H1,2004,2004,2004,4,0,1,Import,120,Cameroon,CMR,266,Gabon,GAB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36000,,,,36000,,19642,,,6
+H1,2004,2004,2004,4,0,2,Export,120,Cameroon,CMR,266,Gabon,GAB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,720900,,,,720900,,598525,,,6
+H1,2004,2004,2004,4,0,1,Import,120,Cameroon,CMR,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18917,,,,18917,,18841,,,6
+H1,2004,2004,2004,4,0,1,Import,120,Cameroon,CMR,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,246,,,,246,,974,,,6
+H1,2004,2004,2004,4,0,1,Import,120,Cameroon,CMR,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6129,,,,6129,,14365,,,6
+H1,2004,2004,2004,4,0,2,Export,120,Cameroon,CMR,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5685,,,,5685,,3854,,,6
+H1,2004,2004,2004,4,0,1,Import,120,Cameroon,CMR,504,Morocco,MAR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,73,,,,73,,285,,,6
+H1,2004,2004,2004,4,0,1,Import,120,Cameroon,CMR,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,104,,,,104,,1290,,,6
+H1,2004,2004,2004,4,0,1,Import,120,Cameroon,CMR,568,"Other Europe, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,19007,,,,19007,,45809,,,6
+H1,2004,2004,2004,4,0,1,Import,120,Cameroon,CMR,616,Poland,POL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,24,,,,24,,16,,,6
+H1,2004,2004,2004,4,0,1,Import,120,Cameroon,CMR,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2958,,,,2958,,13108,,,6
+H1,2004,2004,2004,4,0,1,Import,120,Cameroon,CMR,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,34371,,,,34371,,98850,,,6
+H1,2004,2004,2004,4,0,1,Import,120,Cameroon,CMR,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3591062,,,,3591062,,1936838,,,6
+H1,2004,2004,2004,4,0,1,Import,120,Cameroon,CMR,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,142,,,,142,,127,,,6
+H1,2004,2004,2004,4,0,1,Import,120,Cameroon,CMR,788,Tunisia,TUN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9,,,,9,,28,,,6
+H1,2004,2004,2004,4,0,1,Import,120,Cameroon,CMR,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,28678,,,,28678,,50890,,,6
+H1,2004,2004,2004,4,0,1,Import,120,Cameroon,CMR,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1773,,,,1773,,1640,,,6
+H2,2005,2005,2005,4,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6316219,,,,6316219,,5333151,,,2
+H2,2005,2005,2005,4,0,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1768647,,,,1768647,,903021,,,2
+H2,2005,2005,2005,4,0,1,Import,120,Cameroon,CMR,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,28,,,,28,,42,,,2
+H2,2005,2005,2005,4,0,1,Import,120,Cameroon,CMR,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,604,,,,604,,555,,,2
+H2,2005,2005,2005,4,0,2,Export,120,Cameroon,CMR,140,Central African Rep.,CAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,86380,,,,86380,,49632,,,2
+H2,2005,2005,2005,4,0,2,Export,120,Cameroon,CMR,148,Chad,TCD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,138716,,,,138716,,87197,,,2
+H2,2005,2005,2005,4,0,1,Import,120,Cameroon,CMR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10324,,,,10324,,30450,,,2
+H2,2005,2005,2005,4,0,1,Import,120,Cameroon,CMR,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,42,,,,42,,28,,,2
+H2,2005,2005,2005,4,0,2,Export,120,Cameroon,CMR,178,Congo,COG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1463469,,,,1463469,,719910,,,2
+H2,2005,2005,2005,4,0,2,Export,120,Cameroon,CMR,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,80082,,,,80082,,46283,,,2
+H2,2005,2005,2005,4,0,1,Import,120,Cameroon,CMR,204,Benin,BEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,153,,,,153,,465,,,2
+H2,2005,2005,2005,4,0,1,Import,120,Cameroon,CMR,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,105,,,,105,,718,,,2
+H2,2005,2005,2005,4,0,1,Import,120,Cameroon,CMR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1932542,,,,1932542,,3282568,,,2
+H2,2005,2005,2005,4,0,1,Import,120,Cameroon,CMR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,109,,,,109,,140,,,2
+H2,2005,2005,2005,4,0,1,Import,120,Cameroon,CMR,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,781,,,,781,,1993,,,2
+H2,2005,2005,2005,4,0,1,Import,120,Cameroon,CMR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,44984,,,,44984,,53766,,,2
+H2,2005,2005,2005,4,0,1,Import,120,Cameroon,CMR,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,130,,,,130,,325,,,2
+H2,2005,2005,2005,4,0,1,Import,120,Cameroon,CMR,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14920,,,,14920,,27014,,,2
+H2,2005,2005,2005,4,0,1,Import,120,Cameroon,CMR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1264,,,,1264,,7429,,,2
+H2,2005,2005,2005,4,0,1,Import,120,Cameroon,CMR,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,100,,,,100,,94,,,2
+H2,2005,2005,2005,4,0,1,Import,120,Cameroon,CMR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,95087,,,,95087,,172154,,,2
+H2,2005,2005,2005,4,0,1,Import,120,Cameroon,CMR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4168368,,,,4168368,,1693839,,,2
+H2,2005,2005,2005,4,0,1,Import,120,Cameroon,CMR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,75,,,,75,,262,,,2
+H2,2005,2005,2005,4,0,1,Import,120,Cameroon,CMR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,43653,,,,43653,,58923,,,2
+H2,2005,2005,2005,4,0,1,Import,120,Cameroon,CMR,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2950,,,,2950,,2387,,,2
+H2,2006,2006,2006,4,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6817057,,,,6817057,,6211121,,,2
+H2,2006,2006,2006,4,0,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1556548,,,,1556548,,1194366,,,2
+H2,2006,2006,2006,4,0,1,Import,120,Cameroon,CMR,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,71,,,,71,,152,,,2
+H2,2006,2006,2006,4,0,1,Import,120,Cameroon,CMR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1125,,,,1125,,6102,,,2
+H2,2006,2006,2006,4,0,1,Import,120,Cameroon,CMR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1350,,,,1350,,4195,,,2
+H2,2006,2006,2006,4,0,1,Import,120,Cameroon,CMR,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,260,,,,260,,778,,,2
+H2,2006,2006,2006,4,0,1,Import,120,Cameroon,CMR,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,990,,,,990,,3058,,,2
+H2,2006,2006,2006,4,0,2,Export,120,Cameroon,CMR,140,Central African Rep.,CAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,198770,,,,198770,,114778,,,2
+H2,2006,2006,2006,4,0,2,Export,120,Cameroon,CMR,148,Chad,TCD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,215509,,,,215509,,198269,,,2
+H2,2006,2006,2006,4,0,1,Import,120,Cameroon,CMR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1800,,,,1800,,8567,,,2
+H2,2006,2006,2006,4,0,1,Import,120,Cameroon,CMR,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,900,,,,900,,3330,,,2
+H2,2006,2006,2006,4,0,2,Export,120,Cameroon,CMR,178,Congo,COG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1082909,,,,1082909,,815881,,,2
+H2,2006,2006,2006,4,0,2,Export,120,Cameroon,CMR,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,37327,,,,37327,,30521,,,2
+H2,2006,2006,2006,4,0,1,Import,120,Cameroon,CMR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1640081,,,,1640081,,3409332,,,2
+H2,2006,2006,2006,4,0,1,Import,120,Cameroon,CMR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5350,,,,5350,,6855,,,2
+H2,2006,2006,2006,4,0,1,Import,120,Cameroon,CMR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16443,,,,16443,,21397,,,2
+H2,2006,2006,2006,4,0,1,Import,120,Cameroon,CMR,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,2,,13,,,2
+H2,2006,2006,2006,4,0,1,Import,120,Cameroon,CMR,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5805,,,,5805,,12238,,,2
+H2,2006,2006,2006,4,0,1,Import,120,Cameroon,CMR,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,500,,,,500,,4779,,,2
+H2,2006,2006,2006,4,0,2,Export,120,Cameroon,CMR,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,1,,29,,,2
+H2,2006,2006,2006,4,0,1,Import,120,Cameroon,CMR,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,345,,,,345,,390,,,2
+H2,2006,2006,2006,4,0,1,Import,120,Cameroon,CMR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1742,,,,1742,,9890,,,2
+H2,2006,2006,2006,4,0,1,Import,120,Cameroon,CMR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,33281,,,,33281,,106179,,,2
+H2,2006,2006,2006,4,0,1,Import,120,Cameroon,CMR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4984920,,,,4984920,,2448354,,,2
+H2,2006,2006,2006,4,0,1,Import,120,Cameroon,CMR,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20,,,,20,,237,,,2
+H2,2006,2006,2006,4,0,2,Export,120,Cameroon,CMR,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22032,,,,22032,,34888,,,2
+H2,2006,2006,2006,4,0,1,Import,120,Cameroon,CMR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,119997,,,,119997,,161924,,,2
+H2,2006,2006,2006,4,0,1,Import,120,Cameroon,CMR,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2075,,,,2075,,3352,,,2
+H2,2007,2007,2007,4,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9403238,,,,9403238,,9418957,,,2
+H2,2007,2007,2007,4,0,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1248716,,,,1248716,,894826,,,2
+H2,2007,2007,2007,4,0,1,Import,120,Cameroon,CMR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21153,,,,21153,,15341,,,2
+H2,2007,2007,2007,4,0,1,Import,120,Cameroon,CMR,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45271,,,,45271,,45199,,,2
+H2,2007,2007,2007,4,0,1,Import,120,Cameroon,CMR,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,499,,,,499,,2843,,,2
+H2,2007,2007,2007,4,0,2,Export,120,Cameroon,CMR,140,Central African Rep.,CAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,187940,,,,187940,,119490,,,2
+H2,2007,2007,2007,4,0,2,Export,120,Cameroon,CMR,148,Chad,TCD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,350142,,,,350142,,402664,,,2
+H2,2007,2007,2007,4,0,1,Import,120,Cameroon,CMR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,135432,,,,135432,,140636,,,2
+H2,2007,2007,2007,4,0,1,Import,120,Cameroon,CMR,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,395,,,,395,,1387,,,2
+H2,2007,2007,2007,4,0,2,Export,120,Cameroon,CMR,178,Congo,COG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,581491,,,,581491,,298778,,,2
+H2,2007,2007,2007,4,0,1,Import,120,Cameroon,CMR,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,294,,,,294,,2282,,,2
+H2,2007,2007,2007,4,0,1,Import,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,154,,,,154,,320,,,2
+H2,2007,2007,2007,4,0,2,Export,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,800,,,,800,,2071,,,2
+H2,2007,2007,2007,4,0,1,Import,120,Cameroon,CMR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3126164,,,,3126164,,5737881,,,2
+H2,2007,2007,2007,4,0,2,Export,120,Cameroon,CMR,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,117495,,,,117495,,49484,,,2
+H2,2007,2007,2007,4,0,1,Import,120,Cameroon,CMR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1372,,,,1372,,3656,,,2
+H2,2007,2007,2007,4,0,1,Import,120,Cameroon,CMR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,128366,,,,128366,,98194,,,2
+H2,2007,2007,2007,4,0,1,Import,120,Cameroon,CMR,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,58,,,,58,,57,,,2
+H2,2007,2007,2007,4,0,1,Import,120,Cameroon,CMR,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,360,,,,360,,263,,,2
+H2,2007,2007,2007,4,0,1,Import,120,Cameroon,CMR,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,100,,,,100,,210,,,2
+H2,2007,2007,2007,4,0,2,Export,120,Cameroon,CMR,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1000,,,,1000,,3145,,,2
+H2,2007,2007,2007,4,0,1,Import,120,Cameroon,CMR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20526,,,,20526,,21883,,,2
+H2,2007,2007,2007,4,0,1,Import,120,Cameroon,CMR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,70206,,,,70206,,129362,,,2
+H2,2007,2007,2007,4,0,1,Import,120,Cameroon,CMR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5805732,,,,5805732,,3159223,,,2
+H2,2007,2007,2007,4,0,1,Import,120,Cameroon,CMR,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,31445,,,,31445,,22839,,,2
+H2,2007,2007,2007,4,0,1,Import,120,Cameroon,CMR,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,95,,,,95,,174,,,2
+H2,2007,2007,2007,4,0,1,Import,120,Cameroon,CMR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15466,,,,15466,,36748,,,2
+H2,2007,2007,2007,4,0,1,Import,120,Cameroon,CMR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,150,,,,150,,461,,,2
+H2,2007,2007,2007,4,0,2,Export,120,Cameroon,CMR,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9848,,,,9848,,19193,,,2
+H2,2008,2008,2008,4,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8646340,,,,8646340,,10042414,,,2
+H2,2008,2008,2008,4,0,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,835609,,,,835609,,832124,,,2
+H2,2008,2008,2008,4,0,1,Import,120,Cameroon,CMR,4,Afghanistan,AFG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10,,,,10,,67,,,2
+H2,2008,2008,2008,4,0,2,Export,120,Cameroon,CMR,20,Andorra,AND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1350,,,,1350,,2400,,,2
+H2,2008,2008,2008,4,0,1,Import,120,Cameroon,CMR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,185524,,,,185524,,169387,,,2
+H2,2008,2008,2008,4,0,1,Import,120,Cameroon,CMR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1583,,,,1583,,6581,,,2
+H2,2008,2008,2008,4,0,1,Import,120,Cameroon,CMR,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9462,,,,9462,,13741,,,2
+H2,2008,2008,2008,4,0,1,Import,120,Cameroon,CMR,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,980,,,,980,,1875,,,2
+H2,2008,2008,2008,4,0,2,Export,120,Cameroon,CMR,140,Central African Rep.,CAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,114000,,,,114000,,95283,,,2
+H2,2008,2008,2008,4,0,2,Export,120,Cameroon,CMR,148,Chad,TCD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,263548,,,,263548,,322539,,,2
+H2,2008,2008,2008,4,0,1,Import,120,Cameroon,CMR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,102559,,,,102559,,255660,,,2
+H2,2008,2008,2008,4,0,1,Import,120,Cameroon,CMR,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,210,,,,210,,1608,,,2
+H2,2008,2008,2008,4,0,2,Export,120,Cameroon,CMR,178,Congo,COG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,325550,,,,325550,,181466,,,2
+H2,2008,2008,2008,4,0,1,Import,120,Cameroon,CMR,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16,,,,16,,99,,,2
+H2,2008,2008,2008,4,0,1,Import,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13597,,,,13597,,9001,,,2
+H2,2008,2008,2008,4,0,2,Export,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,120,,,,120,,1387,,,2
+H2,2008,2008,2008,4,0,1,Import,120,Cameroon,CMR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3507190,,,,3507190,,6191095,,,2
+H2,2008,2008,2008,4,0,2,Export,120,Cameroon,CMR,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22125,,,,22125,,28390,,,2
+H2,2008,2008,2008,4,0,1,Import,120,Cameroon,CMR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3084,,,,3084,,2328,,,2
+H2,2008,2008,2008,4,0,1,Import,120,Cameroon,CMR,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,420,,,,420,,1011,,,2
+H2,2008,2008,2008,4,0,1,Import,120,Cameroon,CMR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,77113,,,,77113,,81423,,,2
+H2,2008,2008,2008,4,0,1,Import,120,Cameroon,CMR,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1200,,,,1200,,622,,,2
+H2,2008,2008,2008,4,0,1,Import,120,Cameroon,CMR,440,Lithuania,LTU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,38160,,,,38160,,27696,,,2
+H2,2008,2008,2008,4,0,1,Import,120,Cameroon,CMR,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,675,,,,675,,2450,,,2
+H2,2008,2008,2008,4,0,1,Import,120,Cameroon,CMR,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3023,,,,3023,,7731,,,2
+H2,2008,2008,2008,4,0,2,Export,120,Cameroon,CMR,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36116,,,,36116,,85775,,,2
+H2,2008,2008,2008,4,0,1,Import,120,Cameroon,CMR,586,Pakistan,PAK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,904,,,,904,,1224,,,2
+H2,2008,2008,2008,4,0,1,Import,120,Cameroon,CMR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,24256,,,,24256,,62489,,,2
+H2,2008,2008,2008,4,0,1,Import,120,Cameroon,CMR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,150310,,,,150310,,211523,,,2
+H2,2008,2008,2008,4,0,1,Import,120,Cameroon,CMR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4443424,,,,4443424,,2888376,,,2
+H2,2008,2008,2008,4,0,1,Import,120,Cameroon,CMR,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,707,,,,707,,2630,,,2
+H2,2008,2008,2008,4,0,2,Export,120,Cameroon,CMR,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20000,,,,20000,,33598,,,2
+H2,2008,2008,2008,4,0,1,Import,120,Cameroon,CMR,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,223,,,,223,,908,,,2
+H2,2008,2008,2008,4,0,1,Import,120,Cameroon,CMR,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,694,,,,694,,3067,,,2
+H2,2008,2008,2008,4,0,2,Export,120,Cameroon,CMR,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,52800,,,,52800,,81286,,,2
+H2,2008,2008,2008,4,0,1,Import,120,Cameroon,CMR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,42,,,,42,,67,,,2
+H2,2008,2008,2008,4,0,1,Import,120,Cameroon,CMR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,80974,,,,80974,,99754,,,2
+H2,2009,2009,2009,4,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8351567,,,,8351567,,9844255,,,2
+H2,2009,2009,2009,4,0,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,664993,,,,664993,,627250,,,2
+H2,2009,2009,2009,4,0,1,Import,120,Cameroon,CMR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,184694,,,,184694,,141899,,,2
+H2,2009,2009,2009,4,0,1,Import,120,Cameroon,CMR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,270,,,,270,,2128,,,2
+H2,2009,2009,2009,4,0,1,Import,120,Cameroon,CMR,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17361,,,,17361,,18140,,,2
+H2,2009,2009,2009,4,0,1,Import,120,Cameroon,CMR,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,25,,,,25,,11,,,2
+H2,2009,2009,2009,4,0,2,Export,120,Cameroon,CMR,140,Central African Rep.,CAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,124470,,,,124470,,86546,,,2
+H2,2009,2009,2009,4,0,2,Export,120,Cameroon,CMR,148,Chad,TCD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,324963,,,,324963,,359080,,,2
+H2,2009,2009,2009,4,0,1,Import,120,Cameroon,CMR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5289,,,,5289,,85186,,,2
+H2,2009,2009,2009,4,0,1,Import,120,Cameroon,CMR,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,894,,,,894,,3840,,,2
+H2,2009,2009,2009,4,0,2,Export,120,Cameroon,CMR,178,Congo,COG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,166420,,,,166420,,112213,,,2
+H2,2009,2009,2009,4,0,2,Export,120,Cameroon,CMR,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17800,,,,17800,,18769,,,2
+H2,2009,2009,2009,4,0,1,Import,120,Cameroon,CMR,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,469,,,,469,,6010,,,2
+H2,2009,2009,2009,4,0,1,Import,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,334,,,,334,,616,,,2
+H2,2009,2009,2009,4,0,1,Import,120,Cameroon,CMR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3252538,,,,3252538,,6102251,,,2
+H2,2009,2009,2009,4,0,2,Export,120,Cameroon,CMR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,955,,,,955,,33953,,,2
+H2,2009,2009,2009,4,0,1,Import,120,Cameroon,CMR,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,100,,,,100,,28,,,2
+H2,2009,2009,2009,4,0,2,Export,120,Cameroon,CMR,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,30263,,,,30263,,16477,,,2
+H2,2009,2009,2009,4,0,1,Import,120,Cameroon,CMR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,150,,,,150,,319,,,2
+H2,2009,2009,2009,4,0,1,Import,120,Cameroon,CMR,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,76,,,,76,,859,,,2
+H2,2009,2009,2009,4,0,1,Import,120,Cameroon,CMR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,154108,,,,154108,,171059,,,2
+H2,2009,2009,2009,4,0,1,Import,120,Cameroon,CMR,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,225,,,,225,,1076,,,2
+H2,2009,2009,2009,4,0,1,Import,120,Cameroon,CMR,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,130,,,,130,,332,,,2
+H2,2009,2009,2009,4,0,1,Import,120,Cameroon,CMR,586,Pakistan,PAK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,182,,,,182,,1256,,,2
+H2,2009,2009,2009,4,0,1,Import,120,Cameroon,CMR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,35587,,,,35587,,33044,,,2
+H2,2009,2009,2009,4,0,1,Import,120,Cameroon,CMR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,146322,,,,146322,,307133,,,2
+H2,2009,2009,2009,4,0,1,Import,120,Cameroon,CMR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4455619,,,,4455619,,2820263,,,2
+H2,2009,2009,2009,4,0,1,Import,120,Cameroon,CMR,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,456,,,,456,,605,,,2
+H2,2009,2009,2009,4,0,2,Export,120,Cameroon,CMR,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,122,,,,122,,213,,,2
+H2,2009,2009,2009,4,0,1,Import,120,Cameroon,CMR,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6581,,,,6581,,9542,,,2
+H2,2009,2009,2009,4,0,1,Import,120,Cameroon,CMR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,90157,,,,90157,,138659,,,2
+H4,2013,2013,2013,4,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11581467,,,,11581467,,15891399,,,2
+H4,2013,2013,2013,4,0,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,299650,,,,299650,,542896,,,2
+H4,2013,2013,2013,4,0,1,Import,120,Cameroon,CMR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,77266,,,,77266,,80956,,,2
+H4,2013,2013,2013,4,0,1,Import,120,Cameroon,CMR,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,37394,,,,37394,,75014,,,2
+H4,2013,2013,2013,4,0,2,Export,120,Cameroon,CMR,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,130200,,,,130200,,31617,,,2
+H4,2013,2013,2013,4,0,1,Import,120,Cameroon,CMR,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,26,,,,26,,243,,,2
+H4,2013,2013,2013,4,0,2,Export,120,Cameroon,CMR,148,Chad,TCD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3800,,,,3800,,7675,,,2
+H4,2013,2013,2013,4,0,1,Import,120,Cameroon,CMR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,215993,,,,215993,,512261,,,2
+H4,2013,2013,2013,4,0,1,Import,120,Cameroon,CMR,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,211,,,,211,,482,,,2
+H4,2013,2013,2013,4,0,2,Export,120,Cameroon,CMR,178,Congo,COG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,123840,,,,123840,,480500,,,2
+H4,2013,2013,2013,4,0,1,Import,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,143051,,,,143051,,210950,,,2
+H4,2013,2013,2013,4,0,1,Import,120,Cameroon,CMR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4327490,,,,4327490,,10020099,,,2
+H4,2013,2013,2013,4,0,2,Export,120,Cameroon,CMR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15600,,,,15600,,3952,,,2
+H4,2013,2013,2013,4,0,2,Export,120,Cameroon,CMR,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,26200,,,,26200,,19071,,,2
+H4,2013,2013,2013,4,0,1,Import,120,Cameroon,CMR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,701,,,,701,,1449,,,2
+H4,2013,2013,2013,4,0,2,Export,120,Cameroon,CMR,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10,,,,10,,81,,,2
+H4,2013,2013,2013,4,0,1,Import,120,Cameroon,CMR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,107186,,,,107186,,131473,,,2
+H4,2013,2013,2013,4,0,1,Import,120,Cameroon,CMR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25037,,,,25037,,15247,,,2
+H4,2013,2013,2013,4,0,1,Import,120,Cameroon,CMR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,155860,,,,155860,,319059,,,2
+H4,2013,2013,2013,4,0,1,Import,120,Cameroon,CMR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6464980,,,,6464980,,4009351,,,2
+H4,2013,2013,2013,4,0,1,Import,120,Cameroon,CMR,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10982,,,,10982,,490063,,,2
+H4,2013,2013,2013,4,0,1,Import,120,Cameroon,CMR,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,400,,,,400,,20,,,2
+H4,2013,2013,2013,4,0,1,Import,120,Cameroon,CMR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14890,,,,14890,,24730,,,2
+H4,2014,2014,2014,4,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12661340,,,,12661340,,18004163,,,2
+H4,2014,2014,2014,4,0,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,91580,,,,91580,,113540,,,2
+H4,2014,2014,2014,4,0,1,Import,120,Cameroon,CMR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24192,,,,24192,,12513,,,2
+H4,2014,2014,2014,4,0,1,Import,120,Cameroon,CMR,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10679,,,,10679,,12979,,,2
+H4,2014,2014,2014,4,0,2,Export,120,Cameroon,CMR,140,Central African Rep.,CAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,47130,,,,47130,,82138,,,2
+H4,2014,2014,2014,4,0,2,Export,120,Cameroon,CMR,148,Chad,TCD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,50,,,,50,,2986,,,2
+H4,2014,2014,2014,4,0,1,Import,120,Cameroon,CMR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,133766,,,,133766,,259963,,,2
+H4,2014,2014,2014,4,0,1,Import,120,Cameroon,CMR,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3425,,,,3425,,2320,,,2
+H4,2014,2014,2014,4,0,2,Export,120,Cameroon,CMR,178,Congo,COG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,600,,,,600,,605,,,2
+H4,2014,2014,2014,4,0,1,Import,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,375130,,,,375130,,165833,,,2
+H4,2014,2014,2014,4,0,1,Import,120,Cameroon,CMR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4230614,,,,4230614,,10023479,,,2
+H4,2014,2014,2014,4,0,2,Export,120,Cameroon,CMR,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,43800,,,,43800,,27811,,,2
+H4,2014,2014,2014,4,0,1,Import,120,Cameroon,CMR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,28,,,,28,,48,,,2
+H4,2014,2014,2014,4,0,1,Import,120,Cameroon,CMR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,27242,,,,27242,,42158,,,2
+H4,2014,2014,2014,4,0,1,Import,120,Cameroon,CMR,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,505,,,,505,,33,,,2
+H4,2014,2014,2014,4,0,1,Import,120,Cameroon,CMR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,71226,,,,71226,,116951,,,2
+H4,2014,2014,2014,4,0,1,Import,120,Cameroon,CMR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,140294,,,,140294,,258675,,,2
+H4,2014,2014,2014,4,0,1,Import,120,Cameroon,CMR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7556696,,,,7556696,,4603239,,,2
+H4,2014,2014,2014,4,0,1,Import,120,Cameroon,CMR,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,438,,,,438,,707,,,2
+H4,2014,2014,2014,4,0,1,Import,120,Cameroon,CMR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,41007,,,,41007,,2446781,,,2
+H4,2014,2014,2014,4,0,1,Import,120,Cameroon,CMR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,46098,,,,46098,,58486,,,2
+H2,2010,2010,2010,4,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9678960,,,,9678960,,9504417,,,2
+H2,2010,2010,2010,4,0,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,626963,,,,626963,,510025,,,2
+H2,2010,2010,2010,4,0,1,Import,120,Cameroon,CMR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,279608,,,,279608,,239959,,,2
+H2,2010,2010,2010,4,0,1,Import,120,Cameroon,CMR,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9377,,,,9377,,29384,,,2
+H2,2010,2010,2010,4,0,2,Export,120,Cameroon,CMR,140,Central African Rep.,CAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,100350,,,,100350,,69683,,,2
+H2,2010,2010,2010,4,0,2,Export,120,Cameroon,CMR,148,Chad,TCD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,253251,,,,253251,,132995,,,2
+H2,2010,2010,2010,4,0,1,Import,120,Cameroon,CMR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,262750,,,,262750,,496750,,,2
+H2,2010,2010,2010,4,0,1,Import,120,Cameroon,CMR,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,951,,,,951,,4397,,,2
+H2,2010,2010,2010,4,0,2,Export,120,Cameroon,CMR,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,184048,,,,184048,,220566,,,2
+H2,2010,2010,2010,4,0,1,Import,120,Cameroon,CMR,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,336,,,,336,,3447,,,2
+H2,2010,2010,2010,4,0,1,Import,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1402,,,,1402,,1493,,,2
+H2,2010,2010,2010,4,0,2,Export,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1900,,,,1900,,55711,,,2
+H2,2010,2010,2010,4,0,1,Import,120,Cameroon,CMR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3475130,,,,3475130,,5402902,,,2
+H2,2010,2010,2010,4,0,2,Export,120,Cameroon,CMR,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,85035,,,,85035,,27043,,,2
+H2,2010,2010,2010,4,0,1,Import,120,Cameroon,CMR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5915,,,,5915,,11993,,,2
+H2,2010,2010,2010,4,0,1,Import,120,Cameroon,CMR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,230451,,,,230451,,234059,,,2
+H2,2010,2010,2010,4,0,1,Import,120,Cameroon,CMR,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10,,,,10,,41,,,2
+H2,2010,2010,2010,4,0,1,Import,120,Cameroon,CMR,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,162,,,,162,,811,,,2
+H2,2010,2010,2010,4,0,1,Import,120,Cameroon,CMR,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,32,,,2
+H2,2010,2010,2010,4,0,1,Import,120,Cameroon,CMR,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2875,,,,2875,,1655,,,2
+H2,2010,2010,2010,4,0,1,Import,120,Cameroon,CMR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1035,,,,1035,,935,,,2
+H2,2010,2010,2010,4,0,1,Import,120,Cameroon,CMR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,70006,,,,70006,,150398,,,2
+H2,2010,2010,2010,4,0,1,Import,120,Cameroon,CMR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5317952,,,,5317952,,2903195,,,2
+H2,2010,2010,2010,4,0,1,Import,120,Cameroon,CMR,748,Eswatini,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2565,,,,2565,,6201,,,2
+H2,2010,2010,2010,4,0,1,Import,120,Cameroon,CMR,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,288,,,,288,,1102,,,2
+H2,2010,2010,2010,4,0,2,Export,120,Cameroon,CMR,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2379,,,,2379,,4026,,,2
+H2,2010,2010,2010,4,0,1,Import,120,Cameroon,CMR,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,363,,,,363,,1007,,,2
+H2,2010,2010,2010,4,0,1,Import,120,Cameroon,CMR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,151,,,,151,,41,,,2
+H2,2010,2010,2010,4,0,1,Import,120,Cameroon,CMR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17624,,,,17624,,14615,,,2
+H2,2011,2011,2011,4,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11995755,,,,11995755,,12027706,,,2
+H2,2011,2011,2011,4,0,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,477389,,,,477389,,418415,,,2
+H2,2011,2011,2011,4,0,1,Import,120,Cameroon,CMR,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,273,,,,273,,530,,,2
+H2,2011,2011,2011,4,0,1,Import,120,Cameroon,CMR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,234197,,,,234197,,214592,,,2
+H2,2011,2011,2011,4,0,1,Import,120,Cameroon,CMR,51,Armenia,ARM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,24703,,,,24703,,73690,,,2
+H2,2011,2011,2011,4,0,1,Import,120,Cameroon,CMR,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,50126,,,,50126,,105808,,,2
+H2,2011,2011,2011,4,0,1,Import,120,Cameroon,CMR,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,103,,,,103,,583,,,2
+H2,2011,2011,2011,4,0,2,Export,120,Cameroon,CMR,140,Central African Rep.,CAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,101887,,,,101887,,90946,,,2
+H2,2011,2011,2011,4,0,2,Export,120,Cameroon,CMR,148,Chad,TCD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,212368,,,,212368,,128497,,,2
+H2,2011,2011,2011,4,0,1,Import,120,Cameroon,CMR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,173833,,,,173833,,459783,,,2
+H2,2011,2011,2011,4,0,1,Import,120,Cameroon,CMR,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,189,,,,189,,905,,,2
+H2,2011,2011,2011,4,0,2,Export,120,Cameroon,CMR,178,Congo,COG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,85970,,,,85970,,114266,,,2
+H2,2011,2011,2011,4,0,1,Import,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,103,,,,103,,139,,,2
+H2,2011,2011,2011,4,0,2,Export,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8572,,,,8572,,60148,,,2
+H2,2011,2011,2011,4,0,1,Import,120,Cameroon,CMR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3278800,,,,3278800,,6143099,,,2
+H2,2011,2011,2011,4,0,2,Export,120,Cameroon,CMR,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,48860,,,,48860,,16916,,,2
+H2,2011,2011,2011,4,0,1,Import,120,Cameroon,CMR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3220,,,,3220,,2650,,,2
+H2,2011,2011,2011,4,0,1,Import,120,Cameroon,CMR,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,140,,,,140,,1657,,,2
+H2,2011,2011,2011,4,0,1,Import,120,Cameroon,CMR,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1500,,,,1500,,2544,,,2
+H2,2011,2011,2011,4,0,1,Import,120,Cameroon,CMR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,280282,,,,280282,,305380,,,2
+H2,2011,2011,2011,4,0,1,Import,120,Cameroon,CMR,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,200,,,,200,,212,,,2
+H2,2011,2011,2011,4,0,1,Import,120,Cameroon,CMR,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1950,,,,1950,,1374,,,2
+H2,2011,2011,2011,4,0,1,Import,120,Cameroon,CMR,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4126,,,,4126,,1549,,,2
+H2,2011,2011,2011,4,0,1,Import,120,Cameroon,CMR,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4000,,,,4000,,5065,,,2
+H2,2011,2011,2011,4,0,2,Export,120,Cameroon,CMR,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19732,,,,19732,,7643,,,2
+H2,2011,2011,2011,4,0,1,Import,120,Cameroon,CMR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18535,,,,18535,,13890,,,2
+H2,2011,2011,2011,4,0,1,Import,120,Cameroon,CMR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,195027,,,,195027,,365734,,,2
+H2,2011,2011,2011,4,0,1,Import,120,Cameroon,CMR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7634279,,,,7634279,,4214752,,,2
+H2,2011,2011,2011,4,0,1,Import,120,Cameroon,CMR,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,789,,,,789,,1309,,,2
+H2,2011,2011,2011,4,0,1,Import,120,Cameroon,CMR,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,474,,,,474,,1336,,,2
+H2,2011,2011,2011,4,0,1,Import,120,Cameroon,CMR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,88906,,,,88906,,111124,,,2
+H2,2012,2012,2012,4,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12037122,,,,12037122,,15067806,,,2
+H2,2012,2012,2012,4,0,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,512915,,,,512915,,547465,,,2
+H2,2012,2012,2012,4,0,1,Import,120,Cameroon,CMR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,116341,,,,116341,,125002,,,2
+H2,2012,2012,2012,4,0,1,Import,120,Cameroon,CMR,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,128228,,,,128228,,73924,,,2
+H2,2012,2012,2012,4,0,2,Export,120,Cameroon,CMR,140,Central African Rep.,CAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,65966,,,,65966,,43951,,,2
+H2,2012,2012,2012,4,0,2,Export,120,Cameroon,CMR,148,Chad,TCD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,64483,,,,64483,,42046,,,2
+H2,2012,2012,2012,4,0,1,Import,120,Cameroon,CMR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,159385,,,,159385,,420281,,,2
+H2,2012,2012,2012,4,0,1,Import,120,Cameroon,CMR,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,455,,,,455,,3963,,,2
+H2,2012,2012,2012,4,0,2,Export,120,Cameroon,CMR,178,Congo,COG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,325794,,,,325794,,388004,,,2
+H2,2012,2012,2012,4,0,1,Import,120,Cameroon,CMR,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,100,,,,100,,45,,,2
+H2,2012,2012,2012,4,0,1,Import,120,Cameroon,CMR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3860667,,,,3860667,,8990766,,,2
+H2,2012,2012,2012,4,0,2,Export,120,Cameroon,CMR,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,46775,,,,46775,,29042,,,2
+H2,2012,2012,2012,4,0,1,Import,120,Cameroon,CMR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,400,,,,400,,61,,,2
+H2,2012,2012,2012,4,0,1,Import,120,Cameroon,CMR,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,37,,,,37,,588,,,2
+H2,2012,2012,2012,4,0,1,Import,120,Cameroon,CMR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,102888,,,,102888,,104963,,,2
+H2,2012,2012,2012,4,0,1,Import,120,Cameroon,CMR,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,90,,,,90,,371,,,2
+H2,2012,2012,2012,4,0,1,Import,120,Cameroon,CMR,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,80,,,,80,,686,,,2
+H2,2012,2012,2012,4,0,2,Export,120,Cameroon,CMR,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6700,,,,6700,,39770,,,2
+H2,2012,2012,2012,4,0,1,Import,120,Cameroon,CMR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,25785,,,,25785,,28272,,,2
+H2,2012,2012,2012,4,0,1,Import,120,Cameroon,CMR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,100862,,,,100862,,168307,,,2
+H2,2012,2012,2012,4,0,1,Import,120,Cameroon,CMR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7485622,,,,7485622,,4560034,,,2
+H2,2012,2012,2012,4,0,1,Import,120,Cameroon,CMR,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21545,,,,21545,,550850,,,2
+H2,2012,2012,2012,4,0,2,Export,120,Cameroon,CMR,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3197,,,,3197,,4652,,,2
+H2,2012,2012,2012,4,0,1,Import,120,Cameroon,CMR,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,120,,,,120,,483,,,2
+H2,2012,2012,2012,4,0,1,Import,120,Cameroon,CMR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3637,,,,3637,,2514,,,2
+H2,2012,2012,2012,4,0,1,Import,120,Cameroon,CMR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,30880,,,,30880,,36698,,,2
+H4,2015,2015,2015,4,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11745021,,,,11745021,,12255597,,,2
+H4,2015,2015,2015,4,0,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,107473,,,,107473,,78107,,,2
+H4,2015,2015,2015,4,0,1,Import,120,Cameroon,CMR,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1138,,,,1138,,6233,,,2
+H4,2015,2015,2015,4,0,1,Import,120,Cameroon,CMR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,39795,,,,39795,,22688,,,2
+H4,2015,2015,2015,4,0,1,Import,120,Cameroon,CMR,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10713,,,,10713,,24586,,,2
+H4,2015,2015,2015,4,0,1,Import,120,Cameroon,CMR,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4,,,,4,,1040,,,2
+H4,2015,2015,2015,4,0,2,Export,120,Cameroon,CMR,140,Central African Rep.,CAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,43485,,,,43485,,29163,,,2
+H4,2015,2015,2015,4,0,1,Import,120,Cameroon,CMR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,78152,,,,78152,,156870,,,2
+H4,2015,2015,2015,4,0,1,Import,120,Cameroon,CMR,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3400,,,,3400,,4223,,,2
+H4,2015,2015,2015,4,0,1,Import,120,Cameroon,CMR,204,Benin,BEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,21,,,,21,,166,,,2
+H4,2015,2015,2015,4,0,1,Import,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,400,,,,400,,377,,,2
+H4,2015,2015,2015,4,0,1,Import,120,Cameroon,CMR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3724454,,,,3724454,,7356129,,,2
+H4,2015,2015,2015,4,0,2,Export,120,Cameroon,CMR,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,63988,,,,63988,,48944,,,2
+H4,2015,2015,2015,4,0,1,Import,120,Cameroon,CMR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,50950,,,,50950,,110356,,,2
+H4,2015,2015,2015,4,0,1,Import,120,Cameroon,CMR,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1820,,,,1820,,2038,,,2
+H4,2015,2015,2015,4,0,1,Import,120,Cameroon,CMR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,268121,,,,268121,,291788,,,2
+H4,2015,2015,2015,4,0,1,Import,120,Cameroon,CMR,690,Seychelles,SYC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12375,,,,12375,,8445,,,2
+H4,2015,2015,2015,4,0,1,Import,120,Cameroon,CMR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,233630,,,,233630,,343070,,,2
+H4,2015,2015,2015,4,0,1,Import,120,Cameroon,CMR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7267118,,,,7267118,,3812358,,,2
+H4,2015,2015,2015,4,0,1,Import,120,Cameroon,CMR,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,1,,203,,,2
+H4,2015,2015,2015,4,0,1,Import,120,Cameroon,CMR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,52929,,,,52929,,115028,,,2
+H4,2016,2016,2016,4,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7582147,,,,7582147,,9147602,,,2
+H4,2016,2016,2016,4,0,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,80101,,,,80101,,37731,,,2
+H4,2016,2016,2016,4,0,1,Import,120,Cameroon,CMR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22530,,,,22530,,13149,,,2
+H4,2016,2016,2016,4,0,1,Import,120,Cameroon,CMR,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2878,,,,2878,,2264,,,2
+H4,2016,2016,2016,4,0,1,Import,120,Cameroon,CMR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,79833,,,,79833,,92181,,,2
+H4,2016,2016,2016,4,0,1,Import,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1500,,,,1500,,1770,,,2
+H4,2016,2016,2016,4,0,1,Import,120,Cameroon,CMR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2707275,,,,2707275,,4655436,,,2
+H4,2016,2016,2016,4,0,2,Export,120,Cameroon,CMR,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,80071,,,,80071,,35425,,,2
+H4,2016,2016,2016,4,0,1,Import,120,Cameroon,CMR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,150,,,,150,,84,,,2
+H4,2016,2016,2016,4,0,1,Import,120,Cameroon,CMR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,32067,,,,32067,,54536,,,2
+H4,2016,2016,2016,4,0,1,Import,120,Cameroon,CMR,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,1,,44,,,2
+H4,2016,2016,2016,4,0,1,Import,120,Cameroon,CMR,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,40060,,,,40060,,25759,,,2
+H4,2016,2016,2016,4,0,1,Import,120,Cameroon,CMR,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1210,,,,1210,,540,,,2
+H4,2016,2016,2016,4,0,1,Import,120,Cameroon,CMR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,300890,,,,300890,,279780,,,2
+H4,2016,2016,2016,4,0,1,Import,120,Cameroon,CMR,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19,,,,19,,41,,,2
+H4,2016,2016,2016,4,0,1,Import,120,Cameroon,CMR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,119601,,,,119601,,107426,,,2
+H4,2016,2016,2016,4,0,1,Import,120,Cameroon,CMR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3830610,,,,3830610,,3413262,,,2
+H4,2016,2016,2016,4,0,1,Import,120,Cameroon,CMR,800,Uganda,UGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,64,,,,64,,356,,,2
+H4,2016,2016,2016,4,0,1,Import,120,Cameroon,CMR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11182,,,,11182,,9393,,,2
+H4,2016,2016,2016,4,0,1,Import,120,Cameroon,CMR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,61105,,,,61105,,55392,,,2
+H4,2016,2016,2016,4,0,2,Export,120,Cameroon,CMR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,30,,,,30,,2306,,,2
+H4,2016,2016,2016,4,0,1,Import,120,Cameroon,CMR,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,371172,,,,371172,,436190,,,2
+H4,2017,2017,2017,4,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13709920,,,,13709920,,16477374,,,2
+H4,2017,2017,2017,4,0,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2969,,,,2969,,16956,,,2
+H4,2017,2017,2017,4,0,1,Import,120,Cameroon,CMR,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,23,,,,23,,63,,,2
+H4,2017,2017,2017,4,0,1,Import,120,Cameroon,CMR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,706,,,,706,,1974,,,2
+H4,2017,2017,2017,4,0,1,Import,120,Cameroon,CMR,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,52506,,,,52506,,141401,,,2
+H4,2017,2017,2017,4,0,1,Import,120,Cameroon,CMR,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,350,,,,350,,633,,,2
+H4,2017,2017,2017,4,0,2,Export,120,Cameroon,CMR,140,Central African Rep.,CAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,31,,,,31,,220,,,2
+H4,2017,2017,2017,4,0,1,Import,120,Cameroon,CMR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,102220,,,,102220,,174405,,,2
+H4,2017,2017,2017,4,0,1,Import,120,Cameroon,CMR,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18172,,,,18172,,18112,,,2
+H4,2017,2017,2017,4,0,1,Import,120,Cameroon,CMR,178,Congo,COG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,64116,,,,64116,,75946,,,2
+H4,2017,2017,2017,4,0,1,Import,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9400,,,,9400,,3631,,,2
+H4,2017,2017,2017,4,0,1,Import,120,Cameroon,CMR,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,351,,,,351,,993,,,2
+H4,2017,2017,2017,4,0,1,Import,120,Cameroon,CMR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5464188,,,,5464188,,9001719,,,2
+H4,2017,2017,2017,4,0,1,Import,120,Cameroon,CMR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6969,,,,6969,,19946,,,2
+H4,2017,2017,2017,4,0,1,Import,120,Cameroon,CMR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,82669,,,,82669,,126568,,,2
+H4,2017,2017,2017,4,0,1,Import,120,Cameroon,CMR,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,51,,,,51,,102,,,2
+H4,2017,2017,2017,4,0,1,Import,120,Cameroon,CMR,498,Rep. of Moldova,MDA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,164,,,,164,,135,,,2
+H4,2017,2017,2017,4,0,1,Import,120,Cameroon,CMR,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,60,,,,60,,175,,,2
+H4,2017,2017,2017,4,0,1,Import,120,Cameroon,CMR,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,40493,,,,40493,,33510,,,2
+H4,2017,2017,2017,4,0,1,Import,120,Cameroon,CMR,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,855,,,,855,,330,,,2
+H4,2017,2017,2017,4,0,1,Import,120,Cameroon,CMR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,115743,,,,115743,,150972,,,2
+H4,2017,2017,2017,4,0,1,Import,120,Cameroon,CMR,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3273,,,,3273,,19025,,,2
+H4,2017,2017,2017,4,0,1,Import,120,Cameroon,CMR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,287628,,,,287628,,357440,,,2
+H4,2017,2017,2017,4,0,1,Import,120,Cameroon,CMR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7304796,,,,7304796,,5990578,,,2
+H4,2017,2017,2017,4,0,1,Import,120,Cameroon,CMR,748,Eswatini,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,150,,,,150,,172,,,2
+H4,2017,2017,2017,4,0,1,Import,120,Cameroon,CMR,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4818,,,,4818,,13976,,,2
+H4,2017,2017,2017,4,0,1,Import,120,Cameroon,CMR,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5975,,,,5975,,6948,,,2
+H4,2017,2017,2017,4,0,2,Export,120,Cameroon,CMR,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2938,,,,2938,,16735,,,2
+H4,2017,2017,2017,4,0,1,Import,120,Cameroon,CMR,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15545,,,,15545,,10239,,,2
+H4,2017,2017,2017,4,0,1,Import,120,Cameroon,CMR,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,507,,,,507,,827,,,2
+H4,2017,2017,2017,4,0,1,Import,120,Cameroon,CMR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,35130,,,,35130,,217565,,,2
+H4,2017,2017,2017,4,0,1,Import,120,Cameroon,CMR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10705,,,,10705,,11327,,,2
+H4,2017,2017,2017,4,0,1,Import,120,Cameroon,CMR,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,82353,,,,82353,,98646,,,2
+H4,2018,2018,2018,4,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8641683,,,,8641683,,16248568,,,2
+H4,2018,2018,2018,4,0,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,33674,,,,33674,,37353,,,2
+H4,2018,2018,2018,4,0,1,Import,120,Cameroon,CMR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,46,,,,46,,184,,,2
+H4,2018,2018,2018,4,0,1,Import,120,Cameroon,CMR,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22092,,,,22092,,63479,,,2
+H4,2018,2018,2018,4,0,1,Import,120,Cameroon,CMR,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10000,,,,10000,,7069,,,2
+H4,2018,2018,2018,4,0,1,Import,120,Cameroon,CMR,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,362,,,,362,,2590,,,2
+H4,2018,2018,2018,4,0,2,Export,120,Cameroon,CMR,140,Central African Rep.,CAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,173,,,,173,,356,,,2
+H4,2018,2018,2018,4,0,2,Export,120,Cameroon,CMR,148,Chad,TCD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24486,,,,24486,,28085,,,2
+H4,2018,2018,2018,4,0,1,Import,120,Cameroon,CMR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,143085,,,,143085,,151715,,,2
+H4,2018,2018,2018,4,0,1,Import,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8330,,,,8330,,5416,,,2
+H4,2018,2018,2018,4,0,1,Import,120,Cameroon,CMR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4503116,,,,4503116,,8377655,,,2
+H4,2018,2018,2018,4,0,2,Export,120,Cameroon,CMR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15,,,,15,,13,,,2
+H4,2018,2018,2018,4,0,2,Export,120,Cameroon,CMR,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9000,,,,9000,,8897,,,2
+H4,2018,2018,2018,4,0,1,Import,120,Cameroon,CMR,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1233,,,,1233,,2344,,,2
+H4,2018,2018,2018,4,0,1,Import,120,Cameroon,CMR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45049,,,,45049,,94636,,,2
+H4,2018,2018,2018,4,0,1,Import,120,Cameroon,CMR,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,394,,,,394,,411,,,2
+H4,2018,2018,2018,4,0,1,Import,120,Cameroon,CMR,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,305,,,,305,,814,,,2
+H4,2018,2018,2018,4,0,1,Import,120,Cameroon,CMR,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11150,,,,11150,,3187,,,2
+H4,2018,2018,2018,4,0,1,Import,120,Cameroon,CMR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,206185,,,,206185,,371087,,,2
+H4,2018,2018,2018,4,0,1,Import,120,Cameroon,CMR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,326605,,,,326605,,472193,,,2
+H4,2018,2018,2018,4,0,1,Import,120,Cameroon,CMR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3299303,,,,3299303,,3580755,,,2
+H4,2018,2018,2018,4,0,1,Import,120,Cameroon,CMR,748,Eswatini,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90,,,,90,,360,,,2
+H4,2018,2018,2018,4,0,1,Import,120,Cameroon,CMR,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1257,,,,1257,,210385,,,2
+H4,2018,2018,2018,4,0,1,Import,120,Cameroon,CMR,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,251,,,,251,,7120,,,2
+H4,2018,2018,2018,4,0,1,Import,120,Cameroon,CMR,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4542,,,,4542,,13096,,,2
+H4,2018,2018,2018,4,0,1,Import,120,Cameroon,CMR,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14,,,,14,,44,,,2
+H4,2018,2018,2018,4,0,1,Import,120,Cameroon,CMR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,46012,,,,46012,,2871984,,,2
+H4,2018,2018,2018,4,0,1,Import,120,Cameroon,CMR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12262,,,,12262,,12034,,,2

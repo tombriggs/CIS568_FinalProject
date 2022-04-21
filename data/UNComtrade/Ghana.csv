@@ -1,0 +1,876 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,8650107,,5779501,,,0
+H2,2004,2004,2004,4,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,361212,,205949,,,0
+H2,2004,2004,2004,4,0,2,Export,288,Ghana,GHA,24,Angola,AGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,18000,,,,18000,,10859,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,108820,,,,108820,,51477,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,19549,,,,19549,,42901,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,70671,,,,70671,,64203,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,135221,,,,135221,,156616,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,18971,,,,18971,,11744,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,20693,,,,20693,,37779,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,935,,,,935,,607,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,12,,,,12,,316,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,408821,,,,408821,,857122,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,268,Georgia,GEO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,47800,,,,47800,,61604,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,270,Gambia,GMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,28192,,,,28192,,25038,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,86077,,,,86077,,140331,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,7964,,,,7964,,9811,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,276,,,,276,,83,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,4707,,,,4707,,10531,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,148829,,,,148829,,125492,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,70,,,,70,,3841,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,100,,,,100,,542,,,0
+H2,2004,2004,2004,4,0,2,Export,288,Ghana,GHA,430,Liberia,LBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,18000,,,,18000,,30632,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,5628,,,,5628,,2443,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,44568,,,,44568,,55817,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,19676,,,,19676,,31788,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,1191,,,,1191,,2021,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,622892,,,,622892,,622331,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,6426353,,,,6426353,,3041053,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,125,,,,125,,2374,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,20000,,,,20000,,61784,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,50911,,,,50911,,19332,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,13691,,,,13691,,46726,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,181776,,,,181776,,140407,,,0
+H2,2004,2004,2004,4,0,2,Export,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,2448,,,,2448,,6337,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,125402,,,,125402,,140453,,,0
+H2,2004,2004,2004,4,0,2,Export,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,311400,,,,311400,,130616,,,0
+H2,2004,2004,2004,4,0,1,Import,288,Ghana,GHA,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,30186,,,,30186,,12934,,,0
+H2,2004,2004,2004,4,0,2,Export,288,Ghana,GHA,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",8,Weight in kilograms,11364,,,,11364,,27505,,,0
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5964007,,,,5964007,,4023685,,,2
+H1,2003,2003,2003,4,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7485785,,,,7485785,,228320,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,17627,,,,17627,,32235,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,31478,,,,31478,,68973,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,39665,,,,39665,,32842,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,44,Bahamas,BHS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1014,,,,1014,,2515,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,29851,,,,29851,,31888,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,76,Brazil,BRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,33,,,,33,,65,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1959,,,,1959,,2021,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,532,,,,532,,611,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5,,,,5,,61,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,49598,,,,49598,,29494,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,944,,,,944,,110,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,276136,,,,276136,,652625,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,185682,,,,185682,,141607,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,86,,,,86,,157,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,75145,,,,75145,,27594,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,376,Israel,ISR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,219,,,,219,,592,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,318410,,,,318410,,252474,,,2
+H1,2003,2003,2003,4,0,2,Export,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7475993,,,,7475993,,214605,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1,,,,1,,3,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,458,Malaysia,MYS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1042,,,,1042,,4564,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7489,,,,7489,,22038,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,530,Neth. Antilles,ANT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4,,,,4,,18,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,17470,,,,17470,,17862,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,666,Saint Pierre and Miquelon,SPM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,118,,,,118,,13,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,699,India,IND,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10512,,,,10512,,17750,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,355698,,,,355698,,390262,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4238521,,,,4238521,,2086273,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4001,,,,4001,,9297,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,764,Thailand,THA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,587,,,,587,,99,,,2
+H1,2003,2003,2003,4,0,2,Export,288,Ghana,GHA,768,Togo,TGO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6000,,,,6000,,801,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,122672,,,,122672,,89271,,,2
+H1,2003,2003,2003,4,0,2,Export,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2320,,,,2320,,10648,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,177321,,,,177321,,110064,,,2
+H1,2003,2003,2003,4,0,2,Export,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1472,,,,1472,,2266,,,2
+H1,2003,2003,2003,4,0,1,Import,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,187,,,,187,,307,,,2
+H0,2000,2000,2000,4,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,574996,,,,3083482,,2426569,,,0
+H0,2000,2000,2000,4,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,12108,,,,215494,,57578,,,0
+H0,2000,2000,2000,4,0,1,Import,288,Ghana,GHA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,250,,,,3000,,3182,,,0
+H0,2000,2000,2000,4,0,1,Import,288,Ghana,GHA,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,300,,,,4000,,10523,,,0
+H0,2000,2000,2000,4,0,1,Import,288,Ghana,GHA,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2162,,,,14583,,42165,,,0
+H0,2000,2000,2000,4,0,1,Import,288,Ghana,GHA,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,4996,,,,23149,,38692,,,0
+H0,2000,2000,2000,4,0,1,Import,288,Ghana,GHA,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,5,,,,5,,7,,,0
+H0,2000,2000,2000,4,0,1,Import,288,Ghana,GHA,120,Cameroon,CMR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2,,,,2,,17,,,0
+H0,2000,2000,2000,4,0,1,Import,288,Ghana,GHA,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,61,,,,1057,,923,,,0
+H0,2000,2000,2000,4,0,1,Import,288,Ghana,GHA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1757,,,,24580,,61829,,,0
+H0,2000,2000,2000,4,0,1,Import,288,Ghana,GHA,203,Czechia,CZE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,30,,,,30,,72,,,0
+H0,2000,2000,2000,4,0,1,Import,288,Ghana,GHA,204,Benin,BEN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,12419,,,,12419,,2170,,,0
+H0,2000,2000,2000,4,0,2,Export,288,Ghana,GHA,231,Ethiopia,ETH,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2,,,,221,,33,,,0
+H0,2000,2000,2000,4,0,1,Import,288,Ghana,GHA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,53412,,,,170820,,278242,,,0
+H0,2000,2000,2000,4,0,1,Import,288,Ghana,GHA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,37340,,,,76542,,53128,,,0
+H0,2000,2000,2000,4,0,2,Export,288,Ghana,GHA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,421,,,,180,,215,,,0
+H0,2000,2000,2000,4,0,1,Import,288,Ghana,GHA,376,Israel,ISR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,60,,,,54,,191,,,0
+H0,2000,2000,2000,4,0,1,Import,288,Ghana,GHA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,46063,,,,86739,,107680,,,0
+H0,2000,2000,2000,4,0,1,Import,288,Ghana,GHA,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,3339,,,,24991,,69033,,,0
+H0,2000,2000,2000,4,0,2,Export,288,Ghana,GHA,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,3222,,,,109060,,2124,,,0
+H0,2000,2000,2000,4,0,2,Export,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1400,,,,9996,,12567,,,0
+H0,2000,2000,2000,4,0,1,Import,288,Ghana,GHA,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2339,,,,30974,,37915,,,0
+H0,2000,2000,2000,4,0,2,Export,288,Ghana,GHA,694,Sierra Leone,SLE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,810,,,,10000,,9394,,,0
+H0,2000,2000,2000,4,0,1,Import,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,20742,,,,64707,,156723,,,0
+H0,2000,2000,2000,4,0,1,Import,288,Ghana,GHA,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,330989,,,,1778413,,1031030,,,0
+H0,2000,2000,2000,4,0,2,Export,288,Ghana,GHA,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,77,,,,60,,53,,,0
+H0,2000,2000,2000,4,0,1,Import,288,Ghana,GHA,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1093,,,,4441,,27340,,,0
+H0,2000,2000,2000,4,0,1,Import,288,Ghana,GHA,764,Thailand,THA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,168,,,,60,,26,,,0
+H0,2000,2000,2000,4,0,1,Import,288,Ghana,GHA,768,Togo,TGO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,29977,,,,314380,,88785,,,0
+H0,2000,2000,2000,4,0,2,Export,288,Ghana,GHA,768,Togo,TGO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,6115,,,,73234,,29261,,,0
+H0,2000,2000,2000,4,0,1,Import,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,10659,,,,84670,,80804,,,0
+H0,2000,2000,2000,4,0,2,Export,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,61,,,,12743,,3932,,,0
+H0,2000,2000,2000,4,0,1,Import,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,8438,,,,171866,,182224,,,0
+H0,2000,2000,2000,4,0,1,Import,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,8394,,,,171000,,149621,,,0
+H0,2000,2000,2000,4,0,1,Import,288,Ghana,GHA,858,Uruguay,URY,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1,,,,21000,,4247,,,0
+H0,2001,2001,2001,4,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,5738301,,,,5738301,,3441157,,,2
+H0,2001,2001,2001,4,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,173145,,,,173145,,86456,,,2
+H0,2001,2001,2001,4,0,1,Import,288,Ghana,GHA,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,17828,,,,17828,,39196,,,2
+H0,2001,2001,2001,4,0,1,Import,288,Ghana,GHA,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,16719,,,,16719,,21516,,,2
+H0,2001,2001,2001,4,0,1,Import,288,Ghana,GHA,44,Bahamas,BHS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,18215,,,,18215,,43450,,,2
+H0,2001,2001,2001,4,0,1,Import,288,Ghana,GHA,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,125471,,,,125471,,94026,,,2
+H0,2001,2001,2001,4,0,1,Import,288,Ghana,GHA,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,829,,,,829,,152,,,2
+H0,2001,2001,2001,4,0,1,Import,288,Ghana,GHA,148,Chad,TCD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,18,,,,18,,28,,,2
+H0,2001,2001,2001,4,0,1,Import,288,Ghana,GHA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,650,,,,650,,288,,,2
+H0,2001,2001,2001,4,0,1,Import,288,Ghana,GHA,170,Colombia,COL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,70,,,,70,,934,,,2
+H0,2001,2001,2001,4,0,2,Export,288,Ghana,GHA,204,Benin,BEN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,4400,,,,4400,,12020,,,2
+H0,2001,2001,2001,4,0,1,Import,288,Ghana,GHA,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,117708,,,,117708,,66163,,,2
+H0,2001,2001,2001,4,0,1,Import,288,Ghana,GHA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,329643,,,,329643,,270122,,,2
+H0,2001,2001,2001,4,0,1,Import,288,Ghana,GHA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,167424,,,,167424,,153056,,,2
+H0,2001,2001,2001,4,0,1,Import,288,Ghana,GHA,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,8373,,,,8373,,10432,,,2
+H0,2001,2001,2001,4,0,1,Import,288,Ghana,GHA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,84162,,,,84162,,113684,,,2
+H0,2001,2001,2001,4,0,2,Export,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,30,,,,30,,34,,,2
+H0,2001,2001,2001,4,0,2,Export,288,Ghana,GHA,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,758,,,,758,,150,,,2
+H0,2001,2001,2001,4,0,1,Import,288,Ghana,GHA,430,Liberia,LBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,7306,,,,7306,,48169,,,2
+H0,2001,2001,2001,4,0,1,Import,288,Ghana,GHA,442,Luxembourg,LUX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,10,,,,10,,232,,,2
+H0,2001,2001,2001,4,0,1,Import,288,Ghana,GHA,470,Malta,MLT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,36333,,,,36333,,71854,,,2
+H0,2001,2001,2001,4,0,1,Import,288,Ghana,GHA,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,43448,,,,43448,,40288,,,2
+H0,2001,2001,2001,4,0,1,Import,288,Ghana,GHA,562,Niger,NER,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,604,,,,604,,7354,,,2
+H0,2001,2001,2001,4,0,2,Export,288,Ghana,GHA,562,Niger,NER,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,82854,,,,82854,,36318,,,2
+H0,2001,2001,2001,4,0,1,Import,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,48457,,,,48457,,26246,,,2
+H0,2001,2001,2001,4,0,1,Import,288,Ghana,GHA,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,36020,,,,36020,,44162,,,2
+H0,2001,2001,2001,4,0,1,Import,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,112996,,,,112996,,169684,,,2
+H0,2001,2001,2001,4,0,1,Import,288,Ghana,GHA,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,3135478,,,,3135478,,1581873,,,2
+H0,2001,2001,2001,4,0,1,Import,288,Ghana,GHA,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,13275,,,,13275,,46170,,,2
+H0,2001,2001,2001,4,0,1,Import,288,Ghana,GHA,764,Thailand,THA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,363,,,,363,,79,,,2
+H0,2001,2001,2001,4,0,1,Import,288,Ghana,GHA,768,Togo,TGO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,370350,,,,370350,,144118,,,2
+H0,2001,2001,2001,4,0,2,Export,288,Ghana,GHA,768,Togo,TGO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,5100,,,,5100,,5124,,,2
+H0,2001,2001,2001,4,0,1,Import,288,Ghana,GHA,818,Egypt,EGY,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1,,,,1,,8,,,2
+H0,2001,2001,2001,4,0,1,Import,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,197616,,,,197616,,185811,,,2
+H0,2001,2001,2001,4,0,2,Export,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,3,,,,3,,5,,,2
+H0,2001,2001,2001,4,0,1,Import,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,146517,,,,146517,,78793,,,2
+H0,2001,2001,2001,4,0,1,Import,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,702417,,,,702417,,183269,,,2
+H0,2001,2001,2001,4,0,2,Export,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,80000,,,,80000,,32805,,,2
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,846840,,,,7479877,,3866991,,,0
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1003,,,,14800,,26219,,,0
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,720,,,,9809,,13096,,,0
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,44,Bahamas,BHS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,884,,,,10369,,13966,,,0
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,15977,,,,54807,,24158,,,0
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,135,,,,3000,,1371,,,0
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,165,,,,1100,,531,,,0
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,90,,,,1200,,865,,,0
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,204,Benin,BEN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,7750,,,,96174,,24468,,,0
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2173,,,,6313,,33467,,,0
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,15710,,,,161189,,325168,,,0
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,16294,,,,122313,,93445,,,0
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,438,,,,7020,,5615,,,0
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,3500,,,,57500,,50804,,,0
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,372,Ireland,IRL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1750,,,,21100,,7006,,,0
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,376,Israel,ISR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,144,,,,230,,1430,,,0
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,27857,,,,86886,,94880,,,0
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,466,Mali,MLI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2350,,,,19330,,3585,,,0
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,7470,,,,16762,,87559,,,0
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1755,,,,19739,,5174,,,0
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,579,Norway,NOR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,56,,,,50,,138,,,0
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,970,,,,15030,,17851,,,0
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,699,India,IND,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,6996,,,,62180,,24049,,,0
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,37555,,,,230292,,338246,,,0
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,479972,,,,4294830,,1848534,,,0
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,968,,,,6297,,54358,,,0
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,764,Thailand,THA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,4,,,,8,,22,,,0
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,768,Togo,TGO,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,5201,,,,77080,,19290,,,0
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,37928,,,,259878,,271703,,,0
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,13773,,,,239051,,117682,,,0
+H0,2002,2002,2002,4,0,1,Import,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,157252,,,,1585540,,362308,,,0
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1826731,,,,,,4408836,,,2
+H2,2005,2005,2005,4,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7764,,,,,,23723,,,2
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,280704,,,,,,338205,,,2
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,60971,,,,,,129652,,,2
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15086,,,,,,34102,,,2
+H2,2005,2005,2005,4,0,2,Export,288,Ghana,GHA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,196,,,,,,268,,,2
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2101,,,,,,6954,,,2
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,56,,,,,,136,,,2
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,41826,,,,,,49201,,,2
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,436,,,,,,1042,,,2
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13811,,,,,,45706,,,2
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,165541,,,,,,515511,,,2
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19145,,,,,,61916,,,2
+H2,2005,2005,2005,4,0,2,Export,288,Ghana,GHA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,503,,,,,,689,,,2
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,360,Indonesia,IDN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,155,,,,,,514,,,2
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13480,,,,,,28782,,,2
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,145703,,,,,,247570,,,2
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,41,,,,,,137,,,2
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,470,Malta,MLT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,265,,,,,,876,,,2
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,110,,,,,,373,,,2
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,530,Neth. Antilles,ANT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,229,,,,,,336,,,2
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,51,,,,,,60,,,2
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,26214,,,,,,86752,,,2
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3988,,,,,,13197,,,2
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,267462,,,,,,449784,,,2
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,594699,,,,,,1864551,,,2
+H2,2005,2005,2005,4,0,2,Export,288,Ghana,GHA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4259,,,,,,13720,,,2
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,93,,,,,,154,,,2
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,392,,,,,,1089,,,2
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1670,,,,,,3753,,,2
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13485,,,,,,31071,,,2
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,74,,,,,,245,,,2
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2900,,,,,,13472,,,2
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,52408,,,,,,164826,,,2
+H2,2005,2005,2005,4,0,2,Export,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2807,,,,,,9045,,,2
+H2,2005,2005,2005,4,0,1,Import,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,103635,,,,,,318870,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9271868,,,,9271868,,5823756,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1072464,,,,1072464,,563405,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,33714,,,,33714,,67940,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,152607,,,,152607,,93009,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,70,Bosnia Herzegovina,BIH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,81,,,,81,,170,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1226,,,,1226,,314,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,48440,,,,48440,,86401,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,43263,,,,43263,,20908,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,453,,,,453,,3846,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,318517,,,,318517,,655370,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,270,Gambia,GMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,28192,,,,28192,,25516,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,206675,,,,206675,,172272,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,29,,,,29,,18,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,324,Guinea,GIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,113,,,,113,,40,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1389,,,,1389,,896,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12462,,,,12462,,17465,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,239746,,,,239746,,198510,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,2,,9,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,294,,,,294,,253,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,100,,,,100,,11,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,48,,,,48,,42,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6254,,,,6254,,12782,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,178,,,,178,,31,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,44,,,,44,,606,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,90,,,,90,,12,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,43794,,,,43794,,39936,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,96,,,,96,,130,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,395566,,,,395566,,531366,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6243705,,,,6243705,,2795923,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,33,,,,33,,63,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,760,Syria,SYR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,100,,,,100,,100,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16978,,,,16978,,9325,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2999,,,,2999,,6294,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,95,,,,95,,492,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20790,,,,20790,,11191,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,209089,,,,209089,,151231,,,2
+H2,2006,2006,2006,4,0,1,Import,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,172242,,,,172242,,357878,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11806838,,,,11806838,,8301866,,,2
+H2,2007,2007,2007,4,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3740,,,,3740,,995,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4,,,,4,,34,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2276043,,,,2276043,,1194291,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,52011,,,,52011,,89977,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,143183,,,,143183,,121614,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,39,,,,39,,28,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,90,Solomon Isds,SLB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,43688,,,,43688,,19311,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,120,Cameroon,CMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,150,,,,150,,49,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,587,,,,587,,516,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,156500,,,,156500,,278016,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1683,,,,1683,,2161,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6,,,,6,,6,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10,,,,10,,11,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,432285,,,,432285,,942243,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,268,Georgia,GEO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10147,,,,10147,,8616,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,151079,,,,151079,,164437,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,84,,,,84,,58,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12,,,,12,,42,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6,,,,6,,579,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,331,,,,331,,10259,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,328694,,,,328694,,363770,,,2
+H2,2007,2007,2007,4,0,2,Export,288,Ghana,GHA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,33,,,,33,,100,,,2
+H2,2007,2007,2007,4,0,2,Export,288,Ghana,GHA,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1152,,,,1152,,596,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,112,,,,112,,64,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,157,,,,157,,411,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,430,Liberia,LBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36000,,,,36000,,17328,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,30,,,,30,,14,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36,,,,36,,34,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,58676,,,,58676,,82694,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,67,,,,67,,17,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,61,,,,61,,736,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,70237,,,,70237,,63617,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19,,,,19,,103,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,550477,,,,550477,,891807,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,46,,,,46,,191,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7037191,,,,7037191,,3309335,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,276,,,,276,,258,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,844,,,,844,,1450,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2722,,,,2722,,5127,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3,,,,3,,15,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,189469,,,,189469,,178384,,,2
+H2,2007,2007,2007,4,0,1,Import,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,263873,,,,263873,,554262,,,2
+H2,2007,2007,2007,4,0,2,Export,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2555,,,,2555,,300,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14753204,,,,14753204,,11069926,,,2
+H2,2008,2008,2008,4,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,61210,,,,61210,,108701,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2818246,,,,2818246,,1495484,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,68136,,,,68136,,159354,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,210341,,,,210341,,1029510,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20598,,,,20598,,9974,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,540,,,,540,,1521,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,141162,,,,141162,,232323,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,102862,,,,102862,,81117,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,220,,,,220,,5042,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,230992,,,,230992,,1480422,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,752631,,,,752631,,223516,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,164,,,,164,,1091,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,124930,,,,124930,,181404,,,2
+H2,2008,2008,2008,4,0,2,Export,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,48429,,,,48429,,87765,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,107,,,,107,,29,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,400,Jordan,JOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19,,,,19,,95,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10,,,,10,,32,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,256170,,,,256170,,123639,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,454,Malawi,MWI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,119,,,,119,,106,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,611,,,,611,,618,,,2
+H2,2008,2008,2008,4,0,2,Export,288,Ghana,GHA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1442,,,,1442,,383,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,261,,,,261,,496,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23000,,,,23000,,140,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,287370,,,,287370,,216618,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,68,,,,68,,69,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,723723,,,,723723,,1113875,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,716,Zimbabwe,ZWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1678,,,,1678,,6627,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8494142,,,,8494142,,3881697,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,84,,,,84,,70,,,2
+H2,2008,2008,2008,4,0,2,Export,288,Ghana,GHA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4040,,,,4040,,2166,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1048,,,,1048,,511,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7055,,,,7055,,3899,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,28,,,,28,,90,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4,,,,4,,27,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,228609,,,,228609,,410159,,,2
+H2,2008,2008,2008,4,0,2,Export,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,207,,,,207,,93,,,2
+H2,2008,2008,2008,4,0,1,Import,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,258276,,,,258276,,410373,,,2
+H2,2008,2008,2008,4,0,2,Export,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,617,,,,617,,335,,,2
+H2,2008,2008,2008,4,0,2,Export,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6475,,,,6475,,17960,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9298905,,,,9298905,,7348842,,,2
+H2,2009,2009,2009,4,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27866,,,,27866,,116050,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2731985,,,,2731985,,1509747,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,51256,,,,51256,,131557,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,44,Bahamas,BHS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,166,,,,166,,85,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,201801,,,,201801,,225938,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,33384,,,,33384,,11400,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,158,,,,158,,268,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,235794,,,,235794,,355113,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23151,,,,23151,,9529,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5,,,,5,,58,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19346,,,,19346,,15792,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6275,,,,6275,,4872,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,165706,,,,165706,,869832,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,107678,,,,107678,,98900,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,129,,,,129,,1141,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,152121,,,,152121,,169201,,,2
+H2,2009,2009,2009,4,0,2,Export,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4000,,,,4000,,104133,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,408,,,,408,,1071,,,2
+H2,2009,2009,2009,4,0,2,Export,288,Ghana,GHA,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1615,,,,1615,,1236,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,257,,,,257,,453,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,429,,,,429,,994,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,430,Liberia,LBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27,,,,27,,77,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6,,,,6,,9,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,470,Malta,MLT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,713,,,,713,,550,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6297,,,,6297,,7300,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1705,,,,1705,,984,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,584,Marshall Isds,MHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18600,,,,18600,,10789,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,189129,,,,189129,,134007,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,177824,,,,177824,,119144,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8,,,,8,,46,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,646,Rwanda,RWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20,,,,20,,93,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,97882,,,,97882,,63825,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12583,,,,12583,,6767,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,694286,,,,694286,,1166329,,,2
+H2,2009,2009,2009,4,0,2,Export,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14,,,,14,,80,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3954504,,,,3954504,,1937155,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,248,,,,248,,3729,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2241,,,,2241,,1914,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,74597,,,,74597,,36409,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,506,,,,506,,310,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6,,,,6,,25,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15865,,,,15865,,18317,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,132272,,,,132272,,190303,,,2
+H2,2009,2009,2009,4,0,2,Export,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9117,,,,9117,,4025,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,189403,,,,189403,,244452,,,2
+H2,2009,2009,2009,4,0,2,Export,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13120,,,,13120,,6576,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13,,,,13,,27,,,2
+H2,2009,2009,2009,4,0,1,Import,288,Ghana,GHA,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,123,,,,123,,329,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8710375,,,,8710375,,7399147,,,2
+H4,2013,2013,2013,4,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,434232,,,,434232,,450495,,,2
+H4,2013,2013,2013,4,0,2,Export,288,Ghana,GHA,24,Angola,AGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6,,,,6,,36,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36,,,,36,,59,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,722525,,,,722525,,430127,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15442,,,,15442,,29753,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,44,Bahamas,BHS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10,,,,10,,37,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,496696,,,,496696,,790814,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7503,,,,7503,,8486,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,65389,,,,65389,,56874,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,117,,,,117,,191,,,2
+H4,2013,2013,2013,4,0,2,Export,288,Ghana,GHA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,54,,,,54,,107,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,199502,,,,199502,,218010,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,58496,,,,58496,,37591,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,178,Congo,COG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,641,,,,641,,426,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,192,Cuba,CUB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,222,,,,222,,90,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,38003,,,,38003,,33126,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,202734,,,,202734,,517292,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,315210,,,,315210,,566445,,,2
+H4,2013,2013,2013,4,0,2,Export,288,Ghana,GHA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,328,,,,328,,299,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,421,,,,421,,2541,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,47,,,,47,,57,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1430,,,,1430,,3785,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,674846,,,,674846,,705690,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6,,,,6,,188,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5,,,,5,,5,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8910,,,,8910,,9531,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1960,,,,1960,,4217,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4,,,,4,,48,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17,,,,17,,20,,,2
+H4,2013,2013,2013,4,0,2,Export,288,Ghana,GHA,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7,,,,7,,10,,,2
+H4,2013,2013,2013,4,0,2,Export,288,Ghana,GHA,466,Mali,MLI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1000,,,,1000,,2951,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,21,,,,21,,39,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13400,,,,13400,,34870,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25,,,,25,,183,,,2
+H4,2013,2013,2013,4,0,2,Export,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7631,,,,7631,,45907,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,604,Peru,PER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20,,,,20,,25,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,103880,,,,103880,,114769,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,694,Sierra Leone,SLE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16,,,,16,,72,,,2
+H4,2013,2013,2013,4,0,2,Export,288,Ghana,GHA,694,Sierra Leone,SLE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,66,,,,66,,119,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,53099,,,,53099,,25771,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,102,,,,102,,541,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,706,Somalia,SOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,116,,,,116,,205,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1021075,,,,1021075,,1212368,,,2
+H4,2013,2013,2013,4,0,2,Export,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,452,,,,452,,553,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4344692,,,,4344692,,2080032,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,43,,,,43,,6007,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,890,,,,890,,1069,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15474,,,,15474,,23277,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,800,Uganda,UGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,98,,,,98,,75,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,136830,,,,136830,,195849,,,2
+H4,2013,2013,2013,4,0,2,Export,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,173,,,,173,,72,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,210407,,,,210407,,288536,,,2
+H4,2013,2013,2013,4,0,2,Export,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,1,,25,,,2
+H4,2013,2013,2013,4,0,1,Import,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16,,,,16,,53,,,2
+H4,2013,2013,2013,4,0,2,Export,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,424516,,,,424516,,400417,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,8677391,,6401022,,,6
+H4,2014,2014,2014,4,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6671994,,,,6671994,,12474273,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,16,American Samoa,ASM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10,,,,10,,87,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,20,Andorra,AND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,859,,,,859,,254,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4709,,,,4709,,9177,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,867828,,,,867828,,427552,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1522,,,,1522,,13437,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,44,Bahamas,BHS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22,,,,22,,164,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,355114,,,,355114,,286273,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,88518,,,,88518,,51304,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,120,Cameroon,CMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17,,,,17,,24,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12086,,,,12086,,12724,,,2
+H4,2014,2014,2014,4,0,2,Export,288,Ghana,GHA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,62,,,,62,,229,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,85389,,,,85389,,87236,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,31430,,,,31430,,19517,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,204,Benin,BEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,78,,,,78,,154,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15477,,,,15477,,3396,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,122300,,,,122300,,191232,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8,,,,8,,21,,,2
+H4,2014,2014,2014,4,0,2,Export,288,Ghana,GHA,266,Gabon,GAB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,258,,,,258,,413,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,368749,,,,368749,,771171,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,363,,,,363,,845,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,148,,,,148,,2027,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,426001,,594856,,,6
+H4,2014,2014,2014,4,0,2,Export,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3578743,,,,3578743,,4553387,,,2
+H4,2014,2014,2014,4,0,2,Export,288,Ghana,GHA,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1390,,,,1390,,807,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,127,,,,127,,93,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,344,,,,344,,453,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,430,Liberia,LBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,412,,,,412,,247,,,2
+H4,2014,2014,2014,4,0,2,Export,288,Ghana,GHA,430,Liberia,LBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1105,,,,1105,,1724,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6,,,,6,,32,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,466,Mali,MLI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,1,,21,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,470,Malta,MLT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,68461,,,,68461,,31562,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4385,,,,4385,,3943,,,2
+H4,2014,2014,2014,4,0,2,Export,288,Ghana,GHA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4824,,,,4824,,28332,,,2
+H4,2014,2014,2014,4,0,2,Export,288,Ghana,GHA,562,Niger,NER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,224799,,,,224799,,718145,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36102,,,,36102,,52632,,,2
+H4,2014,2014,2014,4,0,2,Export,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1232481,,,,1232481,,2389945,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,579,Norway,NOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16138,,,,16138,,8439,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,584,Marshall Isds,MHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16073,,,,16073,,6890,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1857,,,,1857,,5531,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,88983,,,,88983,,106839,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,48967,,,,48967,,27153,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4515,,,,4515,,6999,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,258301,,,,258301,,86057,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,804147,,,,804147,,960077,,,2
+H4,2014,2014,2014,4,0,2,Export,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,358,,,,358,,270,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4644120,,,,4644120,,2319681,,,2
+H4,2014,2014,2014,4,0,2,Export,288,Ghana,GHA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,725028,,,,725028,,3640148,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,70,,,,70,,342,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17842,,,,17842,,17969,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1400,,,,1400,,3837,,,2
+H4,2014,2014,2014,4,0,2,Export,288,Ghana,GHA,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4630,,,,4630,,3297,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,37118,,,,37118,,5737,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,64865,,,,64865,,86906,,,2
+H4,2014,2014,2014,4,0,2,Export,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2620,,,,2620,,12026,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,180757,,,,180757,,196077,,,2
+H4,2014,2014,2014,4,0,2,Export,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,79,,,,79,,303,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1487,,,,1487,,504,,,2
+H4,2014,2014,2014,4,0,2,Export,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,895611,,,,895611,,1125240,,,2
+H4,2014,2014,2014,4,0,1,Import,288,Ghana,GHA,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,267,,,,267,,1530,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8673547,,,,8673547,,7084720,,,2
+H3,2010,2010,2010,4,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,211465,,,,211465,,166047,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,24,Angola,AGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,124,,,,124,,61,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,852219,,,,852219,,665021,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,17893,,,,17893,,41713,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,35,,,,35,,268,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,393926,,,,393926,,945856,,,2
+H3,2010,2010,2010,4,0,2,Export,288,Ghana,GHA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,858,,,,858,,603,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,39318,,,,39318,,23014,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,544,,,,544,,297,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,215684,,,,215684,,349316,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10258,,,,10258,,7441,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,178,Congo,COG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,158,,,,158,,108,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,263,,,,263,,3155,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,88534,,,,88534,,320801,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,146547,,,,146547,,113362,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,324,Guinea,GIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6,,,,6,,37,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,229,,,,229,,144,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,80,,,,80,,508,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,158449,,,,158449,,155822,,,2
+H3,2010,2010,2010,4,0,2,Export,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3402,,,,3402,,53291,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5,,,,5,,76,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,777,,,,777,,1148,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,583,,,,583,,716,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4,,,,4,,25,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,21844,,,,21844,,17988,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,162,,,,162,,183,,,2
+H3,2010,2010,2010,4,0,2,Export,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,13200,,,,13200,,55510,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,215583,,,,215583,,116128,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,250,,,,250,,114,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,58313,,,,58313,,33358,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,849438,,,,849438,,1349205,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5024226,,,,5024226,,2249831,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,543,,,,543,,4248,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,19768,,,,19768,,6480,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9500,,,,9500,,53072,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,25,,,,25,,442,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1327,,,,1327,,804,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,124970,,,,124970,,168642,,,2
+H3,2010,2010,2010,4,0,2,Export,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6288,,,,6288,,2019,,,2
+H3,2010,2010,2010,4,0,1,Import,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,421950,,,,421950,,455318,,,2
+H3,2010,2010,2010,4,0,2,Export,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1638,,,,1638,,1127,,,2
+H3,2010,2010,2010,4,0,2,Export,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,186078,,,,186078,,53494,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10573186,,,,10573186,,8382830,,,2
+H3,2011,2011,2011,4,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,100220,,,,100220,,2237126,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,519365,,,,519365,,407796,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,37075,,,,37075,,92697,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,44,Bahamas,BHS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15,,,,15,,142,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,329958,,,,329958,,729569,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,26847,,,,26847,,15727,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,120,Cameroon,CMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,27,,,,27,,33,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2563,,,,2563,,9157,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,142482,,,,142482,,230769,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,13016,,,,13016,,8633,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,102,,,,102,,3160,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,253407,,,,253407,,339796,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,249339,,,,249339,,450339,,,2
+H3,2011,2011,2011,4,0,2,Export,288,Ghana,GHA,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,66,,,,66,,51,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,818,,,,818,,621,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,96,,,,96,,81,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,67,,,,67,,418,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,486752,,,,486752,,542867,,,2
+H3,2011,2011,2011,4,0,2,Export,288,Ghana,GHA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,97,,,,97,,51,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,534,,,,534,,722,,,2
+H3,2011,2011,2011,4,0,2,Export,288,Ghana,GHA,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,60,,,,60,,25,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,139018,,,,139018,,66888,,,2
+H3,2011,2011,2011,4,0,2,Export,288,Ghana,GHA,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,42,,,,42,,25,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15,,,,15,,91,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,498,Rep. of Moldova,MDA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,40,,,,40,,378,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,17100,,,,17100,,12010,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,520,,,,520,,1120,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,24,,,,24,,50,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,371,,,,371,,908,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,315898,,,,315898,,154992,,,2
+H3,2011,2011,2011,4,0,2,Export,288,Ghana,GHA,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,160,,,,160,,101,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7898,,,,7898,,9136,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,584,,,,584,,489,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1082493,,,,1082493,,1577356,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6357399,,,,6357399,,2987624,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,89,,,,89,,561,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,35374,,,,35374,,27332,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4175,,,,4175,,2535,,,2
+H3,2011,2011,2011,4,0,2,Export,288,Ghana,GHA,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2000,,,,2000,,39181,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1401,,,,1401,,1317,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,243,,,,243,,114,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,104430,,,,104430,,137458,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,221843,,,,221843,,280989,,,2
+H3,2011,2011,2011,4,0,1,Import,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,221808,,,,221808,,288954,,,2
+H3,2011,2011,2011,4,0,2,Export,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7212,,,,7212,,2067846,,,2
+H3,2011,2011,2011,4,0,2,Export,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,90584,,,,90584,,129846,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12318937,,,,12318937,,9941747,,,2
+H3,2012,2012,2012,4,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,19656,,,,19656,,17243,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,895701,,,,895701,,452305,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2016,,,,2016,,10308,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,194,,,,194,,1918,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,624738,,,,624738,,1307107,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,24,,,,24,,51,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,57250,,,,57250,,35221,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1366,,,,1366,,649,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,249327,,,,249327,,332928,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8497,,,,8497,,8599,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,191,Croatia,HRV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3,,,,3,,13,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1,,,,1,,7,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,239770,,,,239770,,544552,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,277776,,,,277776,,346271,,,2
+H3,2012,2012,2012,4,0,2,Export,288,Ghana,GHA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,141,,,,141,,38,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,56,,,,56,,53,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,332,Haiti,HTI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10,,,,10,,22,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1823,,,,1823,,7756,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,572541,,,,572541,,554752,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,736,,,,736,,437,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7,,,,7,,34,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1246,,,,1246,,3904,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,14492,,,,14492,,78597,,,2
+H3,2012,2012,2012,4,0,2,Export,288,Ghana,GHA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,25,,,,25,,28,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,135,,,,135,,124,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4753,,,,4753,,6421,,,2
+H3,2012,2012,2012,4,0,2,Export,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4324,,,,4324,,4197,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,498647,,,,498647,,246086,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,26,,,,26,,115,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,17310,,,,17310,,10677,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,706,Somalia,SOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,807,,,,807,,1810,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,936747,,,,936747,,1893942,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7477725,,,,7477725,,3428541,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,353,,,,353,,626,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,35602,,,,35602,,47199,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,25792,,,,25792,,73010,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,49184,,,,49184,,60209,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1889,,,,1889,,860,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,134506,,,,134506,,221402,,,2
+H3,2012,2012,2012,4,0,1,Import,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,187888,,,,187888,,265240,,,2
+H3,2012,2012,2012,4,0,2,Export,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8302,,,,8302,,2540,,,2
+H3,2012,2012,2012,4,0,2,Export,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6864,,,,6864,,10440,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8132445,,,,8167494,,6781643,,,2
+H5,2018,2018,2018,4,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3032674,,,,3331599,,6126883,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,425302,,,,425302,,432867,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15811,,,,15811,,38492,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,401692,,,,401692,,247591,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,92,Br. Virgin Isds,VGB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,856,,,,856,,688,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,552,,,,544,,1100,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,43893,,,,43893,,37898,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,32537,,,,30979,,31778,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15131,,,,15131,,3760,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,528189,,,,528344,,1193492,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,61649,,,,61649,,85713,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15773,,,,15773,,28409,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2274,,,,2274,,10156,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,452153,,,,484354,,365352,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18758,,,,18758,,20910,,,2
+H5,2018,2018,2018,4,0,2,Export,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2097598,,,,2106689,,4556732,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,357,,,,357,,12763,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1572,,,,1572,,434,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2800,,,,2800,,3173,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5228,,,,5228,,40449,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3330,,,,3330,,724,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,50,,,,50,,4,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,80314,,,,80314,,46738,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,217,,,,217,,820,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,382,,,,382,,132,,,2
+H5,2018,2018,2018,4,0,2,Export,288,Ghana,GHA,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,30,,,,30,,14,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8820,,,,8820,,3667,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,934717,,,,935757,,1359067,,,2
+H5,2018,2018,2018,4,0,2,Export,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,39512,,,,19994,,74763,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4603368,,,,4606586,,2465039,,,2
+H5,2018,2018,2018,4,0,2,Export,288,Ghana,GHA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,382622,,,,382622,,302029,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,748,Eswatini,SWZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,86,,,,86,,37,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,303,,,,303,,407,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,174621,,,,174621,,73859,,,2
+H5,2018,2018,2018,4,0,2,Export,288,Ghana,GHA,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,77406,,,,107095,,233619,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,50,,,,50,,28,,,2
+H5,2018,2018,2018,4,0,2,Export,288,Ghana,GHA,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,33,,,,33,,120,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,41674,,,,41674,,34763,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,39466,,,,39466,,46839,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,121504,,,,121504,,98577,,,2
+H5,2018,2018,2018,4,0,1,Import,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,99009,,,,99009,,95899,,,2
+H5,2018,2018,2018,4,0,2,Export,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10000,,,,10000,,95030,,,2
+H5,2018,2018,2018,4,0,2,Export,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,425471,,,,705135,,864573,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,8238826,,6063205,,,2
+H5,2019,2019,2019,4,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,23022,,,,23022,,2349989,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,555572,,,,555572,,411088,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1870,,,,1870,,2795,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,455890,,685111,,,2
+H5,2019,2019,2019,4,0,2,Export,288,Ghana,GHA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,340,,,,340,,4451,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,53654,,,,53654,,32782,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,551,,611,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,110023,,,,110023,,122027,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,14260,,4644,,,2
+H5,2019,2019,2019,4,0,2,Export,288,Ghana,GHA,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,891,,,,891,,872,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,30262,,,,30262,,6581,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,776,,,,776,,456,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,532116,,487254,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,268,Georgia,GEO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22856,,,,22856,,11935,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,110545,,,,110545,,101606,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5301,,,,5301,,6987,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2440,,,,2440,,4273,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,660,,,,660,,1214,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,600262,,477700,,,2
+H5,2019,2019,2019,4,0,2,Export,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16756,,,,16756,,31353,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1098,,,,1098,,7248,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20,,,,20,,17,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3160,,,,3160,,1997,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,414,Kuwait,KWT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,975,,,,975,,482,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1451,,,,1451,,951,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,470,Malta,MLT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,181,,,,181,,512,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4233,,,,4233,,28840,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,884,,,,884,,938,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,60,,,,60,,408,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20,,,,20,,35,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,80098,,,,80098,,53661,,,2
+H5,2019,2019,2019,4,0,2,Export,288,Ghana,GHA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,113,,,,113,,1890,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4932,,,,4932,,6159,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,1504785,,1547588,,,2
+H5,2019,2019,2019,4,0,2,Export,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,360,,,,360,,250,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,3765640,,1866776,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,193,,,,193,,114,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,155541,,,,155541,,43914,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12613,,,,12613,,4930,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,300,,,,300,,261,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,35201,,,,35201,,19541,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,43051,,,,43051,,35128,,,2
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,127338,,86622,,,2
+H5,2019,2019,2019,4,0,2,Export,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4560,,,,4560,,2311170,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7241620,,,,7241620,,6375716,,,2
+H4,2015,2015,2015,4,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2957503,,,,2957503,,8338678,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,413510,,,,413510,,256855,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,64851,,,,64851,,79541,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,357374,,,,357374,,228930,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10713,,,,10713,,6795,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,214,,,,214,,692,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,142804,,,,142804,,110316,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,30088,,,,30088,,17809,,,2
+H4,2015,2015,2015,4,0,2,Export,288,Ghana,GHA,204,Benin,BEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,64,,,,64,,101,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,308,,,,308,,4589,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,222975,,,,222975,,671641,,,2
+H4,2015,2015,2015,4,0,2,Export,288,Ghana,GHA,270,Gambia,GMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,50,,,,50,,33,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,241433,,,,241433,,685564,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,364,Iran,IRN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,704,,,,704,,836,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2034,,,,2034,,6025,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45,,,,45,,628,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,398556,,,,398556,,333072,,,2
+H4,2015,2015,2015,4,0,2,Export,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1521377,,,,1521377,,2674623,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,136,,,,136,,5084,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8,,,,8,,41,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,65,,,,65,,262,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,708,,,,708,,498,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11050,,,,11050,,25769,,,2
+H4,2015,2015,2015,4,0,2,Export,288,Ghana,GHA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,971,,,,971,,16650,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,562,Niger,NER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13,,,,13,,75,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,1,,3,,,2
+H4,2015,2015,2015,4,0,2,Export,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,268951,,,,268951,,381881,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,88331,,,,88331,,115480,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,646,Rwanda,RWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10,,,,10,,66,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,694,Sierra Leone,SLE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4,,,,4,,2,,,2
+H4,2015,2015,2015,4,0,2,Export,288,Ghana,GHA,694,Sierra Leone,SLE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45312,,,,45312,,52275,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,68006,,,,68006,,42500,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6260,,,,6260,,2008,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1151400,,,,1151400,,1490478,,,2
+H4,2015,2015,2015,4,0,2,Export,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6,,,,6,,16,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3532673,,,,3532673,,1577005,,,2
+H4,2015,2015,2015,4,0,2,Export,288,Ghana,GHA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,281890,,,,281890,,4002398,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,38592,,,,38592,,73928,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10,,,,10,,18,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1926,,,,1926,,1284,,,2
+H4,2015,2015,2015,4,0,2,Export,288,Ghana,GHA,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,75671,,,,75671,,131511,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,973,,,,973,,1796,,,2
+H4,2015,2015,2015,4,0,2,Export,288,Ghana,GHA,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4380,,,,4380,,85072,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,105486,,,,105486,,114803,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,348517,,,,348517,,520358,,,2
+H4,2015,2015,2015,4,0,2,Export,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,350,,,,350,,61,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1798,,,,1798,,367,,,2
+H4,2015,2015,2015,4,0,2,Export,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,758477,,,,758477,,994052,,,2
+H4,2015,2015,2015,4,0,1,Import,288,Ghana,GHA,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,31,,,,31,,580,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6906387,,,,6906387,,5091576,,,2
+H4,2016,2016,2016,4,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1013172,,,,1013172,,2984260,,,2
+H4,2016,2016,2016,4,0,4,Re-Import,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2895,,,,2895,,4580,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,444060,,,,444060,,338964,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,53188,,,,53188,,73980,,,2
+H4,2016,2016,2016,4,0,2,Export,288,Ghana,GHA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,598,,,,598,,198,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8816,,,,8816,,7785,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,307242,,,,307242,,331564,,,2
+H4,2016,2016,2016,4,0,2,Export,288,Ghana,GHA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2317,,,,2317,,2979,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,64160,,,,64160,,23792,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,120,Cameroon,CMR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20,,,,20,,1032,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4877,,,,4877,,2155,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,94496,,,,94496,,92653,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,56093,,,,56093,,29963,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,31560,,,,31560,,13794,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,264371,,,,264371,,640071,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,108549,,,,108549,,163075,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,288,Ghana,GHA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2895,,,,2895,,4580,,,2
+H4,2016,2016,2016,4,0,4,Re-Import,288,Ghana,GHA,288,Ghana,GHA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2895,,,,2895,,4580,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,602,,,,602,,201,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2034,,,,2034,,5250,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,270,,,,270,,1443,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,424839,,,,424839,,261121,,,2
+H4,2016,2016,2016,4,0,2,Export,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,235805,,,,235805,,307603,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,1,,16,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1175,,,,1175,,1015,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,434,Libya,LBY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,133,,,,133,,38,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,450,Madagascar,MDG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,57,,,,57,,51,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,44,,,,44,,29,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6299,,,,6299,,16109,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,912,,,,912,,2596,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,591,Panama,PAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45,,,,45,,62,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,46405,,,,46405,,27434,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20155,,,,20155,,8964,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14966,,,,14966,,8049,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15,,,,15,,21,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,915854,,,,915854,,1024986,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3601549,,,,3601549,,1575842,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,62,,,,62,,28,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,87,,,,87,,77,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36915,,,,36915,,83690,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,73,,,,73,,622,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,32587,,,,32587,,22407,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,43493,,,,43493,,36013,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,107426,,,,107426,,79112,,,2
+H4,2016,2016,2016,4,0,1,Import,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,210063,,,,210063,,212994,,,2
+H4,2016,2016,2016,4,0,2,Export,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,774451,,,,774451,,2673480,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10235646,,,,10235646,,8103405,,,2
+H4,2017,2017,2017,4,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4372476,,,,4372476,,8819973,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,633967,,,,633967,,672568,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,39806,,,,39806,,64190,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10503,,,,10503,,9493,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,337372,,,,337372,,206945,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,47,,,,47,,42,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,184854,,,,184854,,69188,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,452,,,,452,,1131,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,38599,,,,38599,,41153,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16910,,,,16910,,6051,,,2
+H4,2017,2017,2017,4,0,2,Export,288,Ghana,GHA,204,Benin,BEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24788,,,,24788,,18828,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,169,,,,169,,5870,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,506815,,,,506815,,1039700,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,62192,,,,62192,,86412,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,26,,,,26,,24,,,2
+H4,2017,2017,2017,4,0,2,Export,288,Ghana,GHA,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,100,,,,100,,30,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,404,,,,404,,3819,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2611,,,,2611,,11426,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,770432,,,,770432,,439243,,,2
+H4,2017,2017,2017,4,0,2,Export,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2416721,,,,2416721,,4721384,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,154,,,,154,,6182,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,398,Kazakhstan,KAZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3,,,,3,,26,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16888,,,,16888,,11210,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,414,Kuwait,KWT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,106,,,,106,,25,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1348,,,,1348,,664,,,2
+H4,2017,2017,2017,4,0,2,Export,288,Ghana,GHA,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,247,,,,247,,1593,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,430,Liberia,LBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,55,,,,55,,76,,,2
+H4,2017,2017,2017,4,0,2,Export,288,Ghana,GHA,430,Liberia,LBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,31,,,,31,,98,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,69,,,,69,,299,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,674,,,,674,,938,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1380,,,,1380,,6484,,,2
+H4,2017,2017,2017,4,0,2,Export,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45903,,,,45903,,54802,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,600,Paraguay,PRY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15722,,,,15722,,14442,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,28,,,,28,,1128,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,109380,,,,109380,,80329,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14398,,,,14398,,8054,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10965,,,,10965,,5114,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1475138,,,,1475138,,1827485,,,2
+H4,2017,2017,2017,4,0,2,Export,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1028,,,,1028,,1110,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5318046,,,,5318046,,2785456,,,2
+H4,2017,2017,2017,4,0,2,Export,288,Ghana,GHA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,892507,,,,892507,,2662975,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,226,,,,226,,71,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,377,,,,377,,970,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,60,,,,60,,56,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,155991,,,,155991,,107966,,,2
+H4,2017,2017,2017,4,0,2,Export,288,Ghana,GHA,768,Togo,TGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,168566,,,,168566,,252404,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4346,,,,4346,,2959,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8400,,,,8400,,7276,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13555,,,,13555,,6839,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,84862,,,,84862,,76434,,,2
+H4,2017,2017,2017,4,0,2,Export,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,197,,,,197,,74,,,2
+H4,2017,2017,2017,4,0,1,Import,288,Ghana,GHA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,398299,,,,398299,,495648,,,2
+H4,2017,2017,2017,4,0,2,Export,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,822384,,,,822384,,1106669,,,2

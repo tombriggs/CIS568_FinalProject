@@ -1,0 +1,137 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,4,0,1,Import,324,Guinea,GIN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,398924,,,,398924,,193087,,,2
+H1,2000,2000,2000,4,0,1,Import,324,Guinea,GIN,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7055,,,,7055,,13746,,,2
+H1,2000,2000,2000,4,0,1,Import,324,Guinea,GIN,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,117227,,,,117227,,72675,,,2
+H1,2000,2000,2000,4,0,1,Import,324,Guinea,GIN,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,120,,,,120,,311,,,2
+H1,2000,2000,2000,4,0,1,Import,324,Guinea,GIN,422,Lebanon,LBN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1987,,,,1987,,1063,,,2
+H1,2000,2000,2000,4,0,1,Import,324,Guinea,GIN,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,269607,,,,269607,,104579,,,2
+H1,2000,2000,2000,4,0,1,Import,324,Guinea,GIN,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2923,,,,2923,,665,,,2
+H1,2000,2000,2000,4,0,1,Import,324,Guinea,GIN,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5,,,,5,,48,,,2
+H1,2001,2001,2001,4,0,1,Import,324,Guinea,GIN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,886771,,,,886771,,373262,,,2
+H1,2001,2001,2001,4,0,2,Export,324,Guinea,GIN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,22716,,,,22716,,3589,,,2
+H1,2001,2001,2001,4,0,1,Import,324,Guinea,GIN,12,Algeria,DZA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,416,,,,416,,714,,,2
+H1,2001,2001,2001,4,0,1,Import,324,Guinea,GIN,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1771,,,,1771,,3458,,,2
+H1,2001,2001,2001,4,0,1,Import,324,Guinea,GIN,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,35,,,,35,,265,,,2
+H1,2001,2001,2001,4,0,1,Import,324,Guinea,GIN,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,150899,,,,150899,,148796,,,2
+H1,2001,2001,2001,4,0,2,Export,324,Guinea,GIN,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,22716,,,,22716,,3589,,,2
+H1,2001,2001,2001,4,0,1,Import,324,Guinea,GIN,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,765,,,,765,,940,,,2
+H1,2001,2001,2001,4,0,1,Import,324,Guinea,GIN,694,Sierra Leone,SLE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,21420,,,,21420,,9189,,,2
+H1,2001,2001,2001,4,0,1,Import,324,Guinea,GIN,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,619200,,,,619200,,170410,,,2
+H1,2001,2001,2001,4,0,1,Import,324,Guinea,GIN,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,54008,,,,54008,,26743,,,2
+H1,2001,2001,2001,4,0,1,Import,324,Guinea,GIN,788,Tunisia,TUN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11740,,,,11740,,4074,,,2
+H1,2001,2001,2001,4,0,1,Import,324,Guinea,GIN,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,26517,,,,26517,,8672,,,2
+H1,2002,2002,2002,4,0,1,Import,324,Guinea,GIN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1384560,,,,1384560,,493655,,,2
+H1,2002,2002,2002,4,0,1,Import,324,Guinea,GIN,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3010,,,,3010,,2723,,,2
+H1,2002,2002,2002,4,0,1,Import,324,Guinea,GIN,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,299778,,,,299778,,167201,,,2
+H1,2002,2002,2002,4,0,1,Import,324,Guinea,GIN,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16950,,,,16950,,16016,,,2
+H1,2002,2002,2002,4,0,1,Import,324,Guinea,GIN,422,Lebanon,LBN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6014,,,,6014,,3561,,,2
+H1,2002,2002,2002,4,0,1,Import,324,Guinea,GIN,704,Viet Nam,VNM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,21,,,,21,,36,,,2
+H1,2002,2002,2002,4,0,1,Import,324,Guinea,GIN,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1056423,,,,1056423,,303178,,,2
+H1,2002,2002,2002,4,0,1,Import,324,Guinea,GIN,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2214,,,,2214,,917,,,2
+H1,2002,2002,2002,4,0,1,Import,324,Guinea,GIN,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,150,,,,150,,24,,,2
+H1,2004,2004,2004,4,0,1,Import,324,Guinea,GIN,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,717163,,,,717163,,319542,,,2
+H1,2004,2004,2004,4,0,1,Import,324,Guinea,GIN,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3871,,,,3871,,4209,,,2
+H1,2004,2004,2004,4,0,1,Import,324,Guinea,GIN,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,25735,,,,25735,,52912,,,2
+H1,2004,2004,2004,4,0,1,Import,324,Guinea,GIN,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,940,,,,940,,1989,,,2
+H1,2004,2004,2004,4,0,1,Import,324,Guinea,GIN,422,Lebanon,LBN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2048,,,,2048,,4432,,,2
+H1,2004,2004,2004,4,0,1,Import,324,Guinea,GIN,568,"Other Europe, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,39200,,,,39200,,13305,,,2
+H1,2004,2004,2004,4,0,1,Import,324,Guinea,GIN,642,Romania,ROU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,14782,,,,14782,,8852,,,2
+H1,2004,2004,2004,4,0,1,Import,324,Guinea,GIN,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,626059,,,,626059,,226987,,,2
+H1,2004,2004,2004,4,0,1,Import,324,Guinea,GIN,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4528,,,,4528,,6856,,,2
+H2,2005,2005,2005,4,0,1,Import,324,Guinea,GIN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,460180,,,,460180,,159203,,,2
+H2,2005,2005,2005,4,0,1,Import,324,Guinea,GIN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,539,,,,539,,457,,,2
+H2,2005,2005,2005,4,0,1,Import,324,Guinea,GIN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,918,,,,918,,4085,,,2
+H2,2005,2005,2005,4,0,1,Import,324,Guinea,GIN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,123568,,,,123568,,53902,,,2
+H2,2005,2005,2005,4,0,1,Import,324,Guinea,GIN,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11926,,,,11926,,7442,,,2
+H2,2005,2005,2005,4,0,1,Import,324,Guinea,GIN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,122,,,,122,,226,,,2
+H2,2005,2005,2005,4,0,1,Import,324,Guinea,GIN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,100,,,,100,,652,,,2
+H2,2005,2005,2005,4,0,1,Import,324,Guinea,GIN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,319315,,,,319315,,90449,,,2
+H2,2005,2005,2005,4,0,1,Import,324,Guinea,GIN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3692,,,,3692,,1990,,,2
+H2,2006,2006,2006,4,0,1,Import,324,Guinea,GIN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,597757,,,,597757,,172001,,,2
+H2,2006,2006,2006,4,0,2,Export,324,Guinea,GIN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12000,,,,12000,,2347,,,2
+H2,2006,2006,2006,4,0,1,Import,324,Guinea,GIN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3020,,,,3020,,805,,,2
+H2,2006,2006,2006,4,0,1,Import,324,Guinea,GIN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3700,,,,3700,,5221,,,2
+H2,2006,2006,2006,4,0,1,Import,324,Guinea,GIN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,390065,,,,390065,,100407,,,2
+H2,2006,2006,2006,4,0,2,Export,324,Guinea,GIN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12000,,,,12000,,2347,,,2
+H2,2006,2006,2006,4,0,1,Import,324,Guinea,GIN,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,150,,,,150,,280,,,2
+H2,2006,2006,2006,4,0,1,Import,324,Guinea,GIN,706,Somalia,SOM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13856,,,,13856,,7437,,,2
+H2,2006,2006,2006,4,0,1,Import,324,Guinea,GIN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1100,,,,1100,,7826,,,2
+H2,2006,2006,2006,4,0,1,Import,324,Guinea,GIN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,173552,,,,173552,,44827,,,2
+H2,2006,2006,2006,4,0,1,Import,324,Guinea,GIN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12313,,,,12313,,5194,,,2
+H2,2006,2006,2006,4,0,1,Import,324,Guinea,GIN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,1,,4,,,2
+H2,2007,2007,2007,4,0,1,Import,324,Guinea,GIN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,772750,,,,772750,,310949,,,2
+H2,2007,2007,2007,4,0,1,Import,324,Guinea,GIN,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,306,,,,306,,3423,,,2
+H2,2007,2007,2007,4,0,1,Import,324,Guinea,GIN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11780,,,,11780,,10506,,,2
+H2,2007,2007,2007,4,0,1,Import,324,Guinea,GIN,92,Br. Virgin Isds,VGB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,71946,,,,71946,,19323,,,2
+H2,2007,2007,2007,4,0,1,Import,324,Guinea,GIN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,717,,,,717,,69353,,,2
+H2,2007,2007,2007,4,0,1,Import,324,Guinea,GIN,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,52,,,,52,,1926,,,2
+H2,2007,2007,2007,4,0,1,Import,324,Guinea,GIN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,217107,,,,217107,,89972,,,2
+H2,2007,2007,2007,4,0,1,Import,324,Guinea,GIN,288,Ghana,GHA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,28,,,,28,,11,,,2
+H2,2007,2007,2007,4,0,1,Import,324,Guinea,GIN,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7674,,,,7674,,5236,,,2
+H2,2007,2007,2007,4,0,1,Import,324,Guinea,GIN,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,51,,,,51,,1707,,,2
+H2,2007,2007,2007,4,0,1,Import,324,Guinea,GIN,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3760,,,,3760,,1457,,,2
+H2,2007,2007,2007,4,0,1,Import,324,Guinea,GIN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8000,,,,8000,,2082,,,2
+H2,2007,2007,2007,4,0,1,Import,324,Guinea,GIN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,450,,,,450,,337,,,2
+H2,2007,2007,2007,4,0,1,Import,324,Guinea,GIN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,439912,,,,439912,,103620,,,2
+H2,2007,2007,2007,4,0,1,Import,324,Guinea,GIN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4967,,,,4967,,1226,,,2
+H2,2007,2007,2007,4,0,1,Import,324,Guinea,GIN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6000,,,,6000,,770,,,2
+H2,2008,2008,2008,4,0,1,Import,324,Guinea,GIN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,863868,,,,863868,,380391,,,2
+H2,2008,2008,2008,4,0,1,Import,324,Guinea,GIN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,323843,,,,323843,,152702,,,2
+H2,2008,2008,2008,4,0,1,Import,324,Guinea,GIN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1460,,,,1460,,266,,,2
+H2,2008,2008,2008,4,0,1,Import,324,Guinea,GIN,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15372,,,,15372,,10830,,,2
+H2,2008,2008,2008,4,0,1,Import,324,Guinea,GIN,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,697,,,,697,,298,,,2
+H2,2008,2008,2008,4,0,1,Import,324,Guinea,GIN,466,Mali,MLI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,72,,,,72,,2073,,,2
+H2,2008,2008,2008,4,0,1,Import,324,Guinea,GIN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19827,,,,19827,,11722,,,2
+H2,2008,2008,2008,4,0,1,Import,324,Guinea,GIN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10,,,,10,,551,,,2
+H2,2008,2008,2008,4,0,1,Import,324,Guinea,GIN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,492223,,,,492223,,195409,,,2
+H2,2008,2008,2008,4,0,1,Import,324,Guinea,GIN,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10364,,,,10364,,6540,,,2
+H4,2013,2013,2013,4,0,1,Import,324,Guinea,GIN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,696004,,,,696004,,452916,,,2
+H4,2013,2013,2013,4,0,2,Export,324,Guinea,GIN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8,,,,8,,151,,,2
+H4,2013,2013,2013,4,0,2,Export,324,Guinea,GIN,233,Estonia,EST,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8,,,,8,,151,,,2
+H4,2013,2013,2013,4,0,1,Import,324,Guinea,GIN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,156418,,,,156418,,219308,,,2
+H4,2013,2013,2013,4,0,1,Import,324,Guinea,GIN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2610,,,,2610,,1800,,,2
+H4,2013,2013,2013,4,0,1,Import,324,Guinea,GIN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17793,,,,17793,,13091,,,2
+H4,2013,2013,2013,4,0,1,Import,324,Guinea,GIN,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4734,,,,4734,,2340,,,2
+H4,2013,2013,2013,4,0,1,Import,324,Guinea,GIN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,472,,,,472,,2784,,,2
+H4,2013,2013,2013,4,0,1,Import,324,Guinea,GIN,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,338,,,,338,,4433,,,2
+H4,2013,2013,2013,4,0,1,Import,324,Guinea,GIN,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18000,,,,18000,,5856,,,2
+H4,2013,2013,2013,4,0,1,Import,324,Guinea,GIN,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19365,,,,19365,,13238,,,2
+H4,2013,2013,2013,4,0,1,Import,324,Guinea,GIN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,476207,,,,476207,,190054,,,2
+H4,2013,2013,2013,4,0,1,Import,324,Guinea,GIN,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,67,,,,67,,11,,,2
+H4,2014,2014,2014,4,0,1,Import,324,Guinea,GIN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,622643,,,,622643,,505453,,,2
+H4,2014,2014,2014,4,0,1,Import,324,Guinea,GIN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1300,,,,1300,,594,,,2
+H4,2014,2014,2014,4,0,1,Import,324,Guinea,GIN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,59021,,,,59021,,231614,,,2
+H4,2014,2014,2014,4,0,1,Import,324,Guinea,GIN,270,Gambia,GMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10400,,,,10400,,8243,,,2
+H4,2014,2014,2014,4,0,1,Import,324,Guinea,GIN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16871,,,,16871,,15418,,,2
+H4,2014,2014,2014,4,0,1,Import,324,Guinea,GIN,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,136662,,,,136662,,71435,,,2
+H4,2014,2014,2014,4,0,1,Import,324,Guinea,GIN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4425,,,,4425,,5680,,,2
+H4,2014,2014,2014,4,0,1,Import,324,Guinea,GIN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25023,,,,25023,,16231,,,2
+H4,2014,2014,2014,4,0,1,Import,324,Guinea,GIN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,368229,,,,368229,,154835,,,2
+H4,2014,2014,2014,4,0,1,Import,324,Guinea,GIN,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,712,,,,712,,1403,,,2
+H4,2015,2015,2015,4,0,1,Import,324,Guinea,GIN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,544712,,,,544712,,311823,,,2
+H4,2015,2015,2015,4,0,1,Import,324,Guinea,GIN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,800,,,,800,,308,,,2
+H4,2015,2015,2015,4,0,1,Import,324,Guinea,GIN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7993,,,,7993,,5080,,,2
+H4,2015,2015,2015,4,0,1,Import,324,Guinea,GIN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25372,,,,25372,,57073,,,2
+H4,2015,2015,2015,4,0,1,Import,324,Guinea,GIN,270,Gambia,GMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15799,,,,15799,,4114,,,2
+H4,2015,2015,2015,4,0,1,Import,324,Guinea,GIN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5807,,,,5807,,6662,,,2
+H4,2015,2015,2015,4,0,1,Import,324,Guinea,GIN,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2051,,,,2051,,4052,,,2
+H4,2015,2015,2015,4,0,1,Import,324,Guinea,GIN,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1000,,,,1000,,130,,,2
+H4,2015,2015,2015,4,0,1,Import,324,Guinea,GIN,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,113847,,,,113847,,63731,,,2
+H4,2015,2015,2015,4,0,1,Import,324,Guinea,GIN,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,280,,,,280,,45,,,2
+H4,2015,2015,2015,4,0,1,Import,324,Guinea,GIN,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3431,,,,3431,,1304,,,2
+H4,2015,2015,2015,4,0,1,Import,324,Guinea,GIN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,27148,,,,27148,,20752,,,2
+H4,2015,2015,2015,4,0,1,Import,324,Guinea,GIN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,341184,,,,341184,,148572,,,2
+H4,2016,2016,2016,4,0,1,Import,324,Guinea,GIN,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,517776,,,,517776,,419641,,,2
+H4,2016,2016,2016,4,0,1,Import,324,Guinea,GIN,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4900,,,,4900,,8003,,,2
+H4,2016,2016,2016,4,0,1,Import,324,Guinea,GIN,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,500,,,,500,,340,,,2
+H4,2016,2016,2016,4,0,1,Import,324,Guinea,GIN,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,99254,,,,99254,,155972,,,2
+H4,2016,2016,2016,4,0,1,Import,324,Guinea,GIN,270,Gambia,GMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14621,,,,14621,,9350,,,2
+H4,2016,2016,2016,4,0,1,Import,324,Guinea,GIN,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7929,,,,7929,,7417,,,2
+H4,2016,2016,2016,4,0,1,Import,324,Guinea,GIN,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90,,,,90,,494,,,2
+H4,2016,2016,2016,4,0,1,Import,324,Guinea,GIN,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,100,,,,100,,16,,,2
+H4,2016,2016,2016,4,0,1,Import,324,Guinea,GIN,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,125240,,,,125240,,75444,,,2
+H4,2016,2016,2016,4,0,1,Import,324,Guinea,GIN,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3245,,,,3245,,972,,,2
+H4,2016,2016,2016,4,0,1,Import,324,Guinea,GIN,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3830,,,,3830,,2331,,,2
+H4,2016,2016,2016,4,0,1,Import,324,Guinea,GIN,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,35973,,,,35973,,17830,,,2
+H4,2016,2016,2016,4,0,1,Import,324,Guinea,GIN,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,205374,,,,205374,,126401,,,2
+H4,2016,2016,2016,4,0,1,Import,324,Guinea,GIN,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16720,,,,16720,,15065,,,2

@@ -1,0 +1,219 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2002,2002,2002,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5723,,,,5716,,2132,,,0
+H1,2002,2002,2002,4,0,2,Export,270,Gambia,GMB,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18,,,,64,,1594,,,0
+H1,2002,2002,2002,4,0,1,Import,270,Gambia,GMB,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1200,,,,1200,,241,,,0
+H1,2002,2002,2002,4,0,2,Export,270,Gambia,GMB,372,Ireland,IRL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2,,,,27,,836,,,0
+H1,2002,2002,2002,4,0,1,Import,270,Gambia,GMB,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,645,,,,540,,379,,,0
+H1,2002,2002,2002,4,0,1,Import,270,Gambia,GMB,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,270,,,,270,,161,,,0
+H1,2002,2002,2002,4,0,1,Import,270,Gambia,GMB,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3600,,,,3600,,700,,,0
+H1,2002,2002,2002,4,0,1,Import,270,Gambia,GMB,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6,,,,103,,610,,,0
+H1,2002,2002,2002,4,0,2,Export,270,Gambia,GMB,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16,,,,37,,758,,,0
+H1,2002,2002,2002,4,0,1,Import,270,Gambia,GMB,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2,,,,3,,40,,,0
+H1,2003,2003,2003,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,167193,,,,98363,,34763,,,0
+H1,2003,2003,2003,4,0,1,Import,270,Gambia,GMB,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,270,,,,27,,493,,,0
+H1,2003,2003,2003,4,0,1,Import,270,Gambia,GMB,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9855,,,,20480,,8558,,,0
+H1,2003,2003,2003,4,0,1,Import,270,Gambia,GMB,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1167,,,,2986,,1716,,,0
+H1,2003,2003,2003,4,0,1,Import,270,Gambia,GMB,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3650,,,,3920,,3373,,,0
+H1,2003,2003,2003,4,0,1,Import,270,Gambia,GMB,686,Senegal,SEN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7212,,,,10800,,2684,,,0
+H1,2003,2003,2003,4,0,1,Import,270,Gambia,GMB,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12037,,,,23318,,6888,,,0
+H1,2003,2003,2003,4,0,1,Import,270,Gambia,GMB,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,131081,,,,34852,,10613,,,0
+H1,2003,2003,2003,4,0,1,Import,270,Gambia,GMB,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1921,,,,1980,,434,,,0
+H1,2004,2004,2004,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,84112,,,,167908,,69616,,,0
+H1,2004,2004,2004,4,0,2,Export,270,Gambia,GMB,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12,,,,150500,,6236,,,0
+H1,2004,2004,2004,4,0,1,Import,270,Gambia,GMB,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1575,,,,3500,,642,,,0
+H1,2004,2004,2004,4,0,1,Import,270,Gambia,GMB,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,900,,,,800,,616,,,0
+H1,2004,2004,2004,4,0,1,Import,270,Gambia,GMB,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1050,,,,1050,,635,,,0
+H1,2004,2004,2004,4,0,1,Import,270,Gambia,GMB,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,19918,,,,41647,,10099,,,0
+H1,2004,2004,2004,4,0,2,Export,270,Gambia,GMB,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12,,,,150500,,6236,,,0
+H1,2004,2004,2004,4,0,1,Import,270,Gambia,GMB,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1902,,,,1902,,1980,,,0
+H1,2004,2004,2004,4,0,1,Import,270,Gambia,GMB,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10152,,,,1950,,1226,,,0
+H1,2004,2004,2004,4,0,1,Import,270,Gambia,GMB,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,14720,,,,89276,,46377,,,0
+H1,2004,2004,2004,4,0,1,Import,270,Gambia,GMB,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,33895,,,,27783,,8038,,,0
+H0,2000,2000,2000,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,16427,,,,57588,,26636,,,2
+H0,2000,2000,2000,4,0,1,Import,270,Gambia,GMB,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,5099,,,,11945,,3844,,,2
+H0,2000,2000,2000,4,0,1,Import,270,Gambia,GMB,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,6001,,,,15414,,4763,,,0
+H0,2000,2000,2000,4,0,1,Import,270,Gambia,GMB,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1350,,,,1350,,2063,,,0
+H0,2000,2000,2000,4,0,1,Import,270,Gambia,GMB,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,3430,,,,28318,,14702,,,0
+H0,2000,2000,2000,4,0,1,Import,270,Gambia,GMB,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,547,,,,561,,1262,,,2
+H0,2001,2001,2001,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,5162,,,,20632,,11195,,,0
+H0,2001,2001,2001,4,0,1,Import,270,Gambia,GMB,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,4221,,,,17520,,9241,,,0
+H0,2001,2001,2001,4,0,1,Import,270,Gambia,GMB,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,416,,,,978,,923,,,0
+H0,2001,2001,2001,4,0,1,Import,270,Gambia,GMB,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,450,,,,450,,239,,,0
+H0,2001,2001,2001,4,0,1,Import,270,Gambia,GMB,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,44,,,,1543,,486,,,0
+H0,2001,2001,2001,4,0,1,Import,270,Gambia,GMB,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,31,,,,141,,303,,,0
+H1,2005,2005,2005,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,52403,,27991,,,0
+H1,2005,2005,2005,4,0,1,Import,270,Gambia,GMB,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3686,,,,3652,,1608,,,0
+H1,2005,2005,2005,4,0,1,Import,270,Gambia,GMB,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,978,,,,16704,,5780,,,0
+H1,2005,2005,2005,4,0,1,Import,270,Gambia,GMB,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1411,,,,3956,,1365,,,0
+H1,2005,2005,2005,4,0,1,Import,270,Gambia,GMB,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7278,,,,7532,,5190,,,0
+H1,2005,2005,2005,4,0,1,Import,270,Gambia,GMB,422,Lebanon,LBN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,405,,,,424,,266,,,0
+H1,2005,2005,2005,4,0,1,Import,270,Gambia,GMB,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1116,,,,1605,,698,,,0
+H1,2005,2005,2005,4,0,1,Import,270,Gambia,GMB,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2019,,,,6800,,3449,,,0
+H1,2005,2005,2005,4,0,1,Import,270,Gambia,GMB,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,6974,,7333,,,0
+H1,2005,2005,2005,4,0,1,Import,270,Gambia,GMB,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,225,,,,1500,,70,,,0
+H1,2005,2005,2005,4,0,1,Import,270,Gambia,GMB,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1666,,,,3136,,2070,,,0
+H1,2005,2005,2005,4,0,1,Import,270,Gambia,GMB,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,120,,,,120,,157,,,0
+H1,2006,2006,2006,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18275,,,,20665,,16839,,,0
+H1,2006,2006,2006,4,0,1,Import,270,Gambia,GMB,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5742,,,,5507,,3358,,,0
+H1,2006,2006,2006,4,0,1,Import,270,Gambia,GMB,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,820,,,,450,,1170,,,0
+H1,2006,2006,2006,4,0,1,Import,270,Gambia,GMB,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,139,,,,263,,297,,,0
+H1,2006,2006,2006,4,0,1,Import,270,Gambia,GMB,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,116,,,,5800,,1151,,,0
+H1,2006,2006,2006,4,0,1,Import,270,Gambia,GMB,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,383,,,,250,,127,,,0
+H1,2006,2006,2006,4,0,1,Import,270,Gambia,GMB,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3914,,,,2761,,4760,,,0
+H1,2006,2006,2006,4,0,1,Import,270,Gambia,GMB,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1530,,,,1535,,532,,,0
+H1,2006,2006,2006,4,0,1,Import,270,Gambia,GMB,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3306,,,,3224,,4414,,,0
+H1,2006,2006,2006,4,0,1,Import,270,Gambia,GMB,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2325,,,,875,,1026,,,0
+H1,2007,2007,2007,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,22565,,,,21164,,27725,,,0
+H1,2007,2007,2007,4,0,1,Import,270,Gambia,GMB,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9511,,,,8650,,10910,,,0
+H1,2007,2007,2007,4,0,1,Import,270,Gambia,GMB,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15,,,,15,,146,,,0
+H1,2007,2007,2007,4,0,1,Import,270,Gambia,GMB,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,900,,,,900,,1311,,,0
+H1,2007,2007,2007,4,0,1,Import,270,Gambia,GMB,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2110,,,,2450,,3848,,,0
+H1,2007,2007,2007,4,0,1,Import,270,Gambia,GMB,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,126,,,,131,,323,,,0
+H1,2007,2007,2007,4,0,1,Import,270,Gambia,GMB,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2710,,,,2187,,5563,,,0
+H1,2007,2007,2007,4,0,1,Import,270,Gambia,GMB,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4302,,,,3795,,3045,,,0
+H1,2007,2007,2007,4,0,1,Import,270,Gambia,GMB,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,249,,,,385,,418,,,0
+H1,2007,2007,2007,4,0,1,Import,270,Gambia,GMB,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2349,,,,2115,,1930,,,0
+H1,2007,2007,2007,4,0,1,Import,270,Gambia,GMB,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,293,,,,536,,227,,,0
+H1,2008,2008,2008,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,84107,,,,113615,,241390,,,0
+H1,2008,2008,2008,4,0,1,Import,270,Gambia,GMB,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7955,,,,11102,,16965,,,0
+H1,2008,2008,2008,4,0,1,Import,270,Gambia,GMB,196,Cyprus,CYP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1170,,,,652,,3451,,,0
+H1,2008,2008,2008,4,0,1,Import,270,Gambia,GMB,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6318,,,,10982,,29420,,,0
+H1,2008,2008,2008,4,0,1,Import,270,Gambia,GMB,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7151,,,,11024,,21829,,,0
+H1,2008,2008,2008,4,0,1,Import,270,Gambia,GMB,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1985,,,,1582,,4811,,,0
+H1,2008,2008,2008,4,0,1,Import,270,Gambia,GMB,422,Lebanon,LBN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1404,,,,2150,,2781,,,0
+H1,2008,2008,2008,4,0,1,Import,270,Gambia,GMB,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1869,,,,2419,,7339,,,0
+H1,2008,2008,2008,4,0,1,Import,270,Gambia,GMB,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13788,,,,25982,,28489,,,0
+H1,2008,2008,2008,4,0,1,Import,270,Gambia,GMB,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16507,,,,21628,,31887,,,0
+H1,2008,2008,2008,4,0,1,Import,270,Gambia,GMB,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5,,,,19,,46,,,0
+H1,2008,2008,2008,4,0,1,Import,270,Gambia,GMB,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13859,,,,14839,,52285,,,0
+H1,2008,2008,2008,4,0,1,Import,270,Gambia,GMB,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12096,,,,11236,,42082,,,0
+H1,2009,2009,2009,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,73154,,,,107602,,143688,,,0
+H1,2009,2009,2009,4,0,1,Import,270,Gambia,GMB,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3825,,,,4142,,7417,,,0
+H1,2009,2009,2009,4,0,1,Import,270,Gambia,GMB,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6,,,,20,,20,,,0
+H1,2009,2009,2009,4,0,1,Import,270,Gambia,GMB,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11885,,,,31440,,32220,,,0
+H1,2009,2009,2009,4,0,1,Import,270,Gambia,GMB,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3611,,,,3525,,10402,,,0
+H1,2009,2009,2009,4,0,1,Import,270,Gambia,GMB,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2166,,,,2124,,1062,,,0
+H1,2009,2009,2009,4,0,1,Import,270,Gambia,GMB,384,Côte d'Ivoire,CIV,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6462,,,,14322,,18136,,,0
+H1,2009,2009,2009,4,0,1,Import,270,Gambia,GMB,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3929,,,,4704,,10010,,,0
+H1,2009,2009,2009,4,0,1,Import,270,Gambia,GMB,694,Sierra Leone,SLE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,250,,,,250,,1271,,,0
+H1,2009,2009,2009,4,0,1,Import,270,Gambia,GMB,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6071,,,,11876,,16380,,,0
+H1,2009,2009,2009,4,0,1,Import,270,Gambia,GMB,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,34757,,,,34969,,45852,,,0
+H1,2009,2009,2009,4,0,1,Import,270,Gambia,GMB,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,147,,,,170,,883,,,0
+H1,2009,2009,2009,4,0,1,Import,270,Gambia,GMB,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,45,,,,60,,28,,,0
+H3,2011,2011,2011,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,41285,,,,89431,,58071,,,0
+H3,2011,2011,2011,4,0,1,Import,270,Gambia,GMB,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3244,,,,3340,,2772,,,0
+H3,2011,2011,2011,4,0,1,Import,270,Gambia,GMB,144,Sri Lanka,LKA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8122,,,,16865,,16971,,,0
+H3,2011,2011,2011,4,0,1,Import,270,Gambia,GMB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1179,,,,1965,,2199,,,0
+H3,2011,2011,2011,4,0,1,Import,270,Gambia,GMB,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,72,,,,100,,321,,,0
+H3,2011,2011,2011,4,0,1,Import,270,Gambia,GMB,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1350,,,,987,,2726,,,0
+H3,2011,2011,2011,4,0,1,Import,270,Gambia,GMB,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1237,,,,734,,2087,,,0
+H3,2011,2011,2011,4,0,1,Import,270,Gambia,GMB,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,16924,,,,46409,,20142,,,0
+H3,2011,2011,2011,4,0,1,Import,270,Gambia,GMB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5079,,,,9660,,4687,,,0
+H3,2011,2011,2011,4,0,1,Import,270,Gambia,GMB,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1110,,,,1450,,3534,,,0
+H3,2011,2011,2011,4,0,1,Import,270,Gambia,GMB,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2968,,,,7921,,2627,,,0
+H3,2012,2012,2012,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,51851,,,,73325,,63064,,,0
+H3,2012,2012,2012,4,0,1,Import,270,Gambia,GMB,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,14312,,,,2624,,4702,,,0
+H3,2012,2012,2012,4,0,1,Import,270,Gambia,GMB,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6811,,,,7883,,3672,,,0
+H3,2012,2012,2012,4,0,1,Import,270,Gambia,GMB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18,,,,360,,70,,,0
+H3,2012,2012,2012,4,0,1,Import,270,Gambia,GMB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7785,,,,16919,,22203,,,0
+H3,2012,2012,2012,4,0,1,Import,270,Gambia,GMB,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9,,,,2000,,11,,,0
+H3,2012,2012,2012,4,0,1,Import,270,Gambia,GMB,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,450,,,,900,,902,,,0
+H3,2012,2012,2012,4,0,1,Import,270,Gambia,GMB,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15885,,,,34000,,21019,,,0
+H3,2012,2012,2012,4,0,1,Import,270,Gambia,GMB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6581,,,,8639,,10482,,,0
+H3,2013,2013,2013,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9899,,,,13420,,26135,,,0
+H3,2013,2013,2013,4,0,1,Import,270,Gambia,GMB,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4554,,,,5209,,8564,,,0
+H3,2013,2013,2013,4,0,1,Import,270,Gambia,GMB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2783,,,,2800,,15532,,,0
+H3,2013,2013,2013,4,0,1,Import,270,Gambia,GMB,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1521,,,,1530,,803,,,0
+H3,2013,2013,2013,4,0,1,Import,270,Gambia,GMB,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,922,,,,2508,,1215,,,0
+H3,2013,2013,2013,4,0,1,Import,270,Gambia,GMB,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,119,,,,1373,,19,,,0
+H3,2014,2014,2014,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,23131,,,,33785,,49941,,,0
+H3,2014,2014,2014,4,0,2,Export,270,Gambia,GMB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,475,,,,500,,291,,,0
+H3,2014,2014,2014,4,0,1,Import,270,Gambia,GMB,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4378,,,,4483,,22389,,,0
+H3,2014,2014,2014,4,0,1,Import,270,Gambia,GMB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3771,,,,5191,,12240,,,0
+H3,2014,2014,2014,4,0,1,Import,270,Gambia,GMB,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,67,,,,67,,52,,,0
+H3,2014,2014,2014,4,0,1,Import,270,Gambia,GMB,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6516,,,,11330,,6598,,,0
+H3,2014,2014,2014,4,0,1,Import,270,Gambia,GMB,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,91,,,,91,,12,,,0
+H3,2014,2014,2014,4,0,2,Export,270,Gambia,GMB,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,475,,,,500,,291,,,0
+H3,2014,2014,2014,4,0,1,Import,270,Gambia,GMB,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,90,,,,450,,34,,,0
+H3,2014,2014,2014,4,0,1,Import,270,Gambia,GMB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6963,,,,10835,,6848,,,0
+H3,2014,2014,2014,4,0,1,Import,270,Gambia,GMB,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1210,,,,1284,,1708,,,0
+H3,2014,2014,2014,4,0,1,Import,270,Gambia,GMB,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,45,,,,54,,57,,,0
+H1,2010,2010,2010,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,82026,,81957,,,0
+H1,2010,2010,2010,4,0,1,Import,270,Gambia,GMB,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3627,,,,2050,,1288,,,0
+H1,2010,2010,2010,4,0,1,Import,270,Gambia,GMB,132,Cabo Verde,CPV,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6161,,,,16000,,8480,,,0
+H1,2010,2010,2010,4,0,1,Import,270,Gambia,GMB,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1993,,,,3891,,16353,,,0
+H1,2010,2010,2010,4,0,1,Import,270,Gambia,GMB,422,Lebanon,LBN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,513,,,,200,,5415,,,0
+H1,2010,2010,2010,4,0,1,Import,270,Gambia,GMB,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1013,,,,1538,,2259,,,0
+H1,2010,2010,2010,4,0,1,Import,270,Gambia,GMB,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13428,,,,27845,,29774,,,0
+H1,2010,2010,2010,4,0,1,Import,270,Gambia,GMB,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9721,,,,27210,,12233,,,0
+H1,2010,2010,2010,4,0,1,Import,270,Gambia,GMB,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,180,,,,300,,288,,,0
+H1,2010,2010,2010,4,0,1,Import,270,Gambia,GMB,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,2862,,5587,,,0
+H1,2010,2010,2010,4,0,1,Import,270,Gambia,GMB,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,144,,,,130,,275,,,0
+H4,2017,2017,2017,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,21651,,,,24558,,34174,,,0
+H4,2017,2017,2017,4,0,2,Export,270,Gambia,GMB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,42,,,,100,,2747,,,0
+H4,2017,2017,2017,4,0,3,Re-Export,270,Gambia,GMB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,42,,,,100,,2747,,,0
+H4,2017,2017,2017,4,0,1,Import,270,Gambia,GMB,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1125,,,,930,,1596,,,0
+H4,2017,2017,2017,4,0,1,Import,270,Gambia,GMB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,697,,,,2155,,669,,,0
+H4,2017,2017,2017,4,0,1,Import,270,Gambia,GMB,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6734,,,,7320,,9426,,,0
+H4,2017,2017,2017,4,0,1,Import,270,Gambia,GMB,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1607,,,,1622,,8212,,,0
+H4,2017,2017,2017,4,0,1,Import,270,Gambia,GMB,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5850,,,,5990,,6181,,,0
+H4,2017,2017,2017,4,0,1,Import,270,Gambia,GMB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4170,,,,4942,,6198,,,0
+H4,2017,2017,2017,4,0,1,Import,270,Gambia,GMB,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1309,,,,1435,,1711,,,0
+H4,2017,2017,2017,4,0,1,Import,270,Gambia,GMB,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,157,,,,164,,177,,,0
+H4,2017,2017,2017,4,0,2,Export,270,Gambia,GMB,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,42,,,,100,,2747,,,0
+H4,2017,2017,2017,4,0,3,Re-Export,270,Gambia,GMB,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,42,,,,100,,2747,,,0
+H4,2018,2018,2018,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24366,,,,35466,,33536,,,0
+H4,2018,2018,2018,4,0,1,Import,270,Gambia,GMB,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2025,,,,2065,,2779,,,0
+H4,2018,2018,2018,4,0,1,Import,270,Gambia,GMB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1903,,,,8384,,3589,,,0
+H4,2018,2018,2018,4,0,1,Import,270,Gambia,GMB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,316,,,,656,,2666,,,0
+H4,2018,2018,2018,4,0,1,Import,270,Gambia,GMB,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8739,,,,9166,,13029,,,0
+H4,2018,2018,2018,4,0,1,Import,270,Gambia,GMB,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5000,,,,5000,,282,,,0
+H4,2018,2018,2018,4,0,1,Import,270,Gambia,GMB,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,652,,,,2900,,598,,,0
+H4,2018,2018,2018,4,0,1,Import,270,Gambia,GMB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3312,,,,4304,,6554,,,0
+H4,2018,2018,2018,4,0,1,Import,270,Gambia,GMB,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,192,,,,200,,494,,,0
+H4,2018,2018,2018,4,0,1,Import,270,Gambia,GMB,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1746,,,,1841,,3020,,,0
+H4,2018,2018,2018,4,0,1,Import,270,Gambia,GMB,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,434,,,,450,,493,,,0
+H4,2018,2018,2018,4,0,1,Import,270,Gambia,GMB,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45,,,,500,,25,,,0
+H4,2019,2019,2019,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15515,,,,38975,,20991,,,0
+H4,2019,2019,2019,4,0,1,Import,270,Gambia,GMB,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1260,,,,1591,,1213,,,0
+H4,2019,2019,2019,4,0,1,Import,270,Gambia,GMB,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24,,,,306,,153,,,0
+H4,2019,2019,2019,4,0,1,Import,270,Gambia,GMB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,337,,,,345,,365,,,0
+H4,2019,2019,2019,4,0,1,Import,270,Gambia,GMB,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4224,,,,4410,,6532,,,0
+H4,2019,2019,2019,4,0,1,Import,270,Gambia,GMB,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25,,,,25,,198,,,0
+H4,2019,2019,2019,4,0,1,Import,270,Gambia,GMB,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4500,,,,4020,,4420,,,0
+H4,2019,2019,2019,4,0,1,Import,270,Gambia,GMB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4987,,,,15655,,5983,,,0
+H4,2019,2019,2019,4,0,1,Import,270,Gambia,GMB,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,112,,,,115,,177,,,0
+H4,2019,2019,2019,4,0,1,Import,270,Gambia,GMB,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45,,,,12508,,1946,,,0
+H3,2015,2015,2015,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,20640,,,,27120,,52853,,,0
+H3,2015,2015,2015,4,0,1,Import,270,Gambia,GMB,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3375,,,,3630,,6708,,,0
+H3,2015,2015,2015,4,0,1,Import,270,Gambia,GMB,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,60,,,,60,,59,,,0
+H3,2015,2015,2015,4,0,1,Import,270,Gambia,GMB,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1926,,,,6680,,18070,,,0
+H3,2015,2015,2015,4,0,1,Import,270,Gambia,GMB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1440,,,,1440,,4371,,,0
+H3,2015,2015,2015,4,0,1,Import,270,Gambia,GMB,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,900,,,,20,,1398,,,0
+H3,2015,2015,2015,4,0,1,Import,270,Gambia,GMB,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5473,,,,6015,,5744,,,0
+H3,2015,2015,2015,4,0,1,Import,270,Gambia,GMB,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,675,,,,450,,1113,,,0
+H3,2015,2015,2015,4,0,1,Import,270,Gambia,GMB,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,24,,,,24,,340,,,0
+H3,2015,2015,2015,4,0,1,Import,270,Gambia,GMB,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1125,,,,1345,,1280,,,0
+H3,2015,2015,2015,4,0,1,Import,270,Gambia,GMB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3096,,,,4256,,9650,,,0
+H3,2015,2015,2015,4,0,1,Import,270,Gambia,GMB,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2430,,,,2470,,2981,,,0
+H3,2015,2015,2015,4,0,1,Import,270,Gambia,GMB,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,101,,,,700,,1127,,,0
+H3,2015,2015,2015,4,0,1,Import,270,Gambia,GMB,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15,,,,30,,5,,,0
+H3,2016,2016,2016,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,19277,,,,39858,,62543,,,0
+H3,2016,2016,2016,4,0,1,Import,270,Gambia,GMB,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1647,,,,1735,,3026,,,0
+H3,2016,2016,2016,4,0,1,Import,270,Gambia,GMB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,660,,,,760,,1883,,,0
+H3,2016,2016,2016,4,0,1,Import,270,Gambia,GMB,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4047,,,,4060,,6758,,,0
+H3,2016,2016,2016,4,0,1,Import,270,Gambia,GMB,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,117,,,,117,,1,,,0
+H3,2016,2016,2016,4,0,1,Import,270,Gambia,GMB,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10266,,,,30554,,45865,,,0
+H3,2016,2016,2016,4,0,1,Import,270,Gambia,GMB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1650,,,,1706,,3959,,,0
+H3,2016,2016,2016,4,0,1,Import,270,Gambia,GMB,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,890,,,,926,,1048,,,0
+H4,2020,2020,2020,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11383,,,,12943,,26403,,,0
+H4,2020,2020,2020,4,0,1,Import,270,Gambia,GMB,20,Andorra,AND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4042,,,,4042,,8444,,,0
+H4,2020,2020,2020,4,0,1,Import,270,Gambia,GMB,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,670,,,,760,,890,,,0
+H4,2020,2020,2020,4,0,1,Import,270,Gambia,GMB,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,234,,,,250,,2448,,,0
+H4,2020,2020,2020,4,0,1,Import,270,Gambia,GMB,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,225,,,,260,,452,,,0
+H4,2020,2020,2020,4,0,1,Import,270,Gambia,GMB,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2875,,,,3020,,4616,,,0
+H4,2020,2020,2020,4,0,1,Import,270,Gambia,GMB,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1522,,,,1522,,7549,,,0
+H4,2020,2020,2020,4,0,1,Import,270,Gambia,GMB,694,Sierra Leone,SLE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20,,,,1200,,15,,,0
+H4,2020,2020,2020,4,0,1,Import,270,Gambia,GMB,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1174,,,,1242,,1169,,,0
+H4,2020,2020,2020,4,0,1,Import,270,Gambia,GMB,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,607,,,,612,,815,,,0
+H4,2020,2020,2020,4,0,1,Import,270,Gambia,GMB,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12,,,,35,,0,,,0

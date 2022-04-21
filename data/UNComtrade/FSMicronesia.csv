@@ -1,0 +1,129 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2003,2003,2003,4,0,1,Import,583,FS Micronesia,FSM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,104016,,,,,,214758,,,2
+H2,2003,2003,2003,4,0,4,Re-Import,583,FS Micronesia,FSM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,50332,,,,,,76502,,,2
+H2,2003,2003,2003,4,0,1,Import,583,FS Micronesia,FSM,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,28359,,,,,,65263,,,2
+H2,2003,2003,2003,4,0,1,Import,583,FS Micronesia,FSM,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,129,,,,,,219,,,2
+H2,2003,2003,2003,4,0,1,Import,583,FS Micronesia,FSM,316,Guam,GUM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3641,,,,,,9074,,,2
+H2,2003,2003,2003,4,0,1,Import,583,FS Micronesia,FSM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,30,,,,,,120,,,2
+H2,2003,2003,2003,4,0,1,Import,583,FS Micronesia,FSM,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,251,,,,,,732,,,2
+H2,2003,2003,2003,4,0,1,Import,583,FS Micronesia,FSM,580,N. Mariana Isds,MNP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,44,,,,,,179,,,2
+H2,2003,2003,2003,4,0,1,Import,583,FS Micronesia,FSM,583,FS Micronesia,FSM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,50332,,,,,,76502,,,2
+H2,2003,2003,2003,4,0,4,Re-Import,583,FS Micronesia,FSM,583,FS Micronesia,FSM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,50332,,,,,,76502,,,2
+H2,2003,2003,2003,4,0,1,Import,583,FS Micronesia,FSM,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,97,,,,,,374,,,2
+H2,2003,2003,2003,4,0,1,Import,583,FS Micronesia,FSM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18334,,,,,,50969,,,2
+H2,2003,2003,2003,4,0,1,Import,583,FS Micronesia,FSM,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2799,,,,,,11326,,,2
+H2,2004,2004,2004,4,0,1,Import,583,FS Micronesia,FSM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,62076,,,,,,165718,,,2
+H2,2004,2004,2004,4,0,1,Import,583,FS Micronesia,FSM,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23527,,,,,,61054,,,2
+H2,2004,2004,2004,4,0,1,Import,583,FS Micronesia,FSM,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21,,,,,,96,,,2
+H2,2004,2004,2004,4,0,1,Import,583,FS Micronesia,FSM,316,Guam,GUM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3834,,,,,,10939,,,2
+H2,2004,2004,2004,4,0,1,Import,583,FS Micronesia,FSM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,60,,,,,,198,,,2
+H2,2004,2004,2004,4,0,1,Import,583,FS Micronesia,FSM,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,919,,,,,,1080,,,2
+H2,2004,2004,2004,4,0,1,Import,583,FS Micronesia,FSM,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,426,,,,,,1979,,,2
+H2,2004,2004,2004,4,0,1,Import,583,FS Micronesia,FSM,580,N. Mariana Isds,MNP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3145,,,,,,4662,,,2
+H2,2004,2004,2004,4,0,1,Import,583,FS Micronesia,FSM,585,Palau,PLW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2010,,,,,,4710,,,2
+H2,2004,2004,2004,4,0,1,Import,583,FS Micronesia,FSM,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,302,,,,,,1094,,,2
+H2,2004,2004,2004,4,0,1,Import,583,FS Micronesia,FSM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19,,,,,,22,,,2
+H2,2004,2004,2004,4,0,1,Import,583,FS Micronesia,FSM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27813,,,,,,79884,,,2
+H2,2005,2005,2005,4,0,1,Import,583,FS Micronesia,FSM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,106414,,,,,,191706,,,2
+H2,2005,2005,2005,4,0,1,Import,583,FS Micronesia,FSM,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,40884,,,,,,67757,,,2
+H2,2005,2005,2005,4,0,1,Import,583,FS Micronesia,FSM,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,120,,,,,,493,,,2
+H2,2005,2005,2005,4,0,1,Import,583,FS Micronesia,FSM,292,Gibraltar,GIB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,254,,,,,,372,,,2
+H2,2005,2005,2005,4,0,1,Import,583,FS Micronesia,FSM,316,Guam,GUM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11048,,,,,,26187,,,2
+H2,2005,2005,2005,4,0,1,Import,583,FS Micronesia,FSM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21,,,,,,70,,,2
+H2,2005,2005,2005,4,0,1,Import,583,FS Micronesia,FSM,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1199,,,,,,5571,,,2
+H2,2005,2005,2005,4,0,1,Import,583,FS Micronesia,FSM,580,N. Mariana Isds,MNP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3893,,,,,,7756,,,2
+H2,2005,2005,2005,4,0,1,Import,583,FS Micronesia,FSM,585,Palau,PLW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,883,,,,,,2923,,,2
+H2,2005,2005,2005,4,0,1,Import,583,FS Micronesia,FSM,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2253,,,,,,3540,,,2
+H2,2005,2005,2005,4,0,1,Import,583,FS Micronesia,FSM,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4202,,,,,,4940,,,2
+H2,2005,2005,2005,4,0,1,Import,583,FS Micronesia,FSM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,41656,,,,,,72097,,,2
+H2,2006,2006,2006,4,0,1,Import,583,FS Micronesia,FSM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,109009,,,,,,209371,,,2
+H2,2006,2006,2006,4,0,4,Re-Import,583,FS Micronesia,FSM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,112,,,,,,165,,,2
+H2,2006,2006,2006,4,0,1,Import,583,FS Micronesia,FSM,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,31464,,,,,,54893,,,2
+H2,2006,2006,2006,4,0,1,Import,583,FS Micronesia,FSM,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1077,,,,,,1266,,,2
+H2,2006,2006,2006,4,0,1,Import,583,FS Micronesia,FSM,316,Guam,GUM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7660,,,,,,18732,,,2
+H2,2006,2006,2006,4,0,1,Import,583,FS Micronesia,FSM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,166,,,,,,771,,,2
+H2,2006,2006,2006,4,0,1,Import,583,FS Micronesia,FSM,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3682,,,,,,4328,,,2
+H2,2006,2006,2006,4,0,1,Import,583,FS Micronesia,FSM,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,,,4,,,2
+H2,2006,2006,2006,4,0,1,Import,583,FS Micronesia,FSM,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,144,,,,,,670,,,2
+H2,2006,2006,2006,4,0,1,Import,583,FS Micronesia,FSM,580,N. Mariana Isds,MNP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3741,,,,,,4783,,,2
+H2,2006,2006,2006,4,0,1,Import,583,FS Micronesia,FSM,583,FS Micronesia,FSM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,112,,,,,,165,,,2
+H2,2006,2006,2006,4,0,4,Re-Import,583,FS Micronesia,FSM,583,FS Micronesia,FSM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,112,,,,,,165,,,2
+H2,2006,2006,2006,4,0,1,Import,583,FS Micronesia,FSM,584,Marshall Isds,MHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5,,,,,,16,,,2
+H2,2006,2006,2006,4,0,1,Import,583,FS Micronesia,FSM,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3724,,,,,,9062,,,2
+H2,2006,2006,2006,4,0,1,Import,583,FS Micronesia,FSM,760,Syria,SYR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,426,,,,,,1408,,,2
+H2,2006,2006,2006,4,0,1,Import,583,FS Micronesia,FSM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,56807,,,,,,113272,,,2
+H2,2007,2007,2007,4,0,1,Import,583,FS Micronesia,FSM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,188982,,,0
+H2,2007,2007,2007,4,0,1,Import,583,FS Micronesia,FSM,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,24009,,36134,,,4
+H2,2007,2007,2007,4,0,1,Import,583,FS Micronesia,FSM,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,331,,614,,,4
+H2,2007,2007,2007,4,0,1,Import,583,FS Micronesia,FSM,316,Guam,GUM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,23894,,,0
+H2,2007,2007,2007,4,0,1,Import,583,FS Micronesia,FSM,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,636,,,0
+H2,2007,2007,2007,4,0,1,Import,583,FS Micronesia,FSM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,2491,,5533,,,4
+H2,2007,2007,2007,4,0,1,Import,583,FS Micronesia,FSM,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,1368,,1580,,,4
+H2,2007,2007,2007,4,0,1,Import,583,FS Micronesia,FSM,580,N. Mariana Isds,MNP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,852,,923,,,4
+H2,2007,2007,2007,4,0,1,Import,583,FS Micronesia,FSM,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,4005,,,0
+H2,2007,2007,2007,4,0,1,Import,583,FS Micronesia,FSM,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,1644,,5290,,,4
+H2,2007,2007,2007,4,0,1,Import,583,FS Micronesia,FSM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,110313,,,0
+H2,2007,2007,2007,4,0,1,Import,583,FS Micronesia,FSM,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,50,,58,,,4
+H2,2008,2008,2008,4,0,1,Import,583,FS Micronesia,FSM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,267521,,,0
+H2,2008,2008,2008,4,0,1,Import,583,FS Micronesia,FSM,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,16437,,27639,,,4
+H2,2008,2008,2008,4,0,1,Import,583,FS Micronesia,FSM,316,Guam,GUM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,34950,,,0
+H2,2008,2008,2008,4,0,1,Import,583,FS Micronesia,FSM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,8864,,,0
+H2,2008,2008,2008,4,0,1,Import,583,FS Micronesia,FSM,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,15259,,,0
+H2,2008,2008,2008,4,0,1,Import,583,FS Micronesia,FSM,580,N. Mariana Isds,MNP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,10973,,,0
+H2,2008,2008,2008,4,0,1,Import,583,FS Micronesia,FSM,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,1002,,2985,,,4
+H2,2008,2008,2008,4,0,1,Import,583,FS Micronesia,FSM,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,697,,2621,,,4
+H2,2008,2008,2008,4,0,1,Import,583,FS Micronesia,FSM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,164232,,,0
+H2,2009,2009,2009,4,0,1,Import,583,FS Micronesia,FSM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,134069,,,,,,309864,,,2
+H2,2009,2009,2009,4,0,1,Import,583,FS Micronesia,FSM,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27661,,,,29029,,43981,,,6
+H2,2009,2009,2009,4,0,1,Import,583,FS Micronesia,FSM,316,Guam,GUM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13119,,,,,,23691,,,2
+H2,2009,2009,2009,4,0,1,Import,583,FS Micronesia,FSM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3668,,,,,,10464,,,2
+H2,2009,2009,2009,4,0,1,Import,583,FS Micronesia,FSM,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8,,,,9,,35,,,6
+H2,2009,2009,2009,4,0,1,Import,583,FS Micronesia,FSM,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,600,,,,,,3479,,,2
+H2,2009,2009,2009,4,0,1,Import,583,FS Micronesia,FSM,580,N. Mariana Isds,MNP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6391,,,,,,10276,,,2
+H2,2009,2009,2009,4,0,1,Import,583,FS Micronesia,FSM,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6675,,,,,,23881,,,2
+H2,2009,2009,2009,4,0,1,Import,583,FS Micronesia,FSM,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1517,,,,1723,,6807,,,6
+H2,2009,2009,2009,4,0,1,Import,583,FS Micronesia,FSM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,74430,,,,,,187250,,,2
+H2,2010,2010,2010,4,0,1,Import,583,FS Micronesia,FSM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,139740,,282849,,,4
+H2,2010,2010,2010,4,0,1,Import,583,FS Micronesia,FSM,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,22104,,29451,,,4
+H2,2010,2010,2010,4,0,1,Import,583,FS Micronesia,FSM,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,2967,,14249,,,4
+H2,2010,2010,2010,4,0,1,Import,583,FS Micronesia,FSM,316,Guam,GUM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,11085,,28962,,,4
+H2,2010,2010,2010,4,0,1,Import,583,FS Micronesia,FSM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,2547,,7138,,,4
+H2,2010,2010,2010,4,0,1,Import,583,FS Micronesia,FSM,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,124,,460,,,4
+H2,2010,2010,2010,4,0,1,Import,583,FS Micronesia,FSM,414,Kuwait,KWT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,245,,909,,,4
+H2,2010,2010,2010,4,0,1,Import,583,FS Micronesia,FSM,580,N. Mariana Isds,MNP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,9212,,16124,,,4
+H2,2010,2010,2010,4,0,1,Import,583,FS Micronesia,FSM,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,12285,,41376,,,4
+H2,2010,2010,2010,4,0,1,Import,583,FS Micronesia,FSM,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,582,,2158,,,4
+H2,2010,2010,2010,4,0,1,Import,583,FS Micronesia,FSM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,78588,,142022,,,4
+H2,2011,2011,2011,4,0,1,Import,583,FS Micronesia,FSM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,117339,,,,128598,,228942,,,6
+H2,2011,2011,2011,4,0,1,Import,583,FS Micronesia,FSM,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11032,,,,12310,,24210,,,6
+H2,2011,2011,2011,4,0,1,Import,583,FS Micronesia,FSM,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,60,,,,63,,71,,,6
+H2,2011,2011,2011,4,0,1,Import,583,FS Micronesia,FSM,316,Guam,GUM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12917,,,,13915,,21872,,,6
+H2,2011,2011,2011,4,0,1,Import,583,FS Micronesia,FSM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,999,,,,1213,,3820,,,6
+H2,2011,2011,2011,4,0,1,Import,583,FS Micronesia,FSM,580,N. Mariana Isds,MNP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11208,,,,12116,,20202,,,6
+H2,2011,2011,2011,4,0,1,Import,583,FS Micronesia,FSM,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16429,,,,19153,,49038,,,6
+H2,2011,2011,2011,4,0,1,Import,583,FS Micronesia,FSM,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,846,,,,1062,,3508,,,6
+H2,2011,2011,2011,4,0,1,Import,583,FS Micronesia,FSM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,63848,,,,68765,,106221,,,6
+H2,2012,2012,2012,4,0,1,Import,583,FS Micronesia,FSM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,92070,,226970,,,4
+H2,2012,2012,2012,4,0,4,Re-Import,583,FS Micronesia,FSM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,1893,,2618,,,4
+H2,2012,2012,2012,4,0,1,Import,583,FS Micronesia,FSM,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,8546,,31865,,,4
+H2,2012,2012,2012,4,0,1,Import,583,FS Micronesia,FSM,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,56,,176,,,4
+H2,2012,2012,2012,4,0,1,Import,583,FS Micronesia,FSM,316,Guam,GUM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,11772,,26463,,,4
+H2,2012,2012,2012,4,0,1,Import,583,FS Micronesia,FSM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,800,,2924,,,4
+H2,2012,2012,2012,4,0,1,Import,583,FS Micronesia,FSM,580,N. Mariana Isds,MNP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,5089,,11942,,,4
+H2,2012,2012,2012,4,0,1,Import,583,FS Micronesia,FSM,583,FS Micronesia,FSM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,1893,,2618,,,4
+H2,2012,2012,2012,4,0,4,Re-Import,583,FS Micronesia,FSM,583,FS Micronesia,FSM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,1893,,2618,,,4
+H2,2012,2012,2012,4,0,1,Import,583,FS Micronesia,FSM,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,4629,,15733,,,4
+H2,2012,2012,2012,4,0,1,Import,583,FS Micronesia,FSM,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,259,,962,,,4
+H2,2012,2012,2012,4,0,1,Import,583,FS Micronesia,FSM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,59026,,134286,,,4
+H2,2013,2013,2013,4,0,1,Import,583,FS Micronesia,FSM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,69220,,,,76398,,156513,,,6
+H2,2013,2013,2013,4,0,4,Re-Import,583,FS Micronesia,FSM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1225,,,,1275,,1644,,,6
+H2,2013,2013,2013,4,0,1,Import,583,FS Micronesia,FSM,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2995,,,,3815,,13532,,,6
+H2,2013,2013,2013,4,0,1,Import,583,FS Micronesia,FSM,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1202,,,,1253,,1671,,,6
+H2,2013,2013,2013,4,0,1,Import,583,FS Micronesia,FSM,316,Guam,GUM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,24594,,,,26160,,41101,,,6
+H2,2013,2013,2013,4,0,1,Import,583,FS Micronesia,FSM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,469,,,,561,,2081,,,6
+H2,2013,2013,2013,4,0,1,Import,583,FS Micronesia,FSM,580,N. Mariana Isds,MNP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2818,,,,3339,,9633,,,6
+H2,2013,2013,2013,4,0,1,Import,583,FS Micronesia,FSM,583,FS Micronesia,FSM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1225,,,,1275,,1644,,,6
+H2,2013,2013,2013,4,0,4,Re-Import,583,FS Micronesia,FSM,583,FS Micronesia,FSM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1225,,,,1275,,1644,,,6
+H2,2013,2013,2013,4,0,1,Import,583,FS Micronesia,FSM,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2645,,,,2950,,6825,,,6
+H2,2013,2013,2013,4,0,1,Import,583,FS Micronesia,FSM,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,39,,,,50,,178,,,6
+H2,2013,2013,2013,4,0,1,Import,583,FS Micronesia,FSM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,33233,,,,36995,,79848,,,6

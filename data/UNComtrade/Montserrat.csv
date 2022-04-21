@@ -1,0 +1,142 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2004,2004,2004,4,0,1,Import,500,Montserrat,MSR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2122,,,,2122,,13953,,,2
+H2,2004,2004,2004,4,0,2,Export,500,Montserrat,MSR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,243,,,,243,,630,,,2
+H2,2004,2004,2004,4,0,3,Re-Export,500,Montserrat,MSR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,243,,,,243,,630,,,2
+H2,2004,2004,2004,4,0,1,Import,500,Montserrat,MSR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,857,,,,857,,6618,,,2
+H2,2004,2004,2004,4,0,1,Import,500,Montserrat,MSR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,666,,,,666,,4105,,,2
+H2,2004,2004,2004,4,0,2,Export,500,Montserrat,MSR,530,Neth. Antilles,ANT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,243,,,,243,,630,,,2
+H2,2004,2004,2004,4,0,3,Re-Export,500,Montserrat,MSR,530,Neth. Antilles,ANT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,243,,,,243,,630,,,2
+H2,2004,2004,2004,4,0,1,Import,500,Montserrat,MSR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27,,,,27,,479,,,2
+H2,2004,2004,2004,4,0,1,Import,500,Montserrat,MSR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,385,,,,385,,2081,,,2
+H2,2004,2004,2004,4,0,1,Import,500,Montserrat,MSR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,54,,,,54,,63,,,2
+H2,2004,2004,2004,4,0,1,Import,500,Montserrat,MSR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,133,,,,133,,608,,,2
+H0,2000,2000,2000,4,0,1,Import,500,Montserrat,MSR,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1618,,,,1618,,5154,,,2
+H0,2000,2000,2000,4,0,1,Import,500,Montserrat,MSR,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,676,,,,676,,2329,,,2
+H0,2000,2000,2000,4,0,1,Import,500,Montserrat,MSR,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,942,,,,942,,2826,,,2
+H0,2001,2001,2001,4,0,1,Import,500,Montserrat,MSR,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,87,,,,87,,262,,,2
+H0,2001,2001,2001,4,0,1,Import,500,Montserrat,MSR,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,41,,,,41,,100,,,2
+H0,2001,2001,2001,4,0,1,Import,500,Montserrat,MSR,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,46,,,,46,,162,,,2
+H0,2002,2002,2002,4,0,1,Import,500,Montserrat,MSR,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,975,,,,975,,8048,,,2
+H0,2002,2002,2002,4,0,1,Import,500,Montserrat,MSR,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,396,,,,396,,5654,,,2
+H0,2002,2002,2002,4,0,1,Import,500,Montserrat,MSR,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,504,,,,504,,2003,,,2
+H0,2002,2002,2002,4,0,1,Import,500,Montserrat,MSR,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,20,,,,20,,57,,,2
+H0,2002,2002,2002,4,0,1,Import,500,Montserrat,MSR,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,55,,,,55,,333,,,2
+H0,2003,2003,2003,4,0,1,Import,500,Montserrat,MSR,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,352,,,,352,,1471,,,2
+H0,2003,2003,2003,4,0,2,Export,500,Montserrat,MSR,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,14,,,,14,,87,,,2
+H0,2003,2003,2003,4,0,3,Re-Export,500,Montserrat,MSR,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,14,,,,14,,87,,,2
+H0,2003,2003,2003,4,0,2,Export,500,Montserrat,MSR,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,14,,,,14,,87,,,2
+H0,2003,2003,2003,4,0,3,Re-Export,500,Montserrat,MSR,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,14,,,,14,,87,,,2
+H0,2003,2003,2003,4,0,1,Import,500,Montserrat,MSR,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,90,,,,90,,129,,,2
+H0,2003,2003,2003,4,0,1,Import,500,Montserrat,MSR,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,9,,,,9,,376,,,2
+H0,2003,2003,2003,4,0,1,Import,500,Montserrat,MSR,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,18,,,,18,,141,,,2
+H0,2003,2003,2003,4,0,1,Import,500,Montserrat,MSR,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,235,,,,235,,826,,,2
+H2,2005,2005,2005,4,0,1,Import,500,Montserrat,MSR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6646,,,,6646,,34519,,,2
+H2,2005,2005,2005,4,0,1,Import,500,Montserrat,MSR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,98,,,,98,,143,,,2
+H2,2005,2005,2005,4,0,1,Import,500,Montserrat,MSR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,83,,,,83,,467,,,2
+H2,2005,2005,2005,4,0,1,Import,500,Montserrat,MSR,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,106,,,2
+H2,2005,2005,2005,4,0,1,Import,500,Montserrat,MSR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4208,,,,4208,,21894,,,2
+H2,2005,2005,2005,4,0,1,Import,500,Montserrat,MSR,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14,,,,14,,156,,,2
+H2,2005,2005,2005,4,0,1,Import,500,Montserrat,MSR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,509,,,,509,,3759,,,2
+H2,2005,2005,2005,4,0,1,Import,500,Montserrat,MSR,308,Grenada,GRD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,1,,2,,,2
+H2,2005,2005,2005,4,0,1,Import,500,Montserrat,MSR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,140,,,2
+H2,2005,2005,2005,4,0,1,Import,500,Montserrat,MSR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,131,,,,131,,214,,,2
+H2,2005,2005,2005,4,0,1,Import,500,Montserrat,MSR,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,50,,,,50,,272,,,2
+H2,2005,2005,2005,4,0,1,Import,500,Montserrat,MSR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,220,,,,220,,777,,,2
+H2,2005,2005,2005,4,0,1,Import,500,Montserrat,MSR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,327,,,,327,,482,,,2
+H2,2005,2005,2005,4,0,1,Import,500,Montserrat,MSR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,37,,,,37,,1440,,,2
+H2,2005,2005,2005,4,0,1,Import,500,Montserrat,MSR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,950,,,,950,,4667,,,2
+H2,2006,2006,2006,4,0,1,Import,500,Montserrat,MSR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7322,,,,7322,,44488,,,2
+H2,2006,2006,2006,4,0,1,Import,500,Montserrat,MSR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,173,,,,173,,2671,,,2
+H2,2006,2006,2006,4,0,1,Import,500,Montserrat,MSR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,202,,,,202,,2376,,,2
+H2,2006,2006,2006,4,0,1,Import,500,Montserrat,MSR,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15,,,,15,,91,,,2
+H2,2006,2006,2006,4,0,1,Import,500,Montserrat,MSR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2570,,,,2570,,12461,,,2
+H2,2006,2006,2006,4,0,1,Import,500,Montserrat,MSR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,978,,,,978,,5424,,,2
+H2,2006,2006,2006,4,0,1,Import,500,Montserrat,MSR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,63,,,,63,,649,,,2
+H2,2006,2006,2006,4,0,1,Import,500,Montserrat,MSR,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,968,,,,968,,1481,,,2
+H2,2006,2006,2006,4,0,1,Import,500,Montserrat,MSR,530,Neth. Antilles,ANT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,40,,,,40,,623,,,2
+H2,2006,2006,2006,4,0,1,Import,500,Montserrat,MSR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36,,,,36,,349,,,2
+H2,2006,2006,2006,4,0,1,Import,500,Montserrat,MSR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,186,,,,186,,812,,,2
+H2,2006,2006,2006,4,0,1,Import,500,Montserrat,MSR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23,,,,23,,277,,,2
+H2,2006,2006,2006,4,0,1,Import,500,Montserrat,MSR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,132,,,,132,,703,,,2
+H2,2006,2006,2006,4,0,1,Import,500,Montserrat,MSR,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,51,,,,51,,163,,,2
+H2,2006,2006,2006,4,0,1,Import,500,Montserrat,MSR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,303,,,,303,,2043,,,2
+H2,2006,2006,2006,4,0,1,Import,500,Montserrat,MSR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1582,,,,1582,,14365,,,2
+H2,2007,2007,2007,4,0,1,Import,500,Montserrat,MSR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8074,,,,8074,,40263,,,2
+H2,2007,2007,2007,4,0,1,Import,500,Montserrat,MSR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,37,,,,37,,726,,,2
+H2,2007,2007,2007,4,0,1,Import,500,Montserrat,MSR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,167,,,,167,,1392,,,2
+H2,2007,2007,2007,4,0,1,Import,500,Montserrat,MSR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2099,,,,2099,,11315,,,2
+H2,2007,2007,2007,4,0,1,Import,500,Montserrat,MSR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1339,,,,1339,,8429,,,2
+H2,2007,2007,2007,4,0,1,Import,500,Montserrat,MSR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,159,,,,159,,2203,,,2
+H2,2007,2007,2007,4,0,1,Import,500,Montserrat,MSR,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,82,,,,82,,245,,,2
+H2,2007,2007,2007,4,0,1,Import,500,Montserrat,MSR,530,Neth. Antilles,ANT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,188,,,,188,,784,,,2
+H2,2007,2007,2007,4,0,1,Import,500,Montserrat,MSR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16,,,,16,,117,,,2
+H2,2007,2007,2007,4,0,1,Import,500,Montserrat,MSR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10,,,,10,,121,,,2
+H2,2007,2007,2007,4,0,1,Import,500,Montserrat,MSR,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4,,,,4,,46,,,2
+H2,2007,2007,2007,4,0,1,Import,500,Montserrat,MSR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,128,,,,128,,79,,,2
+H2,2007,2007,2007,4,0,1,Import,500,Montserrat,MSR,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2966,,,,2966,,7455,,,2
+H2,2007,2007,2007,4,0,1,Import,500,Montserrat,MSR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,151,,,,151,,804,,,2
+H2,2007,2007,2007,4,0,1,Import,500,Montserrat,MSR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,728,,,,728,,6547,,,2
+H2,2008,2008,2008,4,0,1,Import,500,Montserrat,MSR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10210,,,,10210,,48003,,,2
+H2,2008,2008,2008,4,0,1,Import,500,Montserrat,MSR,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,222,,,,222,,1692,,,2
+H2,2008,2008,2008,4,0,1,Import,500,Montserrat,MSR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45,,,,45,,450,,,2
+H2,2008,2008,2008,4,0,1,Import,500,Montserrat,MSR,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,144,,,2
+H2,2008,2008,2008,4,0,1,Import,500,Montserrat,MSR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1805,,,,1805,,11669,,,2
+H2,2008,2008,2008,4,0,1,Import,500,Montserrat,MSR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2707,,,,2707,,13647,,,2
+H2,2008,2008,2008,4,0,1,Import,500,Montserrat,MSR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,148,,,,148,,1846,,,2
+H2,2008,2008,2008,4,0,1,Import,500,Montserrat,MSR,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,491,,,,491,,1472,,,2
+H2,2008,2008,2008,4,0,1,Import,500,Montserrat,MSR,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,30,,,,30,,316,,,2
+H2,2008,2008,2008,4,0,1,Import,500,Montserrat,MSR,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45,,,,45,,217,,,2
+H2,2008,2008,2008,4,0,1,Import,500,Montserrat,MSR,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2790,,,,2790,,7534,,,2
+H2,2008,2008,2008,4,0,1,Import,500,Montserrat,MSR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,49,,,,49,,507,,,2
+H2,2008,2008,2008,4,0,1,Import,500,Montserrat,MSR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1869,,,,1869,,8507,,,2
+H2,2009,2009,2009,4,0,1,Import,500,Montserrat,MSR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10339,,,,10339,,36170,,,2
+H2,2009,2009,2009,4,0,1,Import,500,Montserrat,MSR,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,24,,,,24,,290,,,2
+H2,2009,2009,2009,4,0,1,Import,500,Montserrat,MSR,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,123,,,,123,,824,,,2
+H2,2009,2009,2009,4,0,1,Import,500,Montserrat,MSR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,691,,,,691,,4367,,,2
+H2,2009,2009,2009,4,0,1,Import,500,Montserrat,MSR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,67,,,,67,,546,,,2
+H2,2009,2009,2009,4,0,1,Import,500,Montserrat,MSR,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,663,,,,663,,1454,,,2
+H2,2009,2009,2009,4,0,1,Import,500,Montserrat,MSR,530,Neth. Antilles,ANT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,125,,,,125,,554,,,2
+H2,2009,2009,2009,4,0,1,Import,500,Montserrat,MSR,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,146,,,2
+H2,2009,2009,2009,4,0,1,Import,500,Montserrat,MSR,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,138,,,2
+H2,2009,2009,2009,4,0,1,Import,500,Montserrat,MSR,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3810,,,,3810,,11270,,,2
+H2,2009,2009,2009,4,0,1,Import,500,Montserrat,MSR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4818,,,,4818,,16580,,,2
+H3,2011,2011,2011,4,0,1,Import,500,Montserrat,MSR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7030,,,,7030,,25112,,,2
+H3,2011,2011,2011,4,0,1,Import,500,Montserrat,MSR,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,520,,,,520,,2968,,,2
+H3,2011,2011,2011,4,0,1,Import,500,Montserrat,MSR,328,Guyana,GUY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,272,,,,272,,1219,,,2
+H3,2011,2011,2011,4,0,1,Import,500,Montserrat,MSR,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,671,,,,671,,1040,,,2
+H3,2011,2011,2011,4,0,1,Import,500,Montserrat,MSR,531,Curaçao,CUW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4410,,,,4410,,15373,,,2
+H3,2011,2011,2011,4,0,1,Import,500,Montserrat,MSR,662,Saint Lucia,LCA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1,,,,1,,20,,,2
+H3,2011,2011,2011,4,0,1,Import,500,Montserrat,MSR,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1080,,,,1080,,3946,,,2
+H3,2011,2011,2011,4,0,1,Import,500,Montserrat,MSR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,76,,,,76,,547,,,2
+H3,2012,2012,2012,4,0,1,Import,500,Montserrat,MSR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6162,,,,6162,,27399,,,2
+H3,2012,2012,2012,4,0,1,Import,500,Montserrat,MSR,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1138,,,,1138,,5750,,,2
+H3,2012,2012,2012,4,0,1,Import,500,Montserrat,MSR,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,52,,,,52,,799,,,2
+H3,2012,2012,2012,4,0,1,Import,500,Montserrat,MSR,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2,,,,2,,123,,,2
+H3,2012,2012,2012,4,0,1,Import,500,Montserrat,MSR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,722,,,,722,,7208,,,2
+H3,2012,2012,2012,4,0,1,Import,500,Montserrat,MSR,328,Guyana,GUY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1083,,,,1083,,2412,,,2
+H3,2012,2012,2012,4,0,1,Import,500,Montserrat,MSR,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,330,,,,330,,520,,,2
+H3,2012,2012,2012,4,0,1,Import,500,Montserrat,MSR,531,Curaçao,CUW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,35,,,,35,,440,,,2
+H3,2012,2012,2012,4,0,1,Import,500,Montserrat,MSR,659,Saint Kitts and Nevis,KNA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,284,,,,284,,900,,,2
+H3,2012,2012,2012,4,0,1,Import,500,Montserrat,MSR,780,Trinidad and Tobago,TTO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1530,,,,1530,,4961,,,2
+H3,2012,2012,2012,4,0,1,Import,500,Montserrat,MSR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,34,,,,34,,41,,,2
+H3,2012,2012,2012,4,0,1,Import,500,Montserrat,MSR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,952,,,,952,,4245,,,2
+H3,2013,2013,2013,4,0,1,Import,500,Montserrat,MSR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4203,,,,4203,,21815,,,2
+H3,2013,2013,2013,4,0,1,Import,500,Montserrat,MSR,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1445,,,,1445,,8170,,,2
+H3,2013,2013,2013,4,0,1,Import,500,Montserrat,MSR,52,Barbados,BRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,26,,,,26,,668,,,2
+H3,2013,2013,2013,4,0,1,Import,500,Montserrat,MSR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1438,,,,1438,,6181,,,2
+H3,2013,2013,2013,4,0,1,Import,500,Montserrat,MSR,328,Guyana,GUY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,206,,,,206,,3026,,,2
+H3,2013,2013,2013,4,0,1,Import,500,Montserrat,MSR,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,16,,,,16,,299,,,2
+H3,2013,2013,2013,4,0,1,Import,500,Montserrat,MSR,388,Jamaica,JAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,643,,,,643,,1129,,,2
+H3,2013,2013,2013,4,0,1,Import,500,Montserrat,MSR,531,Curaçao,CUW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2,,,,2,,6,,,2
+H3,2013,2013,2013,4,0,1,Import,500,Montserrat,MSR,659,Saint Kitts and Nevis,KNA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,354,,,,354,,1809,,,2
+H3,2013,2013,2013,4,0,1,Import,500,Montserrat,MSR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,73,,,,73,,526,,,2
+H3,2014,2014,2014,4,0,1,Import,500,Montserrat,MSR,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4772,,,,4772,,17938,,,2
+H3,2014,2014,2014,4,0,1,Import,500,Montserrat,MSR,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2926,,,,2926,,7482,,,2
+H3,2014,2014,2014,4,0,1,Import,500,Montserrat,MSR,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,109,,,,109,,52,,,2
+H3,2014,2014,2014,4,0,1,Import,500,Montserrat,MSR,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,65,,,,65,,127,,,2
+H3,2014,2014,2014,4,0,1,Import,500,Montserrat,MSR,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,332,,,,332,,1010,,,2
+H3,2014,2014,2014,4,0,1,Import,500,Montserrat,MSR,328,Guyana,GUY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,20,,,,20,,3823,,,2
+H3,2014,2014,2014,4,0,1,Import,500,Montserrat,MSR,531,Curaçao,CUW,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5,,,,5,,133,,,2
+H3,2014,2014,2014,4,0,1,Import,500,Montserrat,MSR,662,Saint Lucia,LCA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,19,,,,19,,125,,,2
+H3,2014,2014,2014,4,0,1,Import,500,Montserrat,MSR,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,133,,,,133,,1294,,,2
+H3,2014,2014,2014,4,0,1,Import,500,Montserrat,MSR,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1163,,,,1163,,3893,,,2

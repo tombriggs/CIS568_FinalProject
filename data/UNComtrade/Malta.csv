@@ -1,0 +1,894 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2002,2002,2002,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,956047,,,,956047,,4310950,,,6
+H2,2002,2002,2002,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,102030,,,,102030,,770643,,,4
+H2,2002,2002,2002,4,0,3,Re-Export,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,82906,,,,82906,,716729,,,4
+H2,2002,2002,2002,4,0,1,Import,470,Malta,MLT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5165,,,,5165,,15480,,,4
+H2,2002,2002,2002,4,0,1,Import,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21503,,,,21503,,116755,,,4
+H2,2002,2002,2002,4,0,1,Import,470,Malta,MLT,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,458,,,,458,,4552,,,4
+H2,2002,2002,2002,4,0,2,Export,470,Malta,MLT,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,51,,,,51,,167,,,4
+H2,2002,2002,2002,4,0,1,Import,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1728,,,,1728,,7789,,,4
+H2,2002,2002,2002,4,0,2,Export,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,774,,,,774,,3435,,,4
+H2,2002,2002,2002,4,0,1,Import,470,Malta,MLT,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1522,,,,1522,,3338,,,4
+H2,2002,2002,2002,4,0,1,Import,470,Malta,MLT,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,2,,14,,,4
+H2,2002,2002,2002,4,0,1,Import,470,Malta,MLT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27652,,,,27652,,110921,,,4
+H2,2002,2002,2002,4,0,1,Import,470,Malta,MLT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20,,,,20,,51,,,4
+H2,2002,2002,2002,4,0,1,Import,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,248138,,,,248138,,1761411,,,4
+H2,2002,2002,2002,4,0,2,Export,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1970,,,,1970,,6502,,,4
+H2,2002,2002,2002,4,0,3,Re-Export,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,163,,,,163,,1002,,,4
+H2,2002,2002,2002,4,0,1,Import,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22098,,,,22098,,78770,,,6
+H2,2002,2002,2002,4,0,2,Export,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5910,,,,5910,,16441,,,4
+H2,2002,2002,2002,4,0,3,Re-Export,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22,,,,22,,153,,,4
+H2,2002,2002,2002,4,0,1,Import,470,Malta,MLT,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,390,,,,390,,1272,,,4
+H2,2002,2002,2002,4,0,1,Import,470,Malta,MLT,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,39,,,,39,,902,,,4
+H2,2002,2002,2002,4,0,1,Import,470,Malta,MLT,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18,,,,18,,136,,,4
+H2,2002,2002,2002,4,0,2,Export,470,Malta,MLT,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,336,,,,336,,1823,,,4
+H2,2002,2002,2002,4,0,1,Import,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,461307,,,,461307,,1558523,,,4
+H2,2002,2002,2002,4,0,2,Export,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1652,,,,1652,,11294,,,4
+H2,2002,2002,2002,4,0,3,Re-Export,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1520,,,,1520,,11010,,,4
+H2,2002,2002,2002,4,0,1,Import,470,Malta,MLT,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,60,,,,60,,1025,,,4
+H2,2002,2002,2002,4,0,2,Export,470,Malta,MLT,434,Libya,LBY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1145,,,,1145,,5905,,,4
+H2,2002,2002,2002,4,0,3,Re-Export,470,Malta,MLT,434,Libya,LBY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1145,,,,1145,,5905,,,4
+H2,2002,2002,2002,4,0,2,Export,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,217,,,,217,,907,,,4
+H2,2002,2002,2002,4,0,1,Import,470,Malta,MLT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,90,,,,90,,479,,,4
+H2,2002,2002,2002,4,0,2,Export,470,Malta,MLT,579,Norway,NOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1847,,,,1847,,5484,,,4
+H2,2002,2002,2002,4,0,1,Import,470,Malta,MLT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,78370,,,,78370,,252086,,,4
+H2,2002,2002,2002,4,0,2,Export,470,Malta,MLT,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,160,,,,160,,1032,,,4
+H2,2002,2002,2002,4,0,1,Import,470,Malta,MLT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8443,,,,8443,,33213,,,4
+H2,2002,2002,2002,4,0,1,Import,470,Malta,MLT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,31809,,,,31809,,153996,,,4
+H2,2002,2002,2002,4,0,1,Import,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3215,,,,3215,,9891,,,4
+H2,2002,2002,2002,4,0,2,Export,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,98,,,,98,,273,,,4
+H2,2002,2002,2002,4,0,2,Export,470,Malta,MLT,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,200,,,,200,,472,,,4
+H2,2002,2002,2002,4,0,1,Import,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18855,,,,18855,,92996,,,4
+H2,2002,2002,2002,4,0,2,Export,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,43810,,,,43810,,228481,,,4
+H2,2002,2002,2002,4,0,3,Re-Export,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36637,,,,36637,,211665,,,4
+H2,2002,2002,2002,4,0,2,Export,470,Malta,MLT,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,43764,,,,43764,,488207,,,4
+H2,2002,2002,2002,4,0,3,Re-Export,470,Malta,MLT,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,43419,,,,43419,,486995,,,4
+H2,2002,2002,2002,4,0,1,Import,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,24913,,,,24913,,106392,,,4
+H2,2002,2002,2002,4,0,2,Export,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,96,,,,96,,222,,,4
+H2,2002,2002,2002,4,0,1,Import,470,Malta,MLT,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,252,,,,252,,955,,,4
+H2,2003,2003,2003,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,926862,,,,926862,,5276555,,,4
+H2,2003,2003,2003,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,80803,,,,80803,,810922,,,4
+H2,2003,2003,2003,4,0,3,Re-Export,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,69918,,,,69918,,763447,,,4
+H2,2003,2003,2003,4,0,1,Import,470,Malta,MLT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4578,,,,4578,,17434,,,4
+H2,2003,2003,2003,4,0,1,Import,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,47317,,,,47317,,261568,,,4
+H2,2003,2003,2003,4,0,2,Export,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36,,,,36,,343,,,4
+H2,2003,2003,2003,4,0,3,Re-Export,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36,,,,36,,343,,,4
+H2,2003,2003,2003,4,0,1,Import,470,Malta,MLT,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,89,,,,89,,1588,,,4
+H2,2003,2003,2003,4,0,1,Import,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4765,,,,4765,,19471,,,4
+H2,2003,2003,2003,4,0,2,Export,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1501,,,,1501,,7622,,,4
+H2,2003,2003,2003,4,0,1,Import,470,Malta,MLT,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18,,,,18,,112,,,4
+H2,2003,2003,2003,4,0,1,Import,470,Malta,MLT,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,830,,,,830,,2178,,,4
+H2,2003,2003,2003,4,0,1,Import,470,Malta,MLT,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2106,,,,2106,,6596,,,4
+H2,2003,2003,2003,4,0,2,Export,470,Malta,MLT,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,25,,,,25,,175,,,4
+H2,2003,2003,2003,4,0,1,Import,470,Malta,MLT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,30431,,,,30431,,128054,,,4
+H2,2003,2003,2003,4,0,1,Import,470,Malta,MLT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,228,,,,228,,1171,,,4
+H2,2003,2003,2003,4,0,1,Import,470,Malta,MLT,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,144,,,,144,,852,,,4
+H2,2003,2003,2003,4,0,1,Import,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,251755,,,,251755,,2112156,,,4
+H2,2003,2003,2003,4,0,2,Export,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,72,,,,72,,457,,,4
+H2,2003,2003,2003,4,0,1,Import,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18863,,,,18863,,52870,,,4
+H2,2003,2003,2003,4,0,2,Export,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6154,,,,6154,,24736,,,4
+H2,2003,2003,2003,4,0,3,Re-Export,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19,,,,19,,159,,,4
+H2,2003,2003,2003,4,0,1,Import,470,Malta,MLT,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,540,,,,540,,1920,,,4
+H2,2003,2003,2003,4,0,2,Export,470,Malta,MLT,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,192,,,,192,,893,,,4
+H2,2003,2003,2003,4,0,1,Import,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,393771,,,,393771,,1798496,,,4
+H2,2003,2003,2003,4,0,1,Import,470,Malta,MLT,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,58,,,,58,,810,,,4
+H2,2003,2003,2003,4,0,2,Export,470,Malta,MLT,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,32,,,,32,,128,,,4
+H2,2003,2003,2003,4,0,1,Import,470,Malta,MLT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,672,,,,672,,6055,,,4
+H2,2003,2003,2003,4,0,2,Export,470,Malta,MLT,434,Libya,LBY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,243,,,,243,,2153,,,4
+H2,2003,2003,2003,4,0,3,Re-Export,470,Malta,MLT,434,Libya,LBY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,243,,,,243,,2153,,,4
+H2,2003,2003,2003,4,0,1,Import,470,Malta,MLT,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,144,,,,144,,951,,,4
+H2,2003,2003,2003,4,0,2,Export,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2493,,,,2493,,11621,,,4
+H2,2003,2003,2003,4,0,1,Import,470,Malta,MLT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7624,,,,7624,,48578,,,4
+H2,2003,2003,2003,4,0,1,Import,470,Malta,MLT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,60400,,,,60400,,270873,,,4
+H2,2003,2003,2003,4,0,2,Export,470,Malta,MLT,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,85,,,,85,,380,,,4
+H2,2003,2003,2003,4,0,1,Import,470,Malta,MLT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7942,,,,7942,,31022,,,4
+H2,2003,2003,2003,4,0,1,Import,470,Malta,MLT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,34421,,,,34421,,161655,,,4
+H2,2003,2003,2003,4,0,2,Export,470,Malta,MLT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11,,,,11,,43,,,4
+H2,2003,2003,2003,4,0,1,Import,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4531,,,,4531,,54875,,,4
+H2,2003,2003,2003,4,0,2,Export,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,214,,,,214,,856,,,4
+H2,2003,2003,2003,4,0,2,Export,470,Malta,MLT,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,267,,,,267,,2485,,,4
+H2,2003,2003,2003,4,0,3,Re-Export,470,Malta,MLT,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,267,,,,267,,2485,,,4
+H2,2003,2003,2003,4,0,1,Import,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,30051,,,,30051,,182958,,,4
+H2,2003,2003,2003,4,0,2,Export,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,34212,,,,34212,,308934,,,4
+H2,2003,2003,2003,4,0,3,Re-Export,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,34087,,,,34087,,308211,,,4
+H2,2003,2003,2003,4,0,2,Export,470,Malta,MLT,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,35130,,,,35130,,448585,,,4
+H2,2003,2003,2003,4,0,3,Re-Export,470,Malta,MLT,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,35130,,,,35130,,448585,,,4
+H2,2003,2003,2003,4,0,1,Import,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,25584,,,,25584,,114314,,,4
+H2,2003,2003,2003,4,0,2,Export,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,136,,,,136,,1512,,,4
+H2,2003,2003,2003,4,0,3,Re-Export,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,136,,,,136,,1512,,,4
+H2,2004,2004,2004,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3223067,,,,3730878,,10597554,,,2
+H2,2004,2004,2004,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,40615,,,,43789,,368343,,,0
+H2,2004,2004,2004,4,0,1,Import,470,Malta,MLT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,262096,,,,369001,,407386,,,0
+H2,2004,2004,2004,4,0,1,Import,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,23770,,,,23676,,133629,,,0
+H2,2004,2004,2004,4,0,1,Import,470,Malta,MLT,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,300,,,,200,,1448,,,0
+H2,2004,2004,2004,4,0,2,Export,470,Malta,MLT,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18,,,,26,,111,,,0
+H2,2004,2004,2004,4,0,1,Import,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7474,,,,8583,,32850,,,0
+H2,2004,2004,2004,4,0,2,Export,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6,,,,6,,26,,,0
+H2,2004,2004,2004,4,0,1,Import,470,Malta,MLT,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,372,,,,373,,2256,,,0
+H2,2004,2004,2004,4,0,1,Import,470,Malta,MLT,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,993,,,,993,,5089,,,0
+H2,2004,2004,2004,4,0,1,Import,470,Malta,MLT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,156440,,,,144576,,359247,,,0
+H2,2004,2004,2004,4,0,1,Import,470,Malta,MLT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,131,,,,127,,776,,,0
+H2,2004,2004,2004,4,0,2,Export,470,Malta,MLT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,122,,,0
+H2,2004,2004,2004,4,0,1,Import,470,Malta,MLT,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,24,,,,24,,5,,,2
+H2,2004,2004,2004,4,0,2,Export,470,Malta,MLT,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,200,,,,250,,430,,,0
+H2,2004,2004,2004,4,0,1,Import,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,519163,,,,580185,,2811906,,,0
+H2,2004,2004,2004,4,0,2,Export,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4199,,,,6607,,11670,,,0
+H2,2004,2004,2004,4,0,1,Import,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,69017,,,,99510,,130041,,,0
+H2,2004,2004,2004,4,0,2,Export,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3950,,,,4024,,26643,,,0
+H2,2004,2004,2004,4,0,1,Import,470,Malta,MLT,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,675,,,,675,,2385,,,0
+H2,2004,2004,2004,4,0,2,Export,470,Malta,MLT,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,204,,,,204,,1179,,,0
+H2,2004,2004,2004,4,0,1,Import,470,Malta,MLT,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6444,,,,6544,,15621,,,0
+H2,2004,2004,2004,4,0,2,Export,470,Malta,MLT,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10800,,,,10800,,25424,,,0
+H2,2004,2004,2004,4,0,1,Import,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1605597,,,,1839831,,5029332,,,0
+H2,2004,2004,2004,4,0,2,Export,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,90,,,,90,,541,,,0
+H2,2004,2004,2004,4,0,1,Import,470,Malta,MLT,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,474,,,0
+H2,2004,2004,2004,4,0,2,Export,470,Malta,MLT,434,Libya,LBY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,171,,,,171,,1318,,,0
+H2,2004,2004,2004,4,0,2,Export,470,Malta,MLT,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3,,,,3,,29,,,0
+H2,2004,2004,2004,4,0,1,Import,470,Malta,MLT,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,59,,,,59,,564,,,0
+H2,2004,2004,2004,4,0,2,Export,470,Malta,MLT,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7,,,,7,,41,,,0
+H2,2004,2004,2004,4,0,1,Import,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,26106,,,,36837,,91825,,,0
+H2,2004,2004,2004,4,0,2,Export,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,112,,,,112,,718,,,0
+H2,2004,2004,2004,4,0,1,Import,470,Malta,MLT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,536,,,,544,,4384,,,0
+H2,2004,2004,2004,4,0,1,Import,470,Malta,MLT,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,59400,,,,100636,,77679,,,0
+H2,2004,2004,2004,4,0,2,Export,470,Malta,MLT,579,Norway,NOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1974,,,,1974,,12523,,,0
+H2,2004,2004,2004,4,0,1,Import,470,Malta,MLT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,97984,,,,122831,,365932,,,0
+H2,2004,2004,2004,4,0,1,Import,470,Malta,MLT,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,531,,,,545,,2151,,,0
+H2,2004,2004,2004,4,0,2,Export,470,Malta,MLT,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,88,,,,88,,419,,,0
+H2,2004,2004,2004,4,0,1,Import,470,Malta,MLT,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,81,,,,81,,282,,,0
+H2,2004,2004,2004,4,0,1,Import,470,Malta,MLT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15155,,,,15155,,64032,,,0
+H2,2004,2004,2004,4,0,1,Import,470,Malta,MLT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,250122,,,,252079,,474244,,,0
+H2,2004,2004,2004,4,0,2,Export,470,Malta,MLT,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,430,,,,430,,2975,,,0
+H2,2004,2004,2004,4,0,1,Import,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,116,,,,117,,389,,,0
+H2,2004,2004,2004,4,0,1,Import,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,100400,,,,107333,,477266,,,0
+H2,2004,2004,2004,4,0,2,Export,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6942,,,,7576,,144486,,,0
+H2,2004,2004,2004,4,0,2,Export,470,Malta,MLT,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11412,,,,11412,,139688,,,0
+H2,2004,2004,2004,4,0,1,Import,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19195,,,,19196,,102619,,,0
+H2,2004,2004,2004,4,0,1,Import,470,Malta,MLT,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,68,,,,68,,288,,,0
+H2,2004,2004,2004,4,0,1,Import,470,Malta,MLT,891,Serbia and Montenegro,SCG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,810,,,,1090,,3453,,,0
+H1,2000,2000,2000,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,794957,,,,794957,,3446220,,,4
+H1,2000,2000,2000,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,78581,,,,78581,,498800,,,4
+H1,2000,2000,2000,4,0,3,Re-Export,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,45267,,,,45267,,413029,,,4
+H1,2000,2000,2000,4,0,1,Import,470,Malta,MLT,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2069,,,,2069,,4299,,,4
+H1,2000,2000,2000,4,0,1,Import,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8946,,,,8946,,42499,,,4
+H1,2000,2000,2000,4,0,1,Import,470,Malta,MLT,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,188,,,,188,,943,,,4
+H1,2000,2000,2000,4,0,2,Export,470,Malta,MLT,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,332,,,,332,,738,,,4
+H1,2000,2000,2000,4,0,1,Import,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,547,,,,547,,2397,,,4
+H1,2000,2000,2000,4,0,2,Export,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1246,,,,1246,,3549,,,4
+H1,2000,2000,2000,4,0,1,Import,470,Malta,MLT,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1946,,,,1946,,3365,,,4
+H1,2000,2000,2000,4,0,1,Import,470,Malta,MLT,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,140,,,,140,,360,,,4
+H1,2000,2000,2000,4,0,1,Import,470,Malta,MLT,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9052,,,,9052,,41073,,,4
+H1,2000,2000,2000,4,0,2,Export,470,Malta,MLT,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36,,,,36,,157,,,4
+H1,2000,2000,2000,4,0,2,Export,470,Malta,MLT,196,Cyprus,CYP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,120,,,,120,,364,,,4
+H1,2000,2000,2000,4,0,1,Import,470,Malta,MLT,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,765,,,,765,,2169,,,4
+H1,2000,2000,2000,4,0,1,Import,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,205078,,,,205078,,1524444,,,4
+H1,2000,2000,2000,4,0,2,Export,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4240,,,,4240,,9844,,,4
+H1,2000,2000,2000,4,0,3,Re-Export,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,293,,,,293,,1453,,,4
+H1,2000,2000,2000,4,0,1,Import,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15599,,,,15599,,46381,,,4
+H1,2000,2000,2000,4,0,2,Export,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16474,,,,16474,,41637,,,4
+H1,2000,2000,2000,4,0,3,Re-Export,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,75,,,,75,,430,,,4
+H1,2000,2000,2000,4,0,1,Import,470,Malta,MLT,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,369,,,,369,,1394,,,4
+H1,2000,2000,2000,4,0,2,Export,470,Malta,MLT,372,Ireland,IRL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2790,,,,2790,,3829,,,4
+H1,2000,2000,2000,4,0,1,Import,470,Malta,MLT,376,Israel,ISR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,540,,,,540,,1588,,,4
+H1,2000,2000,2000,4,0,1,Import,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,384319,,,,384319,,1173170,,,4
+H1,2000,2000,2000,4,0,2,Export,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1409,,,,1409,,2884,,,4
+H1,2000,2000,2000,4,0,3,Re-Export,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,246,,,,246,,852,,,4
+H1,2000,2000,2000,4,0,1,Import,470,Malta,MLT,422,Lebanon,LBN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,706,,,,706,,3162,,,4
+H1,2000,2000,2000,4,0,1,Import,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,255,,,,255,,1381,,,4
+H1,2000,2000,2000,4,0,2,Export,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,177,,,,177,,458,,,4
+H1,2000,2000,2000,4,0,3,Re-Export,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9,,,,9,,75,,,4
+H1,2000,2000,2000,4,0,1,Import,470,Malta,MLT,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,564,,,,564,,2322,,,4
+H1,2000,2000,2000,4,0,1,Import,470,Malta,MLT,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,95749,,,,95749,,312640,,,4
+H1,2000,2000,2000,4,0,2,Export,470,Malta,MLT,643,Russian Federation,RUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,80,,,,80,,219,,,4
+H1,2000,2000,2000,4,0,1,Import,470,Malta,MLT,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9239,,,,9239,,32636,,,4
+H1,2000,2000,2000,4,0,1,Import,470,Malta,MLT,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,23643,,,,23643,,85487,,,4
+H1,2000,2000,2000,4,0,2,Export,470,Malta,MLT,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,105,,,,105,,385,,,4
+H1,2000,2000,2000,4,0,3,Re-Export,470,Malta,MLT,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,105,,,,105,,385,,,4
+H1,2000,2000,2000,4,0,2,Export,470,Malta,MLT,752,Sweden,SWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1157,,,,1157,,2446,,,4
+H1,2000,2000,2000,4,0,1,Import,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,27895,,,,27895,,121088,,,4
+H1,2000,2000,2000,4,0,2,Export,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6761,,,,6761,,24816,,,4
+H1,2000,2000,2000,4,0,3,Re-Export,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2855,,,,2855,,9819,,,4
+H1,2000,2000,2000,4,0,2,Export,470,Malta,MLT,837,Bunkers,,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,43636,,,,43636,,407419,,,4
+H1,2000,2000,2000,4,0,3,Re-Export,470,Malta,MLT,837,Bunkers,,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,41666,,,,41666,,399959,,,4
+H1,2000,2000,2000,4,0,1,Import,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7348,,,,7348,,43424,,,4
+H1,2000,2000,2000,4,0,2,Export,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18,,,,18,,55,,,4
+H1,2000,2000,2000,4,0,3,Re-Export,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18,,,,18,,55,,,4
+H1,2001,2001,2001,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,773302,,,,773302,,3651885,,,4
+H1,2001,2001,2001,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,26371,,,,26371,,75712,,,4
+H1,2001,2001,2001,4,0,1,Import,470,Malta,MLT,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4082,,,,4082,,10474,,,4
+H1,2001,2001,2001,4,0,1,Import,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,20619,,,,20619,,93858,,,4
+H1,2001,2001,2001,4,0,1,Import,470,Malta,MLT,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,90,,,,90,,111,,,4
+H1,2001,2001,2001,4,0,1,Import,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,990,,,,990,,7294,,,4
+H1,2001,2001,2001,4,0,2,Export,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1821,,,,1821,,12147,,,4
+H1,2001,2001,2001,4,0,1,Import,470,Malta,MLT,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,956,,,,956,,1674,,,4
+H1,2001,2001,2001,4,0,1,Import,470,Malta,MLT,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,24089,,,,24089,,92918,,,4
+H1,2001,2001,2001,4,0,1,Import,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,216052,,,,216052,,1590718,,,4
+H1,2001,2001,2001,4,0,2,Export,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,228,,,,228,,800,,,4
+H1,2001,2001,2001,4,0,1,Import,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10979,,,,10979,,32072,,,4
+H1,2001,2001,2001,4,0,2,Export,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7129,,,,7129,,18933,,,4
+H1,2001,2001,2001,4,0,1,Import,470,Malta,MLT,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,477,,,,477,,1280,,,4
+H1,2001,2001,2001,4,0,1,Import,470,Malta,MLT,348,Hungary,HUN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,55,,,,55,,496,,,4
+H1,2001,2001,2001,4,0,2,Export,470,Malta,MLT,352,Iceland,ISL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,252,,,,252,,2005,,,4
+H1,2001,2001,2001,4,0,2,Export,470,Malta,MLT,376,Israel,ISR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,43,,,,43,,96,,,4
+H1,2001,2001,2001,4,0,1,Import,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,323641,,,,323641,,1184530,,,4
+H1,2001,2001,2001,4,0,2,Export,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,48,,,,48,,160,,,4
+H1,2001,2001,2001,4,0,1,Import,470,Malta,MLT,422,Lebanon,LBN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,576,,,,576,,4225,,,4
+H1,2001,2001,2001,4,0,1,Import,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1860,,,,1860,,8552,,,4
+H1,2001,2001,2001,4,0,2,Export,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2027,,,,2027,,4393,,,4
+H1,2001,2001,2001,4,0,1,Import,470,Malta,MLT,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1441,,,,1441,,8814,,,4
+H1,2001,2001,2001,4,0,2,Export,470,Malta,MLT,566,Nigeria,NGA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6608,,,,6608,,11204,,,4
+H1,2001,2001,2001,4,0,2,Export,470,Malta,MLT,579,Norway,NOR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,890,,,,890,,1867,,,4
+H1,2001,2001,2001,4,0,1,Import,470,Malta,MLT,600,Paraguay,PRY,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,378,,,,378,,1620,,,4
+H1,2001,2001,2001,4,0,1,Import,470,Malta,MLT,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,95298,,,,95298,,315503,,,4
+H1,2001,2001,2001,4,0,1,Import,470,Malta,MLT,642,Romania,ROU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,216,,,,216,,433,,,4
+H1,2001,2001,2001,4,0,2,Export,470,Malta,MLT,643,Russian Federation,RUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,144,,,,144,,427,,,4
+H1,2001,2001,2001,4,0,1,Import,470,Malta,MLT,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8206,,,,8206,,27843,,,4
+H1,2001,2001,2001,4,0,1,Import,470,Malta,MLT,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,32347,,,,32347,,124955,,,4
+H1,2001,2001,2001,4,0,2,Export,470,Malta,MLT,752,Sweden,SWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12,,,,12,,107,,,4
+H1,2001,2001,2001,4,0,1,Import,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2345,,,,2345,,7925,,,4
+H1,2001,2001,2001,4,0,2,Export,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12,,,,12,,27,,,4
+H1,2001,2001,2001,4,0,1,Import,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,20105,,,,20105,,91391,,,4
+H1,2001,2001,2001,4,0,2,Export,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4811,,,,4811,,14945,,,4
+H1,2001,2001,2001,4,0,2,Export,470,Malta,MLT,837,Bunkers,,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2346,,,,2346,,8601,,,4
+H1,2001,2001,2001,4,0,1,Import,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8500,,,,8500,,45198,,,4
+H3,2007,2007,2007,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5083577,,,,5540264,,14049952,,,0
+H3,2007,2007,2007,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,101151,,,,180779,,593391,,,0
+H3,2007,2007,2007,4,0,1,Import,470,Malta,MLT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,55348,,,,57319,,225234,,,0
+H3,2007,2007,2007,4,0,1,Import,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,55981,,,,58072,,285128,,,0
+H3,2007,2007,2007,4,0,2,Export,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,120,,,,162,,508,,,0
+H3,2007,2007,2007,4,0,1,Import,470,Malta,MLT,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,20664,,,,10365,,47504,,,0
+H3,2007,2007,2007,4,0,1,Import,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18653,,,,19969,,125848,,,0
+H3,2007,2007,2007,4,0,2,Export,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,39,,,,39,,225,,,0
+H3,2007,2007,2007,4,0,1,Import,470,Malta,MLT,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,951,,,,1262,,3834,,,0
+H3,2007,2007,2007,4,0,1,Import,470,Malta,MLT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,230921,,,,256251,,861261,,,0
+H3,2007,2007,2007,4,0,2,Export,470,Malta,MLT,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,540,,,,1056,,4275,,,0
+H3,2007,2007,2007,4,0,1,Import,470,Malta,MLT,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1351,,,,1351,,4907,,,0
+H3,2007,2007,2007,4,0,1,Import,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,501438,,,,565037,,3270987,,,0
+H3,2007,2007,2007,4,0,1,Import,470,Malta,MLT,268,Georgia,GEO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,28,,,,17,,286,,,0
+H3,2007,2007,2007,4,0,1,Import,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,67841,,,,68543,,259743,,,0
+H3,2007,2007,2007,4,0,2,Export,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3717,,,,8260,,17194,,,0
+H3,2007,2007,2007,4,0,1,Import,470,Malta,MLT,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,540,,,,540,,3970,,,0
+H3,2007,2007,2007,4,0,1,Import,470,Malta,MLT,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4695,,,,6578,,7960,,,0
+H3,2007,2007,2007,4,0,1,Import,470,Malta,MLT,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,615,,,,1080,,2221,,,0
+H3,2007,2007,2007,4,0,1,Import,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3180117,,,,3452217,,6424916,,,0
+H3,2007,2007,2007,4,0,2,Export,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,108,,,,144,,6,,,0
+H3,2007,2007,2007,4,0,2,Export,470,Malta,MLT,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,900,,,,1660,,5388,,,0
+H3,2007,2007,2007,4,0,1,Import,470,Malta,MLT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4140,,,,4146,,23702,,,0
+H3,2007,2007,2007,4,0,2,Export,470,Malta,MLT,434,Libya,LBY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1123,,,,2032,,15153,,,0
+H3,2007,2007,2007,4,0,1,Import,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,45458,,,,44712,,210080,,,0
+H3,2007,2007,2007,4,0,2,Export,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,382,,,,748,,2245,,,0
+H3,2007,2007,2007,4,0,1,Import,470,Malta,MLT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1242,,,,1275,,12735,,,0
+H3,2007,2007,2007,4,0,1,Import,470,Malta,MLT,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,14391,,,,14391,,35180,,,0
+H3,2007,2007,2007,4,0,1,Import,470,Malta,MLT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,95510,,,,151983,,336167,,,0
+H3,2007,2007,2007,4,0,1,Import,470,Malta,MLT,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,549,,,,549,,4102,,,0
+H3,2007,2007,2007,4,0,1,Import,470,Malta,MLT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,61177,,,,61862,,170321,,,0
+H3,2007,2007,2007,4,0,1,Import,470,Malta,MLT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,516495,,,,539252,,849390,,,0
+H3,2007,2007,2007,4,0,2,Export,470,Malta,MLT,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6669,,,,11412,,41218,,,0
+H3,2007,2007,2007,4,0,1,Import,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,31963,,,,32024,,85063,,,0
+H3,2007,2007,2007,4,0,2,Export,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,474,,,,838,,4638,,,0
+H3,2007,2007,2007,4,0,2,Export,470,Malta,MLT,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,90,,,,90,,1299,,,0
+H3,2007,2007,2007,4,0,2,Export,470,Malta,MLT,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3334,,,,5199,,37962,,,0
+H3,2007,2007,2007,4,0,1,Import,470,Malta,MLT,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10550,,,,10550,,2833,,,0
+H3,2007,2007,2007,4,0,1,Import,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,142919,,,,160339,,713755,,,0
+H3,2007,2007,2007,4,0,2,Export,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,81754,,,,146627,,453016,,,0
+H3,2007,2007,2007,4,0,1,Import,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,20041,,,,20580,,82825,,,0
+H3,2007,2007,2007,4,0,2,Export,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1901,,,,2512,,10264,,,0
+H3,2008,2008,2008,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6412177,,,,6759057,,18634768,,,0
+H3,2008,2008,2008,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,68340,,,,77425,,555959,,,0
+H3,2008,2008,2008,4,0,1,Import,470,Malta,MLT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,59722,,,,62126,,193565,,,0
+H3,2008,2008,2008,4,0,1,Import,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,37177,,,,38685,,201734,,,0
+H3,2008,2008,2008,4,0,1,Import,470,Malta,MLT,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,32464,,,,27640,,55096,,,0
+H3,2008,2008,2008,4,0,1,Import,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,29010,,,,29908,,173920,,,0
+H3,2008,2008,2008,4,0,2,Export,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,297,,,,377,,2023,,,0
+H3,2008,2008,2008,4,0,1,Import,470,Malta,MLT,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1496,,,,1496,,4740,,,0
+H3,2008,2008,2008,4,0,1,Import,470,Malta,MLT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,262142,,,,279439,,947471,,,0
+H3,2008,2008,2008,4,0,1,Import,470,Malta,MLT,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,25675,,,,25675,,16818,,,0
+H3,2008,2008,2008,4,0,1,Import,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,693248,,,,747697,,4496314,,,0
+H3,2008,2008,2008,4,0,2,Export,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,378,,,,654,,1159,,,0
+H3,2008,2008,2008,4,0,1,Import,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,63247,,,,66231,,279152,,,0
+H3,2008,2008,2008,4,0,2,Export,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,216,,,,335,,1162,,,0
+H3,2008,2008,2008,4,0,1,Import,470,Malta,MLT,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2840,,,,2840,,8700,,,0
+H3,2008,2008,2008,4,0,1,Import,470,Malta,MLT,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,45,,,,45,,204,,,0
+H3,2008,2008,2008,4,0,1,Import,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4345754,,,,4510666,,9526532,,,0
+H3,2008,2008,2008,4,0,2,Export,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,52276,,,,52636,,162942,,,0
+H3,2008,2008,2008,4,0,1,Import,470,Malta,MLT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7191,,,,7191,,44413,,,0
+H3,2008,2008,2008,4,0,1,Import,470,Malta,MLT,428,Latvia,LVA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7021,,,,7021,,24966,,,0
+H3,2008,2008,2008,4,0,1,Import,470,Malta,MLT,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,540,,,,540,,4876,,,0
+H3,2008,2008,2008,4,0,1,Import,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,45305,,,,72619,,190421,,,0
+H3,2008,2008,2008,4,0,2,Export,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8121,,,,11588,,151524,,,0
+H3,2008,2008,2008,4,0,1,Import,470,Malta,MLT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1182,,,,1182,,11066,,,0
+H3,2008,2008,2008,4,0,2,Export,470,Malta,MLT,579,Norway,NOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,480,,,,720,,3704,,,0
+H3,2008,2008,2008,4,0,1,Import,470,Malta,MLT,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4536,,,,4536,,9389,,,0
+H3,2008,2008,2008,4,0,1,Import,470,Malta,MLT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,90770,,,,103056,,368793,,,0
+H3,2008,2008,2008,4,0,1,Import,470,Malta,MLT,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6440,,,,6440,,31912,,,0
+H3,2008,2008,2008,4,0,1,Import,470,Malta,MLT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,108307,,,,106576,,361200,,,0
+H3,2008,2008,2008,4,0,1,Import,470,Malta,MLT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,433594,,,,499370,,881532,,,0
+H3,2008,2008,2008,4,0,2,Export,470,Malta,MLT,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,513,,,,513,,10256,,,0
+H3,2008,2008,2008,4,0,1,Import,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,135,,,,137,,15017,,,0
+H3,2008,2008,2008,4,0,1,Import,470,Malta,MLT,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1241,,,,491,,5693,,,0
+H3,2008,2008,2008,4,0,2,Export,470,Malta,MLT,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3683,,,,6597,,53886,,,0
+H3,2008,2008,2008,4,0,2,Export,470,Malta,MLT,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,360,,,,400,,1042,,,0
+H3,2008,2008,2008,4,0,1,Import,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,128819,,,,130648,,650729,,,0
+H3,2008,2008,2008,4,0,2,Export,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1716,,,,3480,,168188,,,0
+H3,2008,2008,2008,4,0,1,Import,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,23341,,,,25802,,126954,,,0
+H3,2008,2008,2008,4,0,2,Export,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,300,,,,125,,74,,,0
+H3,2008,2008,2008,4,0,1,Import,470,Malta,MLT,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,935,,,,1000,,3560,,,0
+H3,2009,2009,2009,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5821288,,,,5653210,,16556654,,,0
+H3,2009,2009,2009,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,20270,,,,36569,,539526,,,0
+H3,2009,2009,2009,4,0,1,Import,470,Malta,MLT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,54036,,,,54550,,195627,,,0
+H3,2009,2009,2009,4,0,1,Import,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,69860,,,,76460,,349828,,,0
+H3,2009,2009,2009,4,0,2,Export,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,672,,,,900,,2740,,,0
+H3,2009,2009,2009,4,0,1,Import,470,Malta,MLT,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8043,,,,3918,,17514,,,0
+H3,2009,2009,2009,4,0,1,Import,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15342,,,,17937,,97938,,,0
+H3,2009,2009,2009,4,0,1,Import,470,Malta,MLT,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4932,,,,4588,,22835,,,0
+H3,2009,2009,2009,4,0,1,Import,470,Malta,MLT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,378916,,,,426317,,1239944,,,0
+H3,2009,2009,2009,4,0,2,Export,470,Malta,MLT,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,126,,,,240,,762,,,0
+H3,2009,2009,2009,4,0,1,Import,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,675480,,,,714386,,3844361,,,0
+H3,2009,2009,2009,4,0,2,Export,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,359,,,,684,,2213,,,0
+H3,2009,2009,2009,4,0,1,Import,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,88027,,,,87876,,315517,,,0
+H3,2009,2009,2009,4,0,2,Export,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,193,,,,193,,1546,,,0
+H3,2009,2009,2009,4,0,2,Export,470,Malta,MLT,292,Gibraltar,GIB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9,,,,95,,35,,,0
+H3,2009,2009,2009,4,0,1,Import,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3697797,,,,3390729,,8254456,,,0
+H3,2009,2009,2009,4,0,2,Export,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,979,,,,1210,,3702,,,0
+H3,2009,2009,2009,4,0,2,Export,470,Malta,MLT,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,39,,,,45,,1100,,,0
+H3,2009,2009,2009,4,0,1,Import,470,Malta,MLT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1193,,,,1809,,7087,,,0
+H3,2009,2009,2009,4,0,1,Import,470,Malta,MLT,428,Latvia,LVA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2469,,,,2469,,7644,,,0
+H3,2009,2009,2009,4,0,1,Import,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,49058,,,,59221,,139307,,,0
+H3,2009,2009,2009,4,0,2,Export,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5816,,,,12278,,156677,,,0
+H3,2009,2009,2009,4,0,1,Import,470,Malta,MLT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1451,,,,2300,,10559,,,0
+H3,2009,2009,2009,4,0,1,Import,470,Malta,MLT,568,"Other Europe, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,31700,,,,31700,,18792,,,0
+H3,2009,2009,2009,4,0,2,Export,470,Malta,MLT,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2133,,,,4020,,17532,,,0
+H3,2009,2009,2009,4,0,1,Import,470,Malta,MLT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,58978,,,,72656,,188681,,,0
+H3,2009,2009,2009,4,0,1,Import,470,Malta,MLT,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1278,,,,1278,,2457,,,0
+H3,2009,2009,2009,4,0,2,Export,470,Malta,MLT,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,113,,,,113,,3365,,,0
+H3,2009,2009,2009,4,0,1,Import,470,Malta,MLT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,129995,,,,130468,,459992,,,0
+H3,2009,2009,2009,4,0,1,Import,470,Malta,MLT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,385645,,,,402328,,717699,,,0
+H3,2009,2009,2009,4,0,2,Export,470,Malta,MLT,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6939,,,,11945,,42136,,,0
+H3,2009,2009,2009,4,0,1,Import,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,160,,,,145,,24264,,,0
+H3,2009,2009,2009,4,0,2,Export,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,32,,,,32,,465,,,0
+H3,2009,2009,2009,4,0,2,Export,470,Malta,MLT,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,85,,,,121,,1501,,,0
+H3,2009,2009,2009,4,0,2,Export,470,Malta,MLT,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,384,,,,675,,1783,,,0
+H3,2009,2009,2009,4,0,1,Import,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,157230,,,,161748,,592692,,,0
+H3,2009,2009,2009,4,0,2,Export,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,879,,,,2506,,284291,,,0
+H3,2009,2009,2009,4,0,1,Import,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9698,,,,10327,,49461,,,0
+H3,2009,2009,2009,4,0,2,Export,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1512,,,,1512,,19678,,,0
+H2,2005,2005,2005,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3093090,,,,3503315,,10751886,,,2
+H2,2005,2005,2005,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,50106,,,,26000,,823624,,,0
+H2,2005,2005,2005,4,0,1,Import,470,Malta,MLT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9629,,,,11255,,36351,,,0
+H2,2005,2005,2005,4,0,1,Import,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,26501,,,,26502,,132119,,,0
+H2,2005,2005,2005,4,0,1,Import,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14847,,,,18332,,120695,,,0
+H2,2005,2005,2005,4,0,2,Export,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36,,,,36,,61,,,0
+H2,2005,2005,2005,4,0,1,Import,470,Malta,MLT,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3726,,,,4351,,11305,,,0
+H2,2005,2005,2005,4,0,2,Export,470,Malta,MLT,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,50,,,,50,,722,,,0
+H2,2005,2005,2005,4,0,1,Import,470,Malta,MLT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,153848,,,,161436,,457074,,,0
+H2,2005,2005,2005,4,0,2,Export,470,Malta,MLT,188,Costa Rica,CRI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,40,,,,40,,181,,,0
+H2,2005,2005,2005,4,0,1,Import,470,Malta,MLT,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3600,,,,5490,,4993,,,0
+H2,2005,2005,2005,4,0,1,Import,470,Malta,MLT,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,450,,,,865,,2770,,,0
+H2,2005,2005,2005,4,0,2,Export,470,Malta,MLT,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,960,,,,720,,6332,,,0
+H2,2005,2005,2005,4,0,1,Import,470,Malta,MLT,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,720,,,,270,,6132,,,0
+H2,2005,2005,2005,4,0,1,Import,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,601739,,,,701999,,3453998,,,2
+H2,2005,2005,2005,4,0,1,Import,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,44884,,,,48284,,149972,,,0
+H2,2005,2005,2005,4,0,2,Export,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6480,,,,6792,,34717,,,0
+H2,2005,2005,2005,4,0,1,Import,470,Malta,MLT,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4883,,,,6392,,10019,,,0
+H2,2005,2005,2005,4,0,1,Import,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1621571,,,,1829557,,4428407,,,0
+H2,2005,2005,2005,4,0,2,Export,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,909,,,,909,,13726,,,0
+H2,2005,2005,2005,4,0,2,Export,470,Malta,MLT,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,25,,,,25,,144,,,0
+H2,2005,2005,2005,4,0,1,Import,470,Malta,MLT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1587,,,,1925,,10462,,,0
+H2,2005,2005,2005,4,0,1,Import,470,Malta,MLT,498,Rep. of Moldova,MDA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,67,,,,115,,1121,,,0
+H2,2005,2005,2005,4,0,1,Import,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2399,,,,3354,,11516,,,0
+H2,2005,2005,2005,4,0,2,Export,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,562,,,,562,,7124,,,0
+H2,2005,2005,2005,4,0,1,Import,470,Malta,MLT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3195,,,,3197,,26863,,,0
+H2,2005,2005,2005,4,0,1,Import,470,Malta,MLT,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11745,,,,11745,,22393,,,0
+H2,2005,2005,2005,4,0,1,Import,470,Malta,MLT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,97646,,,,112876,,369007,,,2
+H2,2005,2005,2005,4,0,1,Import,470,Malta,MLT,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1125,,,,1850,,2166,,,0
+H2,2005,2005,2005,4,0,1,Import,470,Malta,MLT,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6570,,,,6570,,26301,,,0
+H2,2005,2005,2005,4,0,1,Import,470,Malta,MLT,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4951,,,,5674,,28151,,,0
+H2,2005,2005,2005,4,0,1,Import,470,Malta,MLT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21628,,,,21641,,85560,,,0
+H2,2005,2005,2005,4,0,1,Import,470,Malta,MLT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,337832,,,,371016,,697790,,,0
+H2,2005,2005,2005,4,0,2,Export,470,Malta,MLT,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,108,,,,108,,1739,,,0
+H2,2005,2005,2005,4,0,1,Import,470,Malta,MLT,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1215,,,,2242,,4269,,,0
+H2,2005,2005,2005,4,0,1,Import,470,Malta,MLT,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,19,,69,,,0
+H2,2005,2005,2005,4,0,2,Export,470,Malta,MLT,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1161,,,,1161,,5009,,,0
+H2,2005,2005,2005,4,0,1,Import,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,100144,,,,129513,,565774,,,0
+H2,2005,2005,2005,4,0,2,Export,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,39745,,,,15567,,753677,,,0
+H2,2005,2005,2005,4,0,1,Import,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16581,,,,16845,,86609,,,0
+H2,2005,2005,2005,4,0,2,Export,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,30,,,,30,,191,,,0
+H2,2006,2006,2006,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3336655,,,,3726805,,11515152,,,0
+H2,2006,2006,2006,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,135313,,,,49429,,385076,,,2
+H2,2006,2006,2006,4,0,1,Import,470,Malta,MLT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13410,,,,13411,,35346,,,0
+H2,2006,2006,2006,4,0,1,Import,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15407,,,,15443,,86865,,,0
+H2,2006,2006,2006,4,0,1,Import,470,Malta,MLT,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1565,,,,867,,4982,,,0
+H2,2006,2006,2006,4,0,1,Import,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11977,,,,13533,,92249,,,0
+H2,2006,2006,2006,4,0,1,Import,470,Malta,MLT,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13,,,,28,,238,,,0
+H2,2006,2006,2006,4,0,1,Import,470,Malta,MLT,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1760,,,,3112,,6118,,,0
+H2,2006,2006,2006,4,0,1,Import,470,Malta,MLT,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19,,,,25,,179,,,0
+H2,2006,2006,2006,4,0,2,Export,470,Malta,MLT,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12,,,,30,,33,,,0
+H2,2006,2006,2006,4,0,1,Import,470,Malta,MLT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,153858,,,,170840,,527354,,,0
+H2,2006,2006,2006,4,0,2,Export,470,Malta,MLT,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18,,,,32,,520,,,0
+H2,2006,2006,2006,4,0,2,Export,470,Malta,MLT,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,954,,,,1470,,7961,,,0
+H2,2006,2006,2006,4,0,1,Import,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,533707,,,,621853,,3385088,,,0
+H2,2006,2006,2006,4,0,2,Export,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,256,,,,510,,1528,,,0
+H2,2006,2006,2006,4,0,1,Import,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,48704,,,,55802,,156012,,,0
+H2,2006,2006,2006,4,0,2,Export,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6495,,,,9110,,22703,,,0
+H2,2006,2006,2006,4,0,1,Import,470,Malta,MLT,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,540,,,,540,,3428,,,0
+H2,2006,2006,2006,4,0,1,Import,470,Malta,MLT,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2929,,,,5275,,5101,,,0
+H2,2006,2006,2006,4,0,1,Import,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1714596,,,,1866417,,4852588,,,0
+H2,2006,2006,2006,4,0,1,Import,470,Malta,MLT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2556,,,,2873,,15607,,,0
+H2,2006,2006,2006,4,0,1,Import,470,Malta,MLT,498,Rep. of Moldova,MDA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36,,,,80,,587,,,0
+H2,2006,2006,2006,4,0,1,Import,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22412,,,,24770,,113688,,,0
+H2,2006,2006,2006,4,0,2,Export,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,868,,,,1674,,3997,,,0
+H2,2006,2006,2006,4,0,1,Import,470,Malta,MLT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1346,,,,1348,,12355,,,0
+H2,2006,2006,2006,4,0,2,Export,470,Malta,MLT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,180,,,,400,,3500,,,0
+H2,2006,2006,2006,4,0,1,Import,470,Malta,MLT,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4554,,,,8320,,7864,,,0
+H2,2006,2006,2006,4,0,1,Import,470,Malta,MLT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,115723,,,,171311,,512611,,,0
+H2,2006,2006,2006,4,0,1,Import,470,Malta,MLT,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8,,,,16,,170,,,0
+H2,2006,2006,2006,4,0,1,Import,470,Malta,MLT,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1770,,,,1770,,10586,,,0
+H2,2006,2006,2006,4,0,1,Import,470,Malta,MLT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,60844,,,,71720,,136668,,,0
+H2,2006,2006,2006,4,0,1,Import,470,Malta,MLT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,481005,,,,517244,,796755,,,0
+H2,2006,2006,2006,4,0,1,Import,470,Malta,MLT,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,360,,,,360,,1391,,,0
+H2,2006,2006,2006,4,0,2,Export,470,Malta,MLT,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2565,,,,5016,,15555,,,0
+H2,2006,2006,2006,4,0,1,Import,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,70,,,,129,,537,,,0
+H2,2006,2006,2006,4,0,2,Export,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1617,,,,2506,,7386,,,2
+H2,2006,2006,2006,4,0,1,Import,470,Malta,MLT,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2688,,,,2725,,3864,,,0
+H2,2006,2006,2006,4,0,1,Import,470,Malta,MLT,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,77,,,,76,,1007,,,0
+H2,2006,2006,2006,4,0,2,Export,470,Malta,MLT,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1627,,,,121,,1479,,,0
+H2,2006,2006,2006,4,0,2,Export,470,Malta,MLT,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,870,,,,1500,,11755,,,0
+H2,2006,2006,2006,4,0,2,Export,470,Malta,MLT,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,110978,,,,486,,152230,,,2
+H2,2006,2006,2006,4,0,1,Import,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,127018,,,,138286,,625575,,,0
+H2,2006,2006,2006,4,0,2,Export,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8873,,,,26574,,156429,,,0
+H2,2006,2006,2006,4,0,1,Import,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17705,,,,18631,,120338,,,0
+H4,2012,2012,2012,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5202110,,,,5473666,,16357213,,,2
+H4,2012,2012,2012,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,65602,,,,86532,,1152611,,,0
+H4,2012,2012,2012,4,0,1,Import,470,Malta,MLT,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12,,,,17,,184,,,0
+H4,2012,2012,2012,4,0,1,Import,470,Malta,MLT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,63658,,,,64563,,227976,,,0
+H4,2012,2012,2012,4,0,1,Import,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,57920,,,,70427,,391976,,,0
+H4,2012,2012,2012,4,0,2,Export,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13645,,,,15365,,93469,,,0
+H4,2012,2012,2012,4,0,1,Import,470,Malta,MLT,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5786,,,,6118,,32407,,,0
+H4,2012,2012,2012,4,0,1,Import,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14577,,,,15591,,89746,,,0
+H4,2012,2012,2012,4,0,1,Import,470,Malta,MLT,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1260,,,,1260,,4605,,,0
+H4,2012,2012,2012,4,0,1,Import,470,Malta,MLT,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4,,,,23,,466,,,0
+H4,2012,2012,2012,4,0,2,Export,470,Malta,MLT,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24,,,,20,,51,,,0
+H4,2012,2012,2012,4,0,1,Import,470,Malta,MLT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,377847,,,,394283,,1269028,,,2
+H4,2012,2012,2012,4,0,2,Export,470,Malta,MLT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,37877,,,,45975,,326773,,,0
+H4,2012,2012,2012,4,0,1,Import,470,Malta,MLT,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15066,,,,15066,,33704,,,0
+H4,2012,2012,2012,4,0,1,Import,470,Malta,MLT,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,495,,,,495,,23584,,,0
+H4,2012,2012,2012,4,0,1,Import,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,690268,,,,757642,,4102757,,,0
+H4,2012,2012,2012,4,0,1,Import,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,145683,,,,153688,,463099,,,0
+H4,2012,2012,2012,4,0,2,Export,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,207,,,,445,,1804,,,0
+H4,2012,2012,2012,4,0,2,Export,470,Malta,MLT,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,159,,,,196,,27026,,,0
+H4,2012,2012,2012,4,0,1,Import,470,Malta,MLT,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,540,,,,540,,4264,,,0
+H4,2012,2012,2012,4,0,1,Import,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3127235,,,,3200354,,7441089,,,0
+H4,2012,2012,2012,4,0,2,Export,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,668,,,,1200,,5058,,,0
+H4,2012,2012,2012,4,0,1,Import,470,Malta,MLT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5525,,,,5584,,45404,,,0
+H4,2012,2012,2012,4,0,1,Import,470,Malta,MLT,499,Montenegro,MNE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13,,,,14,,179,,,0
+H4,2012,2012,2012,4,0,1,Import,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,59018,,,,76158,,362308,,,0
+H4,2012,2012,2012,4,0,2,Export,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10340,,,,19254,,379660,,,0
+H4,2012,2012,2012,4,0,1,Import,470,Malta,MLT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6425,,,,7107,,65707,,,0
+H4,2012,2012,2012,4,0,1,Import,470,Malta,MLT,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,29,,,,181,,396,,,0
+H4,2012,2012,2012,4,0,1,Import,470,Malta,MLT,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90,,,,90,,1623,,,0
+H4,2012,2012,2012,4,0,1,Import,470,Malta,MLT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,49973,,,,81790,,220200,,,0
+H4,2012,2012,2012,4,0,2,Export,470,Malta,MLT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,97,,,,97,,99430,,,0
+H4,2012,2012,2012,4,0,1,Import,470,Malta,MLT,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13,,,,56,,1736,,,0
+H4,2012,2012,2012,4,0,1,Import,470,Malta,MLT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,179346,,,,180016,,603307,,,0
+H4,2012,2012,2012,4,0,1,Import,470,Malta,MLT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,284624,,,,316323,,423639,,,0
+H4,2012,2012,2012,4,0,1,Import,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,166,,,,169,,5643,,,0
+H4,2012,2012,2012,4,0,2,Export,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,153,,,,270,,815,,,0
+H4,2012,2012,2012,4,0,2,Export,470,Malta,MLT,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1364,,,,1436,,13217,,,0
+H4,2012,2012,2012,4,0,2,Export,470,Malta,MLT,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,144,,,,150,,128,,,0
+H4,2012,2012,2012,4,0,1,Import,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,110788,,,,118932,,507361,,,0
+H4,2012,2012,2012,4,0,2,Export,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,805,,,,1929,,192820,,,0
+H4,2012,2012,2012,4,0,2,Export,470,Malta,MLT,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,71,,,,125,,12294,,,0
+H4,2012,2012,2012,4,0,1,Import,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4105,,,,4131,,23464,,,0
+H4,2012,2012,2012,4,0,2,Export,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,48,,,,70,,64,,,0
+H4,2012,2012,2012,4,0,1,Import,470,Malta,MLT,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,540,,,,1129,,4644,,,0
+H4,2012,2012,2012,4,0,1,Import,470,Malta,MLT,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1104,,,,1920,,6717,,,0
+H4,2013,2013,2013,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4838782,,,,4958037,,18242509,,,0
+H4,2013,2013,2013,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,35102,,,,50315,,1126394,,,0
+H4,2013,2013,2013,4,0,1,Import,470,Malta,MLT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,56926,,,,57139,,247944,,,0
+H4,2013,2013,2013,4,0,1,Import,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,21360,,,,21362,,132095,,,0
+H4,2013,2013,2013,4,0,2,Export,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1094,,,,4030,,137158,,,0
+H4,2013,2013,2013,4,0,1,Import,470,Malta,MLT,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,495,,,,495,,3206,,,0
+H4,2013,2013,2013,4,0,1,Import,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18830,,,,18830,,122019,,,0
+H4,2013,2013,2013,4,0,1,Import,470,Malta,MLT,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2988,,,,2988,,9380,,,0
+H4,2013,2013,2013,4,0,1,Import,470,Malta,MLT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,449799,,,,451304,,1459486,,,0
+H4,2013,2013,2013,4,0,2,Export,470,Malta,MLT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14088,,,,19998,,77983,,,0
+H4,2013,2013,2013,4,0,1,Import,470,Malta,MLT,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,563,,,,563,,2085,,,0
+H4,2013,2013,2013,4,0,1,Import,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,702933,,,,741556,,4901250,,,0
+H4,2013,2013,2013,4,0,1,Import,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,112968,,,,115967,,465890,,,0
+H4,2013,2013,2013,4,0,2,Export,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,444,,,,779,,5780,,,0
+H4,2013,2013,2013,4,0,2,Export,470,Malta,MLT,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,176,,,,479,,256,,,0
+H4,2013,2013,2013,4,0,1,Import,470,Malta,MLT,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,684,,,,672,,6755,,,0
+H4,2013,2013,2013,4,0,1,Import,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2628693,,,,2689402,,8101004,,,0
+H4,2013,2013,2013,4,0,2,Export,470,Malta,MLT,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1094,,,,1386,,10943,,,0
+H4,2013,2013,2013,4,0,1,Import,470,Malta,MLT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3742,,,,5294,,38818,,,0
+H4,2013,2013,2013,4,0,1,Import,470,Malta,MLT,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,904,,,,904,,6410,,,0
+H4,2013,2013,2013,4,0,1,Import,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,27088,,,,27088,,267257,,,0
+H4,2013,2013,2013,4,0,2,Export,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12859,,,,13800,,506516,,,0
+H4,2013,2013,2013,4,0,1,Import,470,Malta,MLT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5782,,,,7178,,74705,,,0
+H4,2013,2013,2013,4,0,2,Export,470,Malta,MLT,579,Norway,NOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24,,,,40,,352,,,0
+H4,2013,2013,2013,4,0,2,Export,470,Malta,MLT,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,742,,,,1356,,8109,,,0
+H4,2013,2013,2013,4,0,1,Import,470,Malta,MLT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,61674,,,,82286,,262078,,,0
+H4,2013,2013,2013,4,0,2,Export,470,Malta,MLT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,21,,,,20,,7544,,,0
+H4,2013,2013,2013,4,0,1,Import,470,Malta,MLT,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10,,,,20,,241,,,0
+H4,2013,2013,2013,4,0,1,Import,470,Malta,MLT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,282302,,,,283095,,987236,,,0
+H4,2013,2013,2013,4,0,1,Import,470,Malta,MLT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,306361,,,,294894,,396520,,,0
+H4,2013,2013,2013,4,0,2,Export,470,Malta,MLT,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3213,,,,5925,,20505,,,0
+H4,2013,2013,2013,4,0,1,Import,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7650,,,,7658,,24822,,,0
+H4,2013,2013,2013,4,0,2,Export,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7,,,,15,,66,,,0
+H4,2013,2013,2013,4,0,1,Import,470,Malta,MLT,760,Syria,SYR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,216,,,,1346,,5714,,,0
+H4,2013,2013,2013,4,0,2,Export,470,Malta,MLT,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,26,,,,194,,4891,,,0
+H4,2013,2013,2013,4,0,2,Export,470,Malta,MLT,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12,,,,140,,133,,,0
+H4,2013,2013,2013,4,0,1,Import,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,146210,,,,147352,,721228,,,0
+H4,2013,2013,2013,4,0,2,Export,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,764,,,,1756,,340265,,,0
+H4,2013,2013,2013,4,0,1,Import,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,47,,,,75,,1085,,,0
+H4,2013,2013,2013,4,0,2,Export,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,538,,,,398,,5892,,,0
+H4,2013,2013,2013,4,0,1,Import,470,Malta,MLT,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,539,,,,540,,5254,,,0
+H4,2013,2013,2013,4,0,1,Import,470,Malta,MLT,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18,,,,30,,24,,,0
+H4,2014,2014,2014,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5733829,,,,6525324,,20572561,,,2
+H4,2014,2014,2014,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20478,,,,27785,,1105549,,,4
+H4,2014,2014,2014,4,0,1,Import,470,Malta,MLT,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2286,,,,2286,,9303,,,0
+H4,2014,2014,2014,4,0,1,Import,470,Malta,MLT,31,Azerbaijan,AZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25,,,,25,,430,,,0
+H4,2014,2014,2014,4,0,2,Export,470,Malta,MLT,31,Azerbaijan,AZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,62,,,,75,,985,,,0
+H4,2014,2014,2014,4,0,1,Import,470,Malta,MLT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,31819,,,,31835,,132261,,,0
+H4,2014,2014,2014,4,0,1,Import,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20380,,,,20381,,111677,,,0
+H4,2014,2014,2014,4,0,2,Export,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90,,,,90,,746,,,0
+H4,2014,2014,2014,4,0,1,Import,470,Malta,MLT,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1174,,,,1174,,10144,,,0
+H4,2014,2014,2014,4,0,1,Import,470,Malta,MLT,48,Bahrain,BHR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15,,,,15,,443,,,0
+H4,2014,2014,2014,4,0,1,Import,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8674,,,,8655,,57445,,,0
+H4,2014,2014,2014,4,0,1,Import,470,Malta,MLT,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,374,,,,374,,1488,,,0
+H4,2014,2014,2014,4,0,1,Import,470,Malta,MLT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,457909,,,,458017,,1505128,,,0
+H4,2014,2014,2014,4,0,1,Import,470,Malta,MLT,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8283,,,,8283,,10198,,,0
+H4,2014,2014,2014,4,0,2,Export,470,Malta,MLT,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,68,,,,1217,,1620,,,0
+H4,2014,2014,2014,4,0,2,Export,470,Malta,MLT,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,115,,,,115,,389,,,0
+H4,2014,2014,2014,4,0,1,Import,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,627449,,,,692932,,4916683,,,0
+H4,2014,2014,2014,4,0,1,Import,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,140739,,,,142587,,523394,,,0
+H4,2014,2014,2014,4,0,2,Export,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,185,,,,185,,1108,,,4
+H4,2014,2014,2014,4,0,2,Export,470,Malta,MLT,292,Gibraltar,GIB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24,,,,32,,23483,,,0
+H4,2014,2014,2014,4,0,1,Import,470,Malta,MLT,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1801,,,,1801,,17403,,,0
+H4,2014,2014,2014,4,0,1,Import,470,Malta,MLT,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1476,,,,2661,,8485,,,0
+H4,2014,2014,2014,4,0,1,Import,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3036922,,,,3499519,,9832193,,,0
+H4,2014,2014,2014,4,0,2,Export,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,180,,,,320,,1030,,,0
+H4,2014,2014,2014,4,0,1,Import,470,Malta,MLT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4262,,,,4277,,41732,,,0
+H4,2014,2014,2014,4,0,1,Import,470,Malta,MLT,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,895,,,,895,,7100,,,0
+H4,2014,2014,2014,4,0,1,Import,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36512,,,,36511,,312547,,,0
+H4,2014,2014,2014,4,0,2,Export,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17648,,,,22082,,713546,,,0
+H4,2014,2014,2014,4,0,1,Import,470,Malta,MLT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4149,,,,4149,,54529,,,0
+H4,2014,2014,2014,4,0,2,Export,470,Malta,MLT,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,404,,,,750,,3367,,,0
+H4,2014,2014,2014,4,0,1,Import,470,Malta,MLT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,39078,,,,60905,,219426,,,0
+H4,2014,2014,2014,4,0,2,Export,470,Malta,MLT,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,168,,,,168,,559,,,0
+H4,2014,2014,2014,4,0,2,Export,470,Malta,MLT,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,84,,,,84,,554,,,0
+H4,2014,2014,2014,4,0,1,Import,470,Malta,MLT,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,27,,,,27,,224,,,0
+H4,2014,2014,2014,4,0,1,Import,470,Malta,MLT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,270711,,,,271796,,960983,,,0
+H4,2014,2014,2014,4,0,1,Import,470,Malta,MLT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,872292,,,,1015789,,921156,,,0
+H4,2014,2014,2014,4,0,1,Import,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24,,,,40,,2445,,,0
+H4,2014,2014,2014,4,0,2,Export,470,Malta,MLT,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,400,,,,482,,4381,,,0
+H4,2014,2014,2014,4,0,1,Import,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,162941,,,,256767,,894336,,,0
+H4,2014,2014,2014,4,0,2,Export,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,923,,,,2058,,345312,,,0
+H4,2014,2014,2014,4,0,2,Export,470,Malta,MLT,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,127,,,,127,,8469,,,0
+H4,2014,2014,2014,4,0,1,Import,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3608,,,,3610,,20153,,,0
+H4,2014,2014,2014,4,0,1,Import,470,Malta,MLT,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4,,,,15,,1257,,,2
+H3,2010,2010,2010,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5526147,,,,5500095,,15860677,,,0
+H3,2010,2010,2010,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,21812,,,,45598,,690865,,,0
+H3,2010,2010,2010,4,0,1,Import,470,Malta,MLT,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,11475,,,,11475,,23620,,,0
+H3,2010,2010,2010,4,0,1,Import,470,Malta,MLT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,87078,,,,94079,,302340,,,0
+H3,2010,2010,2010,4,0,1,Import,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,50604,,,,51328,,254438,,,0
+H3,2010,2010,2010,4,0,2,Export,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,48,,,,74,,1633,,,0
+H3,2010,2010,2010,4,0,1,Import,470,Malta,MLT,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4712,,,,4586,,9458,,,0
+H3,2010,2010,2010,4,0,1,Import,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,20480,,,,20480,,115549,,,0
+H3,2010,2010,2010,4,0,2,Export,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,21,,,,42,,159,,,0
+H3,2010,2010,2010,4,0,1,Import,470,Malta,MLT,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3025,,,,3025,,14073,,,0
+H3,2010,2010,2010,4,0,1,Import,470,Malta,MLT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,369264,,,,399971,,1217430,,,0
+H3,2010,2010,2010,4,0,2,Export,470,Malta,MLT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5772,,,,14700,,54989,,,0
+H3,2010,2010,2010,4,0,1,Import,470,Malta,MLT,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2238,,,,2238,,13245,,,0
+H3,2010,2010,2010,4,0,1,Import,470,Malta,MLT,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,638,,,,638,,558,,,0
+H3,2010,2010,2010,4,0,1,Import,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,609676,,,,654905,,3576143,,,0
+H3,2010,2010,2010,4,0,2,Export,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,135,,,,259,,119,,,0
+H3,2010,2010,2010,4,0,1,Import,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,84371,,,,86108,,342632,,,0
+H3,2010,2010,2010,4,0,2,Export,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,347,,,,326,,2158,,,0
+H3,2010,2010,2010,4,0,2,Export,470,Malta,MLT,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,227,,,,233,,4511,,,0
+H3,2010,2010,2010,4,0,1,Import,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3429818,,,,3286845,,7467653,,,0
+H3,2010,2010,2010,4,0,1,Import,470,Malta,MLT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5292,,,,5308,,42690,,,0
+H3,2010,2010,2010,4,0,1,Import,470,Malta,MLT,428,Latvia,LVA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2400,,,,2400,,16984,,,0
+H3,2010,2010,2010,4,0,1,Import,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,55660,,,,55915,,288055,,,0
+H3,2010,2010,2010,4,0,2,Export,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7433,,,,19451,,365160,,,0
+H3,2010,2010,2010,4,0,1,Import,470,Malta,MLT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1665,,,,2441,,16688,,,0
+H3,2010,2010,2010,4,0,2,Export,470,Malta,MLT,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3240,,,,4375,,17266,,,0
+H3,2010,2010,2010,4,0,1,Import,470,Malta,MLT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,62528,,,,76760,,218296,,,0
+H3,2010,2010,2010,4,0,1,Import,470,Malta,MLT,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3072,,,,3072,,2583,,,0
+H3,2010,2010,2010,4,0,1,Import,470,Malta,MLT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,116351,,,,119269,,371329,,,0
+H3,2010,2010,2010,4,0,1,Import,470,Malta,MLT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,446030,,,,454904,,679593,,,0
+H3,2010,2010,2010,4,0,2,Export,470,Malta,MLT,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2565,,,,2565,,14626,,,0
+H3,2010,2010,2010,4,0,1,Import,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,608,,,,768,,31818,,,0
+H3,2010,2010,2010,4,0,2,Export,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2,,,,2,,34,,,0
+H3,2010,2010,2010,4,0,2,Export,470,Malta,MLT,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,288,,,,295,,751,,,0
+H3,2010,2010,2010,4,0,1,Import,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,157259,,,,160407,,842717,,,0
+H3,2010,2010,2010,4,0,2,Export,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1734,,,,3276,,229458,,,0
+H3,2010,2010,2010,4,0,1,Import,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1273,,,,1879,,7674,,,0
+H3,2010,2010,2010,4,0,1,Import,470,Malta,MLT,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,630,,,,1295,,5112,,,0
+H3,2011,2011,2011,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5590401,,,,5756920,,15868068,,,4
+H3,2011,2011,2011,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,77600,,,,87653,,1201792,,,0
+H3,2011,2011,2011,4,0,1,Import,470,Malta,MLT,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8439,,,,8439,,28145,,,0
+H3,2011,2011,2011,4,0,1,Import,470,Malta,MLT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,80494,,,,87741,,316261,,,0
+H3,2011,2011,2011,4,0,1,Import,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,49994,,,,59211,,334801,,,0
+H3,2011,2011,2011,4,0,2,Export,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,23735,,,,24751,,216227,,,0
+H3,2011,2011,2011,4,0,1,Import,470,Malta,MLT,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4265,,,,5334,,28850,,,0
+H3,2011,2011,2011,4,0,1,Import,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,16290,,,,16289,,106792,,,0
+H3,2011,2011,2011,4,0,1,Import,470,Malta,MLT,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2098,,,,2098,,11372,,,0
+H3,2011,2011,2011,4,0,1,Import,470,Malta,MLT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,332993,,,,364542,,1130741,,,0
+H3,2011,2011,2011,4,0,2,Export,470,Malta,MLT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,31196,,,,31717,,328798,,,0
+H3,2011,2011,2011,4,0,1,Import,470,Malta,MLT,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,677,,,,707,,3758,,,0
+H3,2011,2011,2011,4,0,1,Import,470,Malta,MLT,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2446,,,,2445,,35821,,,0
+H3,2011,2011,2011,4,0,1,Import,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,632870,,,,658992,,4168042,,,0
+H3,2011,2011,2011,4,0,2,Export,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,910,,,,910,,2896,,,0
+H3,2011,2011,2011,4,0,1,Import,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,107151,,,,116167,,468051,,,0
+H3,2011,2011,2011,4,0,2,Export,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,191,,,,373,,1374,,,0
+H3,2011,2011,2011,4,0,2,Export,470,Malta,MLT,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,688,,,,1086,,18701,,,0
+H3,2011,2011,2011,4,0,1,Import,470,Malta,MLT,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6,,,,6,,3,,,0
+H3,2011,2011,2011,4,0,1,Import,470,Malta,MLT,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,891,,,,1598,,3969,,,0
+H3,2011,2011,2011,4,0,1,Import,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3671903,,,,3734429,,6893184,,,4
+H3,2011,2011,2011,4,0,1,Import,470,Malta,MLT,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,20,,,,20,,165,,,0
+H3,2011,2011,2011,4,0,1,Import,470,Malta,MLT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4304,,,,4594,,35457,,,0
+H3,2011,2011,2011,4,0,2,Export,470,Malta,MLT,430,Liberia,LBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,75,,,,930,,2989,,,0
+H3,2011,2011,2011,4,0,1,Import,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,74100,,,,80369,,385155,,,0
+H3,2011,2011,2011,4,0,2,Export,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,13262,,,,19810,,400543,,,0
+H3,2011,2011,2011,4,0,1,Import,470,Malta,MLT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4004,,,,7147,,45458,,,0
+H3,2011,2011,2011,4,0,1,Import,470,Malta,MLT,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1609,,,,1640,,8897,,,0
+H3,2011,2011,2011,4,0,2,Export,470,Malta,MLT,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,72,,,,150,,1922,,,0
+H3,2011,2011,2011,4,0,1,Import,470,Malta,MLT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,22339,,,,22356,,161950,,,0
+H3,2011,2011,2011,4,0,1,Import,470,Malta,MLT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,194704,,,,194460,,661183,,,0
+H3,2011,2011,2011,4,0,1,Import,470,Malta,MLT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,287379,,,,287628,,569525,,,0
+H3,2011,2011,2011,4,0,2,Export,470,Malta,MLT,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2944,,,,2944,,12694,,,0
+H3,2011,2011,2011,4,0,2,Export,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,274,,,,330,,7794,,,0
+H3,2011,2011,2011,4,0,1,Import,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,84486,,,,92568,,432332,,,0
+H3,2011,2011,2011,4,0,2,Export,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3466,,,,4625,,206579,,,0
+H3,2011,2011,2011,4,0,2,Export,470,Malta,MLT,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,775,,,,10,,692,,,0
+H3,2011,2011,2011,4,0,1,Import,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6939,,,,8141,,38154,,,0
+H3,2011,2011,2011,4,0,2,Export,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12,,,,17,,584,,,0
+H5,2017,2017,2017,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7954365,,,,8166622,,19867313,,,2
+H5,2017,2017,2017,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12654,,,,13929,,596742,,,0
+H5,2017,2017,2017,4,0,4,Re-Import,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13,,,,14,,28,,,2
+H5,2017,2017,2017,4,0,1,Import,470,Malta,MLT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6931,,,,6934,,22102,,,0
+H5,2017,2017,2017,4,0,1,Import,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11623,,,,13471,,74887,,,0
+H5,2017,2017,2017,4,0,2,Export,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,108,,,,108,,2621,,,0
+H5,2017,2017,2017,4,0,1,Import,470,Malta,MLT,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,30,,,,30,,2965,,,0
+H5,2017,2017,2017,4,0,1,Import,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,23562,,,,30177,,79718,,,0
+H5,2017,2017,2017,4,0,2,Export,470,Malta,MLT,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15,,,,15,,56,,,0
+H5,2017,2017,2017,4,0,1,Import,470,Malta,MLT,140,Central African Rep.,CAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2,,,,2,,53,,,0
+H5,2017,2017,2017,4,0,1,Import,470,Malta,MLT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,223803,,,,223855,,694320,,,0
+H5,2017,2017,2017,4,0,2,Export,470,Malta,MLT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2,,,,2,,3816,,,0
+H5,2017,2017,2017,4,0,1,Import,470,Malta,MLT,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,136710,,,,136814,,504951,,,0
+H5,2017,2017,2017,4,0,1,Import,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,887493,,,,595477,,3572446,,,2
+H5,2017,2017,2017,4,0,2,Export,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,241,,,,500,,5832,,,0
+H5,2017,2017,2017,4,0,1,Import,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,180185,,,,179197,,539571,,,0
+H5,2017,2017,2017,4,0,2,Export,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45,,,,45,,240,,,0
+H5,2017,2017,2017,4,0,1,Import,470,Malta,MLT,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,21227,,,,23436,,185427,,,0
+H5,2017,2017,2017,4,0,2,Export,470,Malta,MLT,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8856,,,,8856,,419012,,,0
+H5,2017,2017,2017,4,0,1,Import,470,Malta,MLT,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2988,,,,2988,,15375,,,0
+H5,2017,2017,2017,4,0,1,Import,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3590667,,,,3741565,,9819601,,,0
+H5,2017,2017,2017,4,0,2,Export,470,Malta,MLT,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,194,,,,202,,1741,,,0
+H5,2017,2017,2017,4,0,1,Import,470,Malta,MLT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2340,,,,2340,,6497,,,0
+H5,2017,2017,2017,4,0,1,Import,470,Malta,MLT,470,Malta,MLT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13,,,,14,,28,,,2
+H5,2017,2017,2017,4,0,4,Re-Import,470,Malta,MLT,470,Malta,MLT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13,,,,14,,28,,,2
+H5,2017,2017,2017,4,0,1,Import,470,Malta,MLT,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22117,,,,22117,,82772,,,0
+H5,2017,2017,2017,4,0,1,Import,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,41316,,,,42202,,228517,,,0
+H5,2017,2017,2017,4,0,2,Export,470,Malta,MLT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,124,,,,124,,26998,,,0
+H5,2017,2017,2017,4,0,1,Import,470,Malta,MLT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,49188,,,,74737,,222177,,,0
+H5,2017,2017,2017,4,0,2,Export,470,Malta,MLT,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,723,,,,768,,3105,,,0
+H5,2017,2017,2017,4,0,1,Import,470,Malta,MLT,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8856,,,,8858,,46117,,,0
+H5,2017,2017,2017,4,0,1,Import,470,Malta,MLT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,136710,,,,136814,,504951,,,0
+H5,2017,2017,2017,4,0,1,Import,470,Malta,MLT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2418984,,,,2714970,,2283171,,,0
+H5,2017,2017,2017,4,0,2,Export,470,Malta,MLT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1400,,,,1400,,52749,,,0
+H5,2017,2017,2017,4,0,2,Export,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,261,,,,265,,4516,,,0
+H5,2017,2017,2017,4,0,2,Export,470,Malta,MLT,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,48,,,,50,,738,,,0
+H5,2017,2017,2017,4,0,1,Import,470,Malta,MLT,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,48477,,,,52712,,256195,,,0
+H5,2017,2017,2017,4,0,2,Export,470,Malta,MLT,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90,,,,90,,548,,,0
+H5,2017,2017,2017,4,0,1,Import,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,134101,,,,150867,,673881,,,0
+H5,2017,2017,2017,4,0,2,Export,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,545,,,,1502,,74734,,,0
+H5,2017,2017,2017,4,0,1,Import,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7041,,,,7041,,51581,,,0
+H5,2017,2017,2017,4,0,2,Export,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2,,,,1,,29,,,0
+H5,2018,2018,2018,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6422473,,,,6546350,,22980742,,,2
+H5,2018,2018,2018,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,26995,,,,27416,,1107011,,,0
+H5,2018,2018,2018,4,0,1,Import,470,Malta,MLT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,28146,,,,28145,,117937,,,0
+H5,2018,2018,2018,4,0,1,Import,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,47725,,,,47724,,307234,,,0
+H5,2018,2018,2018,4,0,1,Import,470,Malta,MLT,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7368,,,,7368,,16037,,,0
+H5,2018,2018,2018,4,0,1,Import,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,291,,,,292,,2660,,,0
+H5,2018,2018,2018,4,0,1,Import,470,Malta,MLT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,350420,,,,350424,,1121585,,,2
+H5,2018,2018,2018,4,0,2,Export,470,Malta,MLT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36,,,,36,,453,,,0
+H5,2018,2018,2018,4,0,1,Import,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,675107,,,,712639,,5560295,,,0
+H5,2018,2018,2018,4,0,1,Import,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,82525,,,,82664,,327847,,,0
+H5,2018,2018,2018,4,0,1,Import,470,Malta,MLT,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2010,,,,2010,,16573,,,0
+H5,2018,2018,2018,4,0,2,Export,470,Malta,MLT,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13039,,,,13039,,542082,,,0
+H5,2018,2018,2018,4,0,1,Import,470,Malta,MLT,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,450,,,,450,,2021,,,0
+H5,2018,2018,2018,4,0,1,Import,470,Malta,MLT,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5,,,,5,,41,,,0
+H5,2018,2018,2018,4,0,1,Import,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3530994,,,,3538207,,11916115,,,0
+H5,2018,2018,2018,4,0,1,Import,470,Malta,MLT,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,32,,,,32,,284,,,0
+H5,2018,2018,2018,4,0,2,Export,470,Malta,MLT,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3930,,,,3932,,15468,,,0
+H5,2018,2018,2018,4,0,1,Import,470,Malta,MLT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11463,,,,11463,,95808,,,0
+H5,2018,2018,2018,4,0,1,Import,470,Malta,MLT,428,Latvia,LVA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1584,,,,1584,,1517,,,0
+H5,2018,2018,2018,4,0,1,Import,470,Malta,MLT,440,Lithuania,LTU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2700,,,,2700,,11079,,,0
+H5,2018,2018,2018,4,0,1,Import,470,Malta,MLT,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,486,,,,486,,4352,,,0
+H5,2018,2018,2018,4,0,1,Import,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36524,,,,36624,,284368,,,0
+H5,2018,2018,2018,4,0,1,Import,470,Malta,MLT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2036,,,,2124,,21974,,,0
+H5,2018,2018,2018,4,0,1,Import,470,Malta,MLT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,27663,,,,53747,,166290,,,0
+H5,2018,2018,2018,4,0,2,Export,470,Malta,MLT,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,283,,,,333,,2361,,,0
+H5,2018,2018,2018,4,0,1,Import,470,Malta,MLT,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2,,,,2,,29,,,0
+H5,2018,2018,2018,4,0,2,Export,470,Malta,MLT,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36,,,,50,,688,,,0
+H5,2018,2018,2018,4,0,1,Import,470,Malta,MLT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,265706,,,,271511,,864252,,,2
+H5,2018,2018,2018,4,0,1,Import,470,Malta,MLT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1200703,,,,1240936,,1387283,,,0
+H5,2018,2018,2018,4,0,2,Export,470,Malta,MLT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6525,,,,6525,,274664,,,0
+H5,2018,2018,2018,4,0,1,Import,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6,,,,6,,567,,,0
+H5,2018,2018,2018,4,0,2,Export,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,656,,,,687,,9846,,,0
+H5,2018,2018,2018,4,0,2,Export,470,Malta,MLT,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,63,,,,63,,1213,,,0
+H5,2018,2018,2018,4,0,1,Import,470,Malta,MLT,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14,,,,11,,273,,,0
+H5,2018,2018,2018,4,0,1,Import,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,140872,,,,147548,,713553,,,0
+H5,2018,2018,2018,4,0,2,Export,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,548,,,,872,,224234,,,0
+H5,2018,2018,2018,4,0,2,Export,470,Malta,MLT,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,463,,,,463,,16948,,,0
+H5,2018,2018,2018,4,0,1,Import,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6446,,,,6453,,33445,,,0
+H5,2018,2018,2018,4,0,1,Import,470,Malta,MLT,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1195,,,,1195,,7309,,,0
+H5,2018,2018,2018,4,0,2,Export,470,Malta,MLT,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1416,,,,1416,,19051,,,0
+H5,2019,2019,2019,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7388145,,,,6935705,,24842020,,,4
+H5,2019,2019,2019,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,32668,,,,33583,,1131381,,,0
+H5,2019,2019,2019,4,0,1,Import,470,Malta,MLT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,57342,,,,57596,,207512,,,0
+H5,2019,2019,2019,4,0,1,Import,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,40278,,,,40277,,297053,,,0
+H5,2019,2019,2019,4,0,2,Export,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6,,,,5,,458,,,0
+H5,2019,2019,2019,4,0,1,Import,470,Malta,MLT,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,353,,,,465,,7186,,,0
+H5,2019,2019,2019,4,0,1,Import,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3353,,,,3353,,29909,,,0
+H5,2019,2019,2019,4,0,2,Export,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,579,,,,704,,6504,,,0
+H5,2019,2019,2019,4,0,1,Import,470,Malta,MLT,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,459,,,,459,,3071,,,0
+H5,2019,2019,2019,4,0,1,Import,470,Malta,MLT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,343827,,,,342443,,1077869,,,0
+H5,2019,2019,2019,4,0,1,Import,470,Malta,MLT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,261,,,,261,,5219,,,0
+H5,2019,2019,2019,4,0,2,Export,470,Malta,MLT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3121,,,,3121,,25370,,,0
+H5,2019,2019,2019,4,0,1,Import,470,Malta,MLT,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6351,,,,6951,,2329558,,,0
+H5,2019,2019,2019,4,0,1,Import,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,555087,,,,616122,,4972760,,,0
+H5,2019,2019,2019,4,0,1,Import,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,129438,,,,130943,,430372,,,0
+H5,2019,2019,2019,4,0,1,Import,470,Malta,MLT,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2742,,,,2986,,19252,,,0
+H5,2019,2019,2019,4,0,2,Export,470,Malta,MLT,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12789,,,,12789,,527927,,,0
+H5,2019,2019,2019,4,0,1,Import,470,Malta,MLT,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,455,,,,455,,3108,,,0
+H5,2019,2019,2019,4,0,1,Import,470,Malta,MLT,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8498,,,,8494,,26708,,,0
+H5,2019,2019,2019,4,0,1,Import,470,Malta,MLT,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3,,,,3,,30,,,0
+H5,2019,2019,2019,4,0,1,Import,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4716434,,,,4146642,,12424477,,,0
+H5,2019,2019,2019,4,0,2,Export,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5269,,,,5269,,211684,,,0
+H5,2019,2019,2019,4,0,2,Export,470,Malta,MLT,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7506,,,,7506,,54530,,,0
+H5,2019,2019,2019,4,0,1,Import,470,Malta,MLT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2853,,,,2853,,21589,,,0
+H5,2019,2019,2019,4,0,1,Import,470,Malta,MLT,440,Lithuania,LTU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,225,,,,230,,1736,,,0
+H5,2019,2019,2019,4,0,2,Export,470,Malta,MLT,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,126,,,,126,,3161,,,0
+H5,2019,2019,2019,4,0,1,Import,470,Malta,MLT,498,Rep. of Moldova,MDA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18,,,,18,,168,,,0
+H5,2019,2019,2019,4,0,1,Import,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14872,,,,14900,,111775,,,0
+H5,2019,2019,2019,4,0,1,Import,470,Malta,MLT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6376,,,,6376,,65968,,,0
+H5,2019,2019,2019,4,0,1,Import,470,Malta,MLT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,48263,,,,71893,,259665,,,0
+H5,2019,2019,2019,4,0,2,Export,470,Malta,MLT,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,108,,,,108,,1557,,,0
+H5,2019,2019,2019,4,0,2,Export,470,Malta,MLT,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,91,,,,91,,11921,,,0
+H5,2019,2019,2019,4,0,1,Import,470,Malta,MLT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,173884,,,,173879,,600839,,,0
+H5,2019,2019,2019,4,0,1,Import,470,Malta,MLT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1093244,,,,1114543,,1063908,,,0
+H5,2019,2019,2019,4,0,2,Export,470,Malta,MLT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,683,,,,683,,37165,,,0
+H5,2019,2019,2019,4,0,1,Import,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,91,,,,93,,1747,,,4
+H5,2019,2019,2019,4,0,2,Export,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,461,,,,461,,7037,,,0
+H5,2019,2019,2019,4,0,2,Export,470,Malta,MLT,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1190,,,,1190,,9809,,,0
+H5,2019,2019,2019,4,0,1,Import,470,Malta,MLT,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,1,,33,,,0
+H5,2019,2019,2019,4,0,1,Import,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,176076,,,,186108,,827270,,,0
+H5,2019,2019,2019,4,0,2,Export,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,739,,,,1530,,234252,,,0
+H5,2019,2019,2019,4,0,1,Import,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6911,,,,6911,,47386,,,0
+H5,2019,2019,2019,4,0,1,Import,470,Malta,MLT,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,450,,,,450,,5838,,,0
+H4,2015,2015,2015,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,6148332,,18536204,,,0
+H4,2015,2015,2015,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,32503,,1561172,,,4
+H4,2015,2015,2015,4,0,1,Import,470,Malta,MLT,28,Antigua and Barbuda,ATG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,2403,,10172,,,0
+H4,2015,2015,2015,4,0,1,Import,470,Malta,MLT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,38631,,174985,,,0
+H4,2015,2015,2015,4,0,1,Import,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,43599,,195221,,,0
+H4,2015,2015,2015,4,0,2,Export,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,30,,734,,,0
+H4,2015,2015,2015,4,0,1,Import,470,Malta,MLT,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,2086,,10409,,,0
+H4,2015,2015,2015,4,0,1,Import,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,22201,,96829,,,0
+H4,2015,2015,2015,4,0,1,Import,470,Malta,MLT,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,378,,1214,,,0
+H4,2015,2015,2015,4,0,1,Import,470,Malta,MLT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,407036,,1165179,,,0
+H4,2015,2015,2015,4,0,1,Import,470,Malta,MLT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,5,,141,,,0
+H4,2015,2015,2015,4,0,2,Export,470,Malta,MLT,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,684,,4973,,,0
+H4,2015,2015,2015,4,0,1,Import,470,Malta,MLT,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,8478,,19369,,,0
+H4,2015,2015,2015,4,0,1,Import,470,Malta,MLT,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,1690,,15236,,,0
+H4,2015,2015,2015,4,0,1,Import,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,758890,,4603991,,,0
+H4,2015,2015,2015,4,0,1,Import,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,166648,,516136,,,0
+H4,2015,2015,2015,4,0,2,Export,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,52,,942,,,4
+H4,2015,2015,2015,4,0,2,Export,470,Malta,MLT,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,9298,,387584,,,0
+H4,2015,2015,2015,4,0,1,Import,470,Malta,MLT,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,2408,,8949,,,0
+H4,2015,2015,2015,4,0,1,Import,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,3135142,,8532548,,,0
+H4,2015,2015,2015,4,0,2,Export,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,9,,640,,,0
+H4,2015,2015,2015,4,0,2,Export,470,Malta,MLT,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,1641,,11642,,,0
+H4,2015,2015,2015,4,0,1,Import,470,Malta,MLT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,6511,,50230,,,0
+H4,2015,2015,2015,4,0,1,Import,470,Malta,MLT,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,1530,,8840,,,0
+H4,2015,2015,2015,4,0,1,Import,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,38996,,279146,,,0
+H4,2015,2015,2015,4,0,2,Export,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,14306,,540879,,,0
+H4,2015,2015,2015,4,0,1,Import,470,Malta,MLT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,8166,,89109,,,0
+H4,2015,2015,2015,4,0,2,Export,470,Malta,MLT,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,3,,11,,,0
+H4,2015,2015,2015,4,0,1,Import,470,Malta,MLT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,30707,,131871,,,0
+H4,2015,2015,2015,4,0,2,Export,470,Malta,MLT,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,81,,360,,,0
+H4,2015,2015,2015,4,0,2,Export,470,Malta,MLT,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,4,,1110,,,0
+H4,2015,2015,2015,4,0,1,Import,470,Malta,MLT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,273876,,852533,,,0
+H4,2015,2015,2015,4,0,1,Import,470,Malta,MLT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,1002881,,642643,,,0
+H4,2015,2015,2015,4,0,2,Export,470,Malta,MLT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,2671,,94916,,,0
+H4,2015,2015,2015,4,0,1,Import,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,103,,1514,,,0
+H4,2015,2015,2015,4,0,1,Import,470,Malta,MLT,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,52,,1015,,,0
+H4,2015,2015,2015,4,0,1,Import,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,189398,,1091749,,,0
+H4,2015,2015,2015,4,0,2,Export,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,3426,,516688,,,0
+H4,2015,2015,2015,4,0,2,Export,470,Malta,MLT,837,Bunkers,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,300,,693,,,0
+H4,2015,2015,2015,4,0,1,Import,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,6517,,37175,,,0
+H4,2016,2016,2016,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,6964948,,19611711,,,0
+H4,2016,2016,2016,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,28846,,1169127,,,0
+H4,2016,2016,2016,4,0,1,Import,470,Malta,MLT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,41095,,157214,,,0
+H4,2016,2016,2016,4,0,1,Import,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,41856,,215904,,,0
+H4,2016,2016,2016,4,0,1,Import,470,Malta,MLT,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,2317,,13852,,,0
+H4,2016,2016,2016,4,0,1,Import,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,3722,,12118,,,0
+H4,2016,2016,2016,4,0,2,Export,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,570,,2353,,,0
+H4,2016,2016,2016,4,0,1,Import,470,Malta,MLT,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,716,,2393,,,0
+H4,2016,2016,2016,4,0,1,Import,470,Malta,MLT,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,28,,347,,,0
+H4,2016,2016,2016,4,0,1,Import,470,Malta,MLT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,488217,,1450252,,,0
+H4,2016,2016,2016,4,0,1,Import,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,721475,,4746076,,,0
+H4,2016,2016,2016,4,0,1,Import,470,Malta,MLT,268,Georgia,GEO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,18,,486,,,0
+H4,2016,2016,2016,4,0,1,Import,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,206018,,558976,,,0
+H4,2016,2016,2016,4,0,2,Export,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,354,,2270,,,0
+H4,2016,2016,2016,4,0,1,Import,470,Malta,MLT,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,527,,2481,,,0
+H4,2016,2016,2016,4,0,2,Export,470,Malta,MLT,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,10742,,455369,,,0
+H4,2016,2016,2016,4,0,1,Import,470,Malta,MLT,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,9036,,47882,,,0
+H4,2016,2016,2016,4,0,1,Import,470,Malta,MLT,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,4,,90,,,0
+H4,2016,2016,2016,4,0,1,Import,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,3038877,,9086286,,,0
+H4,2016,2016,2016,4,0,2,Export,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,6183,,250924,,,0
+H4,2016,2016,2016,4,0,2,Export,470,Malta,MLT,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,764,,10495,,,0
+H4,2016,2016,2016,4,0,1,Import,470,Malta,MLT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,3077,,28949,,,0
+H4,2016,2016,2016,4,0,1,Import,470,Malta,MLT,440,Lithuania,LTU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,4500,,14166,,,0
+H4,2016,2016,2016,4,0,1,Import,470,Malta,MLT,498,Rep. of Moldova,MDA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,18,,175,,,0
+H4,2016,2016,2016,4,0,1,Import,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,32863,,212424,,,0
+H4,2016,2016,2016,4,0,2,Export,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,1915,,74845,,,0
+H4,2016,2016,2016,4,0,1,Import,470,Malta,MLT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,4955,,51800,,,0
+H4,2016,2016,2016,4,0,1,Import,470,Malta,MLT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,38033,,153649,,,0
+H4,2016,2016,2016,4,0,2,Export,470,Malta,MLT,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,106,,461,,,0
+H4,2016,2016,2016,4,0,1,Import,470,Malta,MLT,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,10350,,22192,,,0
+H4,2016,2016,2016,4,0,1,Import,470,Malta,MLT,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,4,,81,,,0
+H4,2016,2016,2016,4,0,2,Export,470,Malta,MLT,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,162,,5039,,,0
+H4,2016,2016,2016,4,0,1,Import,470,Malta,MLT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,285250,,938811,,,0
+H4,2016,2016,2016,4,0,1,Import,470,Malta,MLT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,1867251,,1114091,,,0
+H4,2016,2016,2016,4,0,2,Export,470,Malta,MLT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,4860,,178286,,,0
+H4,2016,2016,2016,4,0,1,Import,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,135,,1467,,,0
+H4,2016,2016,2016,4,0,2,Export,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,92,,6207,,,0
+H4,2016,2016,2016,4,0,2,Export,470,Malta,MLT,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,90,,563,,,0
+H4,2016,2016,2016,4,0,2,Export,470,Malta,MLT,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,178,,1535,,,0
+H4,2016,2016,2016,4,0,1,Import,470,Malta,MLT,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,20,,243,,,0
+H4,2016,2016,2016,4,0,1,Import,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,162058,,760736,,,0
+H4,2016,2016,2016,4,0,2,Export,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,2789,,180679,,,0
+H4,2016,2016,2016,4,0,1,Import,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,2079,,14594,,,0
+H4,2016,2016,2016,4,0,2,Export,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,42,,102,,,0
+H4,2016,2016,2016,4,0,1,Import,470,Malta,MLT,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,450,,3976,,,0
+H5,2020,2020,2020,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5359010,,,,5480163,,19795008,,,0
+H5,2020,2020,2020,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14297,,,,12513,,928742,,,0
+H5,2020,2020,2020,4,0,1,Import,470,Malta,MLT,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,21395,,,,21401,,82357,,,0
+H5,2020,2020,2020,4,0,1,Import,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,39972,,,,39971,,262188,,,0
+H5,2020,2020,2020,4,0,2,Export,470,Malta,MLT,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8,,,,8,,575,,,0
+H5,2020,2020,2020,4,0,1,Import,470,Malta,MLT,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1719,,,,2079,,14146,,,0
+H5,2020,2020,2020,4,0,2,Export,470,Malta,MLT,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,37,,,,37,,2182,,,0
+H5,2020,2020,2020,4,0,1,Import,470,Malta,MLT,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7221,,,,7221,,48183,,,0
+H5,2020,2020,2020,4,0,1,Import,470,Malta,MLT,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18,,,,22,,233,,,0
+H5,2020,2020,2020,4,0,1,Import,470,Malta,MLT,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,313877,,,,313880,,1017178,,,0
+H5,2020,2020,2020,4,0,1,Import,470,Malta,MLT,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,55,,,,55,,5374,,,0
+H5,2020,2020,2020,4,0,1,Import,470,Malta,MLT,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,417628,,,,463757,,4298105,,,0
+H5,2020,2020,2020,4,0,1,Import,470,Malta,MLT,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,120819,,,,126094,,381326,,,0
+H5,2020,2020,2020,4,0,2,Export,470,Malta,MLT,288,Ghana,GHA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22,,,,23,,11,,,0
+H5,2020,2020,2020,4,0,1,Import,470,Malta,MLT,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,576,,,,576,,5821,,,0
+H5,2020,2020,2020,4,0,2,Export,470,Malta,MLT,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6501,,,,6501,,289551,,,0
+H5,2020,2020,2020,4,0,1,Import,470,Malta,MLT,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,270,,,,270,,1563,,,0
+H5,2020,2020,2020,4,0,1,Import,470,Malta,MLT,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3486486,,,,3575675,,11106130,,,0
+H5,2020,2020,2020,4,0,1,Import,470,Malta,MLT,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4085,,,,4085,,38817,,,0
+H5,2020,2020,2020,4,0,1,Import,470,Malta,MLT,440,Lithuania,LTU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1134,,,,1134,,5768,,,0
+H5,2020,2020,2020,4,0,1,Import,470,Malta,MLT,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,135,,,,192,,1731,,,0
+H5,2020,2020,2020,4,0,1,Import,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,21124,,,,22005,,132203,,,0
+H5,2020,2020,2020,4,0,1,Import,470,Malta,MLT,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1344,,,,1344,,18516,,,0
+H5,2020,2020,2020,4,0,2,Export,470,Malta,MLT,579,Norway,NOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,1,,9,,,0
+H5,2020,2020,2020,4,0,1,Import,470,Malta,MLT,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,27500,,,,33658,,197384,,,0
+H5,2020,2020,2020,4,0,1,Import,470,Malta,MLT,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,405,,,,405,,5272,,,0
+H5,2020,2020,2020,4,0,1,Import,470,Malta,MLT,688,Serbia,SRB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6900,,,,6900,,12700,,,0
+H5,2020,2020,2020,4,0,2,Export,470,Malta,MLT,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,62,,,,67,,3172,,,0
+H5,2020,2020,2020,4,0,2,Export,470,Malta,MLT,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,553,,,,553,,56175,,,0
+H5,2020,2020,2020,4,0,1,Import,470,Malta,MLT,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,380,,,,380,,1118,,,0
+H5,2020,2020,2020,4,0,1,Import,470,Malta,MLT,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,151274,,,,151280,,567747,,,0
+H5,2020,2020,2020,4,0,1,Import,470,Malta,MLT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,562071,,,,528289,,803471,,,0
+H5,2020,2020,2020,4,0,2,Export,470,Malta,MLT,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5719,,,,3491,,203992,,,0
+H5,2020,2020,2020,4,0,1,Import,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,23,,,,19,,521,,,0
+H5,2020,2020,2020,4,0,2,Export,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,60,,,,60,,642,,,0
+H5,2020,2020,2020,4,0,1,Import,470,Malta,MLT,807,North Macedonia,MKD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17203,,,,17203,,45739,,,0
+H5,2020,2020,2020,4,0,1,Import,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,150672,,,,157530,,688537,,,0
+H5,2020,2020,2020,4,0,2,Export,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1334,,,,1772,,372429,,,0
+H5,2020,2020,2020,4,0,1,Import,470,Malta,MLT,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4724,,,,4738,,52867,,,0

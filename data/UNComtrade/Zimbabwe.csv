@@ -1,0 +1,497 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2003,2003,2003,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,1814132,,,2
+H2,2003,2003,2003,4,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,63760,,,,63760,,122379,,,2
+H2,2003,2003,2003,4,0,3,Re-Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2218,,,,2218,,6310,,,2
+H2,2003,2003,2003,4,0,1,Import,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,2730,,,2
+H2,2003,2003,2003,4,0,2,Export,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,900,,,,900,,1296,,,2
+H2,2003,2003,2003,4,0,1,Import,716,Zimbabwe,ZWE,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1886,,,,1886,,1239,,,2
+H2,2003,2003,2003,4,0,2,Export,716,Zimbabwe,ZWE,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9716,,,,9716,,16099,,,2
+H2,2003,2003,2003,4,0,1,Import,716,Zimbabwe,ZWE,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1000,,,,1000,,283,,,2
+H2,2003,2003,2003,4,0,2,Export,716,Zimbabwe,ZWE,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5400,,,,5400,,7617,,,2
+H2,2003,2003,2003,4,0,2,Export,716,Zimbabwe,ZWE,212,Dominica,DMA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1800,,,,1800,,2354,,,2
+H2,2003,2003,2003,4,0,1,Import,716,Zimbabwe,ZWE,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,300,,,,300,,1327,,,2
+H2,2003,2003,2003,4,0,1,Import,716,Zimbabwe,ZWE,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6,,,,6,,150,,,2
+H2,2003,2003,2003,4,0,2,Export,716,Zimbabwe,ZWE,454,Malawi,MWI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,33413,,,,33413,,66464,,,2
+H2,2003,2003,2003,4,0,2,Export,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2700,,,,2700,,3859,,,2
+H2,2003,2003,2003,4,0,1,Import,716,Zimbabwe,ZWE,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,987,,,,987,,319,,,2
+H2,2003,2003,2003,4,0,1,Import,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,1742900,,,2
+H2,2003,2003,2003,4,0,2,Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,198,,,,198,,317,,,2
+H2,2003,2003,2003,4,0,2,Export,716,Zimbabwe,ZWE,818,Egypt,EGY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,116,,,,116,,193,,,2
+H2,2003,2003,2003,4,0,1,Import,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,30812,,,,30812,,56709,,,2
+H2,2003,2003,2003,4,0,2,Export,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2398,,,,2398,,6607,,,2
+H2,2003,2003,2003,4,0,3,Re-Export,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2218,,,,2218,,6310,,,2
+H2,2003,2003,2003,4,0,1,Import,716,Zimbabwe,ZWE,839,Special Categories,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,7419,,,2
+H2,2003,2003,2003,4,0,1,Import,716,Zimbabwe,ZWE,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,264,,,,264,,35,,,2
+H2,2003,2003,2003,4,0,2,Export,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7119,,,,7119,,17568,,,2
+H2,2003,2003,2003,4,0,1,Import,716,Zimbabwe,ZWE,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,448,,,,448,,1016,,,2
+H2,2004,2004,2004,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,716143,,,2
+H2,2004,2004,2004,4,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,148328,,,,148328,,210794,,,2
+H2,2004,2004,2004,4,0,3,Re-Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,60172,,,,60172,,89991,,,2
+H2,2004,2004,2004,4,0,1,Import,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,15167,,,2
+H2,2004,2004,2004,4,0,1,Import,716,Zimbabwe,ZWE,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1293,,,,1293,,1174,,,2
+H2,2004,2004,2004,4,0,2,Export,716,Zimbabwe,ZWE,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9358,,,,9358,,10698,,,2
+H2,2004,2004,2004,4,0,1,Import,716,Zimbabwe,ZWE,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,136,,,,136,,30,,,2
+H2,2004,2004,2004,4,0,1,Import,716,Zimbabwe,ZWE,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6,,,,6,,42,,,2
+H2,2004,2004,2004,4,0,2,Export,716,Zimbabwe,ZWE,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1620,,,,1620,,12385,,,2
+H2,2004,2004,2004,4,0,2,Export,716,Zimbabwe,ZWE,454,Malawi,MWI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10909,,,,10909,,29212,,,2
+H2,2004,2004,2004,4,0,2,Export,716,Zimbabwe,ZWE,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4500,,,,4500,,7721,,,2
+H2,2004,2004,2004,4,0,1,Import,716,Zimbabwe,ZWE,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,51,,,0
+H2,2004,2004,2004,4,0,1,Import,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,1576,,,2
+H2,2004,2004,2004,4,0,2,Export,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9332,,,,9332,,7009,,,2
+H2,2004,2004,2004,4,0,3,Re-Export,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,562,,,,562,,968,,,2
+H2,2004,2004,2004,4,0,1,Import,716,Zimbabwe,ZWE,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,987,,,,987,,333,,,2
+H2,2004,2004,2004,4,0,1,Import,716,Zimbabwe,ZWE,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,258,,,,258,,817,,,2
+H2,2004,2004,2004,4,0,1,Import,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,627321,,,2
+H2,2004,2004,2004,4,0,2,Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10291,,,,10291,,7802,,,2
+H2,2004,2004,2004,4,0,3,Re-Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9803,,,,9803,,4401,,,2
+H2,2004,2004,2004,4,0,2,Export,716,Zimbabwe,ZWE,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1038,,,,1038,,788,,,2
+H2,2004,2004,2004,4,0,1,Import,716,Zimbabwe,ZWE,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,98,,,,98,,413,,,2
+H2,2004,2004,2004,4,0,1,Import,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20119,,,,20119,,51967,,,2
+H2,2004,2004,2004,4,0,2,Export,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,24630,,,,24630,,56591,,,2
+H2,2004,2004,2004,4,0,3,Re-Export,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,24002,,,,24002,,54471,,,2
+H2,2004,2004,2004,4,0,2,Export,716,Zimbabwe,ZWE,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1000,,,,1000,,947,,,2
+H2,2004,2004,2004,4,0,1,Import,716,Zimbabwe,ZWE,839,Special Categories,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,14755,,,2
+H2,2004,2004,2004,4,0,2,Export,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,75458,,,,75458,,77579,,,2
+H2,2004,2004,2004,4,0,3,Re-Export,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,25613,,,,25613,,30092,,,2
+H2,2004,2004,2004,4,0,1,Import,716,Zimbabwe,ZWE,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,606,,,,606,,2490,,,2
+H2,2004,2004,2004,4,0,2,Export,716,Zimbabwe,ZWE,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,192,,,,192,,57,,,2
+H2,2004,2004,2004,4,0,3,Re-Export,716,Zimbabwe,ZWE,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,192,,,,192,,57,,,2
+H1,2000,2000,2000,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,596545,,,,605186,,616511,,,6
+H1,2000,2000,2000,4,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,98527,,,,98527,,132905,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,51147,,,,51147,,88409,,,2
+H1,2000,2000,2000,4,0,1,Import,716,Zimbabwe,ZWE,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,17726,,,,17726,,22213,,,2
+H1,2000,2000,2000,4,0,2,Export,716,Zimbabwe,ZWE,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,257,,,,257,,748,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,716,Zimbabwe,ZWE,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,257,,,,257,,748,,,2
+H1,2000,2000,2000,4,0,1,Import,716,Zimbabwe,ZWE,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1,,,,1,,65,,,2
+H1,2000,2000,2000,4,0,1,Import,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2815,,,,2815,,3779,,,2
+H1,2000,2000,2000,4,0,2,Export,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,450,,,,450,,456,,,2
+H1,2000,2000,2000,4,0,2,Export,716,Zimbabwe,ZWE,108,Burundi,BDI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,972,,,,972,,8164,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,716,Zimbabwe,ZWE,108,Burundi,BDI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,972,,,,972,,8164,,,2
+H1,2000,2000,2000,4,0,1,Import,716,Zimbabwe,ZWE,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,96,,,,96,,90,,,2
+H1,2000,2000,2000,4,0,2,Export,716,Zimbabwe,ZWE,178,Congo,COG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,73,,,,73,,369,,,2
+H1,2000,2000,2000,4,0,2,Export,716,Zimbabwe,ZWE,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1209,,,,1209,,831,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,716,Zimbabwe,ZWE,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1159,,,,1159,,755,,,2
+H1,2000,2000,2000,4,0,1,Import,716,Zimbabwe,ZWE,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,109,,,,109,,823,,,2
+H1,2000,2000,2000,4,0,2,Export,716,Zimbabwe,ZWE,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1,,,,1,,15,,,2
+H1,2000,2000,2000,4,0,1,Import,716,Zimbabwe,ZWE,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5,,,,5,,54,,,2
+H1,2000,2000,2000,4,0,1,Import,716,Zimbabwe,ZWE,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,445,,,,445,,1461,,,2
+H1,2000,2000,2000,4,0,1,Import,716,Zimbabwe,ZWE,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36,,,,36,,27,,,2
+H1,2000,2000,2000,4,0,2,Export,716,Zimbabwe,ZWE,404,Kenya,KEN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,108,,,,108,,214,,,2
+H1,2000,2000,2000,4,0,2,Export,716,Zimbabwe,ZWE,454,Malawi,MWI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7062,,,,7062,,10728,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,716,Zimbabwe,ZWE,454,Malawi,MWI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,91,,,,91,,50,,,2
+H1,2000,2000,2000,4,0,2,Export,716,Zimbabwe,ZWE,480,Mauritius,MUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,68,,,,68,,506,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,716,Zimbabwe,ZWE,480,Mauritius,MUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,32,,,,32,,361,,,2
+H1,2000,2000,2000,4,0,2,Export,716,Zimbabwe,ZWE,504,Morocco,MAR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4,,,,4,,178,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,716,Zimbabwe,ZWE,504,Morocco,MAR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4,,,,4,,178,,,2
+H1,2000,2000,2000,4,0,2,Export,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3000,,,,3000,,5113,,,2
+H1,2000,2000,2000,4,0,1,Import,716,Zimbabwe,ZWE,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,20032,,,,20032,,4956,,,6
+H1,2000,2000,2000,4,0,1,Import,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,410886,,,,419526,,458850,,,6
+H1,2000,2000,2000,4,0,2,Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6867,,,,6867,,12161,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,794,,,,794,,2217,,,2
+H1,2000,2000,2000,4,0,1,Import,716,Zimbabwe,ZWE,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,134780,,,,134780,,88596,,,2
+H1,2000,2000,2000,4,0,1,Import,716,Zimbabwe,ZWE,752,Sweden,SWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1,,,,1,,17,,,2
+H1,2000,2000,2000,4,0,2,Export,716,Zimbabwe,ZWE,818,Egypt,EGY,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,23,,,,23,,3,,,2
+H1,2000,2000,2000,4,0,1,Import,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9610,,,,9610,,35574,,,6
+H1,2000,2000,2000,4,0,2,Export,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,445,,,,445,,1459,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,445,,,,445,,1459,,,2
+H1,2000,2000,2000,4,0,2,Export,716,Zimbabwe,ZWE,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,782,,,,782,,4882,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,716,Zimbabwe,ZWE,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,770,,,,770,,4867,,,2
+H1,2000,2000,2000,4,0,1,Import,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3,,,,3,,0,,,2
+H1,2000,2000,2000,4,0,2,Export,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,77206,,,,77206,,87071,,,2
+H1,2000,2000,2000,4,0,3,Re-Export,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,46623,,,,46623,,69606,,,2
+H1,2001,2001,2001,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,595455,,,,595455,,601728,,,2
+H1,2001,2001,2001,4,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9261,,,,9261,,6037,,,2
+H1,2001,2001,2001,4,0,2,Export,716,Zimbabwe,ZWE,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,549,,,,549,,346,,,2
+H1,2001,2001,2001,4,0,1,Import,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,20564,,,,20564,,21185,,,2
+H1,2001,2001,2001,4,0,1,Import,716,Zimbabwe,ZWE,246,Finland,FIN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1,,,,1,,76,,,2
+H1,2001,2001,2001,4,0,1,Import,716,Zimbabwe,ZWE,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,162,,,,162,,995,,,2
+H1,2001,2001,2001,4,0,2,Export,716,Zimbabwe,ZWE,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,350,,,,350,,261,,,2
+H1,2001,2001,2001,4,0,1,Import,716,Zimbabwe,ZWE,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5,,,,5,,35,,,2
+H1,2001,2001,2001,4,0,1,Import,716,Zimbabwe,ZWE,288,Ghana,GHA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1,,,,1,,10,,,2
+H1,2001,2001,2001,4,0,1,Import,716,Zimbabwe,ZWE,352,Iceland,ISL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3,,,,3,,35,,,2
+H1,2001,2001,2001,4,0,1,Import,716,Zimbabwe,ZWE,376,Israel,ISR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1,,,,1,,11,,,2
+H1,2001,2001,2001,4,0,1,Import,716,Zimbabwe,ZWE,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6,,,,6,,6,,,2
+H1,2001,2001,2001,4,0,1,Import,716,Zimbabwe,ZWE,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10,,,,10,,34,,,2
+H1,2001,2001,2001,4,0,2,Export,716,Zimbabwe,ZWE,454,Malawi,MWI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4866,,,,4866,,2764,,,2
+H1,2001,2001,2001,4,0,2,Export,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2023,,,,2023,,662,,,2
+H1,2001,2001,2001,4,0,1,Import,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,566801,,,,566801,,573996,,,2
+H1,2001,2001,2001,4,0,2,Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1101,,,,1101,,684,,,2
+H1,2001,2001,2001,4,0,1,Import,716,Zimbabwe,ZWE,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,45,,,,45,,562,,,2
+H1,2001,2001,2001,4,0,1,Import,716,Zimbabwe,ZWE,752,Sweden,SWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6,,,,6,,29,,,2
+H1,2001,2001,2001,4,0,1,Import,716,Zimbabwe,ZWE,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8,,,,8,,8,,,2
+H1,2001,2001,2001,4,0,1,Import,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7833,,,,7833,,4689,,,2
+H1,2001,2001,2001,4,0,2,Export,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,372,,,,372,,1318,,,2
+H1,2001,2001,2001,4,0,1,Import,716,Zimbabwe,ZWE,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9,,,,9,,48,,,2
+H1,2002,2002,2002,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,3054825,,,2
+H1,2002,2002,2002,4,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,59251,,,,59251,,130675,,,2
+H1,2002,2002,2002,4,0,3,Re-Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1781,,,,1781,,15094,,,2
+H1,2002,2002,2002,4,0,1,Import,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1105,,,,1105,,7020,,,2
+H1,2002,2002,2002,4,0,2,Export,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,450,,,,450,,617,,,2
+H1,2002,2002,2002,4,0,1,Import,716,Zimbabwe,ZWE,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,830,,,,830,,2676,,,2
+H1,2002,2002,2002,4,0,2,Export,716,Zimbabwe,ZWE,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,154,,,,154,,1217,,,2
+H1,2002,2002,2002,4,0,2,Export,716,Zimbabwe,ZWE,454,Malawi,MWI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11586,,,,11586,,52636,,,2
+H1,2002,2002,2002,4,0,2,Export,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7820,,,,7820,,36812,,,2
+H1,2002,2002,2002,4,0,3,Re-Export,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1670,,,,1670,,14845,,,2
+H1,2002,2002,2002,4,0,1,Import,716,Zimbabwe,ZWE,516,Namibia,NAM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,987,,,,987,,1989,,,2
+H1,2002,2002,2002,4,0,1,Import,716,Zimbabwe,ZWE,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,150,,,,150,,2544,,,2
+H1,2002,2002,2002,4,0,1,Import,716,Zimbabwe,ZWE,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,30,,,,30,,142,,,2
+H1,2002,2002,2002,4,0,1,Import,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,3034866,,,2
+H1,2002,2002,2002,4,0,2,Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,663,,,,663,,889,,,2
+H1,2002,2002,2002,4,0,3,Re-Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,111,,,,111,,249,,,2
+H1,2002,2002,2002,4,0,1,Import,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,4552,,,2
+H1,2002,2002,2002,4,0,1,Import,716,Zimbabwe,ZWE,839,Special Categories,,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,1032,,,2
+H1,2002,2002,2002,4,0,2,Export,716,Zimbabwe,ZWE,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,180,,,,180,,2143,,,2
+H1,2002,2002,2002,4,0,2,Export,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,38398,,,,38398,,36357,,,2
+H3,2008,2008,2008,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,1137242,,,6
+H3,2008,2008,2008,4,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,,,48818,,,6
+H3,2008,2008,2008,4,0,3,Re-Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,,,0,,,0
+H3,2008,2008,2008,4,0,1,Import,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,6590,,,6
+H3,2008,2008,2008,4,0,1,Import,716,Zimbabwe,ZWE,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4944,,,,4944,,2062,,,2
+H3,2008,2008,2008,4,0,2,Export,716,Zimbabwe,ZWE,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7588,,,,,,5806,,,6
+H3,2008,2008,2008,4,0,2,Export,716,Zimbabwe,ZWE,288,Ghana,GHA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1,,,,1,,0,,,2
+H3,2008,2008,2008,4,0,1,Import,716,Zimbabwe,ZWE,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,768,,,,768,,546,,,2
+H3,2008,2008,2008,4,0,2,Export,716,Zimbabwe,ZWE,454,Malawi,MWI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,221,,,,221,,169,,,2
+H3,2008,2008,2008,4,0,1,Import,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,412,,,2
+H3,2008,2008,2008,4,0,2,Export,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,648,,,,648,,400,,,2
+H3,2008,2008,2008,4,0,1,Import,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,959996,,,2
+H3,2008,2008,2008,4,0,2,Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,325,,,2
+H3,2008,2008,2008,4,0,3,Re-Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,,,0,,,0
+H3,2008,2008,2008,4,0,1,Import,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,26,,,0
+H3,2008,2008,2008,4,0,1,Import,716,Zimbabwe,ZWE,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18463,,,,18463,,167608,,,2
+H3,2008,2008,2008,4,0,2,Export,716,Zimbabwe,ZWE,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,356,,,,356,,25,,,2
+H3,2008,2008,2008,4,0,2,Export,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,88708,,,,88708,,42090,,,2
+H3,2009,2009,2009,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,2027762,,,6
+H3,2009,2009,2009,4,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,99904,,,,99904,,137758,,,2
+H3,2009,2009,2009,4,0,3,Re-Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3919,,,,3919,,11811,,,2
+H3,2009,2009,2009,4,0,1,Import,716,Zimbabwe,ZWE,20,Andorra,AND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1001,,,,1001,,2128,,,2
+H3,2009,2009,2009,4,0,1,Import,716,Zimbabwe,ZWE,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6,,,,6,,17,,,2
+H3,2009,2009,2009,4,0,1,Import,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,1028,,,2
+H3,2009,2009,2009,4,0,1,Import,716,Zimbabwe,ZWE,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2628,,,,2628,,1030,,,2
+H3,2009,2009,2009,4,0,2,Export,716,Zimbabwe,ZWE,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,35,,,,35,,262,,,2
+H3,2009,2009,2009,4,0,2,Export,716,Zimbabwe,ZWE,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9850,,,,9850,,16645,,,2
+H3,2009,2009,2009,4,0,1,Import,716,Zimbabwe,ZWE,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,48,,,,48,,109,,,2
+H3,2009,2009,2009,4,0,1,Import,716,Zimbabwe,ZWE,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1614,,,,1614,,3972,,,2
+H3,2009,2009,2009,4,0,2,Export,716,Zimbabwe,ZWE,454,Malawi,MWI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2768,,,,2768,,3654,,,2
+H3,2009,2009,2009,4,0,1,Import,716,Zimbabwe,ZWE,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4350,,,,4350,,5912,,,2
+H3,2009,2009,2009,4,0,1,Import,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,2013475,,,6
+H3,2009,2009,2009,4,0,2,Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3884,,,,3884,,9713,,,2
+H3,2009,2009,2009,4,0,3,Re-Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3884,,,,3884,,9713,,,2
+H3,2009,2009,2009,4,0,1,Import,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,16,,,,16,,69,,,2
+H3,2009,2009,2009,4,0,1,Import,716,Zimbabwe,ZWE,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18,,,,18,,19,,,2
+H3,2009,2009,2009,4,0,2,Export,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,83367,,,,83367,,107483,,,2
+H3,2009,2009,2009,4,0,3,Re-Export,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,35,,,,35,,2098,,,2
+H2,2005,2005,2005,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,558002,,,2
+H2,2005,2005,2005,4,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,64900,,,,64900,,74407,,,2
+H2,2005,2005,2005,4,0,3,Re-Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7742,,,,7742,,11155,,,2
+H2,2005,2005,2005,4,0,1,Import,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,12041,,,2
+H2,2005,2005,2005,4,0,2,Export,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,810,,,,810,,1109,,,2
+H2,2005,2005,2005,4,0,1,Import,716,Zimbabwe,ZWE,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1836,,,,1836,,1456,,,2
+H2,2005,2005,2005,4,0,2,Export,716,Zimbabwe,ZWE,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,30,,,,30,,397,,,2
+H2,2005,2005,2005,4,0,1,Import,716,Zimbabwe,ZWE,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,1,,17,,,2
+H2,2005,2005,2005,4,0,1,Import,716,Zimbabwe,ZWE,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,44,,,2
+H2,2005,2005,2005,4,0,1,Import,716,Zimbabwe,ZWE,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12327,,,,12327,,16939,,,2
+H2,2005,2005,2005,4,0,2,Export,716,Zimbabwe,ZWE,454,Malawi,MWI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2964,,,,2964,,9396,,,2
+H2,2005,2005,2005,4,0,2,Export,716,Zimbabwe,ZWE,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1800,,,,1800,,3296,,,2
+H2,2005,2005,2005,4,0,1,Import,716,Zimbabwe,ZWE,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45,,,,45,,28,,,2
+H2,2005,2005,2005,4,0,1,Import,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,141,,,0
+H2,2005,2005,2005,4,0,1,Import,716,Zimbabwe,ZWE,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,914,,,2
+H2,2005,2005,2005,4,0,1,Import,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,476220,,,2
+H2,2005,2005,2005,4,0,2,Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,280,,,,280,,1300,,,2
+H2,2005,2005,2005,4,0,3,Re-Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,208,,,,208,,1113,,,2
+H2,2005,2005,2005,4,0,1,Import,716,Zimbabwe,ZWE,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,132,,,,132,,1238,,,2
+H2,2005,2005,2005,4,0,1,Import,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,46522,,,2
+H2,2005,2005,2005,4,0,2,Export,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9400,,,,9400,,12299,,,2
+H2,2005,2005,2005,4,0,3,Re-Export,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7534,,,,7534,,10042,,,2
+H2,2005,2005,2005,4,0,1,Import,716,Zimbabwe,ZWE,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,2,,135,,,2
+H2,2005,2005,2005,4,0,2,Export,716,Zimbabwe,ZWE,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20016,,,,20016,,31316,,,2
+H2,2005,2005,2005,4,0,1,Import,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,805,,,2
+H2,2005,2005,2005,4,0,2,Export,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,29600,,,,29600,,15291,,,2
+H2,2005,2005,2005,4,0,1,Import,716,Zimbabwe,ZWE,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,486,,,,486,,1498,,,2
+H2,2006,2006,2006,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,990986,,,6
+H2,2006,2006,2006,4,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,88692,,,,88720,,37488,,,6
+H2,2006,2006,2006,4,0,3,Re-Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8347,,,,8347,,12825,,,2
+H2,2006,2006,2006,4,0,1,Import,716,Zimbabwe,ZWE,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20126,,,,20126,,21483,,,2
+H2,2006,2006,2006,4,0,1,Import,716,Zimbabwe,ZWE,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20,,,,20,,38,,,2
+H2,2006,2006,2006,4,0,1,Import,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,7451,,,2
+H2,2006,2006,2006,4,0,1,Import,716,Zimbabwe,ZWE,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,4389,,,6
+H2,2006,2006,2006,4,0,2,Export,716,Zimbabwe,ZWE,178,Congo,COG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,870,,,,870,,1430,,,6
+H2,2006,2006,2006,4,0,1,Import,716,Zimbabwe,ZWE,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7,,,,7,,9,,,2
+H2,2006,2006,2006,4,0,1,Import,716,Zimbabwe,ZWE,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1,,,,1,,3253,,,2
+H2,2006,2006,2006,4,0,1,Import,716,Zimbabwe,ZWE,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,72,,,,72,,13,,,2
+H2,2006,2006,2006,4,0,2,Export,716,Zimbabwe,ZWE,454,Malawi,MWI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3204,,,,3204,,4968,,,2
+H2,2006,2006,2006,4,0,1,Import,716,Zimbabwe,ZWE,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,369,,,0
+H2,2006,2006,2006,4,0,1,Import,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,147,,,0
+H2,2006,2006,2006,4,0,1,Import,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,910169,,,6
+H2,2006,2006,2006,4,0,2,Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,55,,,,55,,87,,,2
+H2,2006,2006,2006,4,0,3,Re-Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36,,,,36,,81,,,2
+H2,2006,2006,2006,4,0,2,Export,716,Zimbabwe,ZWE,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,25,,,,25,,8,,,2
+H2,2006,2006,2006,4,0,2,Export,716,Zimbabwe,ZWE,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,220,,,,220,,619,,,2
+H2,2006,2006,2006,4,0,1,Import,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,43465,,,6
+H2,2006,2006,2006,4,0,2,Export,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7170,,,,7170,,6289,,,2
+H2,2006,2006,2006,4,0,3,Re-Export,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3570,,,,3570,,6266,,,2
+H2,2006,2006,2006,4,0,1,Import,716,Zimbabwe,ZWE,839,Special Categories,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,151,,,2
+H2,2006,2006,2006,4,0,1,Import,716,Zimbabwe,ZWE,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,35,,,6
+H2,2006,2006,2006,4,0,2,Export,716,Zimbabwe,ZWE,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,100,,,,100,,121,,,2
+H2,2006,2006,2006,4,0,1,Import,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,7,,,0
+H2,2006,2006,2006,4,0,2,Export,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,77048,,,,77076,,23963,,,6
+H2,2006,2006,2006,4,0,3,Re-Export,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4741,,,,4741,,6477,,,2
+H2,2007,2007,2007,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,1543803,,,2
+H2,2007,2007,2007,4,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,67359,,,,67359,,34552,,,2
+H2,2007,2007,2007,4,0,1,Import,716,Zimbabwe,ZWE,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,28420,,,,28420,,156481,,,2
+H2,2007,2007,2007,4,0,1,Import,716,Zimbabwe,ZWE,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27,,,,27,,6,,,2
+H2,2007,2007,2007,4,0,1,Import,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,14540,,,2
+H2,2007,2007,2007,4,0,2,Export,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,972,,,,972,,1345,,,2
+H2,2007,2007,2007,4,0,1,Import,716,Zimbabwe,ZWE,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2634,,,,2634,,1191,,,2
+H2,2007,2007,2007,4,0,2,Export,716,Zimbabwe,ZWE,170,Colombia,COL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,87,,,,87,,400,,,2
+H2,2007,2007,2007,4,0,2,Export,716,Zimbabwe,ZWE,178,Congo,COG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17178,,,,17178,,12202,,,2
+H2,2007,2007,2007,4,0,2,Export,716,Zimbabwe,ZWE,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16250,,,,16250,,12389,,,2
+H2,2007,2007,2007,4,0,1,Import,716,Zimbabwe,ZWE,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,132,,,,132,,1386,,,2
+H2,2007,2007,2007,4,0,1,Import,716,Zimbabwe,ZWE,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,100,,,,100,,416,,,2
+H2,2007,2007,2007,4,0,2,Export,716,Zimbabwe,ZWE,288,Ghana,GHA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,97,,,,97,,132,,,2
+H2,2007,2007,2007,4,0,1,Import,716,Zimbabwe,ZWE,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,50,,,,50,,172,,,2
+H2,2007,2007,2007,4,0,1,Import,716,Zimbabwe,ZWE,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,164,,,,164,,201,,,2
+H2,2007,2007,2007,4,0,1,Import,716,Zimbabwe,ZWE,454,Malawi,MWI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,18,,,0
+H2,2007,2007,2007,4,0,2,Export,716,Zimbabwe,ZWE,454,Malawi,MWI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1150,,,,1150,,574,,,2
+H2,2007,2007,2007,4,0,1,Import,716,Zimbabwe,ZWE,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,316,,,2
+H2,2007,2007,2007,4,0,1,Import,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,336,,,0
+H2,2007,2007,2007,4,0,1,Import,716,Zimbabwe,ZWE,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,405,,,,405,,2695,,,2
+H2,2007,2007,2007,4,0,1,Import,716,Zimbabwe,ZWE,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,339,,,0
+H2,2007,2007,2007,4,0,1,Import,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,1295143,,,2
+H2,2007,2007,2007,4,0,2,Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,100,,,,100,,1260,,,2
+H2,2007,2007,2007,4,0,1,Import,716,Zimbabwe,ZWE,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,230,,,,230,,1489,,,2
+H2,2007,2007,2007,4,0,1,Import,716,Zimbabwe,ZWE,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,25,,,0
+H2,2007,2007,2007,4,0,1,Import,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,28411,,,2
+H2,2007,2007,2007,4,0,2,Export,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,160,,,,160,,183,,,2
+H2,2007,2007,2007,4,0,1,Import,716,Zimbabwe,ZWE,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,40420,,,2
+H2,2007,2007,2007,4,0,1,Import,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,0,,,,0,,209,,,2
+H2,2007,2007,2007,4,0,2,Export,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,31364,,,,31364,,6066,,,2
+H4,2013,2013,2013,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,3888752,,,2
+H4,2013,2013,2013,4,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,77809,,,,77809,,132517,,,2
+H4,2013,2013,2013,4,0,3,Re-Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,30263,,,,30263,,43269,,,2
+H4,2013,2013,2013,4,0,1,Import,716,Zimbabwe,ZWE,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12,,,,12,,274,,,2
+H4,2013,2013,2013,4,0,1,Import,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,12585,,,2
+H4,2013,2013,2013,4,0,1,Import,716,Zimbabwe,ZWE,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,11799,,,2
+H4,2013,2013,2013,4,0,1,Import,716,Zimbabwe,ZWE,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,13,,,0
+H4,2013,2013,2013,4,0,1,Import,716,Zimbabwe,ZWE,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24,,,,24,,216,,,2
+H4,2013,2013,2013,4,0,1,Import,716,Zimbabwe,ZWE,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3981,,,,3981,,17871,,,2
+H4,2013,2013,2013,4,0,1,Import,716,Zimbabwe,ZWE,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,55,,,,55,,1106,,,2
+H4,2013,2013,2013,4,0,1,Import,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,51,,,0
+H4,2013,2013,2013,4,0,2,Export,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2405,,,,2405,,7615,,,2
+H4,2013,2013,2013,4,0,1,Import,716,Zimbabwe,ZWE,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2104,,,,2104,,3045,,,2
+H4,2013,2013,2013,4,0,1,Import,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,3841061,,,2
+H4,2013,2013,2013,4,0,2,Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,27441,,,,27441,,50801,,,2
+H4,2013,2013,2013,4,0,3,Re-Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1376,,,,1376,,8678,,,2
+H4,2013,2013,2013,4,0,1,Import,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,180,,,2
+H4,2013,2013,2013,4,0,2,Export,716,Zimbabwe,ZWE,839,Special Categories,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,268,,,,268,,720,,,2
+H4,2013,2013,2013,4,0,3,Re-Export,716,Zimbabwe,ZWE,839,Special Categories,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,268,,,,268,,720,,,2
+H4,2013,2013,2013,4,0,1,Import,716,Zimbabwe,ZWE,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36,,,,36,,525,,,2
+H4,2013,2013,2013,4,0,2,Export,716,Zimbabwe,ZWE,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10,,,,10,,1474,,,2
+H4,2013,2013,2013,4,0,1,Import,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,18,,,0
+H4,2013,2013,2013,4,0,2,Export,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,47683,,,,47683,,71905,,,2
+H4,2013,2013,2013,4,0,3,Re-Export,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,28619,,,,28619,,33869,,,2
+H4,2014,2014,2014,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,3437611,,,2
+H4,2014,2014,2014,4,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,47728,,,,47728,,72395,,,2
+H4,2014,2014,2014,4,0,3,Re-Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,25615,,,,25615,,37241,,,2
+H4,2014,2014,2014,4,0,2,Export,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2095,,,,2095,,9088,,,2
+H4,2014,2014,2014,4,0,1,Import,716,Zimbabwe,ZWE,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3756,,,,3756,,5608,,,2
+H4,2014,2014,2014,4,0,1,Import,716,Zimbabwe,ZWE,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,37294,,,2
+H4,2014,2014,2014,4,0,1,Import,716,Zimbabwe,ZWE,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,700,,,,700,,6350,,,2
+H4,2014,2014,2014,4,0,1,Import,716,Zimbabwe,ZWE,226,Equatorial Guinea,GNQ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,15,,,0
+H4,2014,2014,2014,4,0,1,Import,716,Zimbabwe,ZWE,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,275,,,,275,,109,,,2
+H4,2014,2014,2014,4,0,2,Export,716,Zimbabwe,ZWE,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16,,,,16,,66,,,2
+H4,2014,2014,2014,4,0,1,Import,716,Zimbabwe,ZWE,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,165,,,,165,,143,,,2
+H4,2014,2014,2014,4,0,1,Import,716,Zimbabwe,ZWE,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,9902,,,2
+H4,2014,2014,2014,4,0,1,Import,716,Zimbabwe,ZWE,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,370,,,,370,,6177,,,2
+H4,2014,2014,2014,4,0,2,Export,716,Zimbabwe,ZWE,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5,,,,5,,89,,,2
+H4,2014,2014,2014,4,0,3,Re-Export,716,Zimbabwe,ZWE,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5,,,,5,,89,,,2
+H4,2014,2014,2014,4,0,1,Import,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,6,,,0
+H4,2014,2014,2014,4,0,2,Export,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5286,,,,5286,,4781,,,2
+H4,2014,2014,2014,4,0,3,Re-Export,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5286,,,,5286,,4781,,,2
+H4,2014,2014,2014,4,0,1,Import,716,Zimbabwe,ZWE,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,258,,,,258,,361,,,2
+H4,2014,2014,2014,4,0,2,Export,716,Zimbabwe,ZWE,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7540,,,,7540,,12805,,,2
+H4,2014,2014,2014,4,0,3,Re-Export,716,Zimbabwe,ZWE,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7540,,,,7540,,12805,,,2
+H4,2014,2014,2014,4,0,1,Import,716,Zimbabwe,ZWE,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,103,,,0
+H4,2014,2014,2014,4,0,1,Import,716,Zimbabwe,ZWE,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,37,,,0
+H4,2014,2014,2014,4,0,1,Import,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,3369791,,,2
+H4,2014,2014,2014,4,0,2,Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3117,,,,3117,,11369,,,2
+H4,2014,2014,2014,4,0,3,Re-Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3117,,,,3117,,11369,,,2
+H4,2014,2014,2014,4,0,1,Import,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,844,,,2
+H4,2014,2014,2014,4,0,2,Export,716,Zimbabwe,ZWE,839,Special Categories,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1244,,,,1244,,1851,,,2
+H4,2014,2014,2014,4,0,3,Re-Export,716,Zimbabwe,ZWE,839,Special Categories,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1244,,,,1244,,1851,,,2
+H4,2014,2014,2014,4,0,1,Import,716,Zimbabwe,ZWE,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,70,,,,70,,642,,,2
+H4,2014,2014,2014,4,0,1,Import,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,221,,,2
+H4,2014,2014,2014,4,0,2,Export,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,28019,,,,28019,,31447,,,2
+H4,2014,2014,2014,4,0,3,Re-Export,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8019,,,,8019,,5447,,,2
+H4,2014,2014,2014,4,0,2,Export,716,Zimbabwe,ZWE,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,404,,,,404,,897,,,2
+H4,2014,2014,2014,4,0,3,Re-Export,716,Zimbabwe,ZWE,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,404,,,,404,,897,,,2
+H3,2010,2010,2010,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,2595816,,,6
+H3,2010,2010,2010,4,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,53442,,,,53442,,67186,,,2
+H3,2010,2010,2010,4,0,3,Re-Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6541,,,,6541,,7990,,,2
+H3,2010,2010,2010,4,0,1,Import,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,2171,,,2
+H3,2010,2010,2010,4,0,1,Import,716,Zimbabwe,ZWE,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1817,,,,1817,,10740,,,2
+H3,2010,2010,2010,4,0,2,Export,716,Zimbabwe,ZWE,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,14096,,,,14096,,25568,,,2
+H3,2010,2010,2010,4,0,1,Import,716,Zimbabwe,ZWE,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15408,,,,15408,,31138,,,2
+H3,2010,2010,2010,4,0,1,Import,716,Zimbabwe,ZWE,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,30,,,,30,,306,,,2
+H3,2010,2010,2010,4,0,1,Import,716,Zimbabwe,ZWE,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5,,,,5,,8,,,2
+H3,2010,2010,2010,4,0,1,Import,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,30,,,,30,,3141,,,2
+H3,2010,2010,2010,4,0,2,Export,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6000,,,,6000,,6570,,,2
+H3,2010,2010,2010,4,0,3,Re-Export,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6000,,,,6000,,6570,,,2
+H3,2010,2010,2010,4,0,1,Import,716,Zimbabwe,ZWE,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,537,,,0
+H3,2010,2010,2010,4,0,1,Import,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,2547763,,,6
+H3,2010,2010,2010,4,0,2,Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,541,,,,541,,1419,,,2
+H3,2010,2010,2010,4,0,3,Re-Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,541,,,,541,,1419,,,2
+H3,2010,2010,2010,4,0,1,Import,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12,,,,12,,9,,,2
+H3,2010,2010,2010,4,0,2,Export,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,32803,,,,32803,,33628,,,2
+H3,2011,2011,2011,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,3881130,,,2
+H3,2011,2011,2011,4,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,72024,,,,72024,,122727,,,2
+H3,2011,2011,2011,4,0,3,Re-Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,21008,,,,21008,,59593,,,2
+H3,2011,2011,2011,4,0,2,Export,716,Zimbabwe,ZWE,84,Belize,BLZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,30,,,,30,,153,,,2
+H3,2011,2011,2011,4,0,1,Import,716,Zimbabwe,ZWE,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,142,,,0
+H3,2011,2011,2011,4,0,1,Import,716,Zimbabwe,ZWE,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4819,,,,4819,,51550,,,2
+H3,2011,2011,2011,4,0,2,Export,716,Zimbabwe,ZWE,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1725,,,,1725,,3844,,,2
+H3,2011,2011,2011,4,0,1,Import,716,Zimbabwe,ZWE,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,818,,,,818,,6463,,,2
+H3,2011,2011,2011,4,0,1,Import,716,Zimbabwe,ZWE,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,13,,,,13,,15,,,2
+H3,2011,2011,2011,4,0,1,Import,716,Zimbabwe,ZWE,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,16,,,,16,,43,,,2
+H3,2011,2011,2011,4,0,1,Import,716,Zimbabwe,ZWE,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,84,,,,84,,39,,,2
+H3,2011,2011,2011,4,0,1,Import,716,Zimbabwe,ZWE,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,405,,,,405,,878,,,2
+H3,2011,2011,2011,4,0,2,Export,716,Zimbabwe,ZWE,454,Malawi,MWI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4965,,,,4965,,10757,,,2
+H3,2011,2011,2011,4,0,1,Import,716,Zimbabwe,ZWE,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10,,,,10,,33,,,2
+H3,2011,2011,2011,4,0,1,Import,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,40,,,,40,,5972,,,2
+H3,2011,2011,2011,4,0,2,Export,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3018,,,,3018,,4990,,,2
+H3,2011,2011,2011,4,0,2,Export,716,Zimbabwe,ZWE,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,820,,,,820,,11819,,,2
+H3,2011,2011,2011,4,0,3,Re-Export,716,Zimbabwe,ZWE,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,820,,,,820,,11819,,,2
+H3,2011,2011,2011,4,0,1,Import,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,3815447,,,2
+H3,2011,2011,2011,4,0,2,Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,20188,,,,20188,,47774,,,2
+H3,2011,2011,2011,4,0,3,Re-Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,20188,,,,20188,,47773,,,2
+H3,2011,2011,2011,4,0,1,Import,716,Zimbabwe,ZWE,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,40,,,,40,,403,,,2
+H3,2011,2011,2011,4,0,1,Import,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5,,,,5,,140,,,2
+H3,2011,2011,2011,4,0,2,Export,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,41278,,,,41278,,43390,,,2
+H3,2012,2012,2012,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,3491320,,,2
+H3,2012,2012,2012,4,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10515,,,,10515,,35258,,,2
+H3,2012,2012,2012,4,0,3,Re-Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,600,,,,600,,10413,,,2
+H3,2012,2012,2012,4,0,1,Import,716,Zimbabwe,ZWE,24,Angola,AGO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,51,,,0
+H3,2012,2012,2012,4,0,1,Import,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,6679,,,2
+H3,2012,2012,2012,4,0,1,Import,716,Zimbabwe,ZWE,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,722,,,,722,,239,,,2
+H3,2012,2012,2012,4,0,1,Import,716,Zimbabwe,ZWE,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,13,,,,13,,50,,,2
+H3,2012,2012,2012,4,0,1,Import,716,Zimbabwe,ZWE,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,650,,,,650,,158,,,2
+H3,2012,2012,2012,4,0,2,Export,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2673,,,,2673,,3300,,,2
+H3,2012,2012,2012,4,0,1,Import,716,Zimbabwe,ZWE,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,47,,,0
+H3,2012,2012,2012,4,0,1,Import,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,0,,,,0,,3478028,,,2
+H3,2012,2012,2012,4,0,2,Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,606,,,,606,,10538,,,2
+H3,2012,2012,2012,4,0,3,Re-Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,600,,,,600,,10413,,,2
+H3,2012,2012,2012,4,0,1,Import,716,Zimbabwe,ZWE,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,48,,,,48,,1232,,,2
+H3,2012,2012,2012,4,0,1,Import,716,Zimbabwe,ZWE,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,280,,,,280,,4750,,,2
+H3,2012,2012,2012,4,0,1,Import,716,Zimbabwe,ZWE,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,181,,,,181,,76,,,2
+H3,2012,2012,2012,4,0,1,Import,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1,,,,1,,4,,,2
+H3,2012,2012,2012,4,0,2,Export,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7236,,,,7236,,21420,,,2
+H5,2018,2018,2018,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2481873,,,,2543833,,5513949,,,2
+H5,2018,2018,2018,4,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1166,,,,5768,,26238,,,0
+H5,2018,2018,2018,4,0,1,Import,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2135,,,,2731,,9213,,,0
+H5,2018,2018,2018,4,0,1,Import,716,Zimbabwe,ZWE,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3269,,,,4458,,12731,,,0
+H5,2018,2018,2018,4,0,1,Import,716,Zimbabwe,ZWE,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,825,,,,1187,,13976,,,0
+H5,2018,2018,2018,4,0,1,Import,716,Zimbabwe,ZWE,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9406,,,,15691,,18552,,,0
+H5,2018,2018,2018,4,0,1,Import,716,Zimbabwe,ZWE,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8829,,,,18298,,42787,,,0
+H5,2018,2018,2018,4,0,1,Import,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4,,,,7,,22,,,0
+H5,2018,2018,2018,4,0,2,Export,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,197,,,,2364,,5825,,,0
+H5,2018,2018,2018,4,0,1,Import,716,Zimbabwe,ZWE,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,232,,,,232,,2444,,,0
+H5,2018,2018,2018,4,0,1,Import,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2456426,,,,2499555,,5395385,,,2
+H5,2018,2018,2018,4,0,2,Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,342,,,,1616,,2806,,,0
+H5,2018,2018,2018,4,0,1,Import,716,Zimbabwe,ZWE,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,504,,,,1629,,17962,,,0
+H5,2018,2018,2018,4,0,2,Export,716,Zimbabwe,ZWE,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,526,,,,1688,,17541,,,0
+H5,2018,2018,2018,4,0,1,Import,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,240,,,,45,,873,,,0
+H5,2018,2018,2018,4,0,2,Export,716,Zimbabwe,ZWE,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,101,,,,100,,65,,,0
+H5,2019,2019,2019,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,265842,,,,265787,,417354,,,2
+H5,2019,2019,2019,4,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2249,,,,6758,,12621,,,0
+H5,2019,2019,2019,4,0,1,Import,716,Zimbabwe,ZWE,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1608,,,,1608,,4392,,,0
+H5,2019,2019,2019,4,0,2,Export,716,Zimbabwe,ZWE,454,Malawi,MWI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,100,,,,900,,1715,,,0
+H5,2019,2019,2019,4,0,1,Import,716,Zimbabwe,ZWE,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,395,,,,456,,4998,,,0
+H5,2019,2019,2019,4,0,1,Import,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,263393,,,,263010,,403724,,,2
+H5,2019,2019,2019,4,0,2,Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1791,,,,3694,,5758,,,0
+H5,2019,2019,2019,4,0,2,Export,716,Zimbabwe,ZWE,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,96,,,,426,,1659,,,0
+H5,2019,2019,2019,4,0,1,Import,716,Zimbabwe,ZWE,800,Uganda,UGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,5,,8,,,0
+H5,2019,2019,2019,4,0,1,Import,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,96,,,,150,,2552,,,0
+H5,2019,2019,2019,4,0,2,Export,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,207,,,,1668,,3426,,,0
+H5,2019,2019,2019,4,0,1,Import,716,Zimbabwe,ZWE,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,346,,,,558,,1679,,,0
+H5,2019,2019,2019,4,0,2,Export,716,Zimbabwe,ZWE,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,54,,,,70,,62,,,0
+H4,2015,2015,2015,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,4206835,,,2
+H4,2015,2015,2015,4,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,29078,,,,29078,,48953,,,2
+H4,2015,2015,2015,4,0,3,Re-Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4498,,,,4498,,15714,,,2
+H4,2015,2015,2015,4,0,1,Import,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,130,,,0
+H4,2015,2015,2015,4,0,1,Import,716,Zimbabwe,ZWE,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,283,,,,283,,782,,,2
+H4,2015,2015,2015,4,0,1,Import,716,Zimbabwe,ZWE,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8881,,,,8881,,36016,,,2
+H4,2015,2015,2015,4,0,1,Import,716,Zimbabwe,ZWE,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,15781,,,2
+H4,2015,2015,2015,4,0,1,Import,716,Zimbabwe,ZWE,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,183,,,0
+H4,2015,2015,2015,4,0,1,Import,716,Zimbabwe,ZWE,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13538,,,,13538,,37876,,,2
+H4,2015,2015,2015,4,0,1,Import,716,Zimbabwe,ZWE,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,420,,,,420,,7194,,,2
+H4,2015,2015,2015,4,0,2,Export,716,Zimbabwe,ZWE,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,55,,,,55,,1106,,,2
+H4,2015,2015,2015,4,0,3,Re-Export,716,Zimbabwe,ZWE,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,55,,,,55,,1106,,,2
+H4,2015,2015,2015,4,0,1,Import,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,94,,,2
+H4,2015,2015,2015,4,0,2,Export,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4067,,,,4067,,6029,,,2
+H4,2015,2015,2015,4,0,1,Import,716,Zimbabwe,ZWE,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,77,,,0
+H4,2015,2015,2015,4,0,1,Import,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,4103036,,,2
+H4,2015,2015,2015,4,0,2,Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3510,,,,3510,,7278,,,2
+H4,2015,2015,2015,4,0,3,Re-Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3510,,,,3510,,7278,,,2
+H4,2015,2015,2015,4,0,1,Import,716,Zimbabwe,ZWE,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,34,,,0
+H4,2015,2015,2015,4,0,1,Import,716,Zimbabwe,ZWE,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,126,,,,126,,3871,,,2
+H4,2015,2015,2015,4,0,2,Export,716,Zimbabwe,ZWE,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,126,,,,126,,3871,,,2
+H4,2015,2015,2015,4,0,3,Re-Export,716,Zimbabwe,ZWE,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,126,,,,126,,3871,,,2
+H4,2015,2015,2015,4,0,1,Import,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,147,,,2
+H4,2015,2015,2015,4,0,2,Export,716,Zimbabwe,ZWE,839,Special Categories,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,806,,,,806,,3458,,,2
+H4,2015,2015,2015,4,0,3,Re-Export,716,Zimbabwe,ZWE,839,Special Categories,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,806,,,,806,,3458,,,2
+H4,2015,2015,2015,4,0,1,Import,716,Zimbabwe,ZWE,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,45,,,0
+H4,2015,2015,2015,4,0,1,Import,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,1562,,,0
+H4,2015,2015,2015,4,0,2,Export,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20511,,,,20511,,27209,,,2
+H4,2016,2016,2016,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,2958178,,,2
+H4,2016,2016,2016,4,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,21267,,,,21267,,50050,,,2
+H4,2016,2016,2016,4,0,3,Re-Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4035,,,,4035,,16988,,,2
+H4,2016,2016,2016,4,0,1,Import,716,Zimbabwe,ZWE,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,1,,261,,,2
+H4,2016,2016,2016,4,0,1,Import,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,71,,,0
+H4,2016,2016,2016,4,0,1,Import,716,Zimbabwe,ZWE,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,4619,,,2
+H4,2016,2016,2016,4,0,2,Export,716,Zimbabwe,ZWE,178,Congo,COG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1200,,,,1200,,2200,,,2
+H4,2016,2016,2016,4,0,1,Import,716,Zimbabwe,ZWE,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,31,,,0
+H4,2016,2016,2016,4,0,1,Import,716,Zimbabwe,ZWE,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,64,,,,64,,372,,,2
+H4,2016,2016,2016,4,0,2,Export,716,Zimbabwe,ZWE,454,Malawi,MWI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1976,,,,1976,,2745,,,2
+H4,2016,2016,2016,4,0,1,Import,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,298,,,0
+H4,2016,2016,2016,4,0,2,Export,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3256,,,,3256,,4522,,,2
+H4,2016,2016,2016,4,0,1,Import,716,Zimbabwe,ZWE,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,3209,,,2
+H4,2016,2016,2016,4,0,1,Import,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,2936312,,,2
+H4,2016,2016,2016,4,0,2,Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1670,,,,1670,,6821,,,2
+H4,2016,2016,2016,4,0,3,Re-Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1670,,,,1670,,6821,,,2
+H4,2016,2016,2016,4,0,1,Import,716,Zimbabwe,ZWE,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10721,,,,10721,,12298,,,2
+H4,2016,2016,2016,4,0,1,Import,716,Zimbabwe,ZWE,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,58,,,,58,,442,,,2
+H4,2016,2016,2016,4,0,1,Import,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,27,,,0
+H4,2016,2016,2016,4,0,2,Export,716,Zimbabwe,ZWE,839,Special Categories,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,365,,,,365,,6088,,,2
+H4,2016,2016,2016,4,0,3,Re-Export,716,Zimbabwe,ZWE,839,Special Categories,,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,365,,,,365,,6088,,,2
+H4,2016,2016,2016,4,0,1,Import,716,Zimbabwe,ZWE,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,112,,,0
+H4,2016,2016,2016,4,0,1,Import,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,121,,,0
+H4,2016,2016,2016,4,0,2,Export,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12800,,,,12800,,27673,,,2
+H4,2016,2016,2016,4,0,3,Re-Export,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2000,,,,2000,,4079,,,2
+H4,2017,2017,2017,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,881902,,,,1237639,,2765114,,,0
+H4,2017,2017,2017,4,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4277,,,,40425,,58890,,,0
+H4,2017,2017,2017,4,0,1,Import,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,98,,,,131,,827,,,0
+H4,2017,2017,2017,4,0,2,Export,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,98,,,,22,,98,,,0
+H4,2017,2017,2017,4,0,1,Import,716,Zimbabwe,ZWE,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,410,,,,60,,750,,,0
+H4,2017,2017,2017,4,0,1,Import,716,Zimbabwe,ZWE,288,Ghana,GHA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13,,,,11,,17,,,0
+H4,2017,2017,2017,4,0,1,Import,716,Zimbabwe,ZWE,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4005,,,,8182,,15044,,,0
+H4,2017,2017,2017,4,0,2,Export,716,Zimbabwe,ZWE,454,Malawi,MWI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,247,,,,2700,,7995,,,0
+H4,2017,2017,2017,4,0,1,Import,716,Zimbabwe,ZWE,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,432,,,,592,,7378,,,0
+H4,2017,2017,2017,4,0,1,Import,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,876625,,,,1228346,,2740160,,,0
+H4,2017,2017,2017,4,0,2,Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,328,,,,1611,,2442,,,0
+H4,2017,2017,2017,4,0,1,Import,716,Zimbabwe,ZWE,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36,,,,20,,55,,,0
+H4,2017,2017,2017,4,0,1,Import,716,Zimbabwe,ZWE,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,225,,,,225,,660,,,0
+H4,2017,2017,2017,4,0,1,Import,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,57,,,,72,,220,,,0
+H4,2017,2017,2017,4,0,2,Export,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3595,,,,36088,,48351,,,0
+H4,2017,2017,2017,4,0,2,Export,716,Zimbabwe,ZWE,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8,,,,3,,2,,,0
+H5,2020,2020,2020,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,1476275,,,6
+H5,2020,2020,2020,4,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4474,,,,4474,,20743,,,2
+H5,2020,2020,2020,4,0,3,Re-Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,649,,,,649,,8043,,,2
+H5,2020,2020,2020,4,0,1,Import,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,449,,,,449,,1458,,,6
+H5,2020,2020,2020,4,0,2,Export,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1125,,,,1125,,4490,,,2
+H5,2020,2020,2020,4,0,2,Export,716,Zimbabwe,ZWE,454,Malawi,MWI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2700,,,,2700,,8208,,,2
+H5,2020,2020,2020,4,0,1,Import,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,975582,,,,975522,,1455323,,,2
+H5,2020,2020,2020,4,0,2,Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,351,,,,351,,5455,,,2
+H5,2020,2020,2020,4,0,3,Re-Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,351,,,,351,,5455,,,2
+H5,2020,2020,2020,4,0,2,Export,716,Zimbabwe,ZWE,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,298,,,,298,,2588,,,2
+H5,2020,2020,2020,4,0,3,Re-Export,716,Zimbabwe,ZWE,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,298,,,,298,,2588,,,2
+H5,2020,2020,2020,4,0,1,Import,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,313,,,0
+H5,2020,2020,2020,4,0,1,Import,716,Zimbabwe,ZWE,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24955,,,,24955,,19180,,,2

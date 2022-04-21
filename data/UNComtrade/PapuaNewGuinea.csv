@@ -1,0 +1,89 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2002,2002,2002,4,0,1,Import,598,Papua New Guinea,PNG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,55663,,,,55663,,1043488,,,4
+H2,2002,2002,2002,4,0,1,Import,598,Papua New Guinea,PNG,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,53823,,,,53823,,1001420,,,4
+H2,2002,2002,2002,4,0,1,Import,598,Papua New Guinea,PNG,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7,,,,7,,5,,,4
+H2,2002,2002,2002,4,0,1,Import,598,Papua New Guinea,PNG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7,,,,7,,144,,,4
+H2,2002,2002,2002,4,0,1,Import,598,Papua New Guinea,PNG,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18,,,,18,,288,,,4
+H2,2002,2002,2002,4,0,1,Import,598,Papua New Guinea,PNG,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,597,,,,597,,606,,,4
+H2,2002,2002,2002,4,0,1,Import,598,Papua New Guinea,PNG,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,32,,,,32,,1650,,,4
+H2,2002,2002,2002,4,0,1,Import,598,Papua New Guinea,PNG,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8,,,,8,,394,,,4
+H2,2002,2002,2002,4,0,1,Import,598,Papua New Guinea,PNG,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1074,,,,1074,,33485,,,4
+H2,2002,2002,2002,4,0,1,Import,598,Papua New Guinea,PNG,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5,,,,5,,459,,,4
+H2,2002,2002,2002,4,0,1,Import,598,Papua New Guinea,PNG,660,Anguilla,AIA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6,,,,6,,273,,,4
+H2,2002,2002,2002,4,0,1,Import,598,Papua New Guinea,PNG,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13,,,,13,,1142,,,4
+H2,2002,2002,2002,4,0,1,Import,598,Papua New Guinea,PNG,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,57,,,,57,,3409,,,4
+H2,2002,2002,2002,4,0,1,Import,598,Papua New Guinea,PNG,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17,,,,17,,214,,,4
+H2,2003,2003,2003,4,0,1,Import,598,Papua New Guinea,PNG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,69154,,,,69154,,1450525,,,2
+H2,2003,2003,2003,4,0,2,Export,598,Papua New Guinea,PNG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11,,,,11,,15,,,2
+H2,2003,2003,2003,4,0,1,Import,598,Papua New Guinea,PNG,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,65892,,,,65892,,1311519,,,2
+H2,2003,2003,2003,4,0,1,Import,598,Papua New Guinea,PNG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1187,,,,1187,,16015,,,2
+H2,2003,2003,2003,4,0,1,Import,598,Papua New Guinea,PNG,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,40,,,,40,,1870,,,2
+H2,2003,2003,2003,4,0,1,Import,598,Papua New Guinea,PNG,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1854,,,,1854,,114622,,,2
+H2,2003,2003,2003,4,0,1,Import,598,Papua New Guinea,PNG,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,51,,,,51,,4038,,,2
+H2,2003,2003,2003,4,0,1,Import,598,Papua New Guinea,PNG,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,1696,,,2
+H2,2003,2003,2003,4,0,1,Import,598,Papua New Guinea,PNG,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,121,,,,121,,765,,,2
+H2,2003,2003,2003,4,0,2,Export,598,Papua New Guinea,PNG,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11,,,,11,,15,,,2
+H2,2004,2004,2004,4,0,1,Import,598,Papua New Guinea,PNG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27856,,,,27856,,1172229,,,4
+H2,2004,2004,2004,4,0,2,Export,598,Papua New Guinea,PNG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,2,,4376,,,4
+H2,2004,2004,2004,4,0,1,Import,598,Papua New Guinea,PNG,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27333,,,,27333,,1129045,,,4
+H2,2004,2004,2004,4,0,2,Export,598,Papua New Guinea,PNG,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,2,,4376,,,4
+H2,2004,2004,2004,4,0,1,Import,598,Papua New Guinea,PNG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,208,,,,208,,18388,,,4
+H2,2004,2004,2004,4,0,1,Import,598,Papua New Guinea,PNG,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,312,,,,312,,24124,,,4
+H2,2004,2004,2004,4,0,1,Import,598,Papua New Guinea,PNG,660,Anguilla,AIA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3,,,,3,,672,,,4
+H0,2000,2000,2000,4,0,1,Import,598,Papua New Guinea,PNG,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,944086,,,,944086,,1823135,,,4
+H0,2000,2000,2000,4,0,1,Import,598,Papua New Guinea,PNG,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,932088,,,,932088,,1678560,,,4
+H0,2000,2000,2000,4,0,1,Import,598,Papua New Guinea,PNG,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,200,,,,200,,738,,,4
+H0,2000,2000,2000,4,0,1,Import,598,Papua New Guinea,PNG,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1290,,,,1290,,43682,,,4
+H0,2000,2000,2000,4,0,1,Import,598,Papua New Guinea,PNG,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,306,,,,306,,543,,,4
+H0,2000,2000,2000,4,0,1,Import,598,Papua New Guinea,PNG,458,Malaysia,MYS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,12,,,,12,,49,,,4
+H0,2000,2000,2000,4,0,1,Import,598,Papua New Guinea,PNG,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,10050,,,,10050,,79959,,,4
+H0,2000,2000,2000,4,0,1,Import,598,Papua New Guinea,PNG,608,Philippines,PHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,8,,,,8,,20,,,4
+H0,2000,2000,2000,4,0,1,Import,598,Papua New Guinea,PNG,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,121,,,,121,,19037,,,4
+H0,2000,2000,2000,4,0,1,Import,598,Papua New Guinea,PNG,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,11,,,,11,,509,,,4
+H0,2000,2000,2000,4,0,1,Import,598,Papua New Guinea,PNG,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1,,,,1,,37,,,4
+H0,2001,2001,2001,4,0,1,Import,598,Papua New Guinea,PNG,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,135371,,,,135371,,1566528,,,4
+H0,2001,2001,2001,4,0,1,Import,598,Papua New Guinea,PNG,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,132304,,,,132304,,1508190,,,4
+H0,2001,2001,2001,4,0,1,Import,598,Papua New Guinea,PNG,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,30,,,,30,,56,,,4
+H0,2001,2001,2001,4,0,1,Import,598,Papua New Guinea,PNG,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,129,,,,129,,937,,,4
+H0,2001,2001,2001,4,0,1,Import,598,Papua New Guinea,PNG,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,339,,,,339,,6307,,,4
+H0,2001,2001,2001,4,0,1,Import,598,Papua New Guinea,PNG,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2276,,,,2276,,39086,,,4
+H0,2001,2001,2001,4,0,1,Import,598,Papua New Guinea,PNG,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,144,,,,144,,6089,,,4
+H0,2001,2001,2001,4,0,1,Import,598,Papua New Guinea,PNG,792,Turkey,TUR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,88,,,,88,,3768,,,4
+H0,2001,2001,2001,4,0,1,Import,598,Papua New Guinea,PNG,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,60,,,,60,,1735,,,4
+H0,2001,2001,2001,4,0,1,Import,598,Papua New Guinea,PNG,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1,,,,1,,360,,,4
+H4,2012,2012,2012,4,0,1,Import,598,Papua New Guinea,PNG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,474348,,,,,,4043507,,,0
+H4,2012,2012,2012,4,0,2,Export,598,Papua New Guinea,PNG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2881,,,,,,19568,,,0
+H4,2012,2012,2012,4,0,1,Import,598,Papua New Guinea,PNG,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,318802,,,,,,3615931,,,0
+H4,2012,2012,2012,4,0,2,Export,598,Papua New Guinea,PNG,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2881,,,,,,19568,,,0
+H4,2012,2012,2012,4,0,1,Import,598,Papua New Guinea,PNG,90,Solomon Isds,SLB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5,,,,,,532,,,0
+H4,2012,2012,2012,4,0,1,Import,598,Papua New Guinea,PNG,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,791,,,,,,2720,,,0
+H4,2012,2012,2012,4,0,1,Import,598,Papua New Guinea,PNG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,41,,,,,,15861,,,0
+H4,2012,2012,2012,4,0,1,Import,598,Papua New Guinea,PNG,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36,,,,,,1272,,,0
+H4,2012,2012,2012,4,0,1,Import,598,Papua New Guinea,PNG,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13,,,,,,1517,,,0
+H4,2012,2012,2012,4,0,1,Import,598,Papua New Guinea,PNG,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2,,,,,,285,,,0
+H4,2012,2012,2012,4,0,1,Import,598,Papua New Guinea,PNG,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,128,,,,,,2417,,,0
+H4,2012,2012,2012,4,0,1,Import,598,Papua New Guinea,PNG,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,,,14,,,0
+H4,2012,2012,2012,4,0,1,Import,598,Papua New Guinea,PNG,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,146294,,,,,,344395,,,0
+H4,2012,2012,2012,4,0,1,Import,598,Papua New Guinea,PNG,583,FS Micronesia,FSM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18,,,,,,1841,,,0
+H4,2012,2012,2012,4,0,1,Import,598,Papua New Guinea,PNG,584,Marshall Isds,MHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3,,,,,,272,,,0
+H4,2012,2012,2012,4,0,1,Import,598,Papua New Guinea,PNG,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2,,,,,,104,,,0
+H4,2012,2012,2012,4,0,1,Import,598,Papua New Guinea,PNG,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4678,,,,,,28729,,,0
+H4,2012,2012,2012,4,0,1,Import,598,Papua New Guinea,PNG,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3534,,,,,,27616,,,0
+H3,2011,2011,2011,4,0,1,Import,598,Papua New Guinea,PNG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,324720,,,,324720,,3617638,,,4
+H3,2011,2011,2011,4,0,2,Export,598,Papua New Guinea,PNG,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,536,,,,536,,2430,,,4
+H3,2011,2011,2011,4,0,1,Import,598,Papua New Guinea,PNG,20,Andorra,AND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5,,,,5,,72,,,4
+H3,2011,2011,2011,4,0,1,Import,598,Papua New Guinea,PNG,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,271324,,,,271324,,3432685,,,4
+H3,2011,2011,2011,4,0,1,Import,598,Papua New Guinea,PNG,90,Solomon Isds,SLB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8,,,,8,,409,,,4
+H3,2011,2011,2011,4,0,2,Export,598,Papua New Guinea,PNG,90,Solomon Isds,SLB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,536,,,,536,,2430,,,4
+H3,2011,2011,2011,4,0,1,Import,598,Papua New Guinea,PNG,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,480,,,,480,,8075,,,4
+H3,2011,2011,2011,4,0,1,Import,598,Papua New Guinea,PNG,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,322,,,,322,,22120,,,4
+H3,2011,2011,2011,4,0,1,Import,598,Papua New Guinea,PNG,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,36,,,,36,,14918,,,4
+H3,2011,2011,2011,4,0,1,Import,598,Papua New Guinea,PNG,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12,,,,12,,1367,,,4
+H3,2011,2011,2011,4,0,1,Import,598,Papua New Guinea,PNG,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9,,,,9,,1317,,,4
+H3,2011,2011,2011,4,0,1,Import,598,Papua New Guinea,PNG,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4,,,,4,,40,,,4
+H3,2011,2011,2011,4,0,1,Import,598,Papua New Guinea,PNG,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1264,,,,1264,,15143,,,4
+H3,2011,2011,2011,4,0,1,Import,598,Papua New Guinea,PNG,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,176,,,,176,,4854,,,4
+H3,2011,2011,2011,4,0,1,Import,598,Papua New Guinea,PNG,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,900,,,,900,,2634,,,4
+H3,2011,2011,2011,4,0,1,Import,598,Papua New Guinea,PNG,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,46400,,,,46400,,72300,,,4
+H3,2011,2011,2011,4,0,1,Import,598,Papua New Guinea,PNG,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1000,,,,1000,,21060,,,4
+H3,2011,2011,2011,4,0,1,Import,598,Papua New Guinea,PNG,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2780,,,,2780,,20641,,,4

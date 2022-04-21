@@ -1,0 +1,754 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2004,2004,2004,4,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1815840,,,,,,5223520,,,2
+H2,2004,2004,2004,4,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,26399,,,,,,55758,,,2
+H2,2004,2004,2004,4,0,1,Import,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5989,,,,,,19821,,,2
+H2,2004,2004,2004,4,0,1,Import,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,126149,,,,,,347018,,,2
+H2,2004,2004,2004,4,0,1,Import,704,Viet Nam,VNM,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3278,,,,,,10848,,,2
+H2,2004,2004,2004,4,0,1,Import,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,73128,,,,,,292173,,,2
+H2,2004,2004,2004,4,0,2,Export,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20818,,,,,,32406,,,2
+H2,2004,2004,2004,4,0,1,Import,704,Viet Nam,VNM,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,48710,,,,,,125156,,,2
+H2,2004,2004,2004,4,0,1,Import,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8249,,,,,,27300,,,2
+H2,2004,2004,2004,4,0,1,Import,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1047563,,,,,,2958082,,,2
+H2,2004,2004,2004,4,0,2,Export,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3213,,,,,,14581,,,2
+H2,2004,2004,2004,4,0,1,Import,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13129,,,,,,60582,,,2
+H2,2004,2004,2004,4,0,2,Export,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,140,,,,,,426,,,2
+H2,2004,2004,2004,4,0,1,Import,704,Viet Nam,VNM,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15124,,,,,,45139,,,2
+H2,2004,2004,2004,4,0,1,Import,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,53510,,,,,,186265,,,2
+H2,2004,2004,2004,4,0,1,Import,704,Viet Nam,VNM,352,Iceland,ISL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,800,,,,,,2649,,,2
+H2,2004,2004,2004,4,0,1,Import,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,69120,,,,,,221940,,,2
+H2,2004,2004,2004,4,0,1,Import,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6758,,,,,,22365,,,2
+H2,2004,2004,2004,4,0,2,Export,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1346,,,,,,4335,,,2
+H2,2004,2004,2004,4,0,1,Import,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6629,,,,,,8427,,,2
+H2,2004,2004,2004,4,0,1,Import,704,Viet Nam,VNM,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,32341,,,,,,42823,,,2
+H2,2004,2004,2004,4,0,1,Import,704,Viet Nam,VNM,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,837,,,,,,3887,,,2
+H2,2004,2004,2004,4,0,1,Import,704,Viet Nam,VNM,498,Rep. of Moldova,MDA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,98,,,,,,455,,,2
+H2,2004,2004,2004,4,0,1,Import,704,Viet Nam,VNM,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5341,,,,,,20626,,,2
+H2,2004,2004,2004,4,0,2,Export,704,Viet Nam,VNM,540,New Caledonia,NCL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,32,,,,,,146,,,2
+H2,2004,2004,2004,4,0,1,Import,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4803,,,,,,15895,,,2
+H2,2004,2004,2004,4,0,1,Import,704,Viet Nam,VNM,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5567,,,,,,25862,,,2
+H2,2004,2004,2004,4,0,1,Import,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7838,,,,,,20782,,,2
+H2,2004,2004,2004,4,0,2,Export,704,Viet Nam,VNM,626,Timor-Leste,TLS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5,,,,,,24,,,2
+H2,2004,2004,2004,4,0,1,Import,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,99174,,,,,,285906,,,2
+H2,2004,2004,2004,4,0,1,Import,704,Viet Nam,VNM,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3580,,,,,,16632,,,2
+H2,2004,2004,2004,4,0,1,Import,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9233,,,,,,30587,,,2
+H2,2004,2004,2004,4,0,1,Import,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,53532,,,,,,106674,,,2
+H2,2004,2004,2004,4,0,1,Import,704,Viet Nam,VNM,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,305,,,,,,1008,,,2
+H2,2004,2004,2004,4,0,1,Import,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,32753,,,,,,111333,,,2
+H2,2004,2004,2004,4,0,1,Import,704,Viet Nam,VNM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,82302,,,,,,213285,,,2
+H2,2004,2004,2004,4,0,2,Export,704,Viet Nam,VNM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,846,,,,,,3840,,,2
+H1,2000,2000,2000,4,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2348711,,,,,,5624000,,,2
+H1,2000,2000,2000,4,0,1,Import,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,45526,,,,,,115000,,,2
+H1,2000,2000,2000,4,0,1,Import,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,63188,,,,,,196000,,,2
+H1,2000,2000,2000,4,0,1,Import,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,65169,,,,,,170000,,,2
+H1,2000,2000,2000,4,0,1,Import,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1739838,,,,,,4060000,,,2
+H1,2000,2000,2000,4,0,1,Import,704,Viet Nam,VNM,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16627,,,,,,42000,,,2
+H1,2000,2000,2000,4,0,1,Import,704,Viet Nam,VNM,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,26524,,,,,,67000,,,2
+H1,2000,2000,2000,4,0,1,Import,704,Viet Nam,VNM,643,Russian Federation,RUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,119929,,,,,,372000,,,2
+H1,2000,2000,2000,4,0,1,Import,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,75613,,,,,,191000,,,2
+H1,2000,2000,2000,4,0,1,Import,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,38687,,,,,,120000,,,2
+H1,2000,2000,2000,4,0,1,Import,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,144715,,,,,,251000,,,2
+H1,2000,2000,2000,4,0,1,Import,704,Viet Nam,VNM,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12896,,,,,,40000,,,2
+H1,2001,2001,2001,4,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2574941,,,,,,5766591,,,2
+H1,2001,2001,2001,4,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,24439,,,,,,58554,,,2
+H1,2001,2001,2001,4,0,1,Import,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,92866,,,,,,203711,,,2
+H1,2001,2001,2001,4,0,1,Import,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,33334,,,,,,70655,,,2
+H1,2001,2001,2001,4,0,1,Import,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6445,,,,,,15900,,,2
+H1,2001,2001,2001,4,0,2,Export,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,25,,,,,,60,,,2
+H1,2001,2001,2001,4,0,1,Import,704,Viet Nam,VNM,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10315,,,,,,24685,,,2
+H1,2001,2001,2001,4,0,1,Import,704,Viet Nam,VNM,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6488,,,,,,6300,,,2
+H1,2001,2001,2001,4,0,1,Import,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,64651,,,,,,163400,,,2
+H1,2001,2001,2001,4,0,1,Import,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1777143,,,,,,3950684,,,2
+H1,2001,2001,2001,4,0,2,Export,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7833,,,,,,18768,,,2
+H1,2001,2001,2001,4,0,1,Import,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7847,,,,,,21214,,,2
+H1,2001,2001,2001,4,0,1,Import,704,Viet Nam,VNM,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8723,,,,,,21522,,,2
+H1,2001,2001,2001,4,0,1,Import,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,27779,,,,,,59910,,,2
+H1,2001,2001,2001,4,0,1,Import,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,29004,,,,,,77683,,,2
+H1,2001,2001,2001,4,0,1,Import,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3977,,,,,,9812,,,2
+H1,2001,2001,2001,4,0,2,Export,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11931,,,,,,28586,,,2
+H1,2001,2001,2001,4,0,1,Import,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5376,,,,,,5220,,,2
+H1,2001,2001,2001,4,0,1,Import,704,Viet Nam,VNM,498,Rep. of Moldova,MDA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6084,,,,,,19500,,,2
+H1,2001,2001,2001,4,0,1,Import,704,Viet Nam,VNM,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,22059,,,,,,46896,,,2
+H1,2001,2001,2001,4,0,1,Import,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1549,,,,,,3821,,,2
+H1,2001,2001,2001,4,0,1,Import,704,Viet Nam,VNM,608,Philippines,PHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,24323,,,,,,41380,,,2
+H1,2001,2001,2001,4,0,1,Import,704,Viet Nam,VNM,643,Russian Federation,RUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,152011,,,,,,338232,,,2
+H1,2001,2001,2001,4,0,1,Import,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,129034,,,,,,350047,,,2
+H1,2001,2001,2001,4,0,2,Export,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4650,,,,,,11140,,,2
+H1,2001,2001,2001,4,0,1,Import,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7989,,,,,,22988,,,2
+H1,2001,2001,2001,4,0,1,Import,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,100242,,,,,,160010,,,2
+H1,2001,2001,2001,4,0,1,Import,704,Viet Nam,VNM,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4935,,,,,,15818,,,2
+H1,2001,2001,2001,4,0,1,Import,704,Viet Nam,VNM,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,52768,,,,,,137203,,,2
+H1,2002,2002,2002,4,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1768906,,,,,,5246268,,,2
+H1,2002,2002,2002,4,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,41161,,,,,,97978,,,2
+H1,2002,2002,2002,4,0,1,Import,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5418,,,,,,19376,,,2
+H1,2002,2002,2002,4,0,1,Import,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,86000,,,,,,295852,,,2
+H1,2002,2002,2002,4,0,1,Import,704,Viet Nam,VNM,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,973,,,,,,3480,,,2
+H1,2002,2002,2002,4,0,1,Import,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,48163,,,,,,137678,,,2
+H1,2002,2002,2002,4,0,1,Import,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,194,,,,,,692,,,2
+H1,2002,2002,2002,4,0,1,Import,704,Viet Nam,VNM,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,20504,,,,,,48578,,,2
+H1,2002,2002,2002,4,0,1,Import,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36764,,,,,,130966,,,2
+H1,2002,2002,2002,4,0,1,Import,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1156816,,,,,,3377464,,,2
+H1,2002,2002,2002,4,0,1,Import,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5138,,,,,,18375,,,2
+H1,2002,2002,2002,4,0,1,Import,704,Viet Nam,VNM,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16663,,,,,,46951,,,2
+H1,2002,2002,2002,4,0,1,Import,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,23278,,,,,,81310,,,2
+H1,2002,2002,2002,4,0,1,Import,704,Viet Nam,VNM,352,Iceland,ISL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,335,,,,,,1199,,,2
+H1,2002,2002,2002,4,0,1,Import,704,Viet Nam,VNM,372,Ireland,IRL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3820,,,,,,13662,,,2
+H1,2002,2002,2002,4,0,1,Import,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,29540,,,,,,97557,,,2
+H1,2002,2002,2002,4,0,1,Import,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11663,,,,,,41708,,,2
+H1,2002,2002,2002,4,0,2,Export,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,37633,,,,,,84199,,,2
+H1,2002,2002,2002,4,0,1,Import,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,336,,,,,,1200,,,2
+H1,2002,2002,2002,4,0,1,Import,704,Viet Nam,VNM,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1904,,,,,,6808,,,2
+H1,2002,2002,2002,4,0,1,Import,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1681,,,,,,5515,,,2
+H1,2002,2002,2002,4,0,1,Import,704,Viet Nam,VNM,616,Poland,POL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,323,,,,,,1155,,,2
+H1,2002,2002,2002,4,0,1,Import,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,464,,,,,,425,,,2
+H1,2002,2002,2002,4,0,1,Import,704,Viet Nam,VNM,643,Russian Federation,RUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,134912,,,,,,337913,,,2
+H1,2002,2002,2002,4,0,1,Import,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,44550,,,,,,128195,,,2
+H1,2002,2002,2002,4,0,2,Export,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1536,,,,,,6000,,,2
+H1,2002,2002,2002,4,0,1,Import,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3257,,,,,,11458,,,2
+H1,2002,2002,2002,4,0,1,Import,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,24540,,,,,,87425,,,2
+H1,2002,2002,2002,4,0,1,Import,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,41841,,,,,,117305,,,2
+H1,2002,2002,2002,4,0,2,Export,704,Viet Nam,VNM,804,Ukraine,UKR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1992,,,,,,7779,,,2
+H1,2002,2002,2002,4,0,1,Import,704,Viet Nam,VNM,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,69830,,,,,,234021,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2379723,,,,,,5452937,,,2
+H1,2003,2003,2003,4,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,17327,,,,,,37255,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10483,,,,,,27725,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,138793,,,,,,268370,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,403,,,,,,1174,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1081,,,,,,1924,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,31709,,,,,,49192,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,112,Belarus,BLR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4533,,,,,,13200,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8288,,,,,,8880,,,2
+H1,2003,2003,2003,4,0,2,Export,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10927,,,,,,12016,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,34885,,,,,,55045,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18579,,,,,,54098,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1323631,,,,,,2860128,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,27367,,,,,,89856,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,62528,,,,,,150290,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,72040,,,,,,233476,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,372,Ireland,IRL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,664,,,,,,1932,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,111792,,,,,,243701,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10187,,,,,,28929,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11765,,,,,,34560,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,442,Luxembourg,LUX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10350,,,,,,15732,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,458,Malaysia,MYS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,464,,,,,,1350,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,490,"Other Asia, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1621,,,,,,1737,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3205,,,,,,8470,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,616,Poland,POL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5783,,,,,,23400,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2292,,,,,,6675,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,643,Russian Federation,RUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,120095,,,,,,427161,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,149662,,,,,,387229,,,2
+H1,2003,2003,2003,4,0,2,Export,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6400,,,,,,25239,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16852,,,,,,40514,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,20844,,,,,,37569,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,61142,,,,,,118800,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9818,,,,,,28587,,,2
+H1,2003,2003,2003,4,0,1,Import,704,Viet Nam,VNM,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,108863,,,,,,233233,,,2
+H3,2008,2008,2008,4,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,13468859,,,0
+H3,2008,2008,2008,4,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,32620,,94384,,,4
+H3,2008,2008,2008,4,0,1,Import,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,36539,,137372,,,4
+H3,2008,2008,2008,4,0,1,Import,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,1336366,,,0
+H3,2008,2008,2008,4,0,1,Import,704,Viet Nam,VNM,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,2469,,9281,,,4
+H3,2008,2008,2008,4,0,1,Import,704,Viet Nam,VNM,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,249957,,,0
+H3,2008,2008,2008,4,0,1,Import,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,219086,,,0
+H3,2008,2008,2008,4,0,2,Export,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,9116,,17085,,,4
+H3,2008,2008,2008,4,0,1,Import,704,Viet Nam,VNM,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,2309,,8679,,,4
+H3,2008,2008,2008,4,0,1,Import,704,Viet Nam,VNM,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,1875529,,,0
+H3,2008,2008,2008,4,0,1,Import,704,Viet Nam,VNM,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,3336,,12542,,,4
+H3,2008,2008,2008,4,0,1,Import,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,40924,,,0
+H3,2008,2008,2008,4,0,2,Export,704,Viet Nam,VNM,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,858,,3355,,,4
+H3,2008,2008,2008,4,0,1,Import,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,5749991,,,0
+H3,2008,2008,2008,4,0,2,Export,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,1070,,4184,,,4
+H3,2008,2008,2008,4,0,1,Import,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,130923,,,0
+H3,2008,2008,2008,4,0,1,Import,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,290875,,,0
+H3,2008,2008,2008,4,0,1,Import,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,487767,,,0
+H3,2008,2008,2008,4,0,2,Export,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,10301,,40886,,,4
+H3,2008,2008,2008,4,0,1,Import,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,1117,,4200,,,4
+H3,2008,2008,2008,4,0,2,Export,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,5614,,21951,,,4
+H3,2008,2008,2008,4,0,1,Import,704,Viet Nam,VNM,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,680,,2555,,,4
+H3,2008,2008,2008,4,0,1,Import,704,Viet Nam,VNM,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,3013,,11328,,,4
+H3,2008,2008,2008,4,0,1,Import,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,29610,,97162,,,4
+H3,2008,2008,2008,4,0,1,Import,704,Viet Nam,VNM,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,8640,,,0
+H3,2008,2008,2008,4,0,1,Import,704,Viet Nam,VNM,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,13854,,52086,,,4
+H3,2008,2008,2008,4,0,1,Import,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,37224,,67832,,,4
+H3,2008,2008,2008,4,0,1,Import,704,Viet Nam,VNM,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,1268,,4766,,,4
+H3,2008,2008,2008,4,0,1,Import,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,1058322,,,0
+H3,2008,2008,2008,4,0,1,Import,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,110201,,205059,,,4
+H3,2008,2008,2008,4,0,1,Import,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,78637,,295640,,,4
+H3,2008,2008,2008,4,0,1,Import,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,57304,,215437,,,4
+H3,2008,2008,2008,4,0,2,Export,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,5661,,6923,,,4
+H3,2008,2008,2008,4,0,1,Import,704,Viet Nam,VNM,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,1814,,6820,,,4
+H3,2008,2008,2008,4,0,1,Import,704,Viet Nam,VNM,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,4780,,17969,,,4
+H3,2008,2008,2008,4,0,1,Import,704,Viet Nam,VNM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,229949,,594399,,,4
+H3,2008,2008,2008,4,0,1,Import,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,214188,,277352,,,4
+H3,2009,2009,2009,4,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,12272940,,,0
+H3,2009,2009,2009,4,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,86456,,,0
+H3,2009,2009,2009,4,0,1,Import,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,228870,,,0
+H3,2009,2009,2009,4,0,1,Import,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,2096757,,,0
+H3,2009,2009,2009,4,0,2,Export,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,735,,3625,,,4
+H3,2009,2009,2009,4,0,1,Import,704,Viet Nam,VNM,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,23053,,77947,,,4
+H3,2009,2009,2009,4,0,1,Import,704,Viet Nam,VNM,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,5775,,,0
+H3,2009,2009,2009,4,0,1,Import,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,157191,,,0
+H3,2009,2009,2009,4,0,2,Export,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,19710,,,0
+H3,2009,2009,2009,4,0,1,Import,704,Viet Nam,VNM,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,2381,,,0
+H3,2009,2009,2009,4,0,1,Import,704,Viet Nam,VNM,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,2266827,,,0
+H3,2009,2009,2009,4,0,1,Import,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,6908,,27294,,,4
+H3,2009,2009,2009,4,0,1,Import,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,4747812,,,0
+H3,2009,2009,2009,4,0,1,Import,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,3146,,12428,,,4
+H3,2009,2009,2009,4,0,1,Import,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,238408,,,0
+H3,2009,2009,2009,4,0,2,Export,704,Viet Nam,VNM,360,Indonesia,IDN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,791,,3900,,,4
+H3,2009,2009,2009,4,0,1,Import,704,Viet Nam,VNM,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,15923,,,0
+H3,2009,2009,2009,4,0,1,Import,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,600181,,,0
+H3,2009,2009,2009,4,0,2,Export,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,34874,,,0
+H3,2009,2009,2009,4,0,1,Import,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,21193,,45025,,,4
+H3,2009,2009,2009,4,0,2,Export,704,Viet Nam,VNM,418,Lao People's Dem. Rep.,LAO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,6237,,10200,,,4
+H3,2009,2009,2009,4,0,1,Import,704,Viet Nam,VNM,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,806,,3185,,,4
+H3,2009,2009,2009,4,0,1,Import,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,115344,,,0
+H3,2009,2009,2009,4,0,1,Import,704,Viet Nam,VNM,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,25991,,102688,,,4
+H3,2009,2009,2009,4,0,1,Import,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,14909,,,0
+H3,2009,2009,2009,4,0,1,Import,704,Viet Nam,VNM,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,311,,1230,,,4
+H3,2009,2009,2009,4,0,1,Import,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,306475,,,0
+H3,2009,2009,2009,4,0,1,Import,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,196170,,,0
+H3,2009,2009,2009,4,0,1,Import,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,51619,,203940,,,4
+H3,2009,2009,2009,4,0,2,Export,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,7935,,14147,,,4
+H3,2009,2009,2009,4,0,1,Import,704,Viet Nam,VNM,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,1785,,7054,,,4
+H3,2009,2009,2009,4,0,1,Import,704,Viet Nam,VNM,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,15178,,30082,,,4
+H3,2009,2009,2009,4,0,1,Import,704,Viet Nam,VNM,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,15472,,,0
+H3,2009,2009,2009,4,0,1,Import,704,Viet Nam,VNM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,731434,,,0
+H3,2009,2009,2009,4,0,1,Import,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,22139,,,0
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2659969,,,,,,7523012,,,2
+H2,2005,2005,2005,4,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,41382,,,,,,131245,,,2
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11788,,,,,,39010,,,2
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,229752,,,,,,675834,,,2
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,270,,,,,,892,,,2
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2334,,,,,,9825,,,2
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,73014,,,,,,269234,,,2
+H2,2005,2005,2005,4,0,2,Export,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14479,,,,,,22733,,,2
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4056,,,,,,13423,,,2
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,75975,,,,,,182331,,,2
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3059,,,,,,10173,,,2
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,35971,,,,,,119040,,,2
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2720,,,,,,9000,,,2
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1585065,,,,,,4188475,,,2
+H2,2005,2005,2005,4,0,2,Export,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3965,,,,,,17993,,,2
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,38373,,,,,,86704,,,2
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12865,,,,,,44996,,,2
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,41870,,,,,,162709,,,2
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,136241,,,,,,412767,,,2
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,31711,,,,,,141876,,,2
+H2,2005,2005,2005,4,0,2,Export,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13106,,,,,,45896,,,2
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11269,,,,,,39380,,,2
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3177,,,,,,7470,,,2
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5461,,,,,,18359,,,2
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,48,,,,,,225,,,2
+H2,2005,2005,2005,4,0,2,Export,704,Viet Nam,VNM,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,485,,,,,,2200,,,2
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,498,Rep. of Moldova,MDA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9692,,,,,,39322,,,2
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1735,,,,,,2040,,,2
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6749,,,,,,22335,,,2
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,25650,,,,,,84884,,,2
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,363,,,,,,1200,,,2
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,138327,,,,,,371701,,,2
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21013,,,,,,63561,,,2
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20170,,,,,,71823,,,2
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19876,,,,,,66054,,,2
+H2,2005,2005,2005,4,0,1,Import,704,Viet Nam,VNM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,111377,,,,,,368369,,,2
+H2,2005,2005,2005,4,0,2,Export,704,Viet Nam,VNM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9347,,,,,,42423,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2515564,,,,,,7256225,,,2
+H2,2006,2006,2006,4,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,44705,,,,,,137828,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,25528,,,,,,77675,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,289296,,,,,,825417,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1037,,,,,,3431,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,46415,,,,,,191194,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,112,Belarus,BLR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1368,,,,,,6354,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,206,,,,,,681,,,2
+H2,2006,2006,2006,4,0,2,Export,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1412,,,,,,4549,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10215,,,,,,33806,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,103740,,,,,,326631,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,25623,,,,,,84796,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1267655,,,,,,3756012,,,2
+H2,2006,2006,2006,4,0,2,Export,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7554,,,,,,26822,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12271,,,,,,42458,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4798,,,,,,21429,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,33569,,,,,,136740,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,364,Iran,IRN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,926,,,,,,3064,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2497,,,,,,8265,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,97461,,,,,,299752,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4880,,,,,,5736,,,2
+H2,2006,2006,2006,4,0,2,Export,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12676,,,,,,41297,,,2
+H2,2006,2006,2006,4,0,2,Export,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2045,,,,,,6589,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9079,,,,,,17710,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6660,,,,,,10849,,,2
+H2,2006,2006,2006,4,0,2,Export,704,Viet Nam,VNM,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6656,,,,,,30208,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,498,Rep. of Moldova,MDA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1103,,,,,,5123,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,609,,,,,,2828,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19892,,,,,,63868,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15972,,,,,,22011,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,112,,,,,,520,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,342,,,,,,1132,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,292774,,,,,,655934,,,2
+H2,2006,2006,2006,4,0,2,Export,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,356,,,,,,1617,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,30410,,,,,,92512,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,84087,,,,,,141671,,,2
+H2,2006,2006,2006,4,0,2,Export,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6788,,,,,,9311,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,349,,,,,,1155,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,32341,,,,,,115292,,,2
+H2,2006,2006,2006,4,0,2,Export,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3521,,,,,,4830,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4195,,,,,,13882,,,2
+H2,2006,2006,2006,4,0,1,Import,704,Viet Nam,VNM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,90155,,,,,,288297,,,2
+H2,2006,2006,2006,4,0,2,Export,704,Viet Nam,VNM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1239,,,,,,4688,,,2
+H2,2006,2006,2006,4,0,2,Export,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2457,,,,,,7917,,,2
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,12159050,,,0
+H2,2007,2007,2007,4,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,115648,,169309,,,4
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,26652,,76856,,,4
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,1781216,,,0
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,11692,,37626,,,4
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,5101,,9259,,,4
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,199591,,,0
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,112,Belarus,BLR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,9900,,,0
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,630,,2029,,,4
+H2,2007,2007,2007,4,0,2,Export,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,246,,740,,,4
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,934,,3007,,,4
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,1008888,,,0
+H2,2007,2007,2007,4,0,2,Export,704,Viet Nam,VNM,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,3332,,3460,,,4
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,12511,,39621,,,4
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,6295883,,,0
+H2,2007,2007,2007,4,0,2,Export,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,14867,,44794,,,4
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,76117,,,0
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,228813,,,0
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,4657,,14986,,,4
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,485776,,,0
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,11439,,12461,,,4
+H2,2007,2007,2007,4,0,2,Export,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,9025,,27192,,,4
+H2,2007,2007,2007,4,0,2,Export,704,Viet Nam,VNM,408,Dem. People's Rep. of Korea,PRK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,8534,,8863,,,4
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,13265,,42688,,,4
+H2,2007,2007,2007,4,0,2,Export,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,7508,,7797,,,4
+H2,2007,2007,2007,4,0,2,Export,704,Viet Nam,VNM,418,Lao People's Dem. Rep.,LAO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,40250,,41800,,,4
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,30316,,,0
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,41447,,47880,,,4
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,466,,1500,,,4
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,705,,2270,,,4
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,59488,,,0
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,44981,,71276,,,4
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,691465,,,0
+H2,2007,2007,2007,4,0,2,Export,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,10942,,11363,,,4
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,43641,,134766,,,4
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,216371,,,0
+H2,2007,2007,2007,4,0,2,Export,704,Viet Nam,VNM,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,784,,2362,,,4
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,3241,,3744,,,4
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,106392,,,0
+H2,2007,2007,2007,4,0,2,Export,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,11627,,12075,,,4
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,291,,937,,,4
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,13327,,42889,,,4
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,159742,,387155,,,4
+H2,2007,2007,2007,4,0,1,Import,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,,,37884,,,0
+H2,2007,2007,2007,4,0,2,Export,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",1,No Quantity,,,,,8534,,8863,,,4
+H4,2012,2012,2012,4,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,13548981,,,0
+H4,2012,2012,2012,4,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,590318,,,0
+H4,2012,2012,2012,4,0,1,Import,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,514374,,,0
+H4,2012,2012,2012,4,0,1,Import,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,1278876,,,0
+H4,2012,2012,2012,4,0,1,Import,704,Viet Nam,VNM,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,18047,,,0
+H4,2012,2012,2012,4,0,1,Import,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,55008,,,0
+H4,2012,2012,2012,4,0,1,Import,704,Viet Nam,VNM,112,Belarus,BLR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,40300,,,0
+H4,2012,2012,2012,4,0,2,Export,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,120838,,,0
+H4,2012,2012,2012,4,0,1,Import,704,Viet Nam,VNM,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,15062,,,0
+H4,2012,2012,2012,4,0,1,Import,704,Viet Nam,VNM,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,3677623,,,0
+H4,2012,2012,2012,4,0,2,Export,704,Viet Nam,VNM,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,16528,,,0
+H4,2012,2012,2012,4,0,1,Import,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,4969392,,,0
+H4,2012,2012,2012,4,0,1,Import,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,62440,,,0
+H4,2012,2012,2012,4,0,1,Import,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,216041,,,0
+H4,2012,2012,2012,4,0,1,Import,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,966373,,,0
+H4,2012,2012,2012,4,0,1,Import,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,53537,,,0
+H4,2012,2012,2012,4,0,2,Export,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,34168,,,0
+H4,2012,2012,2012,4,0,2,Export,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,7602,,,0
+H4,2012,2012,2012,4,0,2,Export,704,Viet Nam,VNM,418,Lao People's Dem. Rep.,LAO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,12260,,,0
+H4,2012,2012,2012,4,0,2,Export,704,Viet Nam,VNM,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,319,,,0
+H4,2012,2012,2012,4,0,2,Export,704,Viet Nam,VNM,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,1573,,,0
+H4,2012,2012,2012,4,0,1,Import,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,187400,,,0
+H4,2012,2012,2012,4,0,1,Import,704,Viet Nam,VNM,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,18171,,,0
+H4,2012,2012,2012,4,0,1,Import,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,56602,,,0
+H4,2012,2012,2012,4,0,1,Import,704,Viet Nam,VNM,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,47171,,,0
+H4,2012,2012,2012,4,0,1,Import,704,Viet Nam,VNM,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,8807,,,0
+H4,2012,2012,2012,4,0,1,Import,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,203319,,,0
+H4,2012,2012,2012,4,0,1,Import,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,337983,,,0
+H4,2012,2012,2012,4,0,1,Import,704,Viet Nam,VNM,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,541,,,0
+H4,2012,2012,2012,4,0,1,Import,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,142560,,,0
+H4,2012,2012,2012,4,0,2,Export,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,381785,,,0
+H4,2012,2012,2012,4,0,1,Import,704,Viet Nam,VNM,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,77616,,,0
+H4,2012,2012,2012,4,0,1,Import,704,Viet Nam,VNM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,498583,,,0
+H4,2012,2012,2012,4,0,1,Import,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,103154,,,0
+H4,2012,2012,2012,4,0,2,Export,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,15244,,,0
+H4,2013,2013,2013,4,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,6206531,,16381566,,,4
+H4,2013,2013,2013,4,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,233337,,,0
+H4,2013,2013,2013,4,0,1,Import,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,285264,,666365,,,4
+H4,2013,2013,2013,4,0,1,Import,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,655767,,1590033,,,4
+H4,2013,2013,2013,4,0,1,Import,704,Viet Nam,VNM,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,7648,,25177,,,4
+H4,2013,2013,2013,4,0,1,Import,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,28599,,122218,,,4
+H4,2013,2013,2013,4,0,1,Import,704,Viet Nam,VNM,112,Belarus,BLR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,12191,,58396,,,4
+H4,2013,2013,2013,4,0,2,Export,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,37981,,,0
+H4,2013,2013,2013,4,0,1,Import,704,Viet Nam,VNM,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,9284,,32930,,,4
+H4,2013,2013,2013,4,0,1,Import,704,Viet Nam,VNM,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,1731884,,4927855,,,4
+H4,2013,2013,2013,4,0,1,Import,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,2352841,,5565758,,,4
+H4,2013,2013,2013,4,0,2,Export,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,33883,,42706,,,4
+H4,2013,2013,2013,4,0,1,Import,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,13305,,28785,,,4
+H4,2013,2013,2013,4,0,1,Import,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,63920,,270751,,,4
+H4,2013,2013,2013,4,0,1,Import,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,354267,,1081633,,,4
+H4,2013,2013,2013,4,0,1,Import,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,3121,,5718,,,4
+H4,2013,2013,2013,4,0,2,Export,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,9301,,32748,,,4
+H4,2013,2013,2013,4,0,2,Export,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,460,,1890,,,4
+H4,2013,2013,2013,4,0,2,Export,704,Viet Nam,VNM,418,Lao People's Dem. Rep.,LAO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,2893,,11899,,,4
+H4,2013,2013,2013,4,0,2,Export,704,Viet Nam,VNM,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,715,,,0
+H4,2013,2013,2013,4,0,1,Import,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,87446,,200303,,,4
+H4,2013,2013,2013,4,0,1,Import,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,6515,,13686,,,4
+H4,2013,2013,2013,4,0,1,Import,704,Viet Nam,VNM,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,10254,,36372,,,4
+H4,2013,2013,2013,4,0,1,Import,704,Viet Nam,VNM,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,2913,,10334,,,4
+H4,2013,2013,2013,4,0,1,Import,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,73338,,258209,,,4
+H4,2013,2013,2013,4,0,1,Import,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,187390,,622866,,,4
+H4,2013,2013,2013,4,0,2,Export,704,Viet Nam,VNM,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,3330,,4198,,,4
+H4,2013,2013,2013,4,0,1,Import,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,40308,,142972,,,4
+H4,2013,2013,2013,4,0,2,Export,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,39350,,95659,,,4
+H4,2013,2013,2013,4,0,1,Import,704,Viet Nam,VNM,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,203,,720,,,4
+H4,2013,2013,2013,4,0,1,Import,704,Viet Nam,VNM,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,24080,,115344,,,4
+H4,2013,2013,2013,4,0,1,Import,704,Viet Nam,VNM,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,24088,,31062,,,4
+H4,2013,2013,2013,4,0,1,Import,704,Viet Nam,VNM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,145823,,452199,,,4
+H4,2013,2013,2013,4,0,1,Import,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,86083,,121879,,,4
+H4,2013,2013,2013,4,0,2,Export,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,1347,,5540,,,4
+H4,2014,2014,2014,4,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,6949261,,17275874,,,4
+H4,2014,2014,2014,4,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,1420425,,,0
+H4,2014,2014,2014,4,0,1,Import,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,245428,,554876,,,4
+H4,2014,2014,2014,4,0,1,Import,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,759550,,1777982,,,4
+H4,2014,2014,2014,4,0,1,Import,704,Viet Nam,VNM,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,14758,,39706,,,4
+H4,2014,2014,2014,4,0,1,Import,704,Viet Nam,VNM,112,Belarus,BLR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,5285,,23424,,,4
+H4,2014,2014,2014,4,0,2,Export,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,61064,,,0
+H4,2014,2014,2014,4,0,1,Import,704,Viet Nam,VNM,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,830,,3000,,,4
+H4,2014,2014,2014,4,0,1,Import,704,Viet Nam,VNM,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,2086652,,5438427,,,4
+H4,2014,2014,2014,4,0,2,Export,704,Viet Nam,VNM,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,22616,,53286,,,4
+H4,2014,2014,2014,4,0,1,Import,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,2702153,,5985600,,,4
+H4,2014,2014,2014,4,0,2,Export,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,296725,,419594,,,4
+H4,2014,2014,2014,4,0,1,Import,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,14340,,44621,,,4
+H4,2014,2014,2014,4,0,1,Import,704,Viet Nam,VNM,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,8222,,29728,,,4
+H4,2014,2014,2014,4,0,1,Import,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,43565,,175162,,,4
+H4,2014,2014,2014,4,0,1,Import,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,462376,,1444116,,,4
+H4,2014,2014,2014,4,0,2,Export,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,8957,,35584,,,4
+H4,2014,2014,2014,4,0,2,Export,704,Viet Nam,VNM,418,Lao People's Dem. Rep.,LAO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,23627,,104985,,,4
+H4,2014,2014,2014,4,0,1,Import,704,Viet Nam,VNM,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,97,,351,,,4
+H4,2014,2014,2014,4,0,1,Import,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,149215,,369354,,,4
+H4,2014,2014,2014,4,0,1,Import,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,6439,,14661,,,4
+H4,2014,2014,2014,4,0,1,Import,704,Viet Nam,VNM,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,7119,,25740,,,4
+H4,2014,2014,2014,4,0,1,Import,704,Viet Nam,VNM,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,762,,2756,,,4
+H4,2014,2014,2014,4,0,1,Import,704,Viet Nam,VNM,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,6914,,25000,,,4
+H4,2014,2014,2014,4,0,1,Import,704,Viet Nam,VNM,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,2580,,9329,,,4
+H4,2014,2014,2014,4,0,1,Import,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,100690,,356593,,,4
+H4,2014,2014,2014,4,0,1,Import,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,134696,,374664,,,4
+H4,2014,2014,2014,4,0,1,Import,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,5568,,20133,,,4
+H4,2014,2014,2014,4,0,2,Export,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,181911,,741915,,,4
+H4,2014,2014,2014,4,0,1,Import,704,Viet Nam,VNM,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,11263,,16496,,,4
+H4,2014,2014,2014,4,0,1,Import,704,Viet Nam,VNM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,180760,,544155,,,4
+H4,2014,2014,2014,4,0,2,Export,704,Viet Nam,VNM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,900,,3997,,,4
+H3,2010,2010,2010,4,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,4789127,,13397160,,,4
+H3,2010,2010,2010,4,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,95681,,155428,,,4
+H3,2010,2010,2010,4,0,1,Import,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,165565,,397770,,,4
+H3,2010,2010,2010,4,0,1,Import,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,875557,,1973010,,,4
+H3,2010,2010,2010,4,0,1,Import,704,Viet Nam,VNM,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,8686,,32190,,,4
+H3,2010,2010,2010,4,0,2,Export,704,Viet Nam,VNM,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,69346,,77770,,,4
+H3,2010,2010,2010,4,0,1,Import,704,Viet Nam,VNM,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,7061,,28980,,,4
+H3,2010,2010,2010,4,0,1,Import,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,29035,,138840,,,4
+H3,2010,2010,2010,4,0,1,Import,704,Viet Nam,VNM,112,Belarus,BLR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,7951,,34990,,,4
+H3,2010,2010,2010,4,0,2,Export,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,7365,,32783,,,4
+H3,2010,2010,2010,4,0,1,Import,704,Viet Nam,VNM,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,332,,1230,,,4
+H3,2010,2010,2010,4,0,1,Import,704,Viet Nam,VNM,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,1286381,,3547390,,,4
+H3,2010,2010,2010,4,0,1,Import,704,Viet Nam,VNM,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,6862,,25430,,,4
+H3,2010,2010,2010,4,0,2,Export,704,Viet Nam,VNM,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,1469,,5678,,,4
+H3,2010,2010,2010,4,0,1,Import,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,4291,,15900,,,4
+H3,2010,2010,2010,4,0,1,Import,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,1675880,,4731030,,,4
+H3,2010,2010,2010,4,0,2,Export,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,1242,,5960,,,4
+H3,2010,2010,2010,4,0,1,Import,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,5040,,13100,,,4
+H3,2010,2010,2010,4,0,2,Export,704,Viet Nam,VNM,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,1038,,4012,,,4
+H3,2010,2010,2010,4,0,1,Import,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,80799,,354370,,,4
+H3,2010,2010,2010,4,0,1,Import,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,175664,,651470,,,4
+H3,2010,2010,2010,4,0,1,Import,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,2547,,9440,,,4
+H3,2010,2010,2010,4,0,2,Export,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,3390,,13103,,,4
+H3,2010,2010,2010,4,0,1,Import,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,11368,,23670,,,4
+H3,2010,2010,2010,4,0,2,Export,704,Viet Nam,VNM,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,777,,3725,,,4
+H3,2010,2010,2010,4,0,1,Import,704,Viet Nam,VNM,498,Rep. of Moldova,MDA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,3964,,14690,,,4
+H3,2010,2010,2010,4,0,1,Import,704,Viet Nam,VNM,516,Namibia,NAM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,521,,1930,,,4
+H3,2010,2010,2010,4,0,1,Import,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,48116,,157180,,,4
+H3,2010,2010,2010,4,0,1,Import,704,Viet Nam,VNM,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,6927,,25670,,,4
+H3,2010,2010,2010,4,0,1,Import,704,Viet Nam,VNM,616,Poland,POL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,863,,1100,,,4
+H3,2010,2010,2010,4,0,1,Import,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,4515,,16730,,,4
+H3,2010,2010,2010,4,0,1,Import,704,Viet Nam,VNM,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,1600,,5930,,,4
+H3,2010,2010,2010,4,0,1,Import,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,61995,,230280,,,4
+H3,2010,2010,2010,4,0,1,Import,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,103508,,334930,,,4
+H3,2010,2010,2010,4,0,1,Import,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,55033,,203940,,,4
+H3,2010,2010,2010,4,0,2,Export,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,11054,,12397,,,4
+H3,2010,2010,2010,4,0,1,Import,704,Viet Nam,VNM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,159067,,425970,,,4
+H3,2011,2011,2011,4,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,7031668,,16486836,,,4
+H3,2011,2011,2011,4,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,202655,,,0
+H3,2011,2011,2011,4,0,1,Import,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,300005,,613297,,,4
+H3,2011,2011,2011,4,0,1,Import,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,1066454,,2040503,,,4
+H3,2011,2011,2011,4,0,1,Import,704,Viet Nam,VNM,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,13841,,33811,,,4
+H3,2011,2011,2011,4,0,1,Import,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,33399,,129408,,,4
+H3,2011,2011,2011,4,0,2,Export,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,84302,,,0
+H3,2011,2011,2011,4,0,1,Import,704,Viet Nam,VNM,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,1333,,4401,,,4
+H3,2011,2011,2011,4,0,1,Import,704,Viet Nam,VNM,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,1991005,,4598312,,,4
+H3,2011,2011,2011,4,0,2,Export,704,Viet Nam,VNM,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,9195,,,0
+H3,2011,2011,2011,4,0,1,Import,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,12440,,14023,,,4
+H3,2011,2011,2011,4,0,1,Import,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,2610603,,6233482,,,4
+H3,2011,2011,2011,4,0,1,Import,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,13466,,35635,,,4
+H3,2011,2011,2011,4,0,1,Import,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,80023,,294611,,,4
+H3,2011,2011,2011,4,0,1,Import,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,358451,,1011032,,,4
+H3,2011,2011,2011,4,0,1,Import,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,5580,,6998,,,4
+H3,2011,2011,2011,4,0,2,Export,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,22355,,,0
+H3,2011,2011,2011,4,0,1,Import,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,7145,,23596,,,4
+H3,2011,2011,2011,4,0,2,Export,704,Viet Nam,VNM,418,Lao People's Dem. Rep.,LAO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,1565,,,0
+H3,2011,2011,2011,4,0,2,Export,704,Viet Nam,VNM,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,237,,1118,,,4
+H3,2011,2011,2011,4,0,2,Export,704,Viet Nam,VNM,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,1512,,7129,,,4
+H3,2011,2011,2011,4,0,1,Import,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,82506,,190644,,,4
+H3,2011,2011,2011,4,0,1,Import,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,9394,,31023,,,4
+H3,2011,2011,2011,4,0,1,Import,704,Viet Nam,VNM,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,6169,,20372,,,4
+H3,2011,2011,2011,4,0,1,Import,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,68734,,227829,,,4
+H3,2011,2011,2011,4,0,1,Import,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,134208,,354886,,,4
+H3,2011,2011,2011,4,0,1,Import,704,Viet Nam,VNM,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,1254,,4140,,,4
+H3,2011,2011,2011,4,0,1,Import,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,59357,,196020,,,4
+H3,2011,2011,2011,4,0,2,Export,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,65951,,,0
+H3,2011,2011,2011,4,0,1,Import,704,Viet Nam,VNM,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,10185,,33636,,,4
+H3,2011,2011,2011,4,0,1,Import,704,Viet Nam,VNM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,166117,,389177,,,4
+H3,2011,2011,2011,4,0,2,Export,704,Viet Nam,VNM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",1,No Quantity,,,,,,,11040,,,0
+H5,2018,2018,2018,4,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9200168,,,,9752829,,27706815,,,6
+H5,2018,2018,2018,4,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,840064,,,,855466,,1462225,,,6
+H5,2018,2018,2018,4,0,1,Import,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,307826,,,,320902,,740027,,,6
+H5,2018,2018,2018,4,0,1,Import,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,621067,,,,666258,,2107361,,,6
+H5,2018,2018,2018,4,0,1,Import,704,Viet Nam,VNM,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19716,,,,21688,,82775,,,6
+H5,2018,2018,2018,4,0,1,Import,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9496,,,,10277,,42814,,,6
+H5,2018,2018,2018,4,0,1,Import,704,Viet Nam,VNM,112,Belarus,BLR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6600,,,,6876,,34406,,,6
+H5,2018,2018,2018,4,0,2,Export,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3522,,,,3422,,14676,,,6
+H5,2018,2018,2018,4,0,1,Import,704,Viet Nam,VNM,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2026,,,,2230,,8491,,,6
+H5,2018,2018,2018,4,0,1,Import,704,Viet Nam,VNM,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3113306,,,,3280195,,8665380,,,6
+H5,2018,2018,2018,4,0,2,Export,704,Viet Nam,VNM,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3912,,,,3801,,16302,,,6
+H5,2018,2018,2018,4,0,1,Import,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3645,,,,4011,,15270,,,6
+H5,2018,2018,2018,4,0,1,Import,704,Viet Nam,VNM,246,Finland,FIN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,588,,,,648,,2466,,,6
+H5,2018,2018,2018,4,0,1,Import,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2480731,,,,2605408,,6756155,,,6
+H5,2018,2018,2018,4,0,2,Export,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,784563,,,,801264,,1225850,,,6
+H5,2018,2018,2018,4,0,1,Import,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,44513,,,,48174,,166735,,,6
+H5,2018,2018,2018,4,0,2,Export,704,Viet Nam,VNM,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,187,,,,181,,780,,,6
+H5,2018,2018,2018,4,0,1,Import,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,27122,,,,28970,,128902,,,6
+H5,2018,2018,2018,4,0,1,Import,704,Viet Nam,VNM,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2048,,,,2254,,8580,,,6
+H5,2018,2018,2018,4,0,1,Import,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1605671,,,,1730295,,5719351,,,6
+H5,2018,2018,2018,4,0,1,Import,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,388,,,,415,,1838,,,6
+H5,2018,2018,2018,4,0,2,Export,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7085,,,,6884,,29523,,,6
+H5,2018,2018,2018,4,0,2,Export,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1224,,,,1189,,5100,,,6
+H5,2018,2018,2018,4,0,2,Export,704,Viet Nam,VNM,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,159,,,,155,,665,,,6
+H5,2018,2018,2018,4,0,2,Export,704,Viet Nam,VNM,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1564,,,,1519,,6517,,,6
+H5,2018,2018,2018,4,0,1,Import,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,161070,,,,172018,,513729,,,6
+H5,2018,2018,2018,4,0,2,Export,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4390,,,,4349,,19854,,,6
+H5,2018,2018,2018,4,0,2,Export,704,Viet Nam,VNM,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10594,,,,10293,,44139,,,6
+H5,2018,2018,2018,4,0,2,Export,704,Viet Nam,VNM,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2460,,,,2390,,10252,,,6
+H5,2018,2018,2018,4,0,1,Import,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14078,,,,15493,,58978,,,6
+H5,2018,2018,2018,4,0,1,Import,704,Viet Nam,VNM,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8076,,,,8888,,33834,,,6
+H5,2018,2018,2018,4,0,2,Export,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,692,,,,672,,2883,,,6
+H5,2018,2018,2018,4,0,1,Import,704,Viet Nam,VNM,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6881,,,,7372,,32315,,,6
+H5,2018,2018,2018,4,0,1,Import,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,111816,,,,122619,,473462,,,6
+H5,2018,2018,2018,4,0,1,Import,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,361322,,,,390519,,1322650,,,6
+H5,2018,2018,2018,4,0,1,Import,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17724,,,,19505,,74250,,,6
+H5,2018,2018,2018,4,0,2,Export,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13580,,,,13195,,56582,,,6
+H5,2018,2018,2018,4,0,2,Export,704,Viet Nam,VNM,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6127,,,,6145,,29098,,,6
+H5,2018,2018,2018,4,0,1,Import,704,Viet Nam,VNM,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,138773,,,,138964,,160382,,,6
+H5,2018,2018,2018,4,0,1,Import,704,Viet Nam,VNM,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,153,,,,169,,643,,,6
+H5,2018,2018,2018,4,0,1,Import,704,Viet Nam,VNM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,135518,,,,148669,,556009,,,6
+H5,2019,2019,2019,4,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9615047,,,,10459665,,29510209,,,6
+H5,2019,2019,2019,4,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1366696,,,,1480964,,2079173,,,6
+H5,2019,2019,2019,4,0,1,Import,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,298561,,,,316851,,720140,,,6
+H5,2019,2019,2019,4,0,1,Import,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,750179,,,,834011,,2766978,,,6
+H5,2019,2019,2019,4,0,1,Import,704,Viet Nam,VNM,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10924,,,,12110,,38379,,,6
+H5,2019,2019,2019,4,0,1,Import,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,30379,,,,33930,,116702,,,6
+H5,2019,2019,2019,4,0,1,Import,704,Viet Nam,VNM,112,Belarus,BLR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10371,,,,11821,,56190,,,6
+H5,2019,2019,2019,4,0,2,Export,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2720,,,,2701,,11567,,,6
+H5,2019,2019,2019,4,0,1,Import,704,Viet Nam,VNM,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4410,,,,4728,,11844,,,6
+H5,2019,2019,2019,4,0,1,Import,704,Viet Nam,VNM,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2531879,,,,2733735,,7190366,,,6
+H5,2019,2019,2019,4,0,2,Export,704,Viet Nam,VNM,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2429,,,,2411,,10328,,,6
+H5,2019,2019,2019,4,0,1,Import,704,Viet Nam,VNM,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1899,,,,2158,,8141,,,6
+H5,2019,2019,2019,4,0,1,Import,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2477397,,,,2672075,,7060243,,,6
+H5,2019,2019,2019,4,0,2,Export,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1314095,,,,1425529,,1955592,,,6
+H5,2019,2019,2019,4,0,1,Import,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,41127,,,,46541,,178101,,,6
+H5,2019,2019,2019,4,0,1,Import,704,Viet Nam,VNM,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2913,,,,3311,,12491,,,6
+H5,2019,2019,2019,4,0,1,Import,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,39035,,,,44205,,196193,,,6
+H5,2019,2019,2019,4,0,1,Import,704,Viet Nam,VNM,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1290,,,,1466,,5532,,,6
+H5,2019,2019,2019,4,0,1,Import,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1911333,,,,2134435,,7188876,,,6
+H5,2019,2019,2019,4,0,1,Import,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2147,,,,2437,,9808,,,6
+H5,2019,2019,2019,4,0,2,Export,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7846,,,,7788,,33354,,,6
+H5,2019,2019,2019,4,0,2,Export,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2115,,,,2322,,2118,,,6
+H5,2019,2019,2019,4,0,2,Export,704,Viet Nam,VNM,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,136,,,,135,,580,,,6
+H5,2019,2019,2019,4,0,1,Import,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,182338,,,,198363,,560889,,,6
+H5,2019,2019,2019,4,0,2,Export,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,415,,,,413,,1829,,,6
+H5,2019,2019,2019,4,0,2,Export,704,Viet Nam,VNM,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19598,,,,21629,,15319,,,6
+H5,2019,2019,2019,4,0,1,Import,704,Viet Nam,VNM,604,Peru,PER,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,260,,,,295,,1116,,,6
+H5,2019,2019,2019,4,0,2,Export,704,Viet Nam,VNM,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2052,,,,2037,,8724,,,6
+H5,2019,2019,2019,4,0,1,Import,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14167,,,,16006,,57107,,,6
+H5,2019,2019,2019,4,0,1,Import,704,Viet Nam,VNM,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7136,,,,8110,,30596,,,6
+H5,2019,2019,2019,4,0,2,Export,704,Viet Nam,VNM,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4248,,,,4217,,18059,,,6
+H5,2019,2019,2019,4,0,2,Export,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7578,,,,8339,,6692,,,6
+H5,2019,2019,2019,4,0,1,Import,704,Viet Nam,VNM,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2547,,,,2878,,13940,,,6
+H5,2019,2019,2019,4,0,1,Import,704,Viet Nam,VNM,705,Slovenia,SVN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2542,,,,2888,,11054,,,6
+H5,2019,2019,2019,4,0,1,Import,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,578708,,,,611511,,1329747,,,6
+H5,2019,2019,2019,4,0,1,Import,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,407551,,,,441059,,1203520,,,6
+H5,2019,2019,2019,4,0,2,Export,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2228,,,,2212,,9473,,,6
+H5,2019,2019,2019,4,0,2,Export,704,Viet Nam,VNM,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1230,,,,1226,,5532,,,6
+H5,2019,2019,2019,4,0,1,Import,704,Viet Nam,VNM,792,Turkey,TUR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,201,,,,229,,864,,,6
+H5,2019,2019,2019,4,0,1,Import,704,Viet Nam,VNM,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,155094,,,,157128,,191050,,,6
+H5,2019,2019,2019,4,0,1,Import,704,Viet Nam,VNM,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3146,,,,3576,,13490,,,6
+H5,2019,2019,2019,4,0,1,Import,704,Viet Nam,VNM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,147498,,,,163793,,536839,,,6
+H4,2015,2015,2015,4,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,9056185,,22994898,,,4
+H4,2015,2015,2015,4,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,990763,,,0
+H4,2015,2015,2015,4,0,1,Import,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,318767,,783345,,,4
+H4,2015,2015,2015,4,0,1,Import,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,687658,,1821788,,,4
+H4,2015,2015,2015,4,0,1,Import,704,Viet Nam,VNM,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,6459,,22131,,,4
+H4,2015,2015,2015,4,0,1,Import,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,14263,,46101,,,4
+H4,2015,2015,2015,4,0,1,Import,704,Viet Nam,VNM,112,Belarus,BLR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,19538,,69929,,,4
+H4,2015,2015,2015,4,0,2,Export,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,15738,,,0
+H4,2015,2015,2015,4,0,1,Import,704,Viet Nam,VNM,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,8101,,27757,,,4
+H4,2015,2015,2015,4,0,1,Import,704,Viet Nam,VNM,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,3106650,,7929104,,,4
+H4,2015,2015,2015,4,0,2,Export,704,Viet Nam,VNM,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,6595,,11572,,,4
+H4,2015,2015,2015,4,0,1,Import,704,Viet Nam,VNM,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,3495,,11975,,,4
+H4,2015,2015,2015,4,0,1,Import,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,3166409,,7283370,,,4
+H4,2015,2015,2015,4,0,2,Export,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,305967,,427494,,,4
+H4,2015,2015,2015,4,0,1,Import,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,21200,,76708,,,4
+H4,2015,2015,2015,4,0,1,Import,704,Viet Nam,VNM,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,8676,,12091,,,4
+H4,2015,2015,2015,4,0,1,Import,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,69601,,239108,,,4
+H4,2015,2015,2015,4,0,1,Import,704,Viet Nam,VNM,372,Ireland,IRL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,1428,,6469,,,4
+H4,2015,2015,2015,4,0,1,Import,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,848651,,2479723,,,4
+H4,2015,2015,2015,4,0,2,Export,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,7034,,32158,,,4
+H4,2015,2015,2015,4,0,2,Export,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,5138,,,0
+H4,2015,2015,2015,4,0,2,Export,704,Viet Nam,VNM,418,Lao People's Dem. Rep.,LAO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,2663,,12176,,,4
+H4,2015,2015,2015,4,0,1,Import,704,Viet Nam,VNM,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,170,,581,,,4
+H4,2015,2015,2015,4,0,1,Import,704,Viet Nam,VNM,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,252,,863,,,4
+H4,2015,2015,2015,4,0,1,Import,704,Viet Nam,VNM,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,1152,,5215,,,4
+H4,2015,2015,2015,4,0,1,Import,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,132470,,339326,,,4
+H4,2015,2015,2015,4,0,2,Export,704,Viet Nam,VNM,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,172,,240,,,4
+H4,2015,2015,2015,4,0,1,Import,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,14071,,25135,,,4
+H4,2015,2015,2015,4,0,1,Import,704,Viet Nam,VNM,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,26722,,45753,,,4
+H4,2015,2015,2015,4,0,2,Export,704,Viet Nam,VNM,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,1675,,2340,,,4
+H4,2015,2015,2015,4,0,2,Export,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,,,3599,,,0
+H4,2015,2015,2015,4,0,1,Import,704,Viet Nam,VNM,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,5855,,20063,,,4
+H4,2015,2015,2015,4,0,1,Import,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,150802,,455728,,,4
+H4,2015,2015,2015,4,0,1,Import,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,202835,,575927,,,4
+H4,2015,2015,2015,4,0,1,Import,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,27896,,95584,,,4
+H4,2015,2015,2015,4,0,2,Export,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,105053,,480309,,,4
+H4,2015,2015,2015,4,0,1,Import,704,Viet Nam,VNM,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,15207,,28452,,,4
+H4,2015,2015,2015,4,0,1,Import,704,Viet Nam,VNM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,188855,,577226,,,4
+H4,2015,2015,2015,4,0,1,Import,704,Viet Nam,VNM,858,Uruguay,URY,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,1426,,4887,,,4
+H4,2015,2015,2015,4,0,1,Import,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,,,,,7578,,10560,,,4
+H4,2016,2016,2016,4,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7849883,,,,9589648,,22301017,,,6
+H4,2016,2016,2016,4,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,6177938,,,6
+H4,2016,2016,2016,4,0,1,Import,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,277668,,,,338663,,760968,,,6
+H4,2016,2016,2016,4,0,1,Import,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,516587,,,,642868,,1856582,,,6
+H4,2016,2016,2016,4,0,1,Import,704,Viet Nam,VNM,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,713,,,,898,,2901,,,6
+H4,2016,2016,2016,4,0,1,Import,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19941,,,,24099,,57607,,,6
+H4,2016,2016,2016,4,0,1,Import,704,Viet Nam,VNM,112,Belarus,BLR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16762,,,,21098,,68159,,,6
+H4,2016,2016,2016,4,0,2,Export,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1995,,,,1773,,7567,,,6
+H4,2016,2016,2016,4,0,1,Import,704,Viet Nam,VNM,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,808,,,,1017,,3288,,,6
+H4,2016,2016,2016,4,0,1,Import,704,Viet Nam,VNM,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2405356,,,,2939274,,6806674,,,6
+H4,2016,2016,2016,4,0,2,Export,704,Viet Nam,VNM,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6175,,,,5248,,21165,,,6
+H4,2016,2016,2016,4,0,1,Import,704,Viet Nam,VNM,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7770,,,,9780,,31595,,,6
+H4,2016,2016,2016,4,0,1,Import,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2779954,,,,3355338,,6536032,,,6
+H4,2016,2016,2016,4,0,2,Export,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,712971,,,,588967,,804014,,,6
+H4,2016,2016,2016,4,0,1,Import,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,16454,,,,20625,,68209,,,6
+H4,2016,2016,2016,4,0,2,Export,704,Viet Nam,VNM,296,Kiribati,KIR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,622,,,,530,,2213,,,6
+H4,2016,2016,2016,4,0,2,Export,704,Viet Nam,VNM,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,7062,,,6
+H4,2016,2016,2016,4,0,1,Import,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,28928,,,,36067,,128670,,,6
+H4,2016,2016,2016,4,0,1,Import,704,Viet Nam,VNM,360,Indonesia,IDN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,103,,,,130,,420,,,6
+H4,2016,2016,2016,4,0,1,Import,704,Viet Nam,VNM,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,423,,,,532,,1721,,,6
+H4,2016,2016,2016,4,0,1,Import,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1031872,,,,1276910,,3481622,,,6
+H4,2016,2016,2016,4,0,1,Import,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1348,,,,1691,,5683,,,6
+H4,2016,2016,2016,4,0,2,Export,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8494,,,,7325,,30148,,,6
+H4,2016,2016,2016,4,0,2,Export,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6985,,,,5947,,24835,,,6
+H4,2016,2016,2016,4,0,2,Export,704,Viet Nam,VNM,418,Lao People's Dem. Rep.,LAO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4685,,,,3988,,16656,,,6
+H4,2016,2016,2016,4,0,1,Import,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,107795,,,,133429,,361854,,,6
+H4,2016,2016,2016,4,0,2,Export,704,Viet Nam,VNM,608,Philippines,PHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9341,,,,7947,,32762,,,6
+H4,2016,2016,2016,4,0,1,Import,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17587,,,,21044,,34369,,,6
+H4,2016,2016,2016,4,0,1,Import,704,Viet Nam,VNM,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,180,,,,227,,734,,,6
+H4,2016,2016,2016,4,0,2,Export,704,Viet Nam,VNM,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,408,,,,348,,1453,,,6
+H4,2016,2016,2016,4,0,1,Import,704,Viet Nam,VNM,699,India,IND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2951,,,,3714,,12000,,,6
+H4,2016,2016,2016,4,0,2,Export,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1385,,,,1179,,4925,,,6
+H4,2016,2016,2016,4,0,1,Import,704,Viet Nam,VNM,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4095,,,,5146,,16904,,,6
+H4,2016,2016,2016,4,0,1,Import,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,100837,,,,126606,,420123,,,6
+H4,2016,2016,2016,4,0,1,Import,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,303929,,,,374543,,990833,,,6
+H4,2016,2016,2016,4,0,1,Import,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14887,,,,18738,,60538,,,6
+H4,2016,2016,2016,4,0,2,Export,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24038,,,,20465,,85458,,,6
+H4,2016,2016,2016,4,0,1,Import,704,Viet Nam,VNM,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,49,,,,61,,200,,,6
+H4,2016,2016,2016,4,0,2,Export,704,Viet Nam,VNM,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4672705,,,,3849957,,5139362,,,6
+H4,2016,2016,2016,4,0,1,Import,704,Viet Nam,VNM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,155744,,,,193450,,545891,,,6
+H4,2016,2016,2016,4,0,2,Export,704,Viet Nam,VNM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,87,,,,74,,312,,,6
+H4,2016,2016,2016,4,0,1,Import,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,37129,,,,43687,,47428,,,6
+H4,2017,2017,2017,4,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8651761,,,,9526228,,22798530,,,6
+H4,2017,2017,2017,4,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4060445,,,,3749777,,4452129,,,6
+H4,2017,2017,2017,4,0,1,Import,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,333560,,,,361765,,808513,,,6
+H4,2017,2017,2017,4,0,1,Import,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,616839,,,,699970,,1862345,,,6
+H4,2017,2017,2017,4,0,1,Import,704,Viet Nam,VNM,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2683,,,,3252,,10554,,,6
+H4,2017,2017,2017,4,0,1,Import,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20600,,,,24879,,85779,,,6
+H4,2017,2017,2017,4,0,1,Import,704,Viet Nam,VNM,112,Belarus,BLR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15455,,,,18735,,60794,,,6
+H4,2017,2017,2017,4,0,2,Export,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1792,,,,1712,,8175,,,6
+H4,2017,2017,2017,4,0,1,Import,704,Viet Nam,VNM,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3322,,,,4215,,6330,,,6
+H4,2017,2017,2017,4,0,1,Import,704,Viet Nam,VNM,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2372031,,,,2614847,,6257825,,,6
+H4,2017,2017,2017,4,0,2,Export,704,Viet Nam,VNM,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,994,,,,998,,4925,,,6
+H4,2017,2017,2017,4,0,1,Import,704,Viet Nam,VNM,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1668,,,,1979,,8803,,,6
+H4,2017,2017,2017,4,0,1,Import,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2987076,,,,3166029,,6435491,,,6
+H4,2017,2017,2017,4,0,2,Export,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,762152,,,,704104,,836989,,,6
+H4,2017,2017,2017,4,0,1,Import,704,Viet Nam,VNM,268,Georgia,GEO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,190,,,,230,,748,,,6
+H4,2017,2017,2017,4,0,1,Import,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,35980,,,,38715,,89266,,,6
+H4,2017,2017,2017,4,0,2,Export,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,63,,,,59,,264,,,6
+H4,2017,2017,2017,4,0,2,Export,704,Viet Nam,VNM,332,Haiti,HTI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1706,,,,1593,,7078,,,6
+H4,2017,2017,2017,4,0,2,Export,704,Viet Nam,VNM,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,161,,,,151,,672,,,6
+H4,2017,2017,2017,4,0,1,Import,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,40320,,,,46241,,143893,,,6
+H4,2017,2017,2017,4,0,1,Import,704,Viet Nam,VNM,360,Indonesia,IDN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,706,,,,856,,2780,,,6
+H4,2017,2017,2017,4,0,1,Import,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1514409,,,,1711631,,4515570,,,6
+H4,2017,2017,2017,4,0,1,Import,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,280,,,,338,,1203,,,6
+H4,2017,2017,2017,4,0,2,Export,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5867,,,,5479,,24341,,,6
+H4,2017,2017,2017,4,0,1,Import,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,26122,,,,31664,,102750,,,6
+H4,2017,2017,2017,4,0,2,Export,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1793,,,,1729,,8505,,,6
+H4,2017,2017,2017,4,0,2,Export,704,Viet Nam,VNM,418,Lao People's Dem. Rep.,LAO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1760,,,,1625,,1885,,,6
+H4,2017,2017,2017,4,0,1,Import,704,Viet Nam,VNM,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,288,,,,349,,1135,,,6
+H4,2017,2017,2017,4,0,2,Export,704,Viet Nam,VNM,458,Malaysia,MYS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,556,,,,520,,2309,,,6
+H4,2017,2017,2017,4,0,1,Import,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,133869,,,,152464,,410546,,,6
+H4,2017,2017,2017,4,0,2,Export,704,Viet Nam,VNM,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7372,,,,6885,,30585,,,6
+H4,2017,2017,2017,4,0,1,Import,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11561,,,,14014,,45475,,,6
+H4,2017,2017,2017,4,0,1,Import,704,Viet Nam,VNM,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7629,,,,9248,,30009,,,6
+H4,2017,2017,2017,4,0,2,Export,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,421,,,,396,,1817,,,6
+H4,2017,2017,2017,4,0,1,Import,704,Viet Nam,VNM,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1102,,,,1333,,4465,,,6
+H4,2017,2017,2017,4,0,1,Import,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,93092,,,,110102,,345054,,,6
+H4,2017,2017,2017,4,0,1,Import,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,311763,,,,367214,,1101625,,,6
+H4,2017,2017,2017,4,0,2,Export,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4149,,,,3875,,17213,,,6
+H4,2017,2017,2017,4,0,1,Import,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18876,,,,22881,,74250,,,6
+H4,2017,2017,2017,4,0,2,Export,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,838,,,,783,,3480,,,6
+H4,2017,2017,2017,4,0,2,Export,704,Viet Nam,VNM,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3270812,,,,3019861,,3503885,,,6
+H4,2017,2017,2017,4,0,1,Import,704,Viet Nam,VNM,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,107,,,,129,,421,,,6
+H4,2017,2017,2017,4,0,1,Import,704,Viet Nam,VNM,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,794,,,,962,,3123,,,6
+H4,2017,2017,2017,4,0,1,Import,704,Viet Nam,VNM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,101428,,,,122171,,389772,,,6
+H5,2020,2020,2020,4,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5750444,,,,5790128,,16536051,,,6
+H5,2020,2020,2020,4,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,307982,,,,304489,,486459,,,6
+H5,2020,2020,2020,4,0,1,Import,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,72449,,,,73398,,240375,,,6
+H5,2020,2020,2020,4,0,1,Import,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1040274,,,,1031583,,1858097,,,6
+H5,2020,2020,2020,4,0,1,Import,704,Viet Nam,VNM,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11764,,,,12062,,49217,,,6
+H5,2020,2020,2020,4,0,1,Import,704,Viet Nam,VNM,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,290,,,,297,,1214,,,6
+H5,2020,2020,2020,4,0,1,Import,704,Viet Nam,VNM,112,Belarus,BLR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4606,,,,4680,,24114,,,6
+H5,2020,2020,2020,4,0,2,Export,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1104,,,,1104,,4554,,,6
+H5,2020,2020,2020,4,0,1,Import,704,Viet Nam,VNM,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3141,,,,3093,,4084,,,6
+H5,2020,2020,2020,4,0,1,Import,704,Viet Nam,VNM,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1462932,,,,1467948,,3855900,,,6
+H5,2020,2020,2020,4,0,2,Export,704,Viet Nam,VNM,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3978,,,,3934,,6250,,,6
+H5,2020,2020,2020,4,0,1,Import,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1230021,,,,1241328,,3743723,,,6
+H5,2020,2020,2020,4,0,2,Export,704,Viet Nam,VNM,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,284039,,,,280717,,428674,,,6
+H5,2020,2020,2020,4,0,1,Import,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,23230,,,,23789,,95855,,,6
+H5,2020,2020,2020,4,0,1,Import,704,Viet Nam,VNM,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1745,,,,1789,,7302,,,6
+H5,2020,2020,2020,4,0,1,Import,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18564,,,,18885,,94726,,,6
+H5,2020,2020,2020,4,0,1,Import,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1363843,,,,1388268,,4941438,,,6
+H5,2020,2020,2020,4,0,2,Export,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4175,,,,4174,,17211,,,6
+H5,2020,2020,2020,4,0,2,Export,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,931,,,,920,,1309,,,6
+H5,2020,2020,2020,4,0,1,Import,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,84154,,,,85672,,308321,,,6
+H5,2020,2020,2020,4,0,2,Export,704,Viet Nam,VNM,566,Nigeria,NGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4484,,,,4426,,4374,,,6
+H5,2020,2020,2020,4,0,1,Import,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,23180,,,,23332,,66140,,,6
+H5,2020,2020,2020,4,0,1,Import,704,Viet Nam,VNM,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7454,,,,7642,,31186,,,6
+H5,2020,2020,2020,4,0,1,Import,704,Viet Nam,VNM,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3169,,,,3220,,16594,,,6
+H5,2020,2020,2020,4,0,2,Export,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4486,,,,4428,,4376,,,6
+H5,2020,2020,2020,4,0,1,Import,704,Viet Nam,VNM,703,Slovakia,SVK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3859,,,,3921,,20202,,,6
+H5,2020,2020,2020,4,0,1,Import,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,58218,,,,59419,,210702,,,6
+H5,2020,2020,2020,4,0,1,Import,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,239485,,,,241104,,688023,,,6
+H5,2020,2020,2020,4,0,2,Export,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4781,,,,4780,,19710,,,6
+H5,2020,2020,2020,4,0,1,Import,704,Viet Nam,VNM,804,Ukraine,UKR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,37657,,,,36955,,40000,,,6
+H5,2020,2020,2020,4,0,1,Import,704,Viet Nam,VNM,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,162,,,,166,,678,,,6
+H5,2020,2020,2020,4,0,1,Import,704,Viet Nam,VNM,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,60238,,,,61565,,238150,,,6

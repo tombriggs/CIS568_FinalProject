@@ -1,0 +1,194 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,4,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,149501,,,,149501,,330560,,,2
+H1,2001,2001,2001,4,0,1,Import,646,Rwanda,RWA,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,19866,,,,19866,,44980,,,2
+H1,2001,2001,2001,4,0,1,Import,646,Rwanda,RWA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,88,,,,88,,256,,,2
+H1,2001,2001,2001,4,0,1,Import,646,Rwanda,RWA,196,Cyprus,CYP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7702,,,,7702,,10731,,,2
+H1,2001,2001,2001,4,0,1,Import,646,Rwanda,RWA,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1931,,,,1931,,13256,,,2
+H1,2001,2001,2001,4,0,1,Import,646,Rwanda,RWA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,59547,,,,59547,,125769,,,2
+H1,2001,2001,2001,4,0,1,Import,646,Rwanda,RWA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4272,,,,4272,,9515,,,2
+H1,2001,2001,2001,4,0,1,Import,646,Rwanda,RWA,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,95,,,,95,,1383,,,2
+H1,2001,2001,2001,4,0,1,Import,646,Rwanda,RWA,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18015,,,,18015,,32110,,,2
+H1,2001,2001,2001,4,0,1,Import,646,Rwanda,RWA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,26845,,,,26845,,57528,,,2
+H1,2001,2001,2001,4,0,1,Import,646,Rwanda,RWA,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,500,,,,500,,3356,,,2
+H1,2001,2001,2001,4,0,1,Import,646,Rwanda,RWA,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8600,,,,8600,,28811,,,2
+H1,2001,2001,2001,4,0,1,Import,646,Rwanda,RWA,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2040,,,,2040,,2866,,,2
+H1,2002,2002,2002,4,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,160921,,,,160921,,329458,,,2
+H1,2002,2002,2002,4,0,2,Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,248,,,,248,,816,,,2
+H1,2002,2002,2002,4,0,3,Re-Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,248,,,,248,,816,,,2
+H1,2002,2002,2002,4,0,1,Import,646,Rwanda,RWA,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,27865,,,,27865,,56576,,,2
+H1,2002,2002,2002,4,0,2,Export,646,Rwanda,RWA,108,Burundi,BDI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,108,,,,108,,66,,,2
+H1,2002,2002,2002,4,0,3,Re-Export,646,Rwanda,RWA,108,Burundi,BDI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,108,,,,108,,66,,,2
+H1,2002,2002,2002,4,0,1,Import,646,Rwanda,RWA,196,Cyprus,CYP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4818,,,,4818,,5648,,,2
+H1,2002,2002,2002,4,0,1,Import,646,Rwanda,RWA,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2565,,,,2565,,17584,,,2
+H1,2002,2002,2002,4,0,1,Import,646,Rwanda,RWA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,28126,,,,28126,,60535,,,2
+H1,2002,2002,2002,4,0,1,Import,646,Rwanda,RWA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1964,,,,1964,,10247,,,2
+H1,2002,2002,2002,4,0,1,Import,646,Rwanda,RWA,348,Hungary,HUN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,210,,,,210,,2817,,,2
+H1,2002,2002,2002,4,0,1,Import,646,Rwanda,RWA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,21086,,,,21086,,29968,,,2
+H1,2002,2002,2002,4,0,1,Import,646,Rwanda,RWA,404,Kenya,KEN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,14141,,,,14141,,31603,,,2
+H1,2002,2002,2002,4,0,1,Import,646,Rwanda,RWA,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,26,,,,26,,314,,,2
+H1,2002,2002,2002,4,0,1,Import,646,Rwanda,RWA,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,23314,,,,23314,,31626,,,2
+H1,2002,2002,2002,4,0,1,Import,646,Rwanda,RWA,682,Saudi Arabia,SAU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,80,,,,80,,407,,,2
+H1,2002,2002,2002,4,0,1,Import,646,Rwanda,RWA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,36644,,,,36644,,82051,,,2
+H1,2002,2002,2002,4,0,1,Import,646,Rwanda,RWA,752,Sweden,SWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,82,,,,82,,84,,,2
+H1,2002,2002,2002,4,0,2,Export,646,Rwanda,RWA,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,140,,,,140,,750,,,2
+H1,2002,2002,2002,4,0,3,Re-Export,646,Rwanda,RWA,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,140,,,,140,,750,,,2
+H1,2003,2003,2003,4,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,105093,,,,105093,,286813,,,2
+H1,2003,2003,2003,4,0,2,Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,157,,,,157,,1495,,,2
+H1,2003,2003,2003,4,0,3,Re-Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,157,,,,157,,1495,,,2
+H1,2003,2003,2003,4,0,1,Import,646,Rwanda,RWA,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18749,,,,18749,,98437,,,2
+H1,2003,2003,2003,4,0,2,Export,646,Rwanda,RWA,108,Burundi,BDI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,157,,,,157,,1495,,,2
+H1,2003,2003,2003,4,0,3,Re-Export,646,Rwanda,RWA,108,Burundi,BDI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,157,,,,157,,1495,,,2
+H1,2003,2003,2003,4,0,1,Import,646,Rwanda,RWA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,102,,,,102,,861,,,2
+H1,2003,2003,2003,4,0,1,Import,646,Rwanda,RWA,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,235,,,,235,,3348,,,2
+H1,2003,2003,2003,4,0,1,Import,646,Rwanda,RWA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,40127,,,,40127,,74726,,,2
+H1,2003,2003,2003,4,0,1,Import,646,Rwanda,RWA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,171,,,,171,,1363,,,2
+H1,2003,2003,2003,4,0,1,Import,646,Rwanda,RWA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7149,,,,7149,,12308,,,2
+H1,2003,2003,2003,4,0,1,Import,646,Rwanda,RWA,404,Kenya,KEN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16650,,,,16650,,17893,,,2
+H1,2003,2003,2003,4,0,1,Import,646,Rwanda,RWA,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,670,,,,670,,3200,,,2
+H1,2003,2003,2003,4,0,1,Import,646,Rwanda,RWA,616,Poland,POL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7100,,,,7100,,20315,,,2
+H1,2003,2003,2003,4,0,1,Import,646,Rwanda,RWA,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1836,,,,1836,,10375,,,2
+H1,2003,2003,2003,4,0,1,Import,646,Rwanda,RWA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11685,,,,11685,,41909,,,2
+H1,2003,2003,2003,4,0,1,Import,646,Rwanda,RWA,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,484,,,,484,,1148,,,2
+H1,2003,2003,2003,4,0,1,Import,646,Rwanda,RWA,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,135,,,,135,,929,,,2
+H1,2004,2004,2004,4,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,152621,,,,152621,,470099,,,2
+H1,2004,2004,2004,4,0,2,Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8795,,,,8795,,7788,,,2
+H1,2004,2004,2004,4,0,3,Re-Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2795,,,,2795,,6228,,,2
+H1,2004,2004,2004,4,0,1,Import,646,Rwanda,RWA,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,32748,,,,32748,,90947,,,2
+H1,2004,2004,2004,4,0,1,Import,646,Rwanda,RWA,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1499,,,,1499,,86151,,,2
+H1,2004,2004,2004,4,0,2,Export,646,Rwanda,RWA,178,Congo,COG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,56,,,,56,,202,,,2
+H1,2004,2004,2004,4,0,3,Re-Export,646,Rwanda,RWA,178,Congo,COG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,56,,,,56,,202,,,2
+H1,2004,2004,2004,4,0,1,Import,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,215,,,,215,,1603,,,2
+H1,2004,2004,2004,4,0,2,Export,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8289,,,,8289,,7461,,,2
+H1,2004,2004,2004,4,0,3,Re-Export,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2289,,,,2289,,5901,,,2
+H1,2004,2004,2004,4,0,1,Import,646,Rwanda,RWA,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,64,,,,64,,998,,,2
+H1,2004,2004,2004,4,0,1,Import,646,Rwanda,RWA,212,Dominica,DMA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,35,,,,35,,317,,,2
+H1,2004,2004,2004,4,0,1,Import,646,Rwanda,RWA,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,57331,,,,57331,,107122,,,2
+H1,2004,2004,2004,4,0,1,Import,646,Rwanda,RWA,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,149,,,,149,,1354,,,2
+H1,2004,2004,2004,4,0,1,Import,646,Rwanda,RWA,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1574,,,,1574,,48202,,,2
+H1,2004,2004,2004,4,0,1,Import,646,Rwanda,RWA,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15087,,,,15087,,38956,,,2
+H1,2004,2004,2004,4,0,1,Import,646,Rwanda,RWA,404,Kenya,KEN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,23912,,,,23912,,34735,,,2
+H1,2004,2004,2004,4,0,1,Import,646,Rwanda,RWA,500,Montserrat,MSR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8700,,,,8700,,16807,,,2
+H1,2004,2004,2004,4,0,1,Import,646,Rwanda,RWA,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15,,,,15,,270,,,2
+H1,2004,2004,2004,4,0,1,Import,646,Rwanda,RWA,682,Saudi Arabia,SAU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,200,,,,200,,2245,,,2
+H1,2004,2004,2004,4,0,1,Import,646,Rwanda,RWA,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11085,,,,11085,,40328,,,2
+H1,2004,2004,2004,4,0,1,Import,646,Rwanda,RWA,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7,,,,7,,65,,,2
+H1,2004,2004,2004,4,0,2,Export,646,Rwanda,RWA,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,450,,,,450,,125,,,2
+H1,2004,2004,2004,4,0,3,Re-Export,646,Rwanda,RWA,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,450,,,,450,,125,,,2
+H3,2009,2009,2009,4,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,248607,,,,248607,,488588,,,2
+H3,2009,2009,2009,4,0,2,Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,22164,,,,22164,,31814,,,2
+H3,2009,2009,2009,4,0,3,Re-Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18414,,,,18414,,28319,,,2
+H3,2009,2009,2009,4,0,1,Import,646,Rwanda,RWA,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,310,,,,310,,541,,,2
+H3,2009,2009,2009,4,0,1,Import,646,Rwanda,RWA,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,591,,,,591,,1542,,,2
+H3,2009,2009,2009,4,0,1,Import,646,Rwanda,RWA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,28981,,,,28981,,61036,,,2
+H3,2009,2009,2009,4,0,1,Import,646,Rwanda,RWA,108,Burundi,BDI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,15,,,,15,,43,,,2
+H3,2009,2009,2009,4,0,2,Export,646,Rwanda,RWA,108,Burundi,BDI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7900,,,,7900,,9312,,,2
+H3,2009,2009,2009,4,0,3,Re-Export,646,Rwanda,RWA,108,Burundi,BDI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4150,,,,4150,,5817,,,2
+H3,2009,2009,2009,4,0,1,Import,646,Rwanda,RWA,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9668,,,,9668,,41064,,,2
+H3,2009,2009,2009,4,0,1,Import,646,Rwanda,RWA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,285,,,,285,,634,,,2
+H3,2009,2009,2009,4,0,1,Import,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9,,,,9,,53,,,2
+H3,2009,2009,2009,4,0,2,Export,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,14264,,,,14264,,22502,,,2
+H3,2009,2009,2009,4,0,3,Re-Export,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,14264,,,,14264,,22502,,,2
+H3,2009,2009,2009,4,0,1,Import,646,Rwanda,RWA,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10,,,,10,,34,,,2
+H3,2009,2009,2009,4,0,1,Import,646,Rwanda,RWA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,34905,,,,34905,,61102,,,2
+H3,2009,2009,2009,4,0,1,Import,646,Rwanda,RWA,268,Georgia,GEO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3,,,,3,,13,,,2
+H3,2009,2009,2009,4,0,1,Import,646,Rwanda,RWA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,240,,,,240,,629,,,2
+H3,2009,2009,2009,4,0,1,Import,646,Rwanda,RWA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9363,,,,9363,,9818,,,2
+H3,2009,2009,2009,4,0,1,Import,646,Rwanda,RWA,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,39977,,,,39977,,79803,,,2
+H3,2009,2009,2009,4,0,1,Import,646,Rwanda,RWA,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10,,,,10,,15,,,2
+H3,2009,2009,2009,4,0,1,Import,646,Rwanda,RWA,442,Luxembourg,LUX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,255,,,,255,,321,,,2
+H3,2009,2009,2009,4,0,1,Import,646,Rwanda,RWA,466,Mali,MLI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10,,,,10,,58,,,2
+H3,2009,2009,2009,4,0,1,Import,646,Rwanda,RWA,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,16,,,,16,,215,,,2
+H3,2009,2009,2009,4,0,1,Import,646,Rwanda,RWA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,2982,,,,2982,,7575,,,2
+H3,2009,2009,2009,4,0,1,Import,646,Rwanda,RWA,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,36,,,,36,,161,,,2
+H3,2009,2009,2009,4,0,1,Import,646,Rwanda,RWA,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1,,,,1,,10,,,2
+H3,2009,2009,2009,4,0,1,Import,646,Rwanda,RWA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,48429,,,,48429,,84951,,,2
+H3,2009,2009,2009,4,0,1,Import,646,Rwanda,RWA,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,21453,,,,21453,,14853,,,2
+H3,2009,2009,2009,4,0,1,Import,646,Rwanda,RWA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,591,,,,591,,5017,,,2
+H3,2009,2009,2009,4,0,1,Import,646,Rwanda,RWA,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3395,,,,3395,,2512,,,2
+H3,2009,2009,2009,4,0,1,Import,646,Rwanda,RWA,800,Uganda,UGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,41285,,,,41285,,77634,,,2
+H3,2009,2009,2009,4,0,1,Import,646,Rwanda,RWA,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,506,,,,506,,595,,,2
+H3,2009,2009,2009,4,0,1,Import,646,Rwanda,RWA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5281,,,,5281,,38360,,,2
+H2,2005,2005,2005,4,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,158875,,,,158875,,402535,,,2
+H2,2005,2005,2005,4,0,2,Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7785,,,,7785,,5222,,,2
+H2,2005,2005,2005,4,0,3,Re-Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7735,,,,7735,,4961,,,2
+H2,2005,2005,2005,4,0,1,Import,646,Rwanda,RWA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,76891,,,,76891,,117424,,,2
+H2,2005,2005,2005,4,0,2,Export,646,Rwanda,RWA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,50,,,,50,,261,,,2
+H2,2005,2005,2005,4,0,1,Import,646,Rwanda,RWA,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1499,,,,1499,,12129,,,2
+H2,2005,2005,2005,4,0,1,Import,646,Rwanda,RWA,178,Congo,COG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,420,,,,420,,1648,,,2
+H2,2005,2005,2005,4,0,1,Import,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1114,,,,1114,,2853,,,2
+H2,2005,2005,2005,4,0,2,Export,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7735,,,,7735,,4961,,,2
+H2,2005,2005,2005,4,0,3,Re-Export,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7735,,,,7735,,4961,,,2
+H2,2005,2005,2005,4,0,1,Import,646,Rwanda,RWA,204,Benin,BEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,220,,,,220,,1519,,,2
+H2,2005,2005,2005,4,0,1,Import,646,Rwanda,RWA,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,968,,,,968,,10314,,,2
+H2,2005,2005,2005,4,0,1,Import,646,Rwanda,RWA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16787,,,,16787,,31326,,,2
+H2,2005,2005,2005,4,0,1,Import,646,Rwanda,RWA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1661,,,,1661,,5713,,,2
+H2,2005,2005,2005,4,0,1,Import,646,Rwanda,RWA,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1574,,,,1574,,48997,,,2
+H2,2005,2005,2005,4,0,1,Import,646,Rwanda,RWA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,32070,,,,32070,,25055,,,2
+H2,2005,2005,2005,4,0,1,Import,646,Rwanda,RWA,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13734,,,,13734,,48667,,,2
+H2,2005,2005,2005,4,0,1,Import,646,Rwanda,RWA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,123,,,,123,,1401,,,2
+H2,2005,2005,2005,4,0,1,Import,646,Rwanda,RWA,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19,,,,19,,606,,,2
+H2,2005,2005,2005,4,0,1,Import,646,Rwanda,RWA,686,Senegal,SEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,190,,,,190,,2028,,,2
+H2,2005,2005,2005,4,0,1,Import,646,Rwanda,RWA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11605,,,,11605,,92856,,,2
+H2,2006,2006,2006,4,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,183088,,,,183088,,281845,,,2
+H2,2006,2006,2006,4,0,2,Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16504,,,,16504,,16586,,,2
+H2,2006,2006,2006,4,0,3,Re-Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16504,,,,16504,,16586,,,2
+H2,2006,2006,2006,4,0,1,Import,646,Rwanda,RWA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,70959,,,,70959,,88918,,,2
+H2,2006,2006,2006,4,0,1,Import,646,Rwanda,RWA,108,Burundi,BDI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,28,,,2
+H2,2006,2006,2006,4,0,2,Export,646,Rwanda,RWA,108,Burundi,BDI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3167,,,,3167,,8040,,,2
+H2,2006,2006,2006,4,0,3,Re-Export,646,Rwanda,RWA,108,Burundi,BDI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3167,,,,3167,,8040,,,2
+H2,2006,2006,2006,4,0,1,Import,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6570,,,,6570,,17993,,,2
+H2,2006,2006,2006,4,0,2,Export,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13337,,,,13337,,8547,,,2
+H2,2006,2006,2006,4,0,3,Re-Export,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13337,,,,13337,,8547,,,2
+H2,2006,2006,2006,4,0,1,Import,646,Rwanda,RWA,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,661,,,,661,,6820,,,2
+H2,2006,2006,2006,4,0,1,Import,646,Rwanda,RWA,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3,,,,3,,20,,,2
+H2,2006,2006,2006,4,0,1,Import,646,Rwanda,RWA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,26108,,,,26108,,44230,,,2
+H2,2006,2006,2006,4,0,1,Import,646,Rwanda,RWA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1888,,,,1888,,3725,,,2
+H2,2006,2006,2006,4,0,1,Import,646,Rwanda,RWA,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10887,,,,10887,,45495,,,2
+H2,2006,2006,2006,4,0,1,Import,646,Rwanda,RWA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,237,,,,237,,1141,,,2
+H2,2006,2006,2006,4,0,1,Import,646,Rwanda,RWA,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,35530,,,,35530,,32151,,,2
+H2,2006,2006,2006,4,0,1,Import,646,Rwanda,RWA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,29763,,,,29763,,35466,,,2
+H2,2006,2006,2006,4,0,1,Import,646,Rwanda,RWA,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,457,,,,457,,5835,,,2
+H2,2006,2006,2006,4,0,1,Import,646,Rwanda,RWA,800,Uganda,UGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16,,,,16,,24,,,2
+H2,2007,2007,2007,4,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,103483,,,,103483,,197964,,,6
+H2,2007,2007,2007,4,0,2,Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,40235,,,,40235,,20375,,,2
+H2,2007,2007,2007,4,0,3,Re-Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14144,,,,14144,,10758,,,2
+H2,2007,2007,2007,4,0,1,Import,646,Rwanda,RWA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45425,,,,45425,,30782,,,2
+H2,2007,2007,2007,4,0,2,Export,646,Rwanda,RWA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,591,,,,591,,1395,,,2
+H2,2007,2007,2007,4,0,2,Export,646,Rwanda,RWA,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,758,,,,758,,6085,,,2
+H2,2007,2007,2007,4,0,3,Re-Export,646,Rwanda,RWA,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,758,,,,758,,6085,,,2
+H2,2007,2007,2007,4,0,1,Import,646,Rwanda,RWA,178,Congo,COG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2100,,,,2100,,1483,,,2
+H2,2007,2007,2007,4,0,1,Import,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4082,,,,4082,,6096,,,2
+H2,2007,2007,2007,4,0,2,Export,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13386,,,,13386,,4673,,,2
+H2,2007,2007,2007,4,0,3,Re-Export,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13386,,,,13386,,4673,,,2
+H2,2007,2007,2007,4,0,1,Import,646,Rwanda,RWA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9764,,,,9764,,14228,,,2
+H2,2007,2007,2007,4,0,1,Import,646,Rwanda,RWA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2037,,,,2037,,6874,,,2
+H2,2007,2007,2007,4,0,1,Import,646,Rwanda,RWA,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21164,,,,21164,,54323,,,2
+H2,2007,2007,2007,4,0,1,Import,646,Rwanda,RWA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,688,,,,688,,2394,,,2
+H2,2007,2007,2007,4,0,1,Import,646,Rwanda,RWA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6352,,,,6352,,24891,,,2
+H2,2007,2007,2007,4,0,1,Import,646,Rwanda,RWA,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4184,,,,4184,,31160,,,2
+H2,2007,2007,2007,4,0,1,Import,646,Rwanda,RWA,800,Uganda,UGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4790,,,,4790,,11254,,,6
+H2,2007,2007,2007,4,0,2,Export,646,Rwanda,RWA,800,Uganda,UGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,25500,,,,25500,,8222,,,2
+H2,2007,2007,2007,4,0,1,Import,646,Rwanda,RWA,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1080,,,,1080,,740,,,2
+H2,2007,2007,2007,4,0,1,Import,646,Rwanda,RWA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1817,,,,1817,,13741,,,2
+H2,2008,2008,2008,4,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,213523,,,,213523,,544370,,,2
+H2,2008,2008,2008,4,0,2,Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27324,,,,27324,,2207697,,,2
+H2,2008,2008,2008,4,0,3,Re-Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9074,,,,9074,,17854,,,2
+H2,2008,2008,2008,4,0,1,Import,646,Rwanda,RWA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7158,,,,7158,,29739,,,2
+H2,2008,2008,2008,4,0,2,Export,646,Rwanda,RWA,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,250,,,,250,,764,,,2
+H2,2008,2008,2008,4,0,1,Import,646,Rwanda,RWA,108,Burundi,BDI,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,2,,8,,,2
+H2,2008,2008,2008,4,0,1,Import,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1029,,,,1029,,2484,,,2
+H2,2008,2008,2008,4,0,2,Export,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27074,,,,27074,,2206933,,,2
+H2,2008,2008,2008,4,0,3,Re-Export,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9074,,,,9074,,17854,,,2
+H2,2008,2008,2008,4,0,1,Import,646,Rwanda,RWA,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1131,,,,1131,,16257,,,2
+H2,2008,2008,2008,4,0,1,Import,646,Rwanda,RWA,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,56165,,,,56165,,95402,,,2
+H2,2008,2008,2008,4,0,1,Import,646,Rwanda,RWA,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,150,,,,150,,5915,,,2
+H2,2008,2008,2008,4,0,1,Import,646,Rwanda,RWA,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,50956,,,,50956,,55119,,,2
+H2,2008,2008,2008,4,0,1,Import,646,Rwanda,RWA,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,43295,,,,43295,,108001,,,2
+H2,2008,2008,2008,4,0,1,Import,646,Rwanda,RWA,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14520,,,,14520,,29134,,,2
+H2,2008,2008,2008,4,0,1,Import,646,Rwanda,RWA,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,794,,,,794,,2781,,,2
+H2,2008,2008,2008,4,0,1,Import,646,Rwanda,RWA,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,275,,,,275,,6219,,,2
+H2,2008,2008,2008,4,0,1,Import,646,Rwanda,RWA,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,48,,,,48,,79,,,2
+H2,2008,2008,2008,4,0,1,Import,646,Rwanda,RWA,800,Uganda,UGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,31595,,,,31595,,55272,,,2
+H2,2008,2008,2008,4,0,1,Import,646,Rwanda,RWA,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10,,,,10,,59,,,2
+H2,2008,2008,2008,4,0,1,Import,646,Rwanda,RWA,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4656,,,,4656,,10049,,,2
+H2,2008,2008,2008,4,0,1,Import,646,Rwanda,RWA,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1739,,,,1739,,127854,,,2

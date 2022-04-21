@@ -1,0 +1,224 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5460932,,,,5460932,,10976571,,,2
+H1,2000,2000,2000,4,0,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,70833,,,,16990,,166437,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,44172,,,,44172,,102242,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,330384,,,,330384,,556660,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3400,,,,3400,,10243,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,43500,,,,43500,,21537,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,43676,,,,43676,,156685,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,406851,,,,406851,,2609078,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18674,,,,18674,,15118,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2808,,,,2808,,132304,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,246,Finland,FIN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15555,,,,15555,,7795,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1061674,,,,1061674,,1798285,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,54900,,,,54900,,73286,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15000,,,,15000,,7110,,,2
+H1,2000,2000,2000,4,0,2,Export,608,Philippines,PHL,316,Guam,GUM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4600,,,,4600,,7074,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1081,,,,1081,,3176,,,2
+H1,2000,2000,2000,4,0,2,Export,608,Philippines,PHL,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,75,,,,75,,977,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,360,Indonesia,IDN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,14503,,,,14503,,22480,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,376,Israel,ISR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7976,,,,7976,,7262,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,528163,,,,528163,,714186,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,25994,,,,25994,,40805,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,410,Rep. of Korea,KOR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,21140,,,,21140,,56980,,,2
+H1,2000,2000,2000,4,0,2,Export,608,Philippines,PHL,458,Malaysia,MYS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2565,,,,2565,,15491,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,484,Mexico,MEX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,180688,,,,180688,,398215,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,84070,,,,84070,,99147,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,39219,,,,39219,,89688,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,843,,,,843,,13851,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,699,India,IND,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5424,,,,5424,,3740,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,137533,,,,137533,,368184,,,2
+H1,2000,2000,2000,4,0,2,Export,608,Philippines,PHL,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,61533,,,,7690,,138875,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,43319,,,,43319,,82634,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,729776,,,,729776,,639765,,,2
+H1,2000,2000,2000,4,0,2,Export,608,Philippines,PHL,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2060,,,,2060,,4020,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,79209,,,,79209,,82369,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,764,Thailand,THA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,19080,,,,19080,,10741,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,77576,,,,77576,,429489,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1405433,,,,1405433,,2395181,,,2
+H1,2000,2000,2000,4,0,1,Import,608,Philippines,PHL,860,Uzbekistan,UZB,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,19311,,,,19311,,28335,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6270848,,,,6270848,,9460950,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,35422,,,,35422,,48734,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,420717,,,,420717,,605975,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,40,Austria,AUT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,23027,,,,23027,,41847,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15520,,,,15520,,42373,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,76,Brazil,BRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,42570,,,,42570,,85408,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,44900,,,,44900,,20553,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,609,,,,609,,6685,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,288157,,,,288157,,412117,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,102293,,,,102293,,453904,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18581,,,,18581,,65941,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,246,Finland,FIN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13415,,,,13415,,28928,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1109985,,,,1109985,,1230454,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,113387,,,,113387,,125340,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2328,,,,2328,,3412,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,55488,,,,55488,,508842,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,376,Israel,ISR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1174,,,,1174,,2536,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,618550,,,,618550,,726610,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4326,,,,4326,,2550,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,458,Malaysia,MYS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5675,,,,5675,,6362,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,484,Mexico,MEX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,174256,,,,174256,,365115,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,490,"Other Asia, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,109642,,,,109642,,166194,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,278999,,,,278999,,454757,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,17718,,,,17718,,47582,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1870,,,,1870,,5508,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,699,India,IND,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,26773,,,,26773,,26805,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,163510,,,,163510,,279986,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,43805,,,,43805,,59565,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,728583,,,,728583,,684309,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,60002,,,,60002,,41291,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,72980,,,,72980,,130860,,,2
+H1,2001,2001,2001,4,0,1,Import,608,Philippines,PHL,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1676586,,,,1676586,,2780407,,,2
+H1,2002,2002,2002,4,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7495028,,,,7495028,,10742347,,,2
+H1,2002,2002,2002,4,0,1,Import,608,Philippines,PHL,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,14320,,,,14320,,23800,,,2
+H1,2002,2002,2002,4,0,1,Import,608,Philippines,PHL,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,610461,,,,610461,,918499,,,2
+H1,2002,2002,2002,4,0,1,Import,608,Philippines,PHL,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12238,,,,12238,,25472,,,2
+H1,2002,2002,2002,4,0,1,Import,608,Philippines,PHL,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,72294,,,,72294,,33993,,,2
+H1,2002,2002,2002,4,0,1,Import,608,Philippines,PHL,104,Myanmar,MMR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,17874,,,,17874,,24106,,,2
+H1,2002,2002,2002,4,0,1,Import,608,Philippines,PHL,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7958,,,,7958,,173234,,,2
+H1,2002,2002,2002,4,0,1,Import,608,Philippines,PHL,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,331131,,,,331131,,458936,,,2
+H1,2002,2002,2002,4,0,1,Import,608,Philippines,PHL,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,152032,,,,152032,,167024,,,2
+H1,2002,2002,2002,4,0,1,Import,608,Philippines,PHL,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1321418,,,,1321418,,1502398,,,2
+H1,2002,2002,2002,4,0,1,Import,608,Philippines,PHL,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,137937,,,,137937,,227602,,,2
+H1,2002,2002,2002,4,0,1,Import,608,Philippines,PHL,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,292944,,,,292944,,1328108,,,2
+H1,2002,2002,2002,4,0,1,Import,608,Philippines,PHL,376,Israel,ISR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5287,,,,5287,,4827,,,2
+H1,2002,2002,2002,4,0,1,Import,608,Philippines,PHL,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,667193,,,,667193,,927024,,,2
+H1,2002,2002,2002,4,0,1,Import,608,Philippines,PHL,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,28548,,,,28548,,67558,,,2
+H1,2002,2002,2002,4,0,1,Import,608,Philippines,PHL,458,Malaysia,MYS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,390,,,,390,,1625,,,2
+H1,2002,2002,2002,4,0,1,Import,608,Philippines,PHL,484,Mexico,MEX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,196980,,,,196980,,553275,,,2
+H1,2002,2002,2002,4,0,1,Import,608,Philippines,PHL,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,90769,,,,90769,,128057,,,2
+H1,2002,2002,2002,4,0,1,Import,608,Philippines,PHL,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,128997,,,,128997,,69391,,,2
+H1,2002,2002,2002,4,0,1,Import,608,Philippines,PHL,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2687,,,,2687,,5534,,,2
+H1,2002,2002,2002,4,0,1,Import,608,Philippines,PHL,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,80942,,,,80942,,190255,,,2
+H1,2002,2002,2002,4,0,1,Import,608,Philippines,PHL,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,45718,,,,45718,,70174,,,2
+H1,2002,2002,2002,4,0,1,Import,608,Philippines,PHL,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1169787,,,,1169787,,893593,,,2
+H1,2002,2002,2002,4,0,1,Import,608,Philippines,PHL,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5473,,,,5473,,3400,,,2
+H1,2002,2002,2002,4,0,1,Import,608,Philippines,PHL,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,105390,,,,105390,,168784,,,2
+H1,2002,2002,2002,4,0,1,Import,608,Philippines,PHL,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1996260,,,,1996260,,2775678,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5579859,,,,5579859,,9352013,,,2
+H1,2003,2003,2003,4,0,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,225,,,,225,,543,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,45376,,,,45376,,45688,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,363577,,,,363577,,627226,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,862,,,,862,,4510,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,40029,,,,40029,,18975,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,13816,,,,13816,,18048,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,179551,,,,179551,,273952,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,207939,,,,207939,,477344,,,2
+H1,2003,2003,2003,4,0,2,Export,608,Philippines,PHL,196,Cyprus,CYP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,126,,,,126,,385,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,877913,,,,877913,,1441052,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,188947,,,,188947,,191334,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,122681,,,,122681,,438292,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,360,Indonesia,IDN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6540,,,,6540,,39852,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,372,Ireland,IRL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,14174,,,,14174,,34278,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,376,Israel,ISR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9395,,,,9395,,6077,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,431011,,,,431011,,529533,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,145776,,,,145776,,697643,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,410,Rep. of Korea,KOR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,38654,,,,38654,,13080,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,484,Mexico,MEX,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,168021,,,,168021,,560469,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,490,"Other Asia, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,12274,,,,12274,,37120,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,138937,,,,138937,,241618,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,98453,,,,98453,,83379,,,2
+H1,2003,2003,2003,4,0,2,Export,608,Philippines,PHL,584,Marshall Isds,MHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,99,,,,99,,158,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,18947,,,,18947,,9231,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,642,Romania,ROU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15472,,,,15472,,21752,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,699,India,IND,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6995,,,,6995,,3395,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,212688,,,,212688,,841649,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,74093,,,,74093,,100088,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1096745,,,,1096745,,864570,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1359,,,,1359,,4971,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,784,United Arab Emirates,ARE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6579,,,,6579,,9713,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,110353,,,,110353,,218515,,,2
+H1,2003,2003,2003,4,0,1,Import,608,Philippines,PHL,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,932702,,,,932702,,1498659,,,2
+H1,2004,2004,2004,4,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8775554,,,,8775554,,10855739,,,2
+H1,2004,2004,2004,4,0,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,6017,,,,6017,,5910,,,2
+H1,2004,2004,2004,4,0,1,Import,608,Philippines,PHL,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,122466,,,,122466,,119985,,,2
+H1,2004,2004,2004,4,0,1,Import,608,Philippines,PHL,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,688364,,,,688364,,1199034,,,2
+H1,2004,2004,2004,4,0,1,Import,608,Philippines,PHL,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9470,,,,9470,,20845,,,2
+H1,2004,2004,2004,4,0,1,Import,608,Philippines,PHL,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,48135,,,,48135,,14443,,,2
+H1,2004,2004,2004,4,0,1,Import,608,Philippines,PHL,124,Canada,CAN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,17973,,,,17973,,9612,,,2
+H1,2004,2004,2004,4,0,1,Import,608,Philippines,PHL,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,302182,,,,302182,,269109,,,2
+H1,2004,2004,2004,4,0,1,Import,608,Philippines,PHL,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,289020,,,,289020,,593598,,,2
+H1,2004,2004,2004,4,0,2,Export,608,Philippines,PHL,196,Cyprus,CYP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,133,,,,133,,300,,,2
+H1,2004,2004,2004,4,0,1,Import,608,Philippines,PHL,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,847975,,,,847975,,1369243,,,2
+H1,2004,2004,2004,4,0,1,Import,608,Philippines,PHL,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,124751,,,,124751,,154248,,,2
+H1,2004,2004,2004,4,0,1,Import,608,Philippines,PHL,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,466,,,,466,,2813,,,2
+H1,2004,2004,2004,4,0,2,Export,608,Philippines,PHL,316,Guam,GUM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4779,,,,4779,,3366,,,2
+H1,2004,2004,2004,4,0,1,Import,608,Philippines,PHL,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,154337,,,,154337,,412538,,,2
+H1,2004,2004,2004,4,0,2,Export,608,Philippines,PHL,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1105,,,,1105,,2244,,,2
+H1,2004,2004,2004,4,0,1,Import,608,Philippines,PHL,376,Israel,ISR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2988,,,,2988,,2744,,,2
+H1,2004,2004,2004,4,0,1,Import,608,Philippines,PHL,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,593276,,,,593276,,609250,,,2
+H1,2004,2004,2004,4,0,1,Import,608,Philippines,PHL,392,Japan,JPN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1755,,,,1755,,7959,,,2
+H1,2004,2004,2004,4,0,1,Import,608,Philippines,PHL,410,Rep. of Korea,KOR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,431358,,,,431358,,162481,,,2
+H1,2004,2004,2004,4,0,1,Import,608,Philippines,PHL,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,690,,,,690,,885,,,2
+H1,2004,2004,2004,4,0,1,Import,608,Philippines,PHL,533,Aruba,ABW,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10740,,,,10740,,7843,,,2
+H1,2004,2004,2004,4,0,1,Import,608,Philippines,PHL,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,44788,,,,44788,,136823,,,2
+H1,2004,2004,2004,4,0,1,Import,608,Philippines,PHL,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,55219,,,,55219,,20762,,,2
+H1,2004,2004,2004,4,0,1,Import,608,Philippines,PHL,702,Singapore,SGP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,68300,,,,68300,,267235,,,2
+H1,2004,2004,2004,4,0,1,Import,608,Philippines,PHL,704,Viet Nam,VNM,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,70,,,,70,,87,,,2
+H1,2004,2004,2004,4,0,1,Import,608,Philippines,PHL,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,132574,,,,132574,,137986,,,2
+H1,2004,2004,2004,4,0,1,Import,608,Philippines,PHL,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1896821,,,,1896821,,1493208,,,2
+H1,2004,2004,2004,4,0,1,Import,608,Philippines,PHL,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,255,,,,255,,2807,,,2
+H1,2004,2004,2004,4,0,1,Import,608,Philippines,PHL,764,Thailand,THA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16974,,,,16974,,24403,,,2
+H1,2004,2004,2004,4,0,1,Import,608,Philippines,PHL,826,United Kingdom,GBR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,168435,,,,168435,,212419,,,2
+H1,2004,2004,2004,4,0,1,Import,608,Philippines,PHL,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,2746172,,,,2746172,,3603379,,,2
+H5,2020,2020,2020,4,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9355233,,,,9355233,,24064580,,,0
+H5,2020,2020,2020,4,0,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45969,,,,45969,,123564,,,0
+H5,2020,2020,2020,4,0,1,Import,608,Philippines,PHL,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,108318,,,,108318,,251609,,,0
+H5,2020,2020,2020,4,0,1,Import,608,Philippines,PHL,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1730691,,,,1730691,,5198093,,,0
+H5,2020,2020,2020,4,0,1,Import,608,Philippines,PHL,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1381,,,,1381,,4247,,,0
+H5,2020,2020,2020,4,0,1,Import,608,Philippines,PHL,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1612,,,,1612,,9297,,,0
+H5,2020,2020,2020,4,0,1,Import,608,Philippines,PHL,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1020305,,,,1020305,,2055245,,,0
+H5,2020,2020,2020,4,0,1,Import,608,Philippines,PHL,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14445,,,,14445,,16235,,,0
+H5,2020,2020,2020,4,0,1,Import,608,Philippines,PHL,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,689603,,,,689603,,2401091,,,0
+H5,2020,2020,2020,4,0,1,Import,608,Philippines,PHL,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,36175,,,,36175,,71685,,,0
+H5,2020,2020,2020,4,0,1,Import,608,Philippines,PHL,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,652,,,,652,,1372,,,0
+H5,2020,2020,2020,4,0,2,Export,608,Philippines,PHL,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,161,,,,161,,8668,,,0
+H5,2020,2020,2020,4,0,1,Import,608,Philippines,PHL,360,Indonesia,IDN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5615,,,,5615,,15850,,,0
+H5,2020,2020,2020,4,0,1,Import,608,Philippines,PHL,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,705525,,,,705525,,1481150,,,0
+H5,2020,2020,2020,4,0,2,Export,608,Philippines,PHL,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3,,,,3,,50,,,0
+H5,2020,2020,2020,4,0,1,Import,608,Philippines,PHL,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,422,,,,422,,10208,,,0
+H5,2020,2020,2020,4,0,1,Import,608,Philippines,PHL,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,81,,,,81,,468,,,0
+H5,2020,2020,2020,4,0,1,Import,608,Philippines,PHL,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1329,,,,1329,,9136,,,0
+H5,2020,2020,2020,4,0,1,Import,608,Philippines,PHL,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,40232,,,,40232,,235288,,,0
+H5,2020,2020,2020,4,0,2,Export,608,Philippines,PHL,580,N. Mariana Isds,MNP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,84,,,,84,,290,,,0
+H5,2020,2020,2020,4,0,1,Import,608,Philippines,PHL,586,Pakistan,PAK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1736,,,,1736,,2485,,,0
+H5,2020,2020,2020,4,0,1,Import,608,Philippines,PHL,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,122231,,,,122231,,215815,,,0
+H5,2020,2020,2020,4,0,1,Import,608,Philippines,PHL,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7223,,,,7223,,25671,,,0
+H5,2020,2020,2020,4,0,1,Import,608,Philippines,PHL,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,288508,,,,288508,,1294150,,,0
+H5,2020,2020,2020,4,0,1,Import,608,Philippines,PHL,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,233185,,,,233185,,527202,,,0
+H5,2020,2020,2020,4,0,1,Import,608,Philippines,PHL,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1417096,,,,1417096,,2673167,,,0
+H5,2020,2020,2020,4,0,1,Import,608,Philippines,PHL,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,35316,,,,35316,,70055,,,0
+H5,2020,2020,2020,4,0,2,Export,608,Philippines,PHL,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,45720,,,,45720,,114456,,,0
+H5,2020,2020,2020,4,0,1,Import,608,Philippines,PHL,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,67883,,,,67883,,206065,,,0
+H5,2020,2020,2020,4,0,2,Export,608,Philippines,PHL,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,1,,100,,,0
+H5,2020,2020,2020,4,0,1,Import,608,Philippines,PHL,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2825667,,,,2825667,,7288996,,,0
+H5,2021,2021,2021,4,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11224656,,,,11224656,,30681282,,,0
+H5,2021,2021,2021,4,0,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,181819,,,,181819,,344443,,,0
+H5,2021,2021,2021,4,0,1,Import,608,Philippines,PHL,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,136593,,,,136593,,613518,,,0
+H5,2021,2021,2021,4,0,1,Import,608,Philippines,PHL,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2369462,,,,2369462,,8051147,,,0
+H5,2021,2021,2021,4,0,1,Import,608,Philippines,PHL,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,670,,,,670,,3342,,,0
+H5,2021,2021,2021,4,0,1,Import,608,Philippines,PHL,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,68,,,,68,,6534,,,0
+H5,2021,2021,2021,4,0,1,Import,608,Philippines,PHL,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9000,,,,9000,,21284,,,0
+H5,2021,2021,2021,4,0,1,Import,608,Philippines,PHL,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,724,,,,724,,5579,,,0
+H5,2021,2021,2021,4,0,1,Import,608,Philippines,PHL,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1008930,,,,1008930,,1954631,,,0
+H5,2021,2021,2021,4,0,1,Import,608,Philippines,PHL,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14,,,,14,,1107,,,0
+H5,2021,2021,2021,4,0,1,Import,608,Philippines,PHL,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,37868,,,,37868,,47174,,,0
+H5,2021,2021,2021,4,0,1,Import,608,Philippines,PHL,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,821255,,,,821255,,4289707,,,0
+H5,2021,2021,2021,4,0,1,Import,608,Philippines,PHL,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,35336,,,,35336,,85619,,,0
+H5,2021,2021,2021,4,0,1,Import,608,Philippines,PHL,344,"China, Hong Kong SAR",HKG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3351,,,,3351,,12997,,,0
+H5,2021,2021,2021,4,0,1,Import,608,Philippines,PHL,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1666,,,,1666,,9329,,,0
+H5,2021,2021,2021,4,0,1,Import,608,Philippines,PHL,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,753197,,,,753197,,1846078,,,0
+H5,2021,2021,2021,4,0,1,Import,608,Philippines,PHL,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,242,,,,242,,796,,,0
+H5,2021,2021,2021,4,0,1,Import,608,Philippines,PHL,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7659,,,,7659,,30149,,,0
+H5,2021,2021,2021,4,0,2,Export,608,Philippines,PHL,410,Rep. of Korea,KOR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8195,,,,8195,,10152,,,0
+H5,2021,2021,2021,4,0,2,Export,608,Philippines,PHL,490,"Other Asia, nes",,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,69248,,,,69248,,106820,,,0
+H5,2021,2021,2021,4,0,1,Import,608,Philippines,PHL,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,66789,,,,66789,,429075,,,0
+H5,2021,2021,2021,4,0,1,Import,608,Philippines,PHL,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,334088,,,,334088,,512911,,,0
+H5,2021,2021,2021,4,0,1,Import,608,Philippines,PHL,702,Singapore,SGP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,141650,,,,141650,,379549,,,0
+H5,2021,2021,2021,4,0,1,Import,608,Philippines,PHL,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,441706,,,,441706,,897237,,,0
+H5,2021,2021,2021,4,0,1,Import,608,Philippines,PHL,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1843499,,,,1843499,,3039731,,,0
+H5,2021,2021,2021,4,0,1,Import,608,Philippines,PHL,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,43817,,,,43817,,133725,,,0
+H5,2021,2021,2021,4,0,2,Export,608,Philippines,PHL,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,89916,,,,89916,,203921,,,0
+H5,2021,2021,2021,4,0,1,Import,608,Philippines,PHL,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,60374,,,,60374,,164575,,,0
+H5,2021,2021,2021,4,0,1,Import,608,Philippines,PHL,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3106694,,,,3106694,,8145488,,,0
+H5,2021,2021,2021,4,0,2,Export,608,Philippines,PHL,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14459,,,,14459,,23550,,,0

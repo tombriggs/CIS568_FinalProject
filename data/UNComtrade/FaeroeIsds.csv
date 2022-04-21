@@ -1,0 +1,235 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2002,2002,2002,4,0,1,Import,234,Faeroe Isds,FRO,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,274807,,,,274807,,866966,,,2
+H2,2002,2002,2002,4,0,1,Import,234,Faeroe Isds,FRO,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,455,,,,455,,1407,,,2
+H2,2002,2002,2002,4,0,1,Import,234,Faeroe Isds,FRO,20,Andorra,AND,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,338,,,,338,,478,,,2
+H2,2002,2002,2002,4,0,1,Import,234,Faeroe Isds,FRO,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5540,,,,5540,,17806,,,2
+H2,2002,2002,2002,4,0,1,Import,234,Faeroe Isds,FRO,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16070,,,,16070,,71424,,,2
+H2,2002,2002,2002,4,0,1,Import,234,Faeroe Isds,FRO,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,90,,,,90,,322,,,2
+H2,2002,2002,2002,4,0,1,Import,234,Faeroe Isds,FRO,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45387,,,,45387,,143982,,,2
+H2,2002,2002,2002,4,0,1,Import,234,Faeroe Isds,FRO,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,756,,,,756,,2561,,,2
+H2,2002,2002,2002,4,0,1,Import,234,Faeroe Isds,FRO,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,4689,,,,4689,,11520,,,2
+H2,2002,2002,2002,4,0,1,Import,234,Faeroe Isds,FRO,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,102071,,,,102071,,300149,,,2
+H2,2002,2002,2002,4,0,1,Import,234,Faeroe Isds,FRO,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8392,,,,8392,,16011,,,2
+H2,2002,2002,2002,4,0,1,Import,234,Faeroe Isds,FRO,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14,,,,14,,39,,,2
+H2,2002,2002,2002,4,0,1,Import,234,Faeroe Isds,FRO,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14505,,,,14505,,46153,,,2
+H2,2002,2002,2002,4,0,1,Import,234,Faeroe Isds,FRO,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,464,,,,464,,838,,,2
+H2,2002,2002,2002,4,0,1,Import,234,Faeroe Isds,FRO,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,540,,,,540,,1685,,,2
+H2,2002,2002,2002,4,0,1,Import,234,Faeroe Isds,FRO,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18,,,,18,,114,,,2
+H2,2002,2002,2002,4,0,1,Import,234,Faeroe Isds,FRO,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8194,,,,8194,,30903,,,2
+H2,2002,2002,2002,4,0,1,Import,234,Faeroe Isds,FRO,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1643,,,,1643,,4095,,,2
+H2,2002,2002,2002,4,0,1,Import,234,Faeroe Isds,FRO,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16275,,,,16275,,63414,,,2
+H2,2002,2002,2002,4,0,1,Import,234,Faeroe Isds,FRO,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,35834,,,,35834,,101581,,,2
+H2,2002,2002,2002,4,0,1,Import,234,Faeroe Isds,FRO,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,328,,,,328,,1480,,,2
+H2,2002,2002,2002,4,0,1,Import,234,Faeroe Isds,FRO,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13207,,,,13207,,51005,,,2
+H2,2003,2003,2003,4,0,1,Import,234,Faeroe Isds,FRO,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,279749,,,,279749,,1065360,,,2
+H2,2003,2003,2003,4,0,1,Import,234,Faeroe Isds,FRO,12,Algeria,DZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,203,,,,203,,754,,,2
+H2,2003,2003,2003,4,0,1,Import,234,Faeroe Isds,FRO,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6206,,,,6206,,25099,,,2
+H2,2003,2003,2003,4,0,1,Import,234,Faeroe Isds,FRO,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17788,,,,17788,,90595,,,2
+H2,2003,2003,2003,4,0,1,Import,234,Faeroe Isds,FRO,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,58082,,,,58082,,221001,,,2
+H2,2003,2003,2003,4,0,1,Import,234,Faeroe Isds,FRO,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1220,,,,1220,,4715,,,2
+H2,2003,2003,2003,4,0,1,Import,234,Faeroe Isds,FRO,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3766,,,,3766,,10914,,,2
+H2,2003,2003,2003,4,0,1,Import,234,Faeroe Isds,FRO,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,104252,,,,104252,,363653,,,2
+H2,2003,2003,2003,4,0,1,Import,234,Faeroe Isds,FRO,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8141,,,,8141,,19294,,,2
+H2,2003,2003,2003,4,0,1,Import,234,Faeroe Isds,FRO,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18,,,,18,,66,,,2
+H2,2003,2003,2003,4,0,1,Import,234,Faeroe Isds,FRO,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27,,,,27,,613,,,2
+H2,2003,2003,2003,4,0,1,Import,234,Faeroe Isds,FRO,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,86,,,,86,,645,,,2
+H2,2003,2003,2003,4,0,1,Import,234,Faeroe Isds,FRO,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13968,,,,13968,,57909,,,2
+H2,2003,2003,2003,4,0,1,Import,234,Faeroe Isds,FRO,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5,,,,5,,55,,,2
+H2,2003,2003,2003,4,0,1,Import,234,Faeroe Isds,FRO,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,839,,,,839,,3403,,,2
+H2,2003,2003,2003,4,0,1,Import,234,Faeroe Isds,FRO,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,81,,,,81,,689,,,2
+H2,2003,2003,2003,4,0,1,Import,234,Faeroe Isds,FRO,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9194,,,,9194,,41638,,,2
+H2,2003,2003,2003,4,0,1,Import,234,Faeroe Isds,FRO,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,92,,,,92,,280,,,2
+H2,2003,2003,2003,4,0,1,Import,234,Faeroe Isds,FRO,643,Russian Federation,RUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2,,,,2,,5,,,2
+H2,2003,2003,2003,4,0,1,Import,234,Faeroe Isds,FRO,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16401,,,,16401,,75302,,,2
+H2,2003,2003,2003,4,0,1,Import,234,Faeroe Isds,FRO,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,31500,,,,31500,,109216,,,2
+H2,2003,2003,2003,4,0,1,Import,234,Faeroe Isds,FRO,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,630,,,,630,,3402,,,2
+H2,2003,2003,2003,4,0,1,Import,234,Faeroe Isds,FRO,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7249,,,,7249,,36113,,,2
+H2,2004,2004,2004,4,0,1,Import,234,Faeroe Isds,FRO,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,300812,,,,300812,,1235685,,,2
+H2,2004,2004,2004,4,0,1,Import,234,Faeroe Isds,FRO,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7266,,,,7266,,35062,,,2
+H2,2004,2004,2004,4,0,1,Import,234,Faeroe Isds,FRO,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19398,,,,19398,,98722,,,2
+H2,2004,2004,2004,4,0,1,Import,234,Faeroe Isds,FRO,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,69917,,,,69917,,271235,,,2
+H2,2004,2004,2004,4,0,1,Import,234,Faeroe Isds,FRO,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1206,,,,1206,,4989,,,2
+H2,2004,2004,2004,4,0,1,Import,234,Faeroe Isds,FRO,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3848,,,,3848,,12278,,,2
+H2,2004,2004,2004,4,0,1,Import,234,Faeroe Isds,FRO,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,102892,,,,102892,,376346,,,2
+H2,2004,2004,2004,4,0,1,Import,234,Faeroe Isds,FRO,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8909,,,,8909,,27870,,,2
+H2,2004,2004,2004,4,0,1,Import,234,Faeroe Isds,FRO,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5,,,,5,,19,,,2
+H2,2004,2004,2004,4,0,1,Import,234,Faeroe Isds,FRO,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13,,,,13,,307,,,2
+H2,2004,2004,2004,4,0,1,Import,234,Faeroe Isds,FRO,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,135,,,,135,,1159,,,2
+H2,2004,2004,2004,4,0,1,Import,234,Faeroe Isds,FRO,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,16213,,,,16213,,90544,,,2
+H2,2004,2004,2004,4,0,1,Import,234,Faeroe Isds,FRO,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,900,,,,900,,4129,,,2
+H2,2004,2004,2004,4,0,1,Import,234,Faeroe Isds,FRO,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3750,,,,3750,,26611,,,2
+H2,2004,2004,2004,4,0,1,Import,234,Faeroe Isds,FRO,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,149,,,,149,,1682,,,2
+H2,2004,2004,2004,4,0,1,Import,234,Faeroe Isds,FRO,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8496,,,,8496,,40698,,,2
+H2,2004,2004,2004,4,0,1,Import,234,Faeroe Isds,FRO,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,21666,,,,21666,,92577,,,2
+H2,2004,2004,2004,4,0,1,Import,234,Faeroe Isds,FRO,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,28900,,,,28900,,110247,,,2
+H2,2004,2004,2004,4,0,1,Import,234,Faeroe Isds,FRO,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,847,,,,847,,4746,,,2
+H2,2004,2004,2004,4,0,1,Import,234,Faeroe Isds,FRO,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6304,,,,6304,,36462,,,2
+H1,2000,2000,2000,4,0,1,Import,234,Faeroe Isds,FRO,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,253277,,,,253277,,738532,,,2
+H1,2000,2000,2000,4,0,1,Import,234,Faeroe Isds,FRO,12,Algeria,DZA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,900,,,,900,,2703,,,2
+H1,2000,2000,2000,4,0,1,Import,234,Faeroe Isds,FRO,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5150,,,,5150,,15074,,,2
+H1,2000,2000,2000,4,0,1,Import,234,Faeroe Isds,FRO,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11003,,,,11003,,43901,,,2
+H1,2000,2000,2000,4,0,1,Import,234,Faeroe Isds,FRO,68,Bolivia (Plurinational State of),BOL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,243,,,,243,,1025,,,2
+H1,2000,2000,2000,4,0,1,Import,234,Faeroe Isds,FRO,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,181,,,,181,,465,,,2
+H1,2000,2000,2000,4,0,1,Import,234,Faeroe Isds,FRO,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,22466,,,,22466,,69322,,,2
+H1,2000,2000,2000,4,0,1,Import,234,Faeroe Isds,FRO,196,Cyprus,CYP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,558,,,,558,,1880,,,2
+H1,2000,2000,2000,4,0,1,Import,234,Faeroe Isds,FRO,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4909,,,,4909,,10750,,,2
+H1,2000,2000,2000,4,0,1,Import,234,Faeroe Isds,FRO,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,102218,,,,102218,,289925,,,2
+H1,2000,2000,2000,4,0,1,Import,234,Faeroe Isds,FRO,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9808,,,,9808,,18383,,,2
+H1,2000,2000,2000,4,0,1,Import,234,Faeroe Isds,FRO,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,23,,,,23,,56,,,2
+H1,2000,2000,2000,4,0,1,Import,234,Faeroe Isds,FRO,348,Hungary,HUN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9,,,,9,,24,,,2
+H1,2000,2000,2000,4,0,1,Import,234,Faeroe Isds,FRO,376,Israel,ISR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15,,,,15,,115,,,2
+H1,2000,2000,2000,4,0,1,Import,234,Faeroe Isds,FRO,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11685,,,,11685,,34639,,,2
+H1,2000,2000,2000,4,0,1,Import,234,Faeroe Isds,FRO,527,"Oceania, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9,,,,9,,84,,,2
+H1,2000,2000,2000,4,0,1,Import,234,Faeroe Isds,FRO,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,955,,,,955,,4586,,,2
+H1,2000,2000,2000,4,0,1,Import,234,Faeroe Isds,FRO,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10884,,,,10884,,40052,,,2
+H1,2000,2000,2000,4,0,1,Import,234,Faeroe Isds,FRO,642,Romania,ROU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1152,,,,1152,,2694,,,2
+H1,2000,2000,2000,4,0,1,Import,234,Faeroe Isds,FRO,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9911,,,,9911,,37831,,,2
+H1,2000,2000,2000,4,0,1,Import,234,Faeroe Isds,FRO,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,40754,,,,40754,,99777,,,2
+H1,2000,2000,2000,4,0,1,Import,234,Faeroe Isds,FRO,788,Tunisia,TUN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,534,,,,534,,2450,,,2
+H1,2000,2000,2000,4,0,1,Import,234,Faeroe Isds,FRO,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,19695,,,,19695,,61836,,,2
+H1,2000,2000,2000,4,0,1,Import,234,Faeroe Isds,FRO,858,Uruguay,URY,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,214,,,,214,,959,,,2
+H1,2001,2001,2001,4,0,1,Import,234,Faeroe Isds,FRO,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,240168,,,,240168,,713122,,,2
+H1,2001,2001,2001,4,0,1,Import,234,Faeroe Isds,FRO,12,Algeria,DZA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,450,,,,450,,1310,,,2
+H1,2001,2001,2001,4,0,1,Import,234,Faeroe Isds,FRO,32,Argentina,ARG,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5625,,,,5625,,16472,,,2
+H1,2001,2001,2001,4,0,1,Import,234,Faeroe Isds,FRO,36,Australia,AUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11345,,,,11345,,51219,,,2
+H1,2001,2001,2001,4,0,1,Import,234,Faeroe Isds,FRO,68,Bolivia (Plurinational State of),BOL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,45,,,,45,,184,,,2
+H1,2001,2001,2001,4,0,1,Import,234,Faeroe Isds,FRO,76,Brazil,BRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9,,,,9,,40,,,2
+H1,2001,2001,2001,4,0,1,Import,234,Faeroe Isds,FRO,100,Bulgaria,BGR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,105,,,,105,,267,,,2
+H1,2001,2001,2001,4,0,1,Import,234,Faeroe Isds,FRO,152,Chile,CHL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,28066,,,,28066,,91294,,,2
+H1,2001,2001,2001,4,0,1,Import,234,Faeroe Isds,FRO,196,Cyprus,CYP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,441,,,,441,,1449,,,2
+H1,2001,2001,2001,4,0,1,Import,234,Faeroe Isds,FRO,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4695,,,,4695,,11429,,,2
+H1,2001,2001,2001,4,0,1,Import,234,Faeroe Isds,FRO,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,93300,,,,93300,,249961,,,2
+H1,2001,2001,2001,4,0,1,Import,234,Faeroe Isds,FRO,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,7662,,,,7662,,12698,,,2
+H1,2001,2001,2001,4,0,1,Import,234,Faeroe Isds,FRO,300,Greece,GRC,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,14,,,,14,,35,,,2
+H1,2001,2001,2001,4,0,1,Import,234,Faeroe Isds,FRO,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10747,,,,10747,,32256,,,2
+H1,2001,2001,2001,4,0,1,Import,234,Faeroe Isds,FRO,504,Morocco,MAR,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,207,,,,207,,576,,,2
+H1,2001,2001,2001,4,0,1,Import,234,Faeroe Isds,FRO,554,New Zealand,NZL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,901,,,,901,,5122,,,2
+H1,2001,2001,2001,4,0,1,Import,234,Faeroe Isds,FRO,620,Portugal,PRT,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8206,,,,8206,,31246,,,2
+H1,2001,2001,2001,4,0,1,Import,234,Faeroe Isds,FRO,642,Romania,ROU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1035,,,,1035,,2376,,,2
+H1,2001,2001,2001,4,0,1,Import,234,Faeroe Isds,FRO,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10170,,,,10170,,39380,,,2
+H1,2001,2001,2001,4,0,1,Import,234,Faeroe Isds,FRO,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,39996,,,,39996,,103587,,,2
+H1,2001,2001,2001,4,0,1,Import,234,Faeroe Isds,FRO,788,Tunisia,TUN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,540,,,,540,,2425,,,2
+H1,2001,2001,2001,4,0,1,Import,234,Faeroe Isds,FRO,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,16609,,,,16609,,59795,,,2
+H3,2007,2007,2007,4,0,1,Import,234,Faeroe Isds,FRO,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,374218,,,,374218,,1992057,,,2
+H3,2007,2007,2007,4,0,1,Import,234,Faeroe Isds,FRO,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,22910,,,,22910,,107978,,,2
+H3,2007,2007,2007,4,0,1,Import,234,Faeroe Isds,FRO,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,67694,,,,67694,,297818,,,2
+H3,2007,2007,2007,4,0,1,Import,234,Faeroe Isds,FRO,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5,,,,5,,75,,,2
+H3,2007,2007,2007,4,0,1,Import,234,Faeroe Isds,FRO,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,153,,,,153,,873,,,2
+H3,2007,2007,2007,4,0,1,Import,234,Faeroe Isds,FRO,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,64459,,,,64459,,345310,,,2
+H3,2007,2007,2007,4,0,1,Import,234,Faeroe Isds,FRO,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,540,,,,540,,3242,,,2
+H3,2007,2007,2007,4,0,1,Import,234,Faeroe Isds,FRO,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1443,,,,1443,,7267,,,2
+H3,2007,2007,2007,4,0,1,Import,234,Faeroe Isds,FRO,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,70863,,,,70863,,474781,,,2
+H3,2007,2007,2007,4,0,1,Import,234,Faeroe Isds,FRO,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,10011,,,,10011,,39416,,,2
+H3,2007,2007,2007,4,0,1,Import,234,Faeroe Isds,FRO,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18,,,,18,,78,,,2
+H3,2007,2007,2007,4,0,1,Import,234,Faeroe Isds,FRO,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9,,,,9,,248,,,2
+H3,2007,2007,2007,4,0,1,Import,234,Faeroe Isds,FRO,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,149,,,,149,,1442,,,2
+H3,2007,2007,2007,4,0,1,Import,234,Faeroe Isds,FRO,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,48662,,,,48662,,247151,,,2
+H3,2007,2007,2007,4,0,1,Import,234,Faeroe Isds,FRO,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,108,,,,108,,901,,,2
+H3,2007,2007,2007,4,0,1,Import,234,Faeroe Isds,FRO,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5760,,,,5760,,39665,,,2
+H3,2007,2007,2007,4,0,1,Import,234,Faeroe Isds,FRO,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,870,,,,870,,11107,,,2
+H3,2007,2007,2007,4,0,1,Import,234,Faeroe Isds,FRO,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9372,,,,9372,,55402,,,2
+H3,2007,2007,2007,4,0,1,Import,234,Faeroe Isds,FRO,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,806,,,,806,,4159,,,2
+H3,2007,2007,2007,4,0,1,Import,234,Faeroe Isds,FRO,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,30738,,,,30738,,144428,,,2
+H3,2007,2007,2007,4,0,1,Import,234,Faeroe Isds,FRO,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,31035,,,,31035,,153348,,,2
+H3,2007,2007,2007,4,0,1,Import,234,Faeroe Isds,FRO,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,984,,,,984,,2100,,,2
+H3,2007,2007,2007,4,0,1,Import,234,Faeroe Isds,FRO,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,378,,,,378,,1954,,,2
+H3,2007,2007,2007,4,0,1,Import,234,Faeroe Isds,FRO,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7254,,,,7254,,53316,,,2
+H3,2008,2008,2008,4,0,1,Import,234,Faeroe Isds,FRO,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,395959,,,,395959,,2249902,,,2
+H3,2008,2008,2008,4,0,1,Import,234,Faeroe Isds,FRO,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,19446,,,,19446,,109927,,,2
+H3,2008,2008,2008,4,0,1,Import,234,Faeroe Isds,FRO,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,82216,,,,82216,,395222,,,2
+H3,2008,2008,2008,4,0,1,Import,234,Faeroe Isds,FRO,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,18,,,,18,,344,,,2
+H3,2008,2008,2008,4,0,1,Import,234,Faeroe Isds,FRO,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,54,,,,54,,326,,,2
+H3,2008,2008,2008,4,0,1,Import,234,Faeroe Isds,FRO,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,306,,,,306,,1492,,,2
+H3,2008,2008,2008,4,0,1,Import,234,Faeroe Isds,FRO,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,69417,,,,69417,,397690,,,2
+H3,2008,2008,2008,4,0,1,Import,234,Faeroe Isds,FRO,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,558,,,,558,,3500,,,2
+H3,2008,2008,2008,4,0,1,Import,234,Faeroe Isds,FRO,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,11105,,,,11105,,51793,,,2
+H3,2008,2008,2008,4,0,1,Import,234,Faeroe Isds,FRO,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,44958,,,,44958,,379798,,,2
+H3,2008,2008,2008,4,0,1,Import,234,Faeroe Isds,FRO,268,Georgia,GEO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,284,,,,284,,4016,,,2
+H3,2008,2008,2008,4,0,1,Import,234,Faeroe Isds,FRO,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8601,,,,8601,,37327,,,2
+H3,2008,2008,2008,4,0,1,Import,234,Faeroe Isds,FRO,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,23,,,,23,,106,,,2
+H3,2008,2008,2008,4,0,1,Import,234,Faeroe Isds,FRO,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,60,,,,60,,1773,,,2
+H3,2008,2008,2008,4,0,1,Import,234,Faeroe Isds,FRO,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,176,,,,176,,1702,,,2
+H3,2008,2008,2008,4,0,1,Import,234,Faeroe Isds,FRO,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,52566,,,,52566,,280199,,,2
+H3,2008,2008,2008,4,0,1,Import,234,Faeroe Isds,FRO,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,72,,,,72,,611,,,2
+H3,2008,2008,2008,4,0,1,Import,234,Faeroe Isds,FRO,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6780,,,,6780,,51436,,,2
+H3,2008,2008,2008,4,0,1,Import,234,Faeroe Isds,FRO,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,772,,,,772,,11041,,,2
+H3,2008,2008,2008,4,0,1,Import,234,Faeroe Isds,FRO,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,7816,,,,7816,,53539,,,2
+H3,2008,2008,2008,4,0,1,Import,234,Faeroe Isds,FRO,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,639,,,,639,,3333,,,2
+H3,2008,2008,2008,4,0,1,Import,234,Faeroe Isds,FRO,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,25519,,,,25519,,157320,,,2
+H3,2008,2008,2008,4,0,1,Import,234,Faeroe Isds,FRO,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,29202,,,,29202,,164177,,,2
+H3,2008,2008,2008,4,0,1,Import,234,Faeroe Isds,FRO,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,5418,,,,5418,,15215,,,2
+H3,2008,2008,2008,4,0,1,Import,234,Faeroe Isds,FRO,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,594,,,,594,,3300,,,2
+H3,2008,2008,2008,4,0,1,Import,234,Faeroe Isds,FRO,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4399,,,,4399,,11795,,,2
+H3,2008,2008,2008,4,0,1,Import,234,Faeroe Isds,FRO,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,24962,,,,24962,,112922,,,2
+H3,2009,2009,2009,4,0,1,Import,234,Faeroe Isds,FRO,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,480757,,,,480757,,2373578,,,2
+H3,2009,2009,2009,4,0,1,Import,234,Faeroe Isds,FRO,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,12086,,,,12086,,80330,,,2
+H3,2009,2009,2009,4,0,1,Import,234,Faeroe Isds,FRO,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,88181,,,,88181,,404817,,,2
+H3,2009,2009,2009,4,0,1,Import,234,Faeroe Isds,FRO,40,Austria,AUT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,144,,,,144,,1622,,,2
+H3,2009,2009,2009,4,0,1,Import,234,Faeroe Isds,FRO,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,81821,,,,81821,,444512,,,2
+H3,2009,2009,2009,4,0,1,Import,234,Faeroe Isds,FRO,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,360,,,,360,,2460,,,2
+H3,2009,2009,2009,4,0,1,Import,234,Faeroe Isds,FRO,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,63216,,,,63216,,175019,,,2
+H3,2009,2009,2009,4,0,1,Import,234,Faeroe Isds,FRO,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,37655,,,,37655,,300167,,,2
+H3,2009,2009,2009,4,0,1,Import,234,Faeroe Isds,FRO,268,Georgia,GEO,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,273,,,,273,,2965,,,2
+H3,2009,2009,2009,4,0,1,Import,234,Faeroe Isds,FRO,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8616,,,,8616,,33350,,,2
+H3,2009,2009,2009,4,0,1,Import,234,Faeroe Isds,FRO,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,9,,,,9,,41,,,2
+H3,2009,2009,2009,4,0,1,Import,234,Faeroe Isds,FRO,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,36,,,,36,,990,,,2
+H3,2009,2009,2009,4,0,1,Import,234,Faeroe Isds,FRO,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,207,,,,207,,2850,,,2
+H3,2009,2009,2009,4,0,1,Import,234,Faeroe Isds,FRO,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,54870,,,,54870,,283867,,,2
+H3,2009,2009,2009,4,0,1,Import,234,Faeroe Isds,FRO,392,Japan,JPN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1605,,,,1605,,11645,,,2
+H3,2009,2009,2009,4,0,1,Import,234,Faeroe Isds,FRO,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,63,,,,63,,590,,,2
+H3,2009,2009,2009,4,0,1,Import,234,Faeroe Isds,FRO,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,6990,,,,6990,,49677,,,2
+H3,2009,2009,2009,4,0,1,Import,234,Faeroe Isds,FRO,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,396,,,,396,,5619,,,2
+H3,2009,2009,2009,4,0,1,Import,234,Faeroe Isds,FRO,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8125,,,,8125,,52262,,,2
+H3,2009,2009,2009,4,0,1,Import,234,Faeroe Isds,FRO,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,891,,,,891,,4160,,,2
+H3,2009,2009,2009,4,0,1,Import,234,Faeroe Isds,FRO,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,31098,,,,31098,,160325,,,2
+H3,2009,2009,2009,4,0,1,Import,234,Faeroe Isds,FRO,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,26941,,,,26941,,146005,,,2
+H3,2009,2009,2009,4,0,1,Import,234,Faeroe Isds,FRO,752,Sweden,SWE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3097,,,,3097,,7052,,,2
+H3,2009,2009,2009,4,0,1,Import,234,Faeroe Isds,FRO,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,477,,,,477,,2444,,,2
+H3,2009,2009,2009,4,0,1,Import,234,Faeroe Isds,FRO,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4524,,,,4524,,12699,,,2
+H3,2009,2009,2009,4,0,1,Import,234,Faeroe Isds,FRO,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,49079,,,,49079,,188108,,,2
+H2,2005,2005,2005,4,0,1,Import,234,Faeroe Isds,FRO,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,309623,,,,309623,,1315020,,,2
+H2,2005,2005,2005,4,0,1,Import,234,Faeroe Isds,FRO,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10516,,,,10516,,45676,,,2
+H2,2005,2005,2005,4,0,1,Import,234,Faeroe Isds,FRO,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,29216,,,,29216,,124403,,,2
+H2,2005,2005,2005,4,0,1,Import,234,Faeroe Isds,FRO,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,67875,,,,67875,,287731,,,2
+H2,2005,2005,2005,4,0,1,Import,234,Faeroe Isds,FRO,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,473,,,,473,,2015,,,2
+H2,2005,2005,2005,4,0,1,Import,234,Faeroe Isds,FRO,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1673,,,,1673,,7672,,,2
+H2,2005,2005,2005,4,0,1,Import,234,Faeroe Isds,FRO,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,81469,,,,81469,,338288,,,2
+H2,2005,2005,2005,4,0,1,Import,234,Faeroe Isds,FRO,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8688,,,,8688,,25461,,,2
+H2,2005,2005,2005,4,0,1,Import,234,Faeroe Isds,FRO,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5,,,,5,,16,,,2
+H2,2005,2005,2005,4,0,1,Import,234,Faeroe Isds,FRO,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15,,,,15,,373,,,2
+H2,2005,2005,2005,4,0,1,Import,234,Faeroe Isds,FRO,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,162,,,,162,,1385,,,2
+H2,2005,2005,2005,4,0,1,Import,234,Faeroe Isds,FRO,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,24245,,,,24245,,109879,,,2
+H2,2005,2005,2005,4,0,1,Import,234,Faeroe Isds,FRO,504,Morocco,MAR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,383,,,,383,,1754,,,2
+H2,2005,2005,2005,4,0,1,Import,234,Faeroe Isds,FRO,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5922,,,,5922,,45567,,,2
+H2,2005,2005,2005,4,0,1,Import,234,Faeroe Isds,FRO,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,428,,,,428,,4855,,,2
+H2,2005,2005,2005,4,0,1,Import,234,Faeroe Isds,FRO,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8815,,,,8815,,43090,,,2
+H2,2005,2005,2005,4,0,1,Import,234,Faeroe Isds,FRO,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,686,,,,686,,2928,,,2
+H2,2005,2005,2005,4,0,1,Import,234,Faeroe Isds,FRO,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,26359,,,,26359,,105307,,,2
+H2,2005,2005,2005,4,0,1,Import,234,Faeroe Isds,FRO,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,35499,,,,35499,,131712,,,2
+H2,2005,2005,2005,4,0,1,Import,234,Faeroe Isds,FRO,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,333,,,,333,,1764,,,2
+H2,2005,2005,2005,4,0,1,Import,234,Faeroe Isds,FRO,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6864,,,,6864,,35145,,,2
+H2,2006,2006,2006,4,0,1,Import,234,Faeroe Isds,FRO,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,343881,,,,343881,,1566620,,,2
+H2,2006,2006,2006,4,0,2,Export,234,Faeroe Isds,FRO,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,585,,,,585,,2052,,,2
+H2,2006,2006,2006,4,0,1,Import,234,Faeroe Isds,FRO,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22337,,,,22337,,88651,,,2
+H2,2006,2006,2006,4,0,1,Import,234,Faeroe Isds,FRO,36,Australia,AUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,45954,,,,45954,,195843,,,2
+H2,2006,2006,2006,4,0,1,Import,234,Faeroe Isds,FRO,76,Brazil,BRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,279,,,,279,,1450,,,2
+H2,2006,2006,2006,4,0,1,Import,234,Faeroe Isds,FRO,152,Chile,CHL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,59217,,,,59217,,283173,,,2
+H2,2006,2006,2006,4,0,1,Import,234,Faeroe Isds,FRO,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,540,,,,540,,2944,,,2
+H2,2006,2006,2006,4,0,1,Import,234,Faeroe Isds,FRO,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1919,,,,1919,,8691,,,2
+H2,2006,2006,2006,4,0,2,Export,234,Faeroe Isds,FRO,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,585,,,,585,,2052,,,2
+H2,2006,2006,2006,4,0,1,Import,234,Faeroe Isds,FRO,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,74738,,,,74738,,371366,,,2
+H2,2006,2006,2006,4,0,1,Import,234,Faeroe Isds,FRO,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9543,,,,9543,,31112,,,2
+H2,2006,2006,2006,4,0,1,Import,234,Faeroe Isds,FRO,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9,,,,9,,35,,,2
+H2,2006,2006,2006,4,0,1,Import,234,Faeroe Isds,FRO,348,Hungary,HUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15,,,,15,,378,,,2
+H2,2006,2006,2006,4,0,1,Import,234,Faeroe Isds,FRO,352,Iceland,ISL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17,,,,17,,277,,,2
+H2,2006,2006,2006,4,0,1,Import,234,Faeroe Isds,FRO,376,Israel,ISR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,108,,,,108,,944,,,2
+H2,2006,2006,2006,4,0,1,Import,234,Faeroe Isds,FRO,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,38507,,,,38507,,172657,,,2
+H2,2006,2006,2006,4,0,1,Import,234,Faeroe Isds,FRO,422,Lebanon,LBN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,72,,,,72,,535,,,2
+H2,2006,2006,2006,4,0,1,Import,234,Faeroe Isds,FRO,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6025,,,,6025,,40510,,,2
+H2,2006,2006,2006,4,0,1,Import,234,Faeroe Isds,FRO,554,New Zealand,NZL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,537,,,,537,,6551,,,2
+H2,2006,2006,2006,4,0,1,Import,234,Faeroe Isds,FRO,620,Portugal,PRT,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8746,,,,8746,,45650,,,2
+H2,2006,2006,2006,4,0,1,Import,234,Faeroe Isds,FRO,642,Romania,ROU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1285,,,,1285,,5988,,,2
+H2,2006,2006,2006,4,0,1,Import,234,Faeroe Isds,FRO,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,30909,,,,30909,,123449,,,2
+H2,2006,2006,2006,4,0,1,Import,234,Faeroe Isds,FRO,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36429,,,,36429,,145027,,,2
+H2,2006,2006,2006,4,0,1,Import,234,Faeroe Isds,FRO,788,Tunisia,TUN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,270,,,,270,,1287,,,2
+H2,2006,2006,2006,4,0,1,Import,234,Faeroe Isds,FRO,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6425,,,,6425,,40102,,,2

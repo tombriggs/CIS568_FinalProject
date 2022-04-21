@@ -1,0 +1,306 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2003,2003,2003,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,168426,,,0
+H1,2003,2003,2003,4,0,2,Export,108,Burundi,BDI,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,149,,,0
+H1,2003,2003,2003,4,0,1,Import,108,Burundi,BDI,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,63589,,,0
+H1,2003,2003,2003,4,0,1,Import,108,Burundi,BDI,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,20538,,,0
+H1,2003,2003,2003,4,0,1,Import,108,Burundi,BDI,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,1340,,,0
+H1,2003,2003,2003,4,0,1,Import,108,Burundi,BDI,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,81291,,,0
+H1,2003,2003,2003,4,0,1,Import,108,Burundi,BDI,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,1668,,,0
+H1,2003,2003,2003,4,0,2,Export,108,Burundi,BDI,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",1,No Quantity,0,,,,0,,149,,,0
+H1,2004,2004,2004,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,139113,,,,139113,,248032,,,0
+H1,2004,2004,2004,4,0,1,Import,108,Burundi,BDI,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9062,,,,9062,,48088,,,0
+H1,2004,2004,2004,4,0,1,Import,108,Burundi,BDI,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,29,,,,29,,565,,,0
+H1,2004,2004,2004,4,0,1,Import,108,Burundi,BDI,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,10608,,,,10608,,32914,,,0
+H1,2004,2004,2004,4,0,1,Import,108,Burundi,BDI,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,15210,,,,15210,,45748,,,0
+H1,2004,2004,2004,4,0,1,Import,108,Burundi,BDI,404,Kenya,KEN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,5062,,,,5062,,2115,,,0
+H1,2004,2004,2004,4,0,1,Import,108,Burundi,BDI,480,Mauritius,MUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,9375,,,,9375,,10729,,,0
+H1,2004,2004,2004,4,0,1,Import,108,Burundi,BDI,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,171,,,,171,,1341,,,0
+H1,2004,2004,2004,4,0,1,Import,108,Burundi,BDI,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,88062,,,,88062,,104742,,,0
+H1,2004,2004,2004,4,0,1,Import,108,Burundi,BDI,842,USA,USA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,113,,,,113,,996,,,0
+H1,2004,2004,2004,4,0,1,Import,108,Burundi,BDI,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,1421,,,,1421,,794,,,0
+H0,2000,2000,2000,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,203740,,,,177912,,269294,,,2
+H0,2000,2000,2000,4,0,1,Import,108,Burundi,BDI,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,90552,,,,51371,,116588,,,2
+H0,2000,2000,2000,4,0,1,Import,108,Burundi,BDI,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,24490,,,,8549,,25250,,,2
+H0,2000,2000,2000,4,0,1,Import,108,Burundi,BDI,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,2358,,,,184,,2431,,,2
+H0,2000,2000,2000,4,0,1,Import,108,Burundi,BDI,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,23166,,,,12775,,25963,,,2
+H0,2000,2000,2000,4,0,1,Import,108,Burundi,BDI,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,20,,,,24,,51,,,2
+H0,2000,2000,2000,4,0,1,Import,108,Burundi,BDI,454,Malawi,MWI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,3351,,,,12135,,8464,,,2
+H0,2000,2000,2000,4,0,1,Import,108,Burundi,BDI,466,Mali,MLI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,773,,,,1600,,1953,,,2
+H0,2000,2000,2000,4,0,1,Import,108,Burundi,BDI,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,542,,,,48,,559,,,2
+H0,2000,2000,2000,4,0,1,Import,108,Burundi,BDI,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,33075,,,,59123,,36828,,,2
+H0,2000,2000,2000,4,0,1,Import,108,Burundi,BDI,716,Zimbabwe,ZWE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,8161,,,,16000,,8414,,,2
+H0,2000,2000,2000,4,0,1,Import,108,Burundi,BDI,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,16979,,,,15480,,42101,,,2
+H0,2000,2000,2000,4,0,1,Import,108,Burundi,BDI,764,Thailand,THA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,263,,,,550,,664,,,2
+H0,2000,2000,2000,4,0,1,Import,108,Burundi,BDI,899,"Areas, nes",,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,10,,,,73,,30,,,2
+H0,2001,2001,2001,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,67858,,,,67858,,138876,,,2
+H0,2001,2001,2001,4,0,1,Import,108,Burundi,BDI,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,35826,,,,35826,,92977,,,2
+H0,2001,2001,2001,4,0,1,Import,108,Burundi,BDI,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,475,,,,475,,1550,,,2
+H0,2001,2001,2001,4,0,1,Import,108,Burundi,BDI,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,413,,,,413,,3353,,,2
+H0,2001,2001,2001,4,0,1,Import,108,Burundi,BDI,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1915,,,,1915,,5900,,,2
+H0,2001,2001,2001,4,0,1,Import,108,Burundi,BDI,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,109,,,,109,,70,,,2
+H0,2001,2001,2001,4,0,1,Import,108,Burundi,BDI,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,85,,,,85,,247,,,2
+H0,2001,2001,2001,4,0,1,Import,108,Burundi,BDI,404,Kenya,KEN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,178,,,,178,,493,,,2
+H0,2001,2001,2001,4,0,1,Import,108,Burundi,BDI,480,Mauritius,MUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,13645,,,,13645,,14617,,,2
+H0,2001,2001,2001,4,0,1,Import,108,Burundi,BDI,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,83,,,,83,,612,,,2
+H0,2001,2001,2001,4,0,1,Import,108,Burundi,BDI,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,15129,,,,15129,,19056,,,2
+H0,2002,2002,2002,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,122357,,,,122216,,143192,,,2
+H0,2002,2002,2002,4,0,1,Import,108,Burundi,BDI,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,26014,,,,13686,,29218,,,2
+H0,2002,2002,2002,4,0,1,Import,108,Burundi,BDI,156,China,CHN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,4544,,,,771,,4163,,,2
+H0,2002,2002,2002,4,0,1,Import,108,Burundi,BDI,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,1549,,,,538,,3611,,,2
+H0,2002,2002,2002,4,0,1,Import,108,Burundi,BDI,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,5774,,,,1640,,5847,,,2
+H0,2002,2002,2002,4,0,1,Import,108,Burundi,BDI,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,6,,,,14,,14,,,2
+H0,2002,2002,2002,4,0,1,Import,108,Burundi,BDI,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,853,,,,972,,3049,,,2
+H0,2002,2002,2002,4,0,1,Import,108,Burundi,BDI,466,Mali,MLI,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,8,,,,22,,21,,,2
+H0,2002,2002,2002,4,0,1,Import,108,Burundi,BDI,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,716,,,,193,,795,,,2
+H0,2002,2002,2002,4,0,1,Import,108,Burundi,BDI,682,Saudi Arabia,SAU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,11701,,,,11192,,10720,,,2
+H0,2002,2002,2002,4,0,1,Import,108,Burundi,BDI,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,59169,,,,78740,,54567,,,2
+H0,2002,2002,2002,4,0,1,Import,108,Burundi,BDI,724,Spain,ESP,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape mus",7,Volume in litres,12023,,,,14448,,31187,,,2
+H2,2006,2006,2006,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,188563,,,,233645,,368733,,,2
+H2,2006,2006,2006,4,0,1,Import,108,Burundi,BDI,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,83666,,,,65207,,172483,,,2
+H2,2006,2006,2006,4,0,1,Import,108,Burundi,BDI,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,168,,,,250,,197,,,2
+H2,2006,2006,2006,4,0,1,Import,108,Burundi,BDI,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,28,,,,20,,33,,,2
+H2,2006,2006,2006,4,0,1,Import,108,Burundi,BDI,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1112,,,,181,,3680,,,2
+H2,2006,2006,2006,4,0,1,Import,108,Burundi,BDI,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13491,,,,38137,,58758,,,2
+H2,2006,2006,2006,4,0,1,Import,108,Burundi,BDI,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,859,,,,203,,1010,,,2
+H2,2006,2006,2006,4,0,1,Import,108,Burundi,BDI,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13396,,,,14110,,16136,,,2
+H2,2006,2006,2006,4,0,1,Import,108,Burundi,BDI,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2254,,,,9981,,6120,,,2
+H2,2006,2006,2006,4,0,1,Import,108,Burundi,BDI,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3662,,,,10771,,12118,,,2
+H2,2006,2006,2006,4,0,1,Import,108,Burundi,BDI,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9576,,,,7022,,11256,,,2
+H2,2006,2006,2006,4,0,1,Import,108,Burundi,BDI,646,Rwanda,RWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,820,,,,1583,,3807,,,2
+H2,2006,2006,2006,4,0,1,Import,108,Burundi,BDI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,53763,,,,85666,,76095,,,2
+H2,2006,2006,2006,4,0,1,Import,108,Burundi,BDI,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5659,,,,144,,6653,,,2
+H2,2006,2006,2006,4,0,1,Import,108,Burundi,BDI,800,Uganda,UGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,108,,,,370,,388,,,2
+H2,2007,2007,2007,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,73422,,,,181863,,420815,,,2
+H2,2007,2007,2007,4,0,1,Import,108,Burundi,BDI,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6423,,,,49086,,127551,,,2
+H2,2007,2007,2007,4,0,1,Import,108,Burundi,BDI,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14668,,,,1761,,27029,,,2
+H2,2007,2007,2007,4,0,1,Import,108,Burundi,BDI,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,274,,,,567,,7250,,,0
+H2,2007,2007,2007,4,0,1,Import,108,Burundi,BDI,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,28,,,,433,,987,,,0
+H2,2007,2007,2007,4,0,1,Import,108,Burundi,BDI,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7871,,,,47649,,117763,,,0
+H2,2007,2007,2007,4,0,1,Import,108,Burundi,BDI,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,18,,,,180,,1407,,,0
+H2,2007,2007,2007,4,0,1,Import,108,Burundi,BDI,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1317,,,,22816,,23440,,,0
+H2,2007,2007,2007,4,0,1,Import,108,Burundi,BDI,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,924,,,,14404,,18087,,,0
+H2,2007,2007,2007,4,0,1,Import,108,Burundi,BDI,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,93,,,,155,,4184,,,0
+H2,2007,2007,2007,4,0,1,Import,108,Burundi,BDI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,40340,,,,31358,,72705,,,2
+H2,2007,2007,2007,4,0,1,Import,108,Burundi,BDI,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1386,,,,12562,,19246,,,0
+H2,2007,2007,2007,4,0,1,Import,108,Burundi,BDI,800,Uganda,UGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,80,,,,892,,1166,,,0
+H2,2008,2008,2008,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,273174,,,,273174,,573643,,,2
+H2,2008,2008,2008,4,0,1,Import,108,Burundi,BDI,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11434,,,,11434,,58108,,,2
+H2,2008,2008,2008,4,0,1,Import,108,Burundi,BDI,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1637,,,,1637,,5328,,,2
+H2,2008,2008,2008,4,0,1,Import,108,Burundi,BDI,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,91836,,,,91836,,199267,,,2
+H2,2008,2008,2008,4,0,1,Import,108,Burundi,BDI,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,12,,,,12,,74,,,2
+H2,2008,2008,2008,4,0,1,Import,108,Burundi,BDI,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9447,,,,9447,,23965,,,2
+H2,2008,2008,2008,4,0,1,Import,108,Burundi,BDI,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,29000,,,,29000,,35158,,,2
+H2,2008,2008,2008,4,0,1,Import,108,Burundi,BDI,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,39,,,,39,,1333,,,2
+H2,2008,2008,2008,4,0,1,Import,108,Burundi,BDI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,98866,,,,98866,,164879,,,2
+H2,2008,2008,2008,4,0,1,Import,108,Burundi,BDI,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,10000,,,,10000,,32715,,,2
+H2,2008,2008,2008,4,0,1,Import,108,Burundi,BDI,800,Uganda,UGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15398,,,,15398,,16677,,,2
+H2,2008,2008,2008,4,0,1,Import,108,Burundi,BDI,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5505,,,,5505,,36140,,,2
+H2,2009,2009,2009,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,149571,,,,149571,,281935,,,2
+H2,2009,2009,2009,4,0,1,Import,108,Burundi,BDI,8,Albania,ALB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,60,,,,60,,64,,,2
+H2,2009,2009,2009,4,0,1,Import,108,Burundi,BDI,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,13452,,,,13452,,39933,,,2
+H2,2009,2009,2009,4,0,1,Import,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2350,,,,2350,,1038,,,2
+H2,2009,2009,2009,4,0,1,Import,108,Burundi,BDI,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,261,,,,261,,2898,,,2
+H2,2009,2009,2009,4,0,1,Import,108,Burundi,BDI,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,27568,,,,27568,,82680,,,2
+H2,2009,2009,2009,4,0,1,Import,108,Burundi,BDI,300,Greece,GRC,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,100,,,,100,,128,,,2
+H2,2009,2009,2009,4,0,1,Import,108,Burundi,BDI,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6576,,,,6576,,12260,,,2
+H2,2009,2009,2009,4,0,1,Import,108,Burundi,BDI,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22500,,,,22500,,9652,,,2
+H2,2009,2009,2009,4,0,1,Import,108,Burundi,BDI,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,32554,,,,32554,,39269,,,2
+H2,2009,2009,2009,4,0,1,Import,108,Burundi,BDI,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20000,,,,20000,,51381,,,2
+H2,2009,2009,2009,4,0,1,Import,108,Burundi,BDI,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,5000,,,,5000,,1791,,,2
+H2,2009,2009,2009,4,0,1,Import,108,Burundi,BDI,800,Uganda,UGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,30,,,,30,,55,,,2
+H2,2009,2009,2009,4,0,1,Import,108,Burundi,BDI,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19120,,,,19120,,40785,,,2
+H1,2005,2005,2005,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,202622,,,,202622,,317563,,,2
+H1,2005,2005,2005,4,0,2,Export,108,Burundi,BDI,0,World,WLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,38,,,,38,,391,,,2
+H1,2005,2005,2005,4,0,1,Import,108,Burundi,BDI,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,29525,,,,29525,,81747,,,2
+H1,2005,2005,2005,4,0,2,Export,108,Burundi,BDI,56,Belgium,BEL,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,30,,,,30,,182,,,2
+H1,2005,2005,2005,4,0,1,Import,108,Burundi,BDI,208,Denmark,DNK,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,87,,,,87,,1215,,,2
+H1,2005,2005,2005,4,0,1,Import,108,Burundi,BDI,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,823,,,,823,,11839,,,2
+H1,2005,2005,2005,4,0,2,Export,108,Burundi,BDI,251,France,FRA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,8,,,,8,,209,,,2
+H1,2005,2005,2005,4,0,1,Import,108,Burundi,BDI,276,Germany,DEU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,78,,,,78,,166,,,2
+H1,2005,2005,2005,4,0,1,Import,108,Burundi,BDI,381,Italy,ITA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,11209,,,,11209,,45209,,,2
+H1,2005,2005,2005,4,0,1,Import,108,Burundi,BDI,480,Mauritius,MUS,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,17798,,,,17798,,23518,,,2
+H1,2005,2005,2005,4,0,1,Import,108,Burundi,BDI,512,Oman,OMN,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,3,,,,3,,8,,,2
+H1,2005,2005,2005,4,0,1,Import,108,Burundi,BDI,528,Netherlands,NLD,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,4508,,,,4508,,8274,,,2
+H1,2005,2005,2005,4,0,1,Import,108,Burundi,BDI,682,Saudi Arabia,SAU,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,907,,,,907,,1738,,,2
+H1,2005,2005,2005,4,0,1,Import,108,Burundi,BDI,710,South Africa,ZAF,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,137174,,,,137174,,142953,,,2
+H1,2005,2005,2005,4,0,1,Import,108,Burundi,BDI,757,Switzerland,CHE,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,100,,,,100,,465,,,2
+H1,2005,2005,2005,4,0,1,Import,108,Burundi,BDI,800,Uganda,UGA,,,,,,,,2204,"Grape wines(including fortified), alcoholic grape must",7,Volume in litres,410,,,,410,,431,,,2
+H4,2014,2014,2014,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,179975,,,,179975,,568038,,,2
+H4,2014,2014,2014,4,0,2,Export,108,Burundi,BDI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2500,,,,2500,,504,,,2
+H4,2014,2014,2014,4,0,1,Import,108,Burundi,BDI,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13684,,,,13684,,31324,,,2
+H4,2014,2014,2014,4,0,1,Import,108,Burundi,BDI,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4500,,,,4500,,9743,,,2
+H4,2014,2014,2014,4,0,2,Export,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2500,,,,2500,,504,,,2
+H4,2014,2014,2014,4,0,1,Import,108,Burundi,BDI,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,48777,,,,48777,,98636,,,2
+H4,2014,2014,2014,4,0,1,Import,108,Burundi,BDI,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,857,,,,857,,5309,,,2
+H4,2014,2014,2014,4,0,1,Import,108,Burundi,BDI,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,33317,,,,33317,,36822,,,2
+H4,2014,2014,2014,4,0,1,Import,108,Burundi,BDI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5127,,,,5127,,18003,,,2
+H4,2014,2014,2014,4,0,1,Import,108,Burundi,BDI,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10000,,,,10000,,33255,,,2
+H4,2014,2014,2014,4,0,1,Import,108,Burundi,BDI,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,63713,,,,63713,,334946,,,2
+H3,2013,2013,2013,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,379911,,,,379911,,811938,,,2
+H3,2013,2013,2013,4,0,1,Import,108,Burundi,BDI,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,64200,,,,64200,,133916,,,2
+H3,2013,2013,2013,4,0,1,Import,108,Burundi,BDI,124,Canada,CAN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,1060,,,,1060,,293,,,2
+H3,2013,2013,2013,4,0,1,Import,108,Burundi,BDI,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,3319,,,,3319,,10491,,,2
+H3,2013,2013,2013,4,0,1,Import,108,Burundi,BDI,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,169674,,,,169674,,335911,,,2
+H3,2013,2013,2013,4,0,1,Import,108,Burundi,BDI,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4821,,,,4821,,20320,,,2
+H3,2013,2013,2013,4,0,1,Import,108,Burundi,BDI,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,36437,,,,36437,,29136,,,2
+H3,2013,2013,2013,4,0,1,Import,108,Burundi,BDI,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,23627,,,,23627,,41065,,,2
+H3,2013,2013,2013,4,0,1,Import,108,Burundi,BDI,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,8000,,,,8000,,12789,,,2
+H3,2013,2013,2013,4,0,1,Import,108,Burundi,BDI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,22196,,,,22196,,42919,,,2
+H3,2013,2013,2013,4,0,1,Import,108,Burundi,BDI,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,26723,,,,26723,,55319,,,2
+H3,2013,2013,2013,4,0,1,Import,108,Burundi,BDI,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,4534,,,,4534,,14703,,,2
+H3,2013,2013,2013,4,0,1,Import,108,Burundi,BDI,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,14653,,,,14653,,114474,,,2
+H3,2013,2013,2013,4,0,1,Import,108,Burundi,BDI,800,Uganda,UGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",7,Volume in litres,667,,,,667,,604,,,2
+H2,2010,2010,2010,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,167712,,,,167712,,343537,,,2
+H2,2010,2010,2010,4,0,1,Import,108,Burundi,BDI,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,22076,,,,22076,,66101,,,2
+H2,2010,2010,2010,4,0,1,Import,108,Burundi,BDI,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,628,,,,628,,3002,,,2
+H2,2010,2010,2010,4,0,1,Import,108,Burundi,BDI,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,53608,,,,53608,,123301,,,2
+H2,2010,2010,2010,4,0,1,Import,108,Burundi,BDI,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,11912,,,,11912,,41247,,,2
+H2,2010,2010,2010,4,0,1,Import,108,Burundi,BDI,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,36197,,,,36197,,62504,,,2
+H2,2010,2010,2010,4,0,1,Import,108,Burundi,BDI,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,14254,,,,14254,,19968,,,2
+H2,2010,2010,2010,4,0,1,Import,108,Burundi,BDI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7083,,,,7083,,705,,,2
+H2,2010,2010,2010,4,0,1,Import,108,Burundi,BDI,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,15304,,,,15304,,14949,,,2
+H2,2010,2010,2010,4,0,1,Import,108,Burundi,BDI,800,Uganda,UGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2734,,,,2734,,2063,,,2
+H2,2010,2010,2010,4,0,1,Import,108,Burundi,BDI,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3500,,,,3500,,9339,,,2
+H2,2010,2010,2010,4,0,1,Import,108,Burundi,BDI,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,416,,,,416,,353,,,2
+H2,2011,2011,2011,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,497031,,,,497031,,777769,,,2
+H2,2011,2011,2011,4,0,1,Import,108,Burundi,BDI,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,32723,,,,32723,,87492,,,2
+H2,2011,2011,2011,4,0,1,Import,108,Burundi,BDI,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,101,,,,101,,93,,,2
+H2,2011,2011,2011,4,0,1,Import,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1860,,,,1860,,5335,,,2
+H2,2011,2011,2011,4,0,1,Import,108,Burundi,BDI,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,108942,,,,108942,,219617,,,2
+H2,2011,2011,2011,4,0,1,Import,108,Burundi,BDI,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,7003,,,,7003,,10671,,,2
+H2,2011,2011,2011,4,0,1,Import,108,Burundi,BDI,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,3394,,,,3394,,9310,,,2
+H2,2011,2011,2011,4,0,1,Import,108,Burundi,BDI,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,136252,,,,136252,,181433,,,2
+H2,2011,2011,2011,4,0,1,Import,108,Burundi,BDI,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,46590,,,,46590,,52403,,,2
+H2,2011,2011,2011,4,0,1,Import,108,Burundi,BDI,646,Rwanda,RWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,8454,,,,8454,,9966,,,2
+H2,2011,2011,2011,4,0,1,Import,108,Burundi,BDI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17282,,,,17282,,32076,,,2
+H2,2011,2011,2011,4,0,1,Import,108,Burundi,BDI,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,65556,,,,65556,,95482,,,2
+H2,2011,2011,2011,4,0,1,Import,108,Burundi,BDI,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9175,,,,9175,,31405,,,2
+H2,2011,2011,2011,4,0,1,Import,108,Burundi,BDI,800,Uganda,UGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,39679,,,,39679,,29426,,,2
+H2,2011,2011,2011,4,0,1,Import,108,Burundi,BDI,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,20020,,,,20020,,13061,,,2
+H2,2012,2012,2012,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,398248,,,,398248,,767474,,,2
+H2,2012,2012,2012,4,0,1,Import,108,Burundi,BDI,8,Albania,ALB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,6000,,,,6000,,5894,,,2
+H2,2012,2012,2012,4,0,1,Import,108,Burundi,BDI,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,136187,,,,136187,,182991,,,2
+H2,2012,2012,2012,4,0,1,Import,108,Burundi,BDI,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,772,,,,772,,7732,,,2
+H2,2012,2012,2012,4,0,1,Import,108,Burundi,BDI,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,88674,,,,88674,,188447,,,2
+H2,2012,2012,2012,4,0,1,Import,108,Burundi,BDI,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,9670,,,,9670,,15186,,,2
+H2,2012,2012,2012,4,0,1,Import,108,Burundi,BDI,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,2556,,,,2556,,11922,,,2
+H2,2012,2012,2012,4,0,1,Import,108,Burundi,BDI,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,17960,,,,17960,,20119,,,2
+H2,2012,2012,2012,4,0,1,Import,108,Burundi,BDI,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,56182,,,,56182,,74324,,,2
+H2,2012,2012,2012,4,0,1,Import,108,Burundi,BDI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,29847,,,,29847,,55881,,,2
+H2,2012,2012,2012,4,0,1,Import,108,Burundi,BDI,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,28918,,,,28918,,37257,,,2
+H2,2012,2012,2012,4,0,1,Import,108,Burundi,BDI,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,19822,,,,19822,,162370,,,2
+H2,2012,2012,2012,4,0,1,Import,108,Burundi,BDI,800,Uganda,UGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,1430,,,,1430,,5270,,,2
+H2,2012,2012,2012,4,0,1,Import,108,Burundi,BDI,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines",7,Volume in litres,230,,,,230,,81,,,2
+H5,2019,2019,2019,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,415392,,,,404645,,1016297,,,2
+H5,2019,2019,2019,4,0,2,Export,108,Burundi,BDI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22281,,,,22281,,31933,,,2
+H5,2019,2019,2019,4,0,1,Import,108,Burundi,BDI,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,37956,,,,37956,,119683,,,2
+H5,2019,2019,2019,4,0,1,Import,108,Burundi,BDI,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,29437,,,,29437,,18250,,,2
+H5,2019,2019,2019,4,0,1,Import,108,Burundi,BDI,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6830,,,,6830,,9638,,,2
+H5,2019,2019,2019,4,0,1,Import,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13,,,,13,,44,,,2
+H5,2019,2019,2019,4,0,2,Export,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,22068,,,,22068,,27854,,,2
+H5,2019,2019,2019,4,0,1,Import,108,Burundi,BDI,196,Cyprus,CYP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,300,,,,300,,36,,,2
+H5,2019,2019,2019,4,0,1,Import,108,Burundi,BDI,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,120,,,,120,,1530,,,2
+H5,2019,2019,2019,4,0,1,Import,108,Burundi,BDI,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,148881,,,,148885,,292557,,,2
+H5,2019,2019,2019,4,0,1,Import,108,Burundi,BDI,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,11910,,,,11910,,25940,,,2
+H5,2019,2019,2019,4,0,1,Import,108,Burundi,BDI,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13890,,,,13890,,5724,,,2
+H5,2019,2019,2019,4,0,1,Import,108,Burundi,BDI,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,90,,,,90,,902,,,2
+H5,2019,2019,2019,4,0,1,Import,108,Burundi,BDI,440,Lithuania,LTU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9265,,,,9265,,17237,,,2
+H5,2019,2019,2019,4,0,1,Import,108,Burundi,BDI,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,34574,,,,34574,,41591,,,2
+H5,2019,2019,2019,4,0,1,Import,108,Burundi,BDI,646,Rwanda,RWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15782,,,,12155,,49891,,,2
+H5,2019,2019,2019,4,0,2,Export,108,Burundi,BDI,646,Rwanda,RWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,208,,,,208,,3980,,,2
+H5,2019,2019,2019,4,0,1,Import,108,Burundi,BDI,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,48,,,,48,,628,,,2
+H5,2019,2019,2019,4,0,1,Import,108,Burundi,BDI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,2517,,,,2517,,9654,,,2
+H5,2019,2019,2019,4,0,1,Import,108,Burundi,BDI,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13800,,,,13800,,35499,,,2
+H5,2019,2019,2019,4,0,1,Import,108,Burundi,BDI,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,60846,,,,53722,,344108,,,2
+H5,2019,2019,2019,4,0,1,Import,108,Burundi,BDI,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5140,,,,5140,,6680,,,2
+H5,2019,2019,2019,4,0,2,Export,108,Burundi,BDI,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5,,,,5,,98,,,2
+H5,2019,2019,2019,4,0,1,Import,108,Burundi,BDI,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,23983,,,,23983,,36568,,,2
+H5,2019,2019,2019,4,0,1,Import,108,Burundi,BDI,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7,,,,7,,129,,,2
+H4,2015,2015,2015,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,175712,,,,288107,,663864,,,2
+H4,2015,2015,2015,4,0,1,Import,108,Burundi,BDI,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,23807,,,,30302,,41671,,,2
+H4,2015,2015,2015,4,0,1,Import,108,Burundi,BDI,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1840,,,,1840,,14189,,,2
+H4,2015,2015,2015,4,0,1,Import,108,Burundi,BDI,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,50,,5403,,,0
+H4,2015,2015,2015,4,0,1,Import,108,Burundi,BDI,231,Ethiopia,ETH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,10,,203,,,0
+H4,2015,2015,2015,4,0,1,Import,108,Burundi,BDI,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,86668,,,,145316,,284407,,,2
+H4,2015,2015,2015,4,0,1,Import,108,Burundi,BDI,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,40,,,,40,,1253,,,2
+H4,2015,2015,2015,4,0,1,Import,108,Burundi,BDI,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18330,,,,32739,,35079,,,0
+H4,2015,2015,2015,4,0,1,Import,108,Burundi,BDI,646,Rwanda,RWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,163,,,,375,,791,,,0
+H4,2015,2015,2015,4,0,1,Import,108,Burundi,BDI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19027,,,,39183,,127707,,,2
+H4,2015,2015,2015,4,0,1,Import,108,Burundi,BDI,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6300,,,,10500,,32489,,,0
+H4,2015,2015,2015,4,0,1,Import,108,Burundi,BDI,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,1631,,20116,,,0
+H4,2015,2015,2015,4,0,1,Import,108,Burundi,BDI,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19534,,,,26121,,100557,,,0
+H4,2016,2016,2016,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,145161,,,,227066,,473715,,,0
+H4,2016,2016,2016,4,0,1,Import,108,Burundi,BDI,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13792,,,,23161,,53139,,,0
+H4,2016,2016,2016,4,0,1,Import,108,Burundi,BDI,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6,,,,78,,3389,,,0
+H4,2016,2016,2016,4,0,1,Import,108,Burundi,BDI,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3,,,,100,,6414,,,0
+H4,2016,2016,2016,4,0,1,Import,108,Burundi,BDI,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,55735,,,,94832,,193118,,,0
+H4,2016,2016,2016,4,0,1,Import,108,Burundi,BDI,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6078,,,,7927,,16738,,,0
+H4,2016,2016,2016,4,0,1,Import,108,Burundi,BDI,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3905,,,,5263,,16807,,,0
+H4,2016,2016,2016,4,0,1,Import,108,Burundi,BDI,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19848,,,,33537,,41079,,,0
+H4,2016,2016,2016,4,0,1,Import,108,Burundi,BDI,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4,,,,22,,57,,,0
+H4,2016,2016,2016,4,0,1,Import,108,Burundi,BDI,682,Saudi Arabia,SAU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,46,,,,50,,72,,,0
+H4,2016,2016,2016,4,0,1,Import,108,Burundi,BDI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,29871,,,,35064,,76628,,,0
+H4,2016,2016,2016,4,0,1,Import,108,Burundi,BDI,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7570,,,,12151,,17595,,,0
+H4,2016,2016,2016,4,0,1,Import,108,Burundi,BDI,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7780,,,,14367,,47457,,,0
+H4,2016,2016,2016,4,0,1,Import,108,Burundi,BDI,800,Uganda,UGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,523,,,,514,,1220,,,0
+H4,2017,2017,2017,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,567789,,,6
+H4,2017,2017,2017,4,0,1,Import,108,Burundi,BDI,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17554,,,,17554,,22718,,,0
+H4,2017,2017,2017,4,0,1,Import,108,Burundi,BDI,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,7281,,,,17341,,56812,,,0
+H4,2017,2017,2017,4,0,1,Import,108,Burundi,BDI,70,Bosnia Herzegovina,BIH,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,68,,,,50,,313,,,0
+H4,2017,2017,2017,4,0,1,Import,108,Burundi,BDI,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,,,22771,,,6
+H4,2017,2017,2017,4,0,1,Import,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,136,,,,175,,368,,,0
+H4,2017,2017,2017,4,0,1,Import,108,Burundi,BDI,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,156,,5305,,,0
+H4,2017,2017,2017,4,0,1,Import,108,Burundi,BDI,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,55618,,,,89655,,196240,,,2
+H4,2017,2017,2017,4,0,1,Import,108,Burundi,BDI,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13930,,,,19250,,56287,,,0
+H4,2017,2017,2017,4,0,1,Import,108,Burundi,BDI,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,3720,,,,6510,,13241,,,0
+H4,2017,2017,2017,4,0,1,Import,108,Burundi,BDI,404,Kenya,KEN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4,,,,6,,41,,,0
+H4,2017,2017,2017,4,0,1,Import,108,Burundi,BDI,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13878,,,,23769,,27822,,,0
+H4,2017,2017,2017,4,0,1,Import,108,Burundi,BDI,484,Mexico,MEX,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,150,,,,214,,2557,,,0
+H4,2017,2017,2017,4,0,1,Import,108,Burundi,BDI,512,Oman,OMN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1,,,,8,,17,,,0
+H4,2017,2017,2017,4,0,1,Import,108,Burundi,BDI,646,Rwanda,RWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,8,,,,865,,1021,,,0
+H4,2017,2017,2017,4,0,1,Import,108,Burundi,BDI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1941,,,,9462,,21606,,,0
+H4,2017,2017,2017,4,0,1,Import,108,Burundi,BDI,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15180,,,,25300,,64894,,,0
+H4,2017,2017,2017,4,0,1,Import,108,Burundi,BDI,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1662,,,,13497,,64833,,,0
+H4,2017,2017,2017,4,0,1,Import,108,Burundi,BDI,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,52,,,,425,,10394,,,0
+H4,2017,2017,2017,4,0,1,Import,108,Burundi,BDI,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,133,,,,143,,541,,,0
+H4,2018,2018,2018,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,1001465,,,6
+H4,2018,2018,2018,4,0,2,Export,108,Burundi,BDI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12220,,,,23060,,51002,,,0
+H4,2018,2018,2018,4,0,3,Re-Export,108,Burundi,BDI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12220,,,,23060,,51002,,,0
+H4,2018,2018,2018,4,0,1,Import,108,Burundi,BDI,32,Argentina,ARG,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17546,,,,17546,,30230,,,0
+H4,2018,2018,2018,4,0,1,Import,108,Burundi,BDI,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10626,,,,24796,,112662,,,2
+H4,2018,2018,2018,4,0,1,Import,108,Burundi,BDI,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,10467,,,,18724,,11294,,,0
+H4,2018,2018,2018,4,0,1,Import,108,Burundi,BDI,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,2393,,42124,,,2
+H4,2018,2018,2018,4,0,1,Import,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,717,,,,349,,1916,,,6
+H4,2018,2018,2018,4,0,2,Export,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12220,,,,23060,,51002,,,0
+H4,2018,2018,2018,4,0,3,Re-Export,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,12220,,,,23060,,51002,,,0
+H4,2018,2018,2018,4,0,1,Import,108,Burundi,BDI,208,Denmark,DNK,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,5,,,,100,,3656,,,0
+H4,2018,2018,2018,4,0,1,Import,108,Burundi,BDI,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,83190,,,,139181,,319707,,,2
+H4,2018,2018,2018,4,0,1,Import,108,Burundi,BDI,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13884,,,,22972,,33025,,,0
+H4,2018,2018,2018,4,0,1,Import,108,Burundi,BDI,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6926,,,,11050,,7821,,,0
+H4,2018,2018,2018,4,0,1,Import,108,Burundi,BDI,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,19824,,,,34574,,39514,,,0
+H4,2018,2018,2018,4,0,1,Import,108,Burundi,BDI,528,Netherlands,NLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,20,,,,113,,8728,,,0
+H4,2018,2018,2018,4,0,1,Import,108,Burundi,BDI,646,Rwanda,RWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6709,,,,8554,,26797,,,0
+H4,2018,2018,2018,4,0,1,Import,108,Burundi,BDI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,13704,,,,19875,,42923,,,0
+H4,2018,2018,2018,4,0,1,Import,108,Burundi,BDI,724,Spain,ESP,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18116,,,,28092,,23126,,,0
+H4,2018,2018,2018,4,0,1,Import,108,Burundi,BDI,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,15,,,,70,,4509,,,0
+H4,2018,2018,2018,4,0,1,Import,108,Burundi,BDI,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",1,No Quantity,0,,,,0,,293369,,,0
+H4,2018,2018,2018,4,0,1,Import,108,Burundi,BDI,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,18,,,,373,,55,,,0
+H5,2020,2020,2020,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,367450,,,,516169,,1293446,,,6
+H5,2020,2020,2020,4,0,1,Import,108,Burundi,BDI,56,Belgium,BEL,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,54823,,,,76670,,259399,,,2
+H5,2020,2020,2020,4,0,1,Import,108,Burundi,BDI,100,Bulgaria,BGR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,23695,,,,39994,,25890,,,0
+H5,2020,2020,2020,4,0,1,Import,108,Burundi,BDI,156,China,CHN,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,269,,,,948,,3186,,,0
+H5,2020,2020,2020,4,0,1,Import,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,6,,,,6,,32,,,2
+H5,2020,2020,2020,4,0,1,Import,108,Burundi,BDI,251,France,FRA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,80295,,,,132626,,324207,,,2
+H5,2020,2020,2020,4,0,1,Import,108,Burundi,BDI,276,Germany,DEU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,14826,,,,24292,,56055,,,0
+H5,2020,2020,2020,4,0,1,Import,108,Burundi,BDI,381,Italy,ITA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9067,,,,16520,,38877,,,0
+H5,2020,2020,2020,4,0,1,Import,108,Burundi,BDI,440,Lithuania,LTU,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,9180,,,,18097,,19521,,,0
+H5,2020,2020,2020,4,0,1,Import,108,Burundi,BDI,480,Mauritius,MUS,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,29736,,,,51861,,62173,,,0
+H5,2020,2020,2020,4,0,1,Import,108,Burundi,BDI,646,Rwanda,RWA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1140,,,,1749,,7920,,,2
+H5,2020,2020,2020,4,0,1,Import,108,Burundi,BDI,710,South Africa,ZAF,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,50176,,,,70857,,101250,,,2
+H5,2020,2020,2020,4,0,1,Import,108,Burundi,BDI,757,Switzerland,CHE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,70246,,,,2000,,136408,,,2
+H5,2020,2020,2020,4,0,1,Import,108,Burundi,BDI,784,United Arab Emirates,ARE,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,4369,,,,50684,,221999,,,0
+H5,2020,2020,2020,4,0,1,Import,108,Burundi,BDI,800,Uganda,UGA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,30,,,,70,,134,,,0
+H5,2020,2020,2020,4,0,1,Import,108,Burundi,BDI,826,United Kingdom,GBR,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,1990,,,,2550,,3379,,,0
+H5,2020,2020,2020,4,0,1,Import,108,Burundi,BDI,834,United Rep. of Tanzania,TZA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,17417,,,,26994,,31496,,,6
+H5,2020,2020,2020,4,0,1,Import,108,Burundi,BDI,842,USA,USA,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,24,,,,75,,1096,,,0
+H5,2020,2020,2020,4,0,1,Import,108,Burundi,BDI,894,Zambia,ZMB,,,,,,,,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading no. 2009",7,Volume in litres,160,,,,175,,414,,,0
