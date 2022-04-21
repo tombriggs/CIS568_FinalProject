@@ -295,10 +295,11 @@
 
                 function onMouseOver(m, d)
                 {
+                    let numFormatter = d3.format(".3s")
                     let tiptext = "<strong>" + d.country + "</strong><br/>" +
                         dataYear + " Trade:<br/>" +
-                        (exportsMajor ? d.exports + " hectolitres exported<br/>" + d.imports + " hectolitres imported" :
-                            d.imports + " hectolitres imported<br/>" + d.exports + " hectolitres exported")
+                        (exportsMajor ? numFormatter(d.exports) + " hectolitres exported<br/>" + numFormatter(d.imports) + " hectolitres imported" :
+                            numFormatter(d.imports) + " hectolitres imported<br/>" + numFormatter(d.exports) + " hectolitres exported")
 
                     tooltip.transition()
                         .duration(200)

@@ -187,7 +187,10 @@
                         let tiptext = "<strong>" + d.properties['name'] + "</strong><br/>" + currentYear + " Production: "
                         const oivName = OIVNameDict[d.properties["name"]]
                         if (prodDict[oivName])
-                            prodText = +prodDict[oivName].Value + " hectolitres"
+                        {
+                            let numFormatter = d3.format(".3s")
+                            prodText = numFormatter(+prodDict[oivName].Value) + " hectolitres"
+                        }
 
                         tooltip.transition()
                             .duration(200)
