@@ -164,12 +164,17 @@
                         if (e.year === d.year)
                             exportTotal = e.hectolitres
                     })
+                    let prodTotal = null
+                    prodData.forEach(e => {
+                        if (e.year === d.year)
+                            prodTotal = e.hectolitres
+                    })
 
                     let numFormatter = d3.format(".3s")
                     let tiptext = d.year + " Trade:<br/>" +
+                        "Total Production: " + (prodTotal == null ? "Unknown" : numFormatter(prodTotal)) + "<br/>" +
                         "Total Imports: " + (importTotal == null ? "Unknown" : numFormatter(importTotal)) + "<br/>" +
                         "Total Exports: " + (exportTotal == null ? "Unknown" : numFormatter(exportTotal))
-                    console.log(tiptext)
 
                     tooltip.transition()
                         .duration(200)
