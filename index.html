@@ -184,7 +184,7 @@
                     })
                     .on("mouseenter", (m, d) => {
                         let prodText = "None or Unknown"
-                        let tiptext = d.properties['name'] + "<br/>" + currentYear + " Production: "
+                        let tiptext = "<strong>" + d.properties['name'] + "</strong><br/>" + currentYear + " Production: "
                         const oivName = OIVNameDict[d.properties["name"]]
                         if (prodDict[oivName])
                             prodText = +prodDict[oivName].Value + " hectolitres"

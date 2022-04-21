@@ -10,6 +10,19 @@
     <script src="https://unpkg.com/d3-simple-slider"></script>
     <title>Country Wine Production and Trade Data</title>
     <style>
+        #tooltip {
+            position: absolute;
+            opacity: 0;
+            top: 0;
+            left: 0;
+            width: auto;
+            padding: 10px;
+            background: white;
+            font-family: sans-serif;
+            font-size: medium;
+            border-radius: 2px;
+            line-height: 1;
+        }
         path:hover {
             opacity: .6;
             stroke: black;
@@ -34,6 +47,7 @@
             </td>
         </tr>
     </table>
+    <div id="tooltip"></div>
     <script>
         const countryParam = "country"
         const yearParam = "year"
@@ -247,6 +261,7 @@
                 const svg_height = "80vh"
                 const viewBox = "0 0 600 " + fullHeight
 
+                const tooltip = d3.select("#tooltip");
 
                 // originally based on https://bl.ocks.org/hrecht/f84012ee860cb4da66331f18d588eee3
 
@@ -278,6 +293,20 @@
                     .enter()
                     .append("g")
 
+                function onMouseOver(m, d)
+                {
+                    let tiptext = "<strong>" + d.country + "</strong><br/>" +
+                        dataYear + " Trade:<br/>" +
+                        (exportsMajor ? d.exports + " hectolitres exported<br/>" + d.imports + " hectolitres imported" :
+                            d.imports + " hectolitres imported<br/>" + d.exports + " hectolitres exported")
+
+                    tooltip.transition()
+                        .duration(200)
+                        .style("opacity", .9)
+                    tooltip.html(tiptext)
+                        .style("left", m.clientX + "px")
+                        .style("top", m.clientY + "px");
+                }
 
                 // Add large bars first
                 bars.append("rect")
@@ -288,6 +317,13 @@
                     .attr("fill", d => exportsMajor ? exportColor : importColor)
                     .attr("stroke", d => exportsMajor ? exportStrokeColor : importStrokeColor)
                     .attr("stroke-width",.8)
+                    .on("mouseenter", (m, d) => onMouseOver(m, d))
+                    .on("mousemove", (m, d) => { tooltip.style("opacity", .9) })
+                    .on("mouseout", (m, d) => {
+                        tooltip.transition()
+                            .duration(200)
+                            .style("opacity", 0)
+                    })
 
                 // Add small bars over the top
                 bars.append("rect")
@@ -298,6 +334,13 @@
                     .attr("fill", d => exportsMajor ? importColor : exportColor)
                     .attr("stroke", d => exportsMajor ? importStrokeColor : exportStrokeColor)
                     .attr("stroke-width",.8)
+                    .on("mouseenter", (m, d) => onMouseOver(m, d))
+                    .on("mousemove", (m, d) => { tooltip.style("opacity", .9) })
+                    .on("mouseout", (m, d) => {
+                        tooltip.transition()
+                            .duration(200)
+                            .style("opacity", 0)
+                    })
             }
 
 
