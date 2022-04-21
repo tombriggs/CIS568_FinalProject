@@ -115,6 +115,7 @@
         const OIV_data = "data/OIV_data.csv"
 
         const defaultYear = 2019;
+        let currentYear = defaultYear;
 
         // load both files
         Promise.all([
@@ -192,6 +193,11 @@
                         }
 
                         return thisProd === 0 ? "white" : colorScale(thisProd)
+                    })
+                    .on("click", function(d, i) {
+                        console.log(i)
+                        console.log(currentYear)
+                        window.location.href = "oneCountry.html?country=" + i.properties["name"] + "&" + "year=" + currentYear
                     })
 
                 Object.keys(prodDict).forEach(k => {
@@ -328,7 +334,7 @@
             }
             //dumpCountryCodes(geojson)
             drawWorldMap()
-            d3.select("#yearSlider").on("change",sliderChange)
+            //d3.select("#yearSlider").on("change",sliderChange)
         }
 
         function addSlider(OIVcsv, defaultYear)
@@ -353,8 +359,9 @@
                 .ticks(yearList.size)
                 .default(defaultYear)
                 .on('onchange', val => {
+                    currentYear = parseInt(Math.round(val))
                     d3.select("#mapSVG").remove()
-                    doAllTheThings(parseInt(Math.round(val)))
+                    doAllTheThings(currentYear)
                 });
 
             var g = d3.select("div#yearSlider")
