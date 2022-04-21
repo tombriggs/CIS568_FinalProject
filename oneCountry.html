@@ -127,6 +127,8 @@
                 const svg_height = "80vh"
                 const viewBox = "0 0 1000 800"
 
+                const tooltip = d3.select("#tooltip");
+
                 const margin = {top: 20, left: 50, right: 20, bottom: 20}
                 const svg = d3.select("#container1")
                     .append("svg")
@@ -150,6 +152,33 @@
                     .attr("transform", `translate(${margin.left},${0})`)
                     .call(d3.axisLeft().scale(yScale))
 
+                function onMouseOverAnnualTrade(m, d)
+                {
+                    let importTotal = null
+                    importData.forEach(i => {
+                        if (i.year === d.year)
+                            importTotal = i.hectolitres
+                    })
+                    let exportTotal = null
+                    exportData.forEach(e => {
+                        if (e.year === d.year)
+                            exportTotal = e.hectolitres
+                    })
+
+                    let numFormatter = d3.format(".3s")
+                    let tiptext = d.year + " Trade:<br/>" +
+                        "Total Imports: " + (importTotal == null ? "Unknown" : numFormatter(importTotal)) + "<br/>" +
+                        "Total Exports: " + (exportTotal == null ? "Unknown" : numFormatter(exportTotal))
+                    console.log(tiptext)
+
+                    tooltip.transition()
+                        .duration(200)
+                        .style("opacity", .9)
+                    tooltip.html(tiptext)
+                        .style("left", m.clientX + "px")
+                        .style("top", m.clientY + "px");
+                }
+
                 // Bind data, and draw rectangles
                 const barWidth = 10;
                 const importBars = svg.selectAll('.rects')
@@ -163,6 +192,13 @@
                     .attr("fill", importColor)
                     .attr("stroke", importStrokeColor)
                     .attr("stroke-width", .8)
+                    .on("mouseenter", (m, d) => onMouseOverAnnualTrade(m, d))
+                    .on("mousemove", (m, d) => { tooltip.style("opacity", .9) })
+                    .on("mouseout", (m, d) => {
+                        tooltip.transition()
+                            .duration(200)
+                            .style("opacity", 0)
+                    })
                 const exportBars = svg.selectAll('.rects')
                     .data(exportData)
                     .enter()
@@ -174,6 +210,13 @@
                     .attr("fill", exportColor)
                     .attr("stroke", "black")
                     .attr("stroke-width", .5)
+                    .on("mouseenter", (m, d) => onMouseOverAnnualTrade(m, d))
+                    .on("mousemove", (m, d) => { tooltip.style("opacity", .9) })
+                    .on("mouseout", (m, d) => {
+                        tooltip.transition()
+                            .duration(200)
+                            .style("opacity", 0)
+                    })
 
                 // Use line generator to make path element attributes (d)
                 const lineGen = d3.line()
@@ -293,7 +336,7 @@
                     .enter()
                     .append("g")
 
-                function onMouseOver(m, d)
+                function onMouseOverTrade(m, d)
                 {
                     let numFormatter = d3.format(".3s")
                     let tiptext = "<strong>" + d.country + "</strong><br/>" +
@@ -318,7 +361,7 @@
                     .attr("fill", d => exportsMajor ? exportColor : importColor)
                     .attr("stroke", d => exportsMajor ? exportStrokeColor : importStrokeColor)
                     .attr("stroke-width",.8)
-                    .on("mouseenter", (m, d) => onMouseOver(m, d))
+                    .on("mouseenter", (m, d) => onMouseOverTrade(m, d))
                     .on("mousemove", (m, d) => { tooltip.style("opacity", .9) })
                     .on("mouseout", (m, d) => {
                         tooltip.transition()
@@ -335,7 +378,7 @@
                     .attr("fill", d => exportsMajor ? importColor : exportColor)
                     .attr("stroke", d => exportsMajor ? importStrokeColor : exportStrokeColor)
                     .attr("stroke-width",.8)
-                    .on("mouseenter", (m, d) => onMouseOver(m, d))
+                    .on("mouseenter", (m, d) => onMouseOverTrade(m, d))
                     .on("mousemove", (m, d) => { tooltip.style("opacity", .9) })
                     .on("mouseout", (m, d) => {
                         tooltip.transition()
