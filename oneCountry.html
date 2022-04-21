@@ -29,7 +29,7 @@
             </td>
             <td>
                 <div id="yearSlider" style="display: inline;"><label for="d3sliderYear" style="vertical-align: top">Year</label> </div>
-                <div id="sortSlider" style="display: inline;"><label for="d3sliderSort" style="vertical-align: top">Mode</label> </div>
+                <div id="sortSlider" style="display: inline;"><label for="d3sliderSort" style="vertical-align: top">Sort</label> </div>
                 <div id="container2" style="width: 50vw; height: 80vh;"> </div>
             </td>
         </tr>
@@ -58,6 +58,7 @@
 
         const tradeDataFile = "data/UNComtrade/" + countryName + ".csv"
         const OIV_data = "data/OIV_data.csv"
+        const countryCodesFile = "data/countryCodes.json"
 
         let OIVdata = null
         let tradeDataAll = null
@@ -65,12 +66,20 @@
         // load both files
         Promise.all([
             d3.csv(tradeDataFile),
-            d3.dsv(';', OIV_data)
+            d3.dsv(';', OIV_data),
+            d3.json(countryCodesFile)
         ]).then(data => {
             tradeDataAll = data[0]
             OIVData = data[1]
+            countryCodes = data[2]
 
-            let countryData = OIVData.filter(d => d.Country === countryName)
+            let oivName = countryName
+            countryCodes.forEach(d => {
+                if (d.name === countryName)
+                    oivName = d.oivname
+            })
+
+            let countryData = OIVData.filter(d => d.Country === oivName)
             let importData2 = countryData.filter(d => d.Series === 'Wine imports')
             let exportData2 = countryData.filter(d => d.Series === 'Wine exports')
             let prodData2 = countryData.filter(d => d.Series === 'Wine production')

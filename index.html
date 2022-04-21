@@ -195,9 +195,9 @@
                         return thisProd === 0 ? "white" : colorScale(thisProd)
                     })
                     .on("click", function(d, i) {
-                        console.log(i)
-                        console.log(currentYear)
-                        window.location.href = "oneCountry.html?country=" + i.properties["name"] + "&" + "year=" + currentYear
+                        let targetURL = "oneCountry.html?country=" + i.properties["name"] + "&" + "year=" + currentYear
+                        //window.location.href = targetURL
+                        window.open(targetURL, '_blank')
                     })
 
                 Object.keys(prodDict).forEach(k => {
