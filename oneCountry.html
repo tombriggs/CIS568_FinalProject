@@ -7,7 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="./libs/d3.js"></script>
     <script src="https://d3js.org/topojson.v1.min.js"></script>
-    <title>Chile</title>
+    <script src="https://unpkg.com/d3-simple-slider"></script>
+    <title>Country Wine Production and Trade Data</title>
     <style>
         path:hover {
             opacity: .6;
@@ -24,7 +25,8 @@
         <tr>
             <td><div id="container1" style="width: 45vw; height: 80vh;"> </div></td>
             <!-- <td><div id="container2" style="width: 50vw; height: 80vh; overflow-y: auto;"> </div></td> -->
-            <td><div id="container2" style="width: 50vw; height: 80vh;"> </div></td>
+            <td><div id="yearSlider" style="width: 50vw;"> </div>
+            <div id="container2" style="width: 50vw; height: 80vh;"> </div></td>
         </tr>
     </table>
     <script>
@@ -43,12 +45,16 @@
         const tradeDataFile = "data/UNComtrade/" + countryName + ".csv"
         const OIV_data = "data/OIV_data.csv"
 
+        let OIVdata = null
+        let tradeDataAll = null
+
         // load both files
         Promise.all([
             d3.csv(tradeDataFile),
             d3.dsv(';', OIV_data)
         ]).then(data => {
-            const OIVData = data[1]
+            tradeDataAll = data[0]
+            OIVData = data[1]
 
             let countryData = OIVData.filter(d => d.Country === countryName)
             let importData2 = countryData.filter(d => d.Series === 'Wine imports')
@@ -148,6 +154,13 @@
                     .attr("stroke-width", 1.5)
             }
 
+            annualChart()
+
+            partnersChart(partnersData(tradeDataAll, dataYear), true)
+
+            addSlider(OIVData, dataYear)
+        })
+
             function partnersData(tradeData, dataYear)
             {
                 // Build a dictionary of countries entries so we can
@@ -217,6 +230,7 @@
 
                 const svg = d3.select("#container2")
                     .append("svg")
+                    .attr("id", "partnersBar")
                     .attr("width", svg_width)
                     //.attr("height", svg_height)
                     .attr("viewBox", viewBox)
@@ -265,10 +279,43 @@
                     .attr("stroke-width",.8)
             }
 
-            annualChart()
 
-            partnersChart(partnersData(data[0], dataYear), true)
-        })
+        function addSlider(OIVcsv, defaultYear)
+        {
+            const sliderWidth = 300
+
+            let yearList = new Set(d3.map(OIVcsv, d => +d.Year))
+
+            const maxVal = d3.max(yearList)
+
+            let tickList = Array.from(yearList).filter(function (d, i) { return i % 5 === 0 })
+            if (maxVal % 5 !== 0)
+                tickList.push(maxVal)
+
+            let yearSlider = d3.sliderHorizontal()
+                .min(d3.min(yearList))
+                .max(maxVal)
+                .width(sliderWidth)
+                .tickFormat(d3.format('.4'))
+                //.tickValues([2000, 2005, 2010, 2015, 2019])
+                .tickValues(tickList)
+                .ticks(yearList.size)
+                .default(defaultYear)
+                .on('onchange', val => {
+                    currentYear = parseInt(Math.round(val))
+                    d3.select("#partnersBar").remove()
+                    partnersChart(partnersData(tradeDataAll, currentYear), true)
+                });
+
+            var g = d3.select("div#yearSlider")
+                .append("svg")
+                .attr("width", 500)
+                .attr("height", 100)
+                .append("g")
+                .attr("transform", "translate(30,30)")
+                .attr("id", "d3sliderYear")
+                .call(yearSlider)
+        }
     </script>
 </body>
 
