@@ -161,6 +161,65 @@
 
                 const tooltip = d3.select("#tooltip");
 
+                function onMouseOver(m, d)
+                {
+                    const countryName = d.properties['name']
+                    const countryFileName = d.properties['name'].replaceAll(' ', '')
+                    const tradeDataFile = "data/UNComtrade/" + countryFileName + ".csv"
+
+                    Promise.all([
+                        d3.csv(tradeDataFile)
+                    ]).then(data => {
+                        tradeData = data[0]
+
+                        // Build a dictionary of countries entries
+                        tradeDataDict = {}
+                        tradeData.forEach(d => {
+                            if (+d.Year === currentYear &&
+                                d.Partner !== 'World' && d.Partner !== "Areas, nes" && d.Partner !== "Other Asia, nes") {
+                                let partnerData = tradeDataDict[d.Partner]
+                                if (partnerData == null)
+                                    partnerData = { imports: 0, exports: 0 }
+                                if (d["Trade Flow"] === 'Import')
+                                    partnerData.imports = +d.Qty
+                                else if (d["Trade Flow"] === 'Export')
+                                    partnerData.exports = +d.Qty
+
+                                tradeDataDict[d.Partner] = partnerData
+                            }
+                        })
+
+                        let svg = d3.select("#mapSVG")
+                        let countries = svg.selectAll("path")
+                        countries
+                            .filter(c => tradeDataDict[c.properties['name']])
+                            .attr("style", "stroke-width: 1px; stroke: steelblue")
+                        countries
+                            .filter(c => tradeDataDict[c.properties['name']] == null && c.properties['name'] !== countryName)
+                            .attr("style", "stroke-width: 0.5px; stroke: black")
+                        countries
+                            .filter(c => c.properties['name'] === countryName)
+                            .attr("style", "stroke-width: 4px; stroke: black")
+                    })
+
+                    let prodText = "None or Unknown"
+                    let tiptext = "<strong>" + countryName + "</strong><br/>" + currentYear + " Production: "
+                    const oivName = OIVNameDict[countryName]
+                    if (prodDict[oivName])
+                    {
+                        let numFormatter = d3.format(".3s")
+                        prodText = numFormatter(+prodDict[oivName].Value) + " hectolitres"
+                    }
+
+                    tooltip.transition()
+                        .duration(200)
+                        .style("opacity", .9)
+                    tooltip.html(tiptext + prodText)
+                        .style("left", m.clientX + "px")
+                        .style("top", m.clientY + "px");
+
+                }
+
                 let found = {}
                 svg.selectAll("path")
                     .data(geojson.features)
@@ -178,27 +237,11 @@
                         return thisProd === 0 ? "white" : colorScale(thisProd)
                     })
                     .on("click", function(d, i) {
-                        let targetURL = "oneCountry.html?country=" + i.properties["name"] + "&" + "year=" + currentYear
+                        let targetURL = "oneCountry.html?country=" + i.properties["name"].replaceAll(' ', '') + "&" + "year=" + currentYear
                         //window.location.href = targetURL
                         window.open(targetURL, '_blank')
                     })
-                    .on("mouseenter", (m, d) => {
-                        let prodText = "None or Unknown"
-                        let tiptext = "<strong>" + d.properties['name'] + "</strong><br/>" + currentYear + " Production: "
-                        const oivName = OIVNameDict[d.properties["name"]]
-                        if (prodDict[oivName])
-                        {
-                            let numFormatter = d3.format(".3s")
-                            prodText = numFormatter(+prodDict[oivName].Value) + " hectolitres"
-                        }
-
-                        tooltip.transition()
-                            .duration(200)
-                            .style("opacity", .9)
-                        tooltip.html(tiptext + prodText)
-                            .style("left", m.clientX + "px")
-                            .style("top", m.clientY + "px");
-                    })
+                    .on("mouseenter", (m, d) => onMouseOver(m, d))
                     .on("mousemove", (m, d) => {
                         tooltip.style("opacity", .9)
                     })
@@ -206,6 +249,11 @@
                         tooltip.transition()
                             .duration(200)
                             .style("opacity", 0)
+
+                        let svg = d3.select("#mapSVG")
+                        let countries = svg.selectAll("path")
+                        countries
+                            .attr("style", "stroke-width: 0.5px; stroke: black")
                     })
 
                 Object.keys(prodDict).forEach(k => {
