@@ -275,7 +275,8 @@
                     let n = {
                         country: k,
                         imports: tradeDataDict[k].imports,
-                        exports: tradeDataDict[k].exports
+                        exports: tradeDataDict[k].exports,
+                        tradeDiff: Math.abs(tradeDataDict[k].imports - tradeDataDict[k].exports)
                     }
                     tradeDataArr.push(n)
                 })
