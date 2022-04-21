@@ -24,10 +24,9 @@
     <table>
         <tr>
             <td style="vertical-align: top;"><div id="container1" style="width: 45vw; height: 80vh;"> </div></td>
-            <!-- <td><div id="container2" style="width: 50vw; height: 80vh; overflow-y: auto;"> </div></td> -->
             <td>
-                    <div id="yearSlider" style="display: inline;"> </div>
-                    <div id="sortSlider" style="display: inline;"> </div>
+                    <div id="yearSlider" style="display: inline;"><label for="d3sliderYear" style="vertical-align: top">Year</label> </div>
+                    <div id="sortSlider" style="display: inline;"><label for="d3sliderSort" style="vertical-align: top">Mode</label> </div>
             <div id="container2" style="width: 50vw; height: 80vh;"> </div></td>
         </tr>
     </table>
@@ -314,11 +313,11 @@
 
             var g = d3.select("div#yearSlider")
                 .append("svg")
+                .attr("id", "d3sliderYear")
                 .attr("width", sliderWidth + sliderPadding)
                 .attr("height", 100)
                 .append("g")
                 .attr("transform", "translate(30,30)")
-                .attr("id", "d3sliderYear")
                 .call(yearSlider)
         }
 
@@ -346,11 +345,11 @@
 
             var g = d3.select("div#sortSlider")
                 .append("svg")
+                .attr("id", "d3sliderSort")
                 .attr("width", sliderWidth + sliderPadding)
                 .attr("height", 100)
                 .append("g")
                 .attr("transform", "translate(30,30)")
-                .attr("id", "d3sliderSort")
                 .call(yearSlider)
         }
     </script>
