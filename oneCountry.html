@@ -23,19 +23,32 @@
     </div>
     <table>
         <tr>
-            <td style="vertical-align: top;"><div id="container1" style="width: 45vw; height: 80vh;"> </div></td>
+            <td style="vertical-align: top;">
+                <div id="legend" style="display: inline;"><label for="legendSvg" style="vertical-align: top">Legend</label> </div>
+                <div id="container1" style="width: 45vw; height: 80vh;"> </div>
+            </td>
             <td>
-                    <div id="yearSlider" style="display: inline;"><label for="d3sliderYear" style="vertical-align: top">Year</label> </div>
-                    <div id="sortSlider" style="display: inline;"><label for="d3sliderSort" style="vertical-align: top">Mode</label> </div>
-            <div id="container2" style="width: 50vw; height: 80vh;"> </div></td>
+                <div id="yearSlider" style="display: inline;"><label for="d3sliderYear" style="vertical-align: top">Year</label> </div>
+                <div id="sortSlider" style="display: inline;"><label for="d3sliderSort" style="vertical-align: top">Mode</label> </div>
+                <div id="container2" style="width: 50vw; height: 80vh;"> </div>
+            </td>
         </tr>
     </table>
     <script>
         const countryParam = "country"
         const yearParam = "year"
 
+        // Default values
         let countryName = 'Chile'
         let dataYear = 2019
+        let exportMajor = true
+
+        const exportColor = "red"
+        const exportStrokeColor = "black"
+        const importColor = "lightblue"
+        const importStrokeColor = "steelblue"
+        const productionColor = "green"
+        const productionStrokeColor = "green"
 
         const urlParams = new URLSearchParams(window.location.search);
         if (urlParams.has(countryParam))
@@ -124,8 +137,8 @@
                     .attr("y", d => yScale(d.hectolitres))
                     .attr("width", barWidth)
                     .attr("height", d => height - margin.bottom - yScale(d.hectolitres))
-                    .attr("fill", "lightblue")
-                    .attr("stroke", "steelblue")
+                    .attr("fill", importColor)
+                    .attr("stroke", importStrokeColor)
                     .attr("stroke-width", .8)
                 const exportBars = svg.selectAll('.rects')
                     .data(exportData)
@@ -135,9 +148,9 @@
                     .attr("y", d => yScale(d.hectolitres))
                     .attr("width", barWidth)
                     .attr("height", d => height - margin.bottom - yScale(d.hectolitres))
-                    .attr("fill", "red")
-                    .attr("stroke", "#b48246")
-                    .attr("stroke-width", .8)
+                    .attr("fill", exportColor)
+                    .attr("stroke", "black")
+                    .attr("stroke-width", .5)
 
                 // Use line generator to make path element attributes (d)
                 const lineGen = d3.line()
@@ -151,13 +164,14 @@
                     .append("path")
                     .attr("d", d => lineGen(d))
                     .attr("fill", "none")
-                    .attr("stroke", "green")
+                    .attr("stroke", productionStrokeColor)
                     .attr("stroke-width", 1.5)
             }
 
+            addLegend()
             annualChart()
 
-            partnersChart(partnersData(tradeDataAll, dataYear), true)
+            partnersChart(partnersData(tradeDataAll, dataYear), exportMajor)
 
             addYearSlider(OIVData, dataYear)
             addSortSlider()
@@ -255,10 +269,6 @@
                     .enter()
                     .append("g")
 
-                const exportColor = "red"
-                const exportStrokeColor = "black"
-                const importColor = "lightblue"
-                const importStrokeColor = "steelblue"
 
                 // Add large bars first
                 bars.append("rect")
@@ -285,6 +295,7 @@
         function addYearSlider(OIVcsv, defaultYear)
         {
             const sliderWidth = 300
+            const sliderHeight = 100
             const sliderPadding = 40
 
             let yearList = new Set(d3.map(OIVcsv, d => +d.Year))
@@ -308,14 +319,14 @@
                 .on('onchange', val => {
                     dataYear = parseInt(Math.round(val))
                     d3.select("#partnersBar").remove()
-                    partnersChart(partnersData(tradeDataAll, dataYear), true)
+                    partnersChart(partnersData(tradeDataAll, dataYear), exportMajor)
                 });
 
             var g = d3.select("div#yearSlider")
                 .append("svg")
                 .attr("id", "d3sliderYear")
                 .attr("width", sliderWidth + sliderPadding)
-                .attr("height", 100)
+                .attr("height", sliderHeight)
                 .append("g")
                 .attr("transform", "translate(30,30)")
                 .call(yearSlider)
@@ -324,6 +335,7 @@
         function addSortSlider()
         {
             const sliderWidth = 90
+            const sliderHeight = 100
             const sliderPadding = 50
 
             let yearSlider = d3.sliderHorizontal()
@@ -347,10 +359,55 @@
                 .append("svg")
                 .attr("id", "d3sliderSort")
                 .attr("width", sliderWidth + sliderPadding)
-                .attr("height", 100)
+                .attr("height", sliderHeight)
                 .append("g")
                 .attr("transform", "translate(30,30)")
                 .call(yearSlider)
+        }
+
+        function addLegend()
+        {
+            const legendWidth = 300
+            const legendHeight = 30
+            const legendMargin = 10
+            const boxHeight = legendHeight - (legendMargin * 2)
+            const boxWidth = boxHeight
+            const labelPadding = 5
+
+            let svg = d3.select("#legend")
+                .append("svg")
+                .attr("id", "legendSvg")
+                .attr("width", legendWidth)
+                .attr("height", legendHeight)
+                .attr("fill", "lightgray")
+
+            const legendItems = [
+                {position: 0, fillColor: exportColor, strokeColor: exportStrokeColor, label: "Exports"},
+                {position: 1, fillColor: importColor, strokeColor: importStrokeColor, label: "Imports"},
+                {position: 2, fillColor: productionColor, strokeColor: productionStrokeColor, label: "Production"}
+            ]
+
+            legendItems.forEach(function(l) {
+                let grp = svg.append("g")
+                let box = grp.append("rect")
+                    .attr("height", boxHeight)
+                    .attr("width", boxWidth)
+                    .attr("x", l.position === 0 ? legendMargin : l.position * (legendWidth / legendItems.length))
+                    .attr("y", legendMargin)
+                    .attr("fill", l.fillColor)
+                    .attr("stroke", l.strokeColor)
+                    .attr("stroke-width", "0.8px")
+
+                let label = grp.append("text")
+                    .attr("x", labelPadding + (l.position === 0 ?
+                        legendMargin + boxWidth :
+                        boxWidth + (l.position * (legendWidth / legendItems.length))
+                    ))
+                    .attr("y", legendHeight - legendMargin)
+                    .attr("fill", "black" +
+                        "")
+                    .text(l.label)
+            })
         }
     </script>
 </body>
