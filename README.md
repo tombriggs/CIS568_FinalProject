@@ -1,2 +1,4 @@
 # vinography
-Wine production and trade around the world
+Exploring wine production and trade around the world
+
+To view go to https://tombriggs.github.io/vinography/
